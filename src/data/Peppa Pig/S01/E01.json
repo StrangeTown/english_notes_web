@@ -1,0 +1,218 @@
+[
+	{
+		"en": "Narrator: It is raining today. So Peppa and George cannot play outside.",
+		"cn": "旁白：今天下雨了，所以佩奇和乔治不能在外面玩。",
+		"sentence": {
+			"en": "It is raining today.",
+			"examples": [
+				{
+					"en": "It is snowing today.",
+					"cn": "今天下雪了。"
+				},
+				{
+					"en": "It is sunny today.",
+					"cn": "今天是晴天。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Daddy, it's stopped raining.",
+		"cn": "小猪佩奇：爸爸，雨停了。"
+	},
+	{
+		"en": "Peppa Pig: Can we go out to play?",
+		"cn": "小猪佩奇：我们可以出去玩吗？",
+		"sentence": {
+			"en": "Can we go out to play?",
+			"examples": [
+				{
+					"en": "Can we go to the park?",
+					"cn": "我们可以去公园吗？"
+				},
+				{
+					"en": "Can we go to the zoo?",
+					"cn": "我们可以去动物园吗？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: All right, run along you two.",
+		"cn": "猪爸爸：好吧，你们两个快去玩吧。"
+	},
+	{
+		"en": "Narrator: Peppa loves jumping in muddy puddles.",
+		"cn": "旁白：佩奇喜欢在泥坑里跳来跳去。",
+		"sentence": {
+			"en": "Peppa loves jumping in muddy puddles.",
+			"examples": [
+				{
+					"en": "Peppa loves playing with her friends.",
+					"cn": "佩奇喜欢和她的朋友们玩。"
+				},
+				{
+					"en": "Peppa loves eating ice cream.",
+					"cn": "佩奇喜欢吃冰淇淋。"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig: I love muddy puddles.", "cn": "小猪佩奇：我喜欢泥坑。" },
+	{
+		"en": "Mummy Pig: Peppa. If you jump in muddy puddles, you must wear your boots.",
+		"cn": "猪妈妈：佩奇，如果你要跳泥坑，必须穿上靴子。"
+	},
+	{ "en": "Peppa Pig: Sorry, Mummy.", "cn": "小猪佩奇：对不起，妈妈。" },
+	{
+		"en": "Narrator: George likes to jump in muddy puddles, too.",
+		"cn": "旁白：乔治也喜欢跳泥坑。"
+	},
+	{
+		"en": "Peppa Pig: George. If you jump in muddy puddles, you must wear your boots.",
+		"cn": "小猪佩奇：乔治，如果你要跳泥坑，必须穿上靴子。",
+		"sentence": {
+			"en": "If you jump in muddy puddles, you must wear your boots.",
+			"examples": [
+				{
+					"en": "If you go swimming, you must wear a swimsuit.",
+					"cn": "如果你去游泳，你必须穿泳衣。"
+				},
+				{
+					"en": "If you ride a bike, you must wear a helmet.",
+					"cn": "如果你骑自行车，你必须戴头盔。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Peppa likes to look after her little brother, George.",
+		"cn": "旁白：佩奇喜欢照顾她的弟弟乔治。"
+	},
+	{
+		"en": "Peppa Pig: George, let's find some more puddles.",
+		"cn": "小猪佩奇：乔治，我们再找几个泥坑吧。",
+		"sentence": {
+			"en": "let's find some more puddles.",
+			"examples": [
+				{
+					"en": "Let's find some more toys.",
+					"cn": "我们再找一些玩具吧。"
+				},
+				{
+					"en": "Let's find some more friends.",
+					"cn": "我们再找一些朋友吧。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Peppa and George are having a lot of fun.",
+		"cn": "旁白：佩奇和乔治玩得很开心。"
+	},
+	{
+		"en": "Narrator: Peppa has found a little puddle.",
+		"cn": "旁白：佩奇发现了一个小泥坑。"
+	},
+	{
+		"en": "Narrator: George has found a big puddle.",
+		"cn": "旁白：乔治发现了一个大泥坑。"
+	},
+	{
+		"en": "Peppa Pig: Look, George. There's a really big puddle.",
+		"cn": "小猪佩奇：乔治，你看，有一个很大的泥坑。"
+	},
+	{
+		"en": "Narrator: George wants to jump into the big puddle first.",
+		"cn": "旁白：乔治想先跳进那个大泥坑。"
+	},
+	{ "en": "Peppa Pig: Stop, George.", "cn": "小猪佩奇：停下，乔治。" },
+	{
+		"en": "Peppa Pig: I must check if it's safe for you.",
+		"cn": "小猪佩奇：我得检查一下对你来说安不安全。"
+	},
+	{
+		"en": "Peppa Pig: Good. It is safe for you.",
+		"cn": "小猪佩奇：好了，对你来说很安全。"
+	},
+	{
+		"en": "Peppa Pig: Sorry, George. It's only mud.",
+		"cn": "小猪佩奇：对不起，乔治，只有泥巴。"
+	},
+	{
+		"en": "Narrator: Peppa and George love jumping in muddy puddles.",
+		"cn": "旁白：佩奇和乔治都喜欢跳泥坑。"
+	},
+	{ "en": "Peppa Pig: Come on, George.", "cn": "小猪佩奇：快点，乔治。" },
+	{
+		"en": "Peppa Pig: Let's go and show Daddy.",
+		"cn": "小猪佩奇：我们去给爸爸看看吧。"
+	},
+	{ "en": "Daddy Pig: Goodness me.", "cn": "猪爸爸：天哪。" },
+	{ "en": "Peppa Pig: Daddy. Daddy.", "cn": "小猪佩奇：爸爸，爸爸。" },
+	{
+		"en": "Peppa Pig: Guess what we've been doing.",
+		"cn": "小猪佩奇：你猜我们刚才在做什么？"
+	},
+	{ "en": "Daddy Pig: Let me think...", "cn": "猪爸爸：让我想想……" },
+	{
+		"en": "Daddy Pig: Have you been watching television?",
+		"cn": "猪爸爸：你们在看电视吗？"
+	},
+	{ "en": "Peppa Pig: No. No. Daddy.", "cn": "小猪佩奇：不是，不是，爸爸。" },
+	{
+		"en": "Daddy Pig: Have you just had a bath?",
+		"cn": "猪爸爸：你们刚洗完澡吗？"
+	},
+	{ "en": "Peppa Pig: No. No.", "cn": "小猪佩奇：不是，不是。" },
+	{
+		"en": "Daddy Pig: I know. You've been jumping in muddy puddles.",
+		"cn": "猪爸爸：我知道了，你们在跳泥坑。"
+	},
+	{
+		"en": "Peppa Pig: Yes. Yes. Daddy. We've been jumping in muddy puddles.",
+		"cn": "小猪佩奇：对，对，爸爸，我们在跳泥坑。"
+	},
+	{
+		"en": "Daddy Pig: Ho. Ho. And look at the mess you're in.",
+		"cn": "猪爸爸：呵呵，看看你们弄得多脏。"
+	},
+	{ "en": "Peppa Pig: Oooh...", "cn": "小猪佩奇：哦……" },
+	{
+		"en": "Daddy Pig: Oh, well, it's only mud.",
+		"cn": "猪爸爸：没关系，只是泥巴。"
+	},
+	{
+		"en": "Daddy Pig: Let's clean up quickly before Mummy sees the mess.",
+		"cn": "猪爸爸：我们赶快清理干净，别让妈妈看到。"
+	},
+	{
+		"en": "Peppa Pig: Daddy, when we've cleaned up, will you and Mummy come and play, too?",
+		"cn": "小猪佩奇：爸爸，我们清理干净后，你和妈妈也一起来玩吗？"
+	},
+	{
+		"en": "Daddy Pig: Yes, we can all play in the garden.",
+		"cn": "猪爸爸：好啊，我们大家一起去花园玩。"
+	},
+	{
+		"en": "Narrator: Peppa and George are wearing their boots.",
+		"cn": "旁白：佩奇和乔治穿上了靴子。"
+	},
+	{
+		"en": "Narrator: Mummy and Daddy are wearing their boots.",
+		"cn": "旁白：妈妈和爸爸也穿上了靴子。"
+	},
+	{
+		"en": "Narrator: Peppa loves jumping up and down in muddy puddles.",
+		"cn": "旁白：佩奇喜欢在泥坑里跳来跳去。"
+	},
+	{
+		"en": "Narrator: Everyone loves jumping up and down in muddy puddles.",
+		"cn": "旁白：大家都喜欢在泥坑里跳来跳去。"
+	},
+	{
+		"en": "Mummy Pig: Oh, Daddy Pig, look at the mess you're in.",
+		"cn": "猪妈妈：哦，猪爸爸，看看你弄得多脏。"
+	},
+	{ "en": "Peppa Pig: It's only mud.", "cn": "小猪佩奇：只是泥巴。" }
+]
