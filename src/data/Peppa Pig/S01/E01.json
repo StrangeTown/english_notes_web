@@ -14,7 +14,13 @@
 					"cn": "今天是晴天。"
 				}
 			]
-		}
+		},
+		"points": [
+			{
+				"en": "play outside",
+				"cn": "在外面玩"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Daddy, it's stopped raining.",
@@ -58,10 +64,29 @@
 			]
 		}
 	},
-	{ "en": "Peppa Pig: I love muddy puddles.", "cn": "小猪佩奇：我喜欢泥坑。" },
+	{
+		"en": "Peppa Pig: I love muddy puddles.",
+		"cn": "小猪佩奇：我喜欢泥坑。",
+		"points": [
+			{
+				"en": "muddy puddles",
+				"cn": "泥坑"
+			}
+		]
+	},
 	{
 		"en": "Mummy Pig: Peppa. If you jump in muddy puddles, you must wear your boots.",
-		"cn": "猪妈妈：佩奇，如果你要跳泥坑，必须穿上靴子。"
+		"cn": "猪妈妈：佩奇，如果你要跳泥坑，必须穿上靴子。",
+		"points": [
+			{
+				"en": "jump in muddy puddles",
+				"cn": "跳泥坑"
+			},
+			{
+				"en": "wear your boots",
+				"cn": "穿上靴子"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Sorry, Mummy.", "cn": "小猪佩奇：对不起，妈妈。" },
 	{
