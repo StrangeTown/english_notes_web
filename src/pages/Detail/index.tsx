@@ -42,7 +42,19 @@ const highlightPart = (
 	return (
 		<>
 			{highlightPoints(before)}
-			<span className="bg-[#ccdf8c]">{part}</span>
+			<span
+				className="bg-[#ccdf8c] px-1 rounded-sm"
+				style={{
+					background: '#ccdf8c',
+					display: 'inline',
+					borderRadius: '6px 12px 8px 14px/12px 8px 14px 6px',
+					boxShadow: '0 2px 6px 0 rgba(204,223,140,0.15)',
+					padding: '0 2px',
+					fontFamily: 'inherit',
+				}}
+			>
+				{part}
+			</span>
 			{highlightPoints(after)}
 		</>
 	);
