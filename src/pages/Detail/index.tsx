@@ -3,6 +3,7 @@ import episodeData from "../../data/Peppa Pig/S01/E01.json";
 import Sentence from "./Sentence";
 import headerImagePeppaPig from "../../assets/images/header.png";
 import Watermarks from './Watermarks';
+import './no-break.css';
 
 const highlightPart = (
 	full: string,
@@ -114,7 +115,7 @@ const Detail: React.FC = () => {
 				{episodeData.map((item, idx) => (
 					<div
 						key={idx}
-						className="pl-6 bg-white rounded text-left flex flex-row justify-between items-center border-b border-gray-100 last:border-b-0 h-[116px]"
+						className="pl-6 bg-white rounded text-left flex flex-row justify-between items-center border-b border-gray-100 last:border-b-0 h-[116px] no-break"
 					>
 						{/* Main */}
 						<div>
