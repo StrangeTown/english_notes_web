@@ -118,7 +118,7 @@ const Detail: React.FC = () => {
 					>
 						{/* Main */}
 						<div>
-							<div className="mb-2">
+							<div className="mb-2 text-gray-600">
 								{highlightPart(
 									item.en,
 									item.sentence && item.sentence.en,

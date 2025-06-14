@@ -23,7 +23,7 @@ const Sentence: React.FC<SentenceProps> = ({ sentence }) => {
 				<div className="text-xs text-gray-600 flex flex-col gap-1">
 					{sentence.examples.map((ex, eIdx) => (
 						<div key={eIdx}>
-							<strong>{ex.cn}</strong>
+							<span>{ex.cn}</span>
 							<div className="text-gray-400">{ex.en}</div>
 						</div>
 					))}
