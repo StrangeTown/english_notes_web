@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import episodeData from "../../data/Peppa Pig/S01/E01.json";
 import Sentence from "./Sentence";
 import headerImagePeppaPig from "../../assets/images/header.png";
+import Watermarks from './Watermarks';
 
 const highlightPart = (
 	full: string,
@@ -41,7 +42,7 @@ const highlightPart = (
 	return (
 		<>
 			{highlightPoints(before)}
-			<span className="bg-yellow-200 font-bold">{part}</span>
+			<span className="bg-[#ccdf8c]">{part}</span>
 			{highlightPoints(after)}
 		</>
 	);
@@ -135,6 +136,9 @@ const Detail: React.FC = () => {
 					</div>
 				))}
 			</div>
+
+			{/* Watermarks */}
+			<Watermarks />
 		</div>
 	);
 };
