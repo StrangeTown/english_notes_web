@@ -112,7 +112,13 @@
 	},
 	{
 		"en": "Narrator: Peppa likes to look after her little brother, George.",
-		"cn": "旁白：佩奇喜欢照顾她的弟弟乔治。"
+		"cn": "旁白：佩奇喜欢照顾她的弟弟乔治。",
+		"points": [
+			{
+				"en": "look after",
+				"cn": "照顾"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: George, let's find some more puddles.",
@@ -133,11 +139,30 @@
 	},
 	{
 		"en": "Narrator: Peppa and George are having a lot of fun.",
-		"cn": "旁白：佩奇和乔治玩得很开心。"
+		"cn": "旁白：佩奇和乔治玩得很开心。",
+		"points": [
+			{
+				"en": "having a lot of fun",
+				"cn": "玩得很开心"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Peppa has found a little puddle.",
-		"cn": "旁白：佩奇发现了一个小泥坑。"
+		"cn": "旁白：佩奇发现了一个小泥坑。",
+		"sentence": {
+			"en": "Peppa has found a little puddle.",
+			"examples": [
+				{
+					"en": "Peppa has found a big puddle.",
+					"cn": "佩奇发现了一个大泥坑。"
+				},
+				{
+					"en": "Peppa has found a small toy.",
+					"cn": "佩奇发现了一个小玩具。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: George has found a big puddle.",
@@ -154,7 +179,20 @@
 	{ "en": "Peppa Pig: Stop, George.", "cn": "小猪佩奇：停下，乔治。" },
 	{
 		"en": "Peppa Pig: I must check if it's safe for you.",
-		"cn": "小猪佩奇：我得检查一下对你来说安不安全。"
+		"cn": "小猪佩奇：我得检查一下对你来说安不安全。",
+		"sentence": {
+			"en": "I must check if it's safe for you.",
+			"examples": [
+				{
+					"en": "I must check if it's safe to swim.",
+					"cn": "我得检查一下游泳是否安全。"
+				},
+				{
+					"en": "I must check if it's safe to ride a bike.",
+					"cn": "我得检查一下骑自行车是否安全。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Good. It is safe for you.",
@@ -162,32 +200,108 @@
 	},
 	{
 		"en": "Peppa Pig: Sorry, George. It's only mud.",
-		"cn": "小猪佩奇：对不起，乔治，只有泥巴。"
+		"cn": "小猪佩奇：对不起，乔治，只是泥巴。",
+		"sentence": {
+			"en": "It's only mud.",
+			"examples": [
+				{
+					"en": "It's only water.",
+					"cn": "只是水。"
+				},
+				{
+					"en": "It's only a toy.",
+					"cn": "只是一个玩具。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Peppa and George love jumping in muddy puddles.",
 		"cn": "旁白：佩奇和乔治都喜欢跳泥坑。"
 	},
-	{ "en": "Peppa Pig: Come on, George.", "cn": "小猪佩奇：快点，乔治。" },
+	{
+		"en": "Peppa Pig: Come on, George.",
+		"cn": "小猪佩奇：快点，乔治。",
+		"points": [
+			{
+				"en": "Come on",
+				"cn": "快点"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: Let's go and show Daddy.",
-		"cn": "小猪佩奇：我们去给爸爸看看吧。"
+		"cn": "小猪佩奇：我们去给爸爸看看吧。",
+		"sentence": {
+			"en": "Let's go and show Daddy.",
+			"examples": [
+				{
+					"en": "Let's go and show Mummy.",
+					"cn": "我们去给妈妈看看。"
+				},
+				{
+					"en": "Let's go and show our friends.",
+					"cn": "我们去给朋友们看看。"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: Goodness me.", "cn": "猪爸爸：天哪。" },
 	{ "en": "Peppa Pig: Daddy. Daddy.", "cn": "小猪佩奇：爸爸，爸爸。" },
 	{
 		"en": "Peppa Pig: Guess what we've been doing.",
-		"cn": "小猪佩奇：你猜我们刚才在做什么？"
+		"cn": "小猪佩奇：你猜我们刚才在做什么？",
+		"sentence": {
+			"en": "Guess what we've been doing.",
+			"examples": [
+				{
+					"en": "Guess what we've been playing.",
+					"cn": "你猜我们刚才在玩什么。"
+				},
+				{
+					"en": "Guess what we've been eating.",
+					"cn": "你猜我们刚才在吃什么。"
+				}
+			]
+		}
 	},
-	{ "en": "Daddy Pig: Let me think...", "cn": "猪爸爸：让我想想……" },
+	{
+		"en": "Daddy Pig: Let me think...",
+		"cn": "猪爸爸：让我想想……",
+		"points": [
+			{
+				"en": "Let me think",
+				"cn": "让我想想"
+			}
+		]
+	},
 	{
 		"en": "Daddy Pig: Have you been watching television?",
-		"cn": "猪爸爸：你们在看电视吗？"
+		"cn": "猪爸爸：你们是去看电视了吗？",
+		"sentence": {
+			"en": "Have you been watching television?",
+			"examples": [
+				{
+					"en": "Have you been playing outside?",
+					"cn": "你们是去外面玩了吗？"
+				},
+				{
+					"en": "Have you been eating sweets?",
+					"cn": "你们是吃糖果了吗？"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: No. No. Daddy.", "cn": "小猪佩奇：不是，不是，爸爸。" },
 	{
 		"en": "Daddy Pig: Have you just had a bath?",
-		"cn": "猪爸爸：你们刚洗完澡吗？"
+		"cn": "猪爸爸：你们刚洗完澡吗？",
+		"points":[
+			{
+				"en": "just had a bath",
+				"cn": "刚洗完澡"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: No. No.", "cn": "小猪佩奇：不是，不是。" },
 	{
@@ -200,7 +314,20 @@
 	},
 	{
 		"en": "Daddy Pig: Ho. Ho. And look at the mess you're in.",
-		"cn": "猪爸爸：呵呵，看看你们弄得多脏。"
+		"cn": "猪爸爸：呵呵，看看你们弄得多脏。",
+		"sentence":{
+			"en": "look at the mess you're in.",
+			"examples": [
+				{
+					"en": "look at the mess you've made.",
+					"cn": "看看你们弄得多乱。"
+				},
+				{
+					"en": "look at the mess on the floor.",
+					"cn": "看看地板上的脏乱。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Oooh...", "cn": "小猪佩奇：哦……" },
 	{
@@ -209,11 +336,23 @@
 	},
 	{
 		"en": "Daddy Pig: Let's clean up quickly before Mummy sees the mess.",
-		"cn": "猪爸爸：我们赶快清理干净，别让妈妈看到。"
+		"cn": "猪爸爸：我们赶快清理干净，别让妈妈看到。",
+		"points":[
+			{
+				"en": "clean up quickly",
+				"cn": "赶快清理干净"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Daddy, when we've cleaned up, will you and Mummy come and play, too?",
-		"cn": "小猪佩奇：爸爸，我们清理干净后，你和妈妈也一起来玩吗？"
+		"cn": "小猪佩奇：爸爸，我们清理干净后，你和妈妈也一起来玩吗？",
+		"points":[
+			{
+				"en": "come and play",
+				"cn": "一起来玩"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Yes, we can all play in the garden.",
@@ -221,7 +360,20 @@
 	},
 	{
 		"en": "Narrator: Peppa and George are wearing their boots.",
-		"cn": "旁白：佩奇和乔治穿上了靴子。"
+		"cn": "旁白：佩奇和乔治穿上了靴子。",
+		"sentence":{
+			"en": "Peppa and George are wearing their boots.",
+			"examples": [
+				{
+					"en": "Peppa and George are wearing their hats.",
+					"cn": "佩奇和乔治戴上了帽子。"
+				},
+				{
+					"en": "Peppa and George are wearing their coats.",
+					"cn": "佩奇和乔治穿上了外套。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Mummy and Daddy are wearing their boots.",
@@ -229,7 +381,13 @@
 	},
 	{
 		"en": "Narrator: Peppa loves jumping up and down in muddy puddles.",
-		"cn": "旁白：佩奇喜欢在泥坑里跳来跳去。"
+		"cn": "旁白：佩奇喜欢在泥坑里跳来跳去。",
+		"points":[
+			{
+				"en": "jumping up and down",
+				"cn": "跳来跳去"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Everyone loves jumping up and down in muddy puddles.",
