@@ -31,7 +31,7 @@ const Watermarks: React.FC = () => (
 			>
 				<img src={dinoWatermark} alt="Watermark Dino" className="w-36 h-36" />
 				<span className="block text-[10px] text-center text-gray-500" style={{ marginTop: '-18px' }}>
-					整理自公众号 每日一篇英语阅读
+					整理by公众号 每日一篇英语阅读
 				</span>
 			</div>
 		))}

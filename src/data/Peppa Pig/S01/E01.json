@@ -4,6 +4,7 @@
 		"cn": "旁白：今天下雨了，所以佩奇和乔治不能在外面玩。",
 		"sentence": {
 			"en": "It is raining today.",
+			"cn": "今天下雨了。",
 			"examples": [
 				{
 					"en": "It is snowing today.",
@@ -31,6 +32,7 @@
 		"cn": "小猪佩奇：我们可以出去玩吗？",
 		"sentence": {
 			"en": "Can we go out to play?",
+			"cn": "我们可以出去玩吗？",
 			"examples": [
 				{
 					"en": "Can we go to the park?",
@@ -52,6 +54,7 @@
 		"cn": "旁白：佩奇喜欢在泥坑里跳来跳去。",
 		"sentence": {
 			"en": "Peppa loves jumping in muddy puddles.",
+			"cn": "佩奇喜欢在泥坑里跳来跳去。",
 			"examples": [
 				{
 					"en": "Peppa loves playing with her friends.",
@@ -98,6 +101,7 @@
 		"cn": "小猪佩奇：乔治，如果你要跳泥坑，必须穿上靴子。",
 		"sentence": {
 			"en": "If you jump in muddy puddles, you must wear your boots.",
+			"cn": "如果你要跳泥坑，必须穿上靴子。",
 			"examples": [
 				{
 					"en": "If you go swimming, you must wear a swimsuit.",
@@ -125,6 +129,7 @@
 		"cn": "小猪佩奇：乔治，我们再找几个泥坑吧。",
 		"sentence": {
 			"en": "let's find some more puddles.",
+			"cn": "我们再找一些泥坑吧。",
 			"examples": [
 				{
 					"en": "Let's find some more toys.",
@@ -152,6 +157,7 @@
 		"cn": "旁白：佩奇发现了一个小泥坑。",
 		"sentence": {
 			"en": "Peppa has found a little puddle.",
+			"cn": "佩奇发现了一个小泥坑。",
 			"examples": [
 				{
 					"en": "Peppa has found a big puddle.",
@@ -182,6 +188,7 @@
 		"cn": "小猪佩奇：我得检查一下对你来说安不安全。",
 		"sentence": {
 			"en": "I must check if it's safe for you.",
+			"cn": "我得检查一下对你来说安不安全。",
 			"examples": [
 				{
 					"en": "I must check if it's safe to swim.",
@@ -203,6 +210,7 @@
 		"cn": "小猪佩奇：对不起，乔治，只是泥巴。",
 		"sentence": {
 			"en": "It's only mud.",
+			"cn": "只是泥巴。",
 			"examples": [
 				{
 					"en": "It's only water.",
@@ -234,6 +242,7 @@
 		"cn": "小猪佩奇：我们去给爸爸看看吧。",
 		"sentence": {
 			"en": "Let's go and show Daddy.",
+			"cn": "我们去给爸爸看看。",
 			"examples": [
 				{
 					"en": "Let's go and show Mummy.",
@@ -253,6 +262,7 @@
 		"cn": "小猪佩奇：你猜我们刚才在做什么？",
 		"sentence": {
 			"en": "Guess what we've been doing.",
+			"cn": "你猜我们刚才在做什么？",
 			"examples": [
 				{
 					"en": "Guess what we've been playing.",
@@ -280,6 +290,7 @@
 		"cn": "猪爸爸：你们是去看电视了吗？",
 		"sentence": {
 			"en": "Have you been watching television?",
+			"cn": "你们是去看电视了吗？",
 			"examples": [
 				{
 					"en": "Have you been playing outside?",
@@ -317,6 +328,7 @@
 		"cn": "猪爸爸：呵呵，看看你们弄得多脏。",
 		"sentence":{
 			"en": "look at the mess you're in.",
+			"cn": "看看你们弄得多脏。",
 			"examples": [
 				{
 					"en": "look at the mess you've made.",
@@ -363,6 +375,7 @@
 		"cn": "旁白：佩奇和乔治穿上了靴子。",
 		"sentence":{
 			"en": "Peppa and George are wearing their boots.",
+			"cn": "佩奇和乔治穿上了靴子。",
 			"examples": [
 				{
 					"en": "Peppa and George are wearing their hats.",

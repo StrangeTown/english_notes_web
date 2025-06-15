@@ -1,9 +1,10 @@
 import React, { useEffect } from "react";
 import episodeData from "../../data/Peppa Pig/S01/E01.json";
 import Sentence from "./Sentence";
-import headerImagePeppaPig from "../../assets/images/header.png";
-import Watermarks from './Watermarks';
-import './no-break.css';
+import Watermarks from "./Watermarks";
+import Header from "./Header";
+import PracticeSection from "./Parctice";
+import "./no-break.css";
 
 const highlightPart = (
 	full: string,
@@ -46,12 +47,12 @@ const highlightPart = (
 			<span
 				className="bg-[#ccdf8c] px-1 rounded-sm"
 				style={{
-					background: '#ccdf8c',
-					display: 'inline',
-					borderRadius: '6px 12px 8px 14px/12px 8px 14px 6px',
-					boxShadow: '0 2px 6px 0 rgba(204,223,140,0.15)',
-					padding: '0 2px',
-					fontFamily: 'inherit',
+					background: "#ccdf8c",
+					display: "inline",
+					borderRadius: "6px 12px 8px 14px/12px 8px 14px 6px",
+					boxShadow: "0 2px 6px 0 rgba(204,223,140,0.15)",
+					padding: "0 2px",
+					fontFamily: "inherit",
 				}}
 			>
 				{part}
@@ -91,25 +92,11 @@ const Detail: React.FC = () => {
 		console.log("Episode Data:", episodeData);
 	}, []);
 
+	const practiceItems = episodeData.filter((item) => item.sentence);
+
 	return (
 		<div>
-			{/* Header Image */}
-			<div className="relative w-full mb-4">
-				<img
-					src={headerImagePeppaPig}
-					alt="Peppa Pig Sky"
-					className="w-full max-h-56 object-cover rounded-tl-2xl rounded-tr-2xl"
-				/>
-				<div
-					className="pointer-events-none absolute left-0 right-0 bottom-0 h-[50%]"
-					style={{
-						background:
-							'linear-gradient(to bottom, rgba(255,255,255,0) 0%, #fff 100%)',
-						borderTopLeftRadius: '1rem',
-						borderTopRightRadius: '1rem',
-					}}
-				/>
-			</div>
+			<Header />
 
 			<div className="flex flex-col">
 				{episodeData.map((item, idx) => (
@@ -149,6 +136,8 @@ const Detail: React.FC = () => {
 					</div>
 				))}
 			</div>
+
+			{/* <PracticeSection practiceItems={practiceItems} /> */}
 
 			{/* Watermarks */}
 			<Watermarks />
