@@ -8,7 +8,7 @@ const Header: React.FC = () => (
       alt="Peppa Pig Sky"
       className="w-full max-h-56 object-cover rounded-tl-2xl rounded-tr-2xl"
     />
-    <div
+    {/* <div
       className="pointer-events-none absolute left-0 right-0 bottom-0 h-[50%]"
       style={{
         background:
@@ -16,7 +16,7 @@ const Header: React.FC = () => (
         borderTopLeftRadius: '1rem',
         borderTopRightRadius: '1rem',
       }}
-    />
+    /> */}
   </div>
 );
 

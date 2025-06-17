@@ -1,0 +1,567 @@
+[
+	{
+		"en": "Narrator: George's favourite toy is Mr Dinosaur.",
+		"cn": "旁白：乔治最喜欢的玩具是恐龙先生。",
+    "points": [
+      {
+        "en": "favourite toy",
+        "cn": "最喜欢的玩具"
+      }
+    ]
+	},
+	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
+	{
+		"en": "Narrator: George loves Mr Dinosaur.",
+		"cn": "旁白：乔治非常喜欢恐龙先生。"
+	},
+	{ "en": "George: Grr.", "cn": "乔治：嗷呜。" },
+	{
+		"en": "Narrator: Sometimes, George likes to scare Peppa with Mr Dinosaur.",
+		"cn": "旁白：有时候，乔治喜欢用恐龙先生吓佩奇。",
+		"sentence": {
+			"en": "George likes to scare Peppa with Mr Dinosaur.",
+			"cn": "乔治喜欢用恐龙先生吓佩奇。",
+			"examples": [
+				{
+					"en": "George likes to scare Peppa with his snake toy.",
+					"cn": "乔治喜欢用他的蛇玩具吓佩奇。"
+				},
+				{
+					"en": "George likes to scare Peppa with his robot.",
+					"cn": "乔治喜欢用他的机器人吓佩奇。"
+				}
+			]
+		}
+	},
+	{ "en": "George: Grr.", "cn": "乔治：嗷呜。" },
+	{
+		"en": "Peppa Pig: Eeek! Too scary.",
+		"cn": "佩奇：哎呀！太吓人了。",
+		"points": [
+			{
+				"en": "Too scary",
+				"cn": "太吓人了"
+			}
+		]
+	},
+	{
+		"en": "Narrator: At suppertime, Mr Dinosaur sits next to George.",
+		"cn": "旁白：晚饭时间，恐龙先生坐在乔治旁边。",
+		"points": [
+			{
+				"en": "At suppertime",
+				"cn": "晚饭时间"
+			},
+			{
+				"en": "sits next to George",
+				"cn": "坐在乔治旁边"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: I beg your pardon.",
+		"cn": "猪妈妈：你说什么？",
+		"points": [
+			{
+				"en": "I beg your pardon",
+				"cn": "你说什么？"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: Was that you George, or was it Mr Dinosaur?",
+		"cn": "猪妈妈：那是你吗，乔治，还是恐龙先生？",
+		"sentence": {
+			"en": "Was that you George, or was it Mr Dinosaur?",
+			"cn": "那是你吗，乔治，还是恐龙先生？",
+			"examples": [
+				{
+					"en": "Was that you, or was it the wind?",
+					"cn": "那是你吗，还是风？"
+				},
+				{
+					"en": "Was that you, or was it the music?",
+					"cn": "那是你吗，还是音乐？"
+				}
+			]
+		}
+	},
+	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
+	{
+		"en": "Narrator: At bath time, George shares his bath with Mr Dinosaur.",
+		"cn": "旁白：洗澡时，乔治和恐龙先生一起洗澡。",
+		"sentence": {
+			"en": "At bath time",
+			"cn": "洗澡时",
+			"examples": [
+				{
+					"en": "At dinner time",
+					"cn": "晚饭时"
+				},
+				{
+					"en": "At bedtime",
+					"cn": "睡觉时"
+				}
+			]
+		}
+	},
+	{ "en": "George: Grr.", "cn": "乔治：嗷呜。" },
+	{ "en": "Mummy Pig: Good night, Peppa.", "cn": "猪妈妈：晚安，佩奇。" },
+	{ "en": "Peppa Pig: Good night, Mummy.", "cn": "佩奇：晚安，妈妈。" },
+	{ "en": "Mummy Pig: Good night, George.", "cn": "猪妈妈：晚安，乔治。" },
+	{
+		"en": "Mummy Pig: And good night, Mr Dinosaur.",
+		"cn": "猪妈妈：也晚安，恐龙先生。"
+	},
+	{ "en": "George: Grr.", "cn": "乔治：嗷呜。" },
+	{
+		"en": "Narrator: When George goes to bed, Mr. Dinosaur is tucked up with him.",
+		"cn": "旁白：乔治睡觉时，恐龙先生也和他一起盖在被子里。",
+		"points": [
+			{
+				"en": "goes to bed",
+				"cn": "睡觉"
+			},
+			{
+				"en": "tucked up",
+				"cn": "盖在被子里"
+			}
+		]
+	},
+	{
+		"en": "Narrator: George's favourite game is throwing Mr. Dinosaur up in the air...",
+		"cn": "旁白：乔治最喜欢的游戏是把恐龙先生抛到空中……",
+		"points": [
+			{
+				"en": "throwing Mr. Dinosaur up in the air",
+				"cn": "把恐龙先生抛到空中"
+			}
+		]
+	},
+	{ "en": "George: Whee!", "cn": "乔治：咻——！" },
+	{
+		"en": "Narrator: ...and catching him when he falls back down.",
+		"cn": "旁白：……然后在恐龙先生落下来时接住他。"
+	},
+	{ "en": "George: Whee!", "cn": "乔治：咻——！" },
+	{
+		"en": "Narrator: Peppa and Daddy Pig are playing draughts.",
+		"cn": "旁白：佩奇和猪爸爸在下跳棋。",
+		"points": [
+			{
+				"en": "playing draughts",
+				"cn": "下跳棋"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: I win, Daddy.", "cn": "佩奇：我赢了，爸爸。" },
+	{
+		"en": "Daddy Pig: Oh. Well done, Peppa.",
+		"cn": "猪爸爸：哦，做得好，佩奇。",
+		"points": [
+			{
+				"en": "Well done",
+				"cn": "做得好"
+			}
+		]
+	},
+	{ "en": "George: Whhhhaaaaaaaaaaa.", "cn": "乔治：哇啊啊啊啊啊。" },
+	{ "en": "Daddy Pig: George?", "cn": "猪爸爸：乔治？" },
+	{ "en": "George: Whaaaaaaaaa.", "cn": "乔治：哇啊啊啊。" },
+	{
+		"en": "Mummy Pig: George, what's the matter?",
+		"cn": "猪妈妈：乔治，怎么了？",
+		"points": [
+			{
+				"en": "what's the matter",
+				"cn": "怎么了"
+			}
+		]
+	},
+	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
+	{
+		"en": "Daddy Pig: George, have you lost Mr Dinosaur?",
+		"cn": "猪爸爸：乔治，你把恐龙先生弄丢了吗？",
+		"sentence": {
+			"en": "have you lost Mr Dinosaur?",
+			"cn": "你把恐龙先生弄丢了吗？",
+			"examples": [
+				{
+					"en": "have you lost your toy?",
+					"cn": "你把玩具弄丢了吗？"
+				},
+				{
+					"en": "have you lost your ball?",
+					"cn": "你把球弄丢了吗？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: George has lost Mr Dinosaur.",
+		"cn": "旁白：乔治把恐龙先生弄丢了。"
+	},
+	{
+		"en": "Mummy Pig: Don't worry George. We'll find Mr Dinosaur.",
+		"cn": "猪妈妈：别担心，乔治。我们会找到恐龙先生的。",
+		"points": [
+			{
+				"en": "Don't worry",
+				"cn": "别担心"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: It's a job for a detective.",
+		"cn": "猪爸爸：这是侦探的工作。",
+		"sentence": {
+			"en": "It's a job for a detective.",
+			"cn": "这是侦探的工作。",
+			"examples": [
+				{
+					"en": "It's a job for a doctor.",
+					"cn": "这是医生的工作。"
+				},
+				{
+					"en": "It's a job for a teacher.",
+					"cn": "这是老师的工作。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Daddy, what is a detective?",
+		"cn": "佩奇：爸爸，什么是侦探？"
+	},
+	{
+		"en": "Daddy Pig: A detective is a very important person who is good at finding things.",
+		"cn": "猪爸爸：侦探是很擅长找东西的重要人物。",
+		"sentence": {
+			"en": "A detective is a very important person who is good at finding things.",
+			"cn": "侦探是很擅长找东西的重要人物。",
+			"examples": [
+				{
+					"en": "A doctor is a very important person who is good at helping people.",
+					"cn": "医生是很擅长帮助人的重要人物。"
+				},
+				{
+					"en": "A teacher is a very important person who is good at teaching children.",
+					"cn": "老师是很擅长教孩子们的一个重要人物。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Me! Me! I'm good at finding things.",
+		"cn": "佩奇：我！我！我很会找东西。"
+	},
+	{
+		"en": "Daddy Pig: All right. Peppa is the detective.",
+		"cn": "猪爸爸：好吧，佩奇就是侦探。",
+		"points": [
+			{
+				"en": "All right",
+				"cn": "好吧"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: George. I am the detective. I will help you find Mr Dinosaur.",
+		"cn": "佩奇：乔治，我是侦探。我会帮你找恐龙先生。",
+		"sentence": {
+			"en": "I will help you find Mr Dinosaur.",
+			"cn": "我会帮你找恐龙先生。",
+			"examples": [
+				{
+					"en": "I will help you find your toy.",
+					"cn": "我会帮你找你的玩具。"
+				},
+				{
+					"en": "I will help you find your book.",
+					"cn": "我会帮你找你的书。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Mummy Pig: Maybe the detective should ask George some simple questions.",
+		"cn": "猪妈妈：也许侦探应该问乔治一些简单的问题。"
+	},
+	{
+		"en": "Peppa Pig: George? Where's Mr Dinosaur?",
+		"cn": "佩奇：乔治？恐龙先生在哪里？"
+	},
+	{ "en": "George: Whaaaaaaaaaa.", "cn": "乔治：哇啊啊啊。" },
+	{
+		"en": "Narrator: George does not know where Mr Dinosaur is.",
+		"cn": "旁白：乔治不知道恐龙先生在哪里。",
+		"sentence": {
+			"en": "George does not know where Mr Dinosaur is.",
+			"cn": "乔治不知道恐龙先生在哪里。",
+			"examples": [
+				{
+					"en": "George does not know where his bike is.",
+					"cn": "乔治不知道他的自行车在哪里。"
+				},
+				{
+					"en": "George does not know where his ball is.",
+					"cn": "乔治不知道他的球在哪里。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: The detective could try and guess where Mr Dinosaur might be.",
+		"cn": "猪爸爸：侦探可以试着猜猜恐龙先生可能在哪里。",
+		"sentence": {
+			"en": "The detective could try and guess where Mr Dinosaur might be.",
+			"cn": "侦探可以试着猜猜恐龙先生可能在哪里。",
+			"examples": [
+				{
+					"en": "The boy could try and guess where his toy might be.",
+					"cn": "男孩可以试着猜猜他的玩具可能在哪里。"
+				},
+				{
+					"en": "The farmer could try and guess where his sheep might be.",
+					"cn": "农夫可以试着猜猜他的羊可能在哪里。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: I know. I know where he is.",
+		"cn": "佩奇：我知道，我知道他在哪里。",
+		"points": [
+			{
+				"en": "I know where he is",
+				"cn": "我知道他在哪里"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: George always has Mr Dinosaur with him in the bath.",
+		"cn": "佩奇：乔治洗澡时总是带着恐龙先生。",
+		"sentence": {
+			"en": "George always has Mr Dinosaur with him in the bath.",
+			"cn": "乔治洗澡时总是带着恐龙先生。",
+			"examples": [
+				{
+					"en": "George always has his toy with him in the bath.",
+					"cn": "乔治洗澡时总是带着他的玩具。"
+				},
+				{
+					"en": "George always has his book with him in the bath.",
+					"cn": "乔治洗澡时总是带着他的书。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: So Mr Dinosaur is in the bath.",
+		"cn": "佩奇：所以恐龙先生在浴缸里。"
+	},
+	{
+		"en": "Narrator: Mr Dinosaur is not in the bath.",
+		"cn": "旁白：恐龙先生不在浴缸里。"
+	},
+	{
+		"en": "Peppa Pig: Oh. I know. I know where Mr Dinosaur is.",
+		"cn": "佩奇：哦，我知道，我知道恐龙先生在哪里。"
+	},
+	{
+		"en": "Peppa Pig: George always has Mr Dinosaur in his bed at night.",
+		"cn": "佩奇：乔治晚上睡觉时总是带着恐龙先生。"
+	},
+	{
+		"en": "Peppa Pig: So that's where he is.",
+		"cn": "佩奇：所以他在那里。",
+		"sentence": {
+			"en": "So that's where he is.",
+			"cn": "所以他在那里。",
+			"examples": [
+				{
+					"en": "So that's where my cup is.",
+					"cn": "所以我的杯子在那里。"
+				},
+				{
+					"en": "So that's where my backpack is.",
+					"cn": "所以我的背包在那里。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Mr Dinosaur is not in George's bed.",
+		"cn": "旁白：恐龙先生不在乔治的床上。"
+	},
+	{ "en": "Peppa Pig: Oh.", "cn": "佩奇：哦。" },
+	{
+		"en": "Mummy Pig: Maybe we should try the garden.",
+		"cn": "猪妈妈：也许我们应该去花园找找。",
+		"sentence": {
+			"en": "Maybe we should try the garden.",
+			"cn": "也许我们应该去花园找找。",
+			"examples": [
+				{
+					"en": "Maybe we should try the park.",
+					"cn": "也许我们应该去公园找找。"
+				},
+				{
+					"en": "Maybe we should try the kitchen.",
+					"cn": "也许我们应该去厨房找找。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Yes, the garden. I was going to say that.",
+		"cn": "佩奇：对，花园。我正要说呢。",
+		"points": [
+			{
+				"en": "I was going to say that",
+				"cn": "我正要说呢"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Where is Mr Dinosaur?", "cn": "佩奇：恐龙先生在哪里？" },
+	{
+		"en": "Narrator: Mr Dinosaur is very hard to find.",
+		"cn": "旁白：恐龙先生很难找。",
+		"sentence": {
+			"en": "Mr Dinosaur is very hard to find.",
+			"cn": "恐龙先生很难找。",
+			"examples": [
+				{
+					"en": "My notebook is very hard to find.",
+					"cn": "我的笔记本很难找。"
+				},
+				{
+					"en": "The keys are very hard to find.",
+					"cn": "钥匙很难找。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Oh. Mr Dinosaur isn't anywhere.",
+		"cn": "佩奇：哦，恐龙先生哪儿都没有。",
+		"sentence": {
+			"en": "Mr Dinosaur isn't anywhere.",
+			"cn": "恐龙先生哪儿都没有。",
+			"examples": [
+				{
+					"en": "Your telephone isn't anywhere.",
+					"cn": "你的电话哪儿都没有。"
+				},
+				{
+					"en": "My car isn't anywhere.",
+					"cn": "我的车哪儿都没有。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: George? You do love to throw Mr Dinosaur in the air.",
+		"cn": "猪爸爸：乔治，你确实喜欢把恐龙先生抛到空中。",
+		"sentence": {
+			"en": "You do love to throw Mr Dinosaur in the air.",
+			"cn": "你确实喜欢把恐龙先生抛到空中。",
+			"examples": [
+				{
+					"en": "You do love to throw your ball in the air.",
+					"cn": "你确实喜欢把球抛到空中。"
+				},
+				{
+					"en": "You do love to throw your frisbee in the air.",
+					"cn": "你确实喜欢把飞盘抛到空中。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: I wonder if this time you threw Mr Dinosaur just a bit too high.",
+		"cn": "猪爸爸：我想这次你是不是扔得太高了。",
+		"points": [
+			{
+				"en": "I wonder if",
+				"cn": "我想"
+			},
+			{
+				"en": "just a bit too high",
+				"cn": "有点太高了"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: There he is. There he is. I saw him first.",
+		"cn": "佩奇：他在那里！他在那里！我第一个看到的。",
+		"points": [
+			{
+				"en": "There he is",
+				"cn": "他在那里"
+			},
+			{
+				"en": "I saw him first",
+				"cn": "我第一个看到的"
+			}
+		]
+	},
+	{ "en": "Daddy Pig: Well done, Peppa.", "cn": "猪爸爸：做得好，佩奇。" },
+	{
+		"en": "Daddy Pig: You really are a very good detective.",
+		"cn": "猪爸爸：你真是个很棒的侦探。",
+		"sentence": {
+			"en": "You really are a very good detective.",
+			"cn": "你真是个很棒的侦探。",
+			"examples": [
+				{
+					"en": "You really are a very good teacher.",
+					"cn": "你真是个很棒的老师。"
+				},
+				{
+					"en": "You really are a very good cook.",
+					"cn": "你真是个很棒的厨师。"
+				}
+			]
+		}
+	},
+	{ "en": "George: Dinosaur. Grr.", "cn": "乔治：恐龙。嗷呜。" },
+	{
+		"en": "Narrator: George is so happy to have Mr Dinosaur back again.",
+		"cn": "旁白：乔治又找回了恐龙先生，非常开心。",
+		"sentence": {
+			"en": "George is so happy to have Mr Dinosaur back again.",
+			"cn": "乔治又找回了恐龙先生，非常开心。",
+			"examples": [
+				{
+					"en": "I am so happy to see you again.",
+					"cn": "我很高兴再次见到你。"
+				},
+				{
+					"en": "She is so happy to win the game.",
+					"cn": "她很高兴赢得比赛。"
+				}
+			]
+		}
+	},
+	{ "en": "George: Whee.", "cn": "乔治：咻——。" },
+	{
+		"en": "Daddy Pig: Maybe it isn't a good idea to play with dinosaurs near trees.",
+		"cn": "猪爸爸：也许在树旁边玩恐龙不是个好主意。",
+		"sentence": {
+			"en": "Maybe it isn't a good idea to play with dinosaurs near trees.",
+			"cn": "也许在树旁边玩恐龙不是个好主意。",
+			"examples": [
+				{
+					"en": "Maybe it isn't a good idea to play with toys near water.",
+					"cn": "也许在水边玩玩具不是个好主意。"
+				},
+				{
+					"en": "Maybe it isn't a good idea to play with food.",
+					"cn": "也许玩食物不是个好主意。"
+				}
+			]
+		}
+	},
+	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" }
+]

@@ -11,7 +11,7 @@ const watermarkConfigs = [
 		style: undefined,
 	},
 	{
-		positionClass: "top-1/2 left-2/3",
+		positionClass: "top-1/2 left-1/2",
 		style: {
 			userSelect: "none",
 			transform: "translate(-50%, -50%) rotate(-20deg)",
@@ -30,7 +30,7 @@ const Watermarks: React.FC = () => (
 				style={cfg.style}
 			>
 				<img src={dinoWatermark} alt="Watermark Dino" className="w-36 h-36" />
-				<span className="block text-[10px] text-center text-gray-500" style={{ marginTop: '-18px' }}>
+				<span className="block text-[10px] text-center text-gray-800" style={{ marginTop: '-18px' }}>
 					整理by公众号 每日一篇英语阅读
 				</span>
 			</div>

@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import episodeData from "../../data/Peppa Pig/S01/E01.json";
+import episodeData from "../../data/Peppa Pig/S01/E02.json";
 import Sentence from "./Sentence";
 import Watermarks from "./Watermarks";
 import Header from "./Header";
@@ -102,18 +102,18 @@ const Detail: React.FC = () => {
 				{episodeData.map((item, idx) => (
 					<div
 						key={idx}
-						className="pl-6 bg-white rounded text-left flex flex-row justify-between items-center border-b border-gray-100 last:border-b-0 h-[116px] no-break"
+						className="pl-6 bg-white rounded text-left flex flex-row justify-between items-center border-b border-gray-200 last:border-b-0 h-[116px] no-break"
 					>
 						{/* Main */}
 						<div>
-							<div className="mb-2 text-gray-600">
+							<div className="mb-2 text-dark">
 								{highlightPart(
 									item.en,
 									item.sentence && item.sentence.en,
 									item.points
 								)}
 							</div>
-							<div className="text-gray-400">
+							<div className="text-gray-400 text-xs">
 								{renderChineseWithPoints(item)}
 							</div>
 						</div>
