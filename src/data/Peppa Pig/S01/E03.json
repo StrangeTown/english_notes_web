@@ -1,0 +1,407 @@
+[
+	{
+		"en": "Narrator: Peppa and her family are visiting Granny Pig and Grandpa Pig.",
+		"cn": "旁白：佩奇和她的家人正在拜访猪奶奶和猪爷爷。",
+		"points": [
+			{
+				"en": "Granny Pig and Grandpa Pig",
+				"cn": "猪奶奶和猪爷爷"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Granny Pig, Grandpa Pig!",
+		"cn": "佩奇：猪奶奶，猪爷爷！"
+	},
+	{ "en": "George: Granny ‘ig, Grandpa ‘ig!", "cn": "乔治：猪奶奶，猪爷爷！" },
+	{
+		"en": "Granny Pig: Hello, my little ones. Come inside. We have a surprise.",
+		"cn": "猪奶奶：你们好，我的小宝贝们。快进来，我们有个惊喜。",
+		"points": [
+			{
+				"en": "my little ones",
+				"cn": "我小宝贝们"
+			},
+			{
+				"en": "We have a surprise.",
+				"cn": "我们有个惊喜。"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: What is it?", "cn": "佩奇：是什么呀？" },
+	{
+		"en": "Granny Pig: We have a new pet. Can you guess what it is?",
+		"cn": "猪奶奶：我们有一只新宠物。你们能猜到是什么吗？",
+		"sentence": {
+			"en": "Can you guess what it is?",
+			"cn": "你能猜到是什么吗？",
+			"examples": [
+				{
+					"en": "Can you guess what it is? It’s a cat.",
+					"cn": "你能猜到是什么吗？它是一只猫。"
+				},
+				{
+					"en": "Can you guess what it is? It’s a dog.",
+					"cn": "你能猜到是什么吗？它是一只狗。"
+				}
+			]
+		}
+	},
+	{ "en": "George: Dinosaur?", "cn": "乔治：恐龙？" },
+	{
+		"en": "Grandpa Pig: No, it’s not a dinosaur. Come and see.",
+		"cn": "爷爷猪：不是恐龙。过来看吧。",
+		"points": [
+			{
+				"en": "Come and see.",
+				"cn": "过来看。"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Granny Pig and Grandpa Pig have a parrot.",
+		"cn": "旁白：猪奶奶和猪爷爷有一只鹦鹉。"
+	},
+	{
+		"en": "Granny Pig: Peppa, George, this is our pet parrot. She’s called Polly. Pretty Polly.",
+		"cn": "猪奶奶：佩奇，乔治，这是我们的宠物鹦鹉。她叫波莉。漂亮的波莉。",
+		"sentence": {
+			"en": "She’s called Polly. Pretty Polly.",
+			"cn": "她叫波莉。漂亮的波莉。",
+			"examples": [
+				{
+					"en": "She’s called Bella. Pretty Bella.",
+					"cn": "她叫贝拉。漂亮的贝拉。"
+				},
+				{
+					"en": "She’s called Max. Pretty Max.",
+					"cn": "他叫马克斯。漂亮的马克斯。"
+				}
+			]
+		}
+	},
+	{ "en": "Polly: Pretty Polly.", "cn": "波莉：漂亮的波莉。" },
+	{ "en": "Peppa and George: Wow!", "cn": "佩奇和乔治：哇！" },
+	{
+		"en": "Granny Pig: I am a clever parrot.",
+		"cn": "猪奶奶：我是一只聪明的鹦鹉。"
+	},
+	{ "en": "Polly: I’m a clever parrot.", "cn": "波莉：我是一只聪明的鹦鹉。" },
+	{
+		"en": "Peppa Pig: Mummy, why does Polly copy everything that Granny says?",
+		"cn": "佩奇：妈妈，为什么波莉会学猪奶奶说的每一句话？",
+		"sentence": {
+			"en": "Why does Polly copy everything that Granny says?",
+			"cn": "为什么波莉会学猪奶奶说的每一句话？",
+			"examples": [
+				{
+					"en": "Why does Polly copy everything that Grandpa says?",
+					"cn": "为什么波莉会学猪爷爷说的每一句话？"
+				},
+				{
+					"en": "Why does Polly copy everything that Mummy says?",
+					"cn": "为什么波莉会学妈妈说的每一句话？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Mummy Pig: That’s what parrots do. I’ll show you.",
+		"cn": "猪妈妈：鹦鹉就是这样的。我来给你演示。",
+		"points": [
+			{
+				"en": "That’s what parrots do.",
+				"cn": "鹦鹉就是这样的。"
+			},
+			{
+				"en": "I’ll show you.",
+				"cn": "我来给你演示。"
+			}
+		]
+	},
+	{ "en": "Mummy Pig: Hello, Polly.", "cn": "猪妈妈：你好，波莉。" },
+	{ "en": "Polly: Hello, Polly.", "cn": "波莉：你好，波莉。" },
+	{
+		"en": "Mummy Pig: What a sweet little parrot.",
+		"cn": "猪妈妈：多可爱的小鹦鹉啊。",
+		"sentence": {
+			"en": "What a sweet little parrot.",
+			"cn": "多可爱的小鹦鹉啊。",
+			"examples": [
+				{
+					"en": "What a beautiful little bird.",
+					"cn": "多美丽的小鸟啊。"
+				},
+				{
+					"en": "What a noisy little parrot.",
+					"cn": "多吵闹的小鹦鹉啊。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Polly: What a sweet little parrot.",
+		"cn": "波莉：多可爱的小鹦鹉啊。"
+	},
+	{
+		"en": "Granny Pig: Come on, everyone. Tea time.",
+		"cn": "猪奶奶：大家快来，喝茶时间到了。",
+		"points": [
+			{
+				"en": "Tea time.",
+				"cn": "喝茶时间。"
+			}
+		]
+	},
+	{
+		"en": "Granny Pig: Peppa, George, come on. There’s chocolate cake.",
+		"cn": "猪奶奶：佩奇，乔治，快来，有巧克力蛋糕哦。",
+		"sentence": {
+			"en": "There’s chocolate cake.",
+			"cn": "有巧克力蛋糕。",
+			"examples": [
+				{
+					"en": "There’s strawberry ice cream.",
+					"cn": "有草莓冰淇淋。"
+				},
+				{
+					"en": "There’s apple pie.",
+					"cn": "有苹果派。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Coming, Granny.",
+		"cn": "佩奇：来了，猪奶奶。",
+		"points": [
+			{
+				"en": "Coming, Granny.",
+				"cn": "来了，猪奶奶。"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Peppa and George love eating chocolate cake, but today they’re in a hurry to get back and play with Polly Parrot.",
+		"cn": "旁白：佩奇和乔治都喜欢吃巧克力蛋糕，但今天他们急着回去和波莉鹦鹉玩。",
+		"points": [
+			{
+				"en": "love eating chocolate cake",
+				"cn": "喜欢吃巧克力蛋糕"
+			},
+			{
+				"en": "in a hurry to get back and play with Polly Parrot",
+				"cn": "急着回去和波莉鹦鹉玩"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Finished.",
+		"cn": "佩奇：吃完了。",
+		"points": [
+			{
+				"en": "Finished.",
+				"cn": "吃完了。"
+			}
+		]
+	},
+	{
+		"en": "Granny Pig: What noisy little ones you are.",
+		"cn": "猪奶奶：你们真是吵闹的小家伙。"
+	},
+	{
+		"en": "Peppa Pig: Granny, please can we leave the table and go and see Polly Parrot?",
+		"cn": "佩奇：猪奶奶，我们可以离开餐桌去看波莉鹦鹉吗？",
+		"points": [
+			{
+				"en": "leave the table",
+				"cn": "离开餐桌"
+			},
+			{
+				"en": "go and see Polly Parrot",
+				"cn": "去看波莉鹦鹉"
+			}
+		]
+	},
+	{
+		"en": "Granny Pig: Are you sure you’ve completely finished your cake?",
+		"cn": "猪奶奶：你们确定蛋糕都吃完了吗？",
+		"sentence": {
+			"en": "Are you sure you’ve completely finished your cake?",
+			"cn": "你们确定蛋糕都吃完了吗？",
+			"examples": [
+				{
+					"en": "Are you sure you’ve completely finished your dinner?",
+					"cn": "你们确定晚餐都吃完了吗？"
+				},
+				{
+					"en": "Are you sure you’ve completely finished your homework?",
+					"cn": "你们确定作业都做完了吗？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Granny Pig: Off you go, then.",
+		"cn": "猪奶奶：那你们去吧。",
+		"points": [
+			{
+				"en": "Off you go, then.",
+				"cn": "那你们去吧。"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Hurrah!",
+		"cn": "佩奇：万岁！",
+		"points": [
+			{
+				"en": "Hurrah!",
+				"cn": "万岁！"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: George, say something to Polly.",
+		"cn": "佩奇：乔治，跟波莉说点什么吧。",
+		"sentence": {
+			"en": "say something to Polly",
+			"cn": "跟波莉说点什么",
+			"examples": [
+				{
+					"en": "say something to Mummy",
+					"cn": "跟妈妈说点什么"
+				},
+				{
+					"en": "say something to Daddy",
+					"cn": "跟爸爸说点什么"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: George is a little bit shy.",
+		"cn": "旁白：乔治有点害羞。",
+		"points": [
+			{
+				"en": "George is a little bit shy.",
+				"cn": "乔治有点害羞。"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Hello.", "cn": "佩奇：你好。" },
+	{ "en": "Polly: Hello.", "cn": "波莉：你好。" },
+	{
+		"en": "Narrator: Peppa and George are really enjoying playing with Polly Parrot.",
+		"cn": "旁白：佩奇和乔治非常喜欢和波莉鹦鹉玩。",
+		"sentence": {
+			"en": "Peppa and George are really enjoying playing with Polly Parrot.",
+			"cn": "佩奇和乔治非常喜欢和波莉鹦鹉玩。",
+			"examples": [
+				{
+					"en": "Peppa and George are really enjoying playing with Teddy and Dinosaur.",
+					"cn": "佩奇和乔治非常喜欢和泰迪熊和恐龙玩。"
+				},
+				{
+					"en": "Peppa and George are really enjoying kicking the ball.",
+					"cn": "佩奇和乔治非常喜欢踢足球。"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig: I’m Peppa Pig.", "cn": "佩奇：我是佩奇。" },
+	{ "en": "Polly: I’m Peppa Pig.", "cn": "波莉：我是佩奇。" },
+	{
+		"en": "Peppa Pig: George, say something.",
+		"cn": "佩奇：乔治，说点什么吧。"
+	},
+	{ "en": "George: Oink.", "cn": "乔治：哼。" },
+	{ "en": "Polly: Oink.", "cn": "波莉：哼。" },
+	{
+		"en": "Narrator: Peppa and George are pretending to be parrots.",
+		"cn": "旁白：佩奇和乔治正在假装自己是鹦鹉。",
+		"sentence": {
+			"en": "Peppa and George are pretending to be parrots.",
+			"cn": "佩奇和乔治正在假装自己是鹦鹉。",
+			"examples": [
+				{
+					"en": "Peppa and George are pretending to be dinosaurs.",
+					"cn": "佩奇和乔治正在假装自己是恐龙。"
+				},
+				{
+					"en": "Peppa and George are pretending to be superheroes.",
+					"cn": "佩奇和乔治正在假装自己是超级英雄。"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig: I’m Polly Parrot.", "cn": "佩奇：我是波莉鹦鹉。" },
+	{
+		"en": "Narrator: Peppa is thinking of something else to say to Polly Parrot.",
+		"cn": "旁白：佩奇正在想对波莉鹦鹉说点别的。",
+		"sentence": {
+			"en": "Peppa is thinking of something else to say to Polly Parrot.",
+			"cn": "佩奇正在想对波莉鹦鹉说点别的。",
+			"examples": [
+				{
+					"en": "Peppa is thinking of something else to play with George.",
+					"cn": "佩奇正在想和乔治玩点别的。"
+				},
+				{
+					"en": "Peppa is thinking of something else to give to Mummy Pig.",
+					"cn": "佩奇正在想给猪妈妈点别的。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: I’m a noisy parrot. Oink!",
+		"cn": "佩奇：我是吵闹的鹦鹉。哼！"
+	},
+	{
+		"en": "Polly: I’m a noisy parrot. Oink!",
+		"cn": "波莉：我是吵闹的鹦鹉。哼！"
+	},
+	{
+		"en": "Granny Pig: Peppa, George, have you been playing with Polly?",
+		"cn": "猪奶奶：佩奇，乔治，你们一直在和波莉玩吗？",
+		"sentence": {
+			"en": "Have you been playing with Polly?",
+			"cn": "你们一直在和波莉玩吗？",
+			"examples": [
+				{
+					"en": "Have you been playing with cars?",
+					"cn": "你们一直在玩汽车吗？"
+				},
+				{
+					"en": "Have you been playing with Dinosaur?",
+					"cn": "你们一直在和恐龙玩吗？"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig: Yes, Granny.", "cn": "佩奇：是的，猪奶奶。" },
+	{
+		"en": "Granny Pig: Polly is such a sweet parrot.",
+		"cn": "猪奶奶：波莉真是一只可爱的鹦鹉。"
+	},
+	{ "en": "Peppa Pig: Yes, Granny.", "cn": "佩奇：是的，猪奶奶。" },
+	{
+		"en": "Granny Pig: I’m a clever parrot.",
+		"cn": "猪奶奶：我是一只聪明的鹦鹉。"
+	},
+	{
+		"en": "Polly: I’m a noisy parrot. Oink! I’m a noisy parrot. Oink!",
+		"cn": "波莉：我是吵闹的鹦鹉。哼！我是吵闹的鹦鹉。哼！"
+	},
+	{
+		"en": "Granny Pig: Oh, my word!",
+		"cn": "猪奶奶：天哪！",
+		"points": [
+			{
+				"en": "Oh, my word!",
+				"cn": "天哪！"
+			}
+		]
+	}
+]

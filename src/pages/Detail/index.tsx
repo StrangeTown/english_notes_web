@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import episodeData from "../../data/Peppa Pig/S01/E02.json";
+import episodeData from "../../data/Peppa Pig/S01/E03.json";
 import Sentence from "./Sentence";
 import Watermarks from "./Watermarks";
 import Header from "./Header";
