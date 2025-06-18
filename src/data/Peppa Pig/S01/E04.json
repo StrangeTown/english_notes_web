@@ -1,0 +1,530 @@
+[
+	{
+		"en": "Narrator: Peppa is waiting for her best friend, Suzy Sheep.",
+		"cn": "旁白：佩奇正在等她最好的朋友苏茜羊。",
+		"sentence": {
+			"en": "Peppa is waiting for her best friend, Suzy Sheep.",
+			"cn": "佩奇正在等她最好的朋友苏茜羊。",
+			"examples": [
+				{
+					"en": "Peppa is waiting for her brother, George.",
+					"cn": "佩奇正在等她的弟弟乔治。"
+				},
+				{
+					"en": "Peppa is waiting for her mummy, Mummy Pig.",
+					"cn": "佩奇正在等她的妈妈，猪妈妈。"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig: Hello, Suzy.", "cn": "佩奇：你好，苏茜。" },
+	{ "en": "Suzy: Hello, Peppa.", "cn": "苏茜：你好，佩奇。" },
+	{
+		"en": "Narrator: Suzy Sheep has come to play with Peppa.",
+		"cn": "旁白：苏茜羊来和佩奇玩了。",
+		"points": [
+			{
+				"en": "come to play with Peppa",
+				"cn": "来和佩奇玩"
+			}
+		]
+	},
+	{ "en": "Narrator: Peppa loves Suzy.", "cn": "旁白：佩奇很喜欢苏茜。" },
+	{ "en": "Narrator: Suzy loves Peppa.", "cn": "旁白：苏茜很喜欢佩奇。" },
+	{
+		"en": "Narrator: They are best friends.",
+		"cn": "旁白：她们是最好的朋友。",
+		"points": [
+			{
+				"en": "best friends",
+				"cn": "最好的朋友"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: Peppa, why don’t you and Suzy play in your bedroom?",
+		"cn": "猪妈妈：佩奇，你和苏茜为什么不去你房间玩呢？",
+		"sentence": {
+			"en": "Why don’t you and Suzy play in your bedroom?",
+			"cn": "你和苏茜为什么不去你房间玩呢？",
+			"examples": [
+				{
+					"en": "Why don’t you and George play outside?",
+					"cn": "你和乔治为什么不去外面玩？"
+				},
+				{
+					"en": "Why don’t you and Daddy Pig watch TV?",
+					"cn": "你和猪爸爸为什么不去看电视？"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig: Yes, Mummy.", "cn": "佩奇：好的，妈妈。" },
+	{
+		"en": "Narrator: George wants to play, too.",
+		"cn": "旁白：乔治也想一起玩。"
+	},
+	{
+		"en": "Narrator: Peppa and Suzy love playing in Peppa’s bedroom.",
+		"cn": "旁白：佩奇和苏茜喜欢在佩奇的房间里玩。"
+	},
+	{
+		"en": "Narrator: So does George.",
+		"cn": "旁白：乔治也喜欢。",
+		"points": [
+			{
+				"en": "So does George.",
+				"cn": "乔治也喜欢。"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: No, George. This game is just for big girls.",
+		"cn": "佩奇：不行，乔治，这个游戏只有大女孩才能玩。",
+		"sentence": {
+			"en": "This game is just for big girls.",
+			"cn": "这个游戏只有大女孩才能玩。",
+			"examples": [
+				{
+					"en": "This food is just for grown-ups.",
+					"cn": "这道菜只有大人才吃。"
+				},
+				{
+					"en": "This shop is just for children.",
+					"cn": "这家店只有小孩才能进。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Go and play with your own toys.",
+		"cn": "佩奇：去玩你自己的玩具吧。",
+		"points": [
+			{
+				"en": "play with your own toys",
+				"cn": "玩你自己的玩具"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Peppa and Suzy want to play on their own.",
+		"cn": "旁白：佩奇和苏茜想自己玩。",
+		"points": [
+			{
+				"en": "play on their own",
+				"cn": "自己玩"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: I’m a tiny little fairy princess.",
+		"cn": "佩奇：我是一个小小的仙女公主。",
+		"points": [
+			{
+				"en": "tiny little fairy princess",
+				"cn": "小小的仙女公主"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: I’m going to wave my magic wand and turn you into a frog.",
+		"cn": "佩奇：我要挥动我的魔法棒把你变成青蛙。",
+		"points": [
+			{
+				"en": "wave my magic wand",
+				"cn": "挥动我的魔法棒"
+			},
+			{
+				"en": "turn you into a frog",
+				"cn": "把你变成青蛙"
+			}
+		]
+	},
+	{
+		"en": "Narrator: George doesn’t like playing on his own.",
+		"cn": "旁白：乔治不喜欢自己玩。"
+	},
+	{
+		"en": "Narrator: George wants to play, too.",
+		"cn": "旁白：乔治也想一起玩。"
+	},
+	{
+		"en": "Peppa Pig: No, George. I’m playing with Suzy.",
+		"cn": "佩奇：不行，乔治，我在和苏茜玩。"
+	},
+	{
+		"en": "Peppa Pig: You have to play somewhere else.",
+		"cn": "佩奇：你得去别的地方玩。",
+		"sentence": {
+			"en": "You have to play somewhere else.",
+			"cn": "你得去别的地方玩。",
+			"examples": [
+				{
+					"en": "You have to eat your vegetables.",
+					"cn": "你得吃你的蔬菜。"
+				},
+				{
+					"en": "You have to go to bed early.",
+					"cn": "你得早点睡觉。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: George wants to play with Peppa. He feels a bit lonely.",
+		"cn": "旁白：乔治想和佩奇玩，他有点孤单。",
+		"sentence": {
+			"en": "He feels a bit lonely.",
+			"cn": "他有点孤单。",
+			"examples": [
+				{
+					"en": "She feels a bit sad.",
+					"cn": "她有点伤心。"
+				},
+				{
+					"en": "He feels a bit tired.",
+					"cn": "他有点累。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Mummy Pig: George, I need some help. I’m making chocolate chip cookies.",
+		"cn": "猪妈妈：乔治，我需要帮忙。我在做巧克力曲奇。",
+		"points": [
+			{
+				"en": "I need some help",
+				"cn": "我需要帮忙"
+			},
+			{
+				"en": "making chocolate chip cookies",
+				"cn": "做巧克力曲奇"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: Someone needs to lick out the bowl.",
+		"cn": "猪妈妈：需要有人把碗舔干净。",
+		"points": [
+			{
+				"en": "lick out the bowl",
+				"cn": "舔干净碗"
+			}
+		]
+	},
+	{
+		"en": "Narrator: George likes helping Mummy make cookies, but he likes playing with Peppa more.",
+		"cn": "旁白：乔治喜欢帮妈妈做饼干，但他更喜欢和佩奇玩。",
+		"sentence": {
+			"en": "He likes playing with Peppa more.",
+			"cn": "他更喜欢和佩奇玩。",
+			"examples": [
+				{
+					"en": "She likes playing with her friends more.",
+					"cn": "她更喜欢和她的朋友们玩。"
+				},
+				{
+					"en": "He likes eating ice cream more.",
+					"cn": "他更喜欢吃冰淇淋。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Suzy: I want to be a nurse.",
+		"cn": "苏茜：我想当护士。",
+		"points": [
+			{
+				"en": "be a nurse",
+				"cn": "当护士"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: I want to be a doctor.", "cn": "佩奇：我想当医生。" },
+	{
+		"en": "Suzy: But who’s going to be the sick person?",
+		"cn": "苏茜：那谁来当病人呢？",
+		"sentence": {
+			"en": "Who’s going to be the sick person?",
+			"cn": "谁来当病人呢？",
+			"examples": [
+				{
+					"en": "Who’s going to be the teacher?",
+					"cn": "谁来当老师？"
+				},
+				{
+					"en": "Who’s going to be the driver?",
+					"cn": "谁来当司机？"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig: George!", "cn": "佩奇：乔治！" },
+	{
+		"en": "Narrator: Peppa and Suzy love playing doctors and nurses.",
+		"cn": "旁白：佩奇和苏茜喜欢玩医生和护士的游戏。"
+	},
+	{ "en": "Narrator: So does George.", "cn": "旁白：乔治也喜欢。" },
+	{
+		"en": "Narrator: Peppa listens to George’s chest.",
+		"cn": "旁白：佩奇在听乔治的胸口。",
+		"points": [
+			{
+				"en": "listens to George’s chest",
+				"cn": "听乔治的胸口"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Now, George. Take a big breath in, then cough.",
+		"cn": "佩奇：现在，乔治，深呼吸，然后咳嗽。",
+		"points": [
+			{
+				"en": "Take a big breath in",
+				"cn": "深呼吸"
+			},
+			{
+				"en": "then cough",
+				"cn": "然后咳嗽"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: I think your heart’s a bit loose.",
+		"cn": "佩奇：我觉得你的心有点松。",
+		"points": [
+			{
+				"en": "your heart’s a bit loose",
+				"cn": "你的心有点松"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: I’ll put a plaster on it.",
+		"cn": "佩奇：我给你贴个创可贴。",
+		"points": [
+			{
+				"en": "put a plaster on it",
+				"cn": "贴个创可贴"
+			}
+		]
+	},
+	{
+		"en": "Suzy: Open wide, please.",
+		"cn": "苏茜：请张大嘴。",
+		"points": [
+			{
+				"en": "Open wide, please",
+				"cn": "请张大嘴"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Suzy takes George’s temperature.",
+		"cn": "旁白：苏茜在给乔治量体温。",
+		"points": [
+			{
+				"en": "takes George’s temperature",
+				"cn": "给乔治量体温"
+			}
+		]
+	},
+	{
+		"en": "Suzy: Oh, dear. You’re very very hot.",
+		"cn": "苏茜：哎呀，你发烧得很厉害。",
+		"points": [
+			{
+				"en": "Oh, dear.",
+				"cn": "哎呀"
+			}
+		]
+	},
+	{
+		"en": "Suzy: I think you have to stay in bed for three years.",
+		"cn": "苏茜：我觉得你得在床上躺三年。",
+		"sentence": {
+			"en": "You have to stay in bed for three years.",
+			"cn": "你得在床上躺三年。",
+			"examples": [
+				{
+					"en": "You have to stay in bed for one week.",
+					"cn": "你得在床上躺一周。"
+				},
+				{
+					"en": "You have to stay in bed for two days.",
+					"cn": "你得在床上躺两天。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Daddy Pig has come to find George.",
+		"cn": "旁白：猪爸爸来找乔治了。",
+		"points": [
+			{
+				"en": "come to find George",
+				"cn": "来找乔治"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: Oh, no. What’s wrong with George?",
+		"cn": "猪爸爸：哦，不。乔治怎么了？",
+		"points": [
+			{
+				"en": "What’s wrong with George?",
+				"cn": "乔治怎么了？"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Don’t worry, Daddy. It’s only a game.",
+		"cn": "佩奇：别担心，爸爸，这只是个游戏。",
+		"points": [
+			{
+				"en": "Don’t worry",
+				"cn": "别担心"
+			},
+			{
+				"en": "It’s only a game.",
+				"cn": "这只是个游戏。"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: George is our patient.",
+		"cn": "佩奇：乔治是我们的病人。",
+		"points": [
+			{
+				"en": "patient",
+				"cn": "病人"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: Oh, I see.",
+		"cn": "猪爸爸：哦，我明白了。",
+		"points": [
+			{
+				"en": "I see",
+				"cn": "我明白了"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: Can the patient have a visitor?",
+		"cn": "猪爸爸：病人可以有访客吗？",
+		"points": [
+			{
+				"en": "visitor",
+				"cn": "访客"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Just for a little while.",
+		"cn": "佩奇：只能待一小会儿。",
+		"points": [
+			{
+				"en": "Just for a little while",
+				"cn": "只能待一小会儿"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: He might get tired.",
+		"cn": "佩奇：他可能会累。",
+		"sentence": {
+			"en": "He might get tired.",
+			"cn": "他可能会累。",
+			"examples": [
+				{
+					"en": "She might get hungry.",
+					"cn": "她可能会饿。"
+				},
+				{
+					"en": "They might get bored.",
+					"cn": "他们可能会无聊。"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa and Suzy: Cookies!", "cn": "佩奇和苏茜：饼干！" },
+	{
+		"en": "Mummy Pig: Yes, they’re for George. They’re his medicine to make him feel better.",
+		"cn": "猪妈妈：是的，这些是给乔治的，是让他好起来的药。",
+		"points": [
+			{
+				"en": "his medicine to make him feel better",
+				"cn": "让他好起来的药"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: Um, excuse me, doctor. Can you help me? I have a sore tummy.",
+		"cn": "猪爸爸：呃，医生，请帮帮我，我肚子疼。",
+		"points": [
+			{
+				"en": "excuse me, doctor",
+				"cn": "医生，请帮帮我"
+			},
+			{
+				"en": "I have a sore tummy",
+				"cn": "我肚子疼"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: That tickled.",
+		"cn": "猪爸爸：好痒啊。",
+		"points": [
+			{
+				"en": "That tickled.",
+				"cn": "好痒啊。"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: I can hear it rumbling.",
+		"cn": "佩奇：我能听到肚子咕咕叫。",
+		"sentence": {
+			"en": "I can hear it rumbling.",
+			"cn": "我能听到肚子咕咕叫。",
+			"examples": [
+				{
+					"en": "I can hear it growling.",
+					"cn": "我能听到它咆哮。"
+				},
+				{
+					"en": "I can hear it buzzing.",
+					"cn": "我能听到它嗡嗡作响。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: I think you’re hungry, Daddy.",
+		"cn": "佩奇：爸爸，我觉得你饿了。"
+	},
+	{
+		"en": "Daddy Pig: Well, I think I need lots of cookies to make me better.",
+		"cn": "猪爸爸：嗯，我觉得我需要很多饼干才能好起来。",
+		"sentence": {
+			"en": "I need lots of cookies to make me better.",
+			"cn": "我需要很多饼干才能好起来。",
+			"examples": [
+				{
+					"en": "I need lots of rest to make me better.",
+					"cn": "我需要多休息才能好起来。"
+				},
+				{
+					"en": "I need lots of water to make me better.",
+					"cn": "我需要多喝水才能好起来。"
+				}
+			]
+		}
+	},
+	{ "en": "Mummy Pig: And me.", "cn": "猪妈妈：我也要。" },
+	{ "en": "Peppa Pig: And me.", "cn": "佩奇：我也要。" },
+	{ "en": "Suzy: And me.", "cn": "苏茜：我也要。" }
+]

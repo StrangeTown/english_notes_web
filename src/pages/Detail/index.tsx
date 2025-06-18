@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import episodeData from "../../data/Peppa Pig/S01/E03.json";
+import episodeData from "../../data/Peppa Pig/S01/E04.json";
 import Sentence from "./Sentence";
 import Watermarks from "./Watermarks";
 import Header from "./Header";
@@ -16,8 +16,10 @@ const highlightPart = (
 		if (!points || points.length === 0) return text;
 		const result: React.ReactNode[] = [];
 		let lastIdx = 0;
+		const lowerText = text.toLowerCase();
 		points.forEach((pt, i) => {
-			const ptIdx = text.indexOf(pt.en, lastIdx);
+			const ptEnLower = pt.en.toLowerCase();
+			const ptIdx = lowerText.indexOf(ptEnLower, lastIdx);
 			if (ptIdx !== -1) {
 				if (ptIdx > lastIdx) result.push(text.slice(lastIdx, ptIdx));
 				result.push(
@@ -36,7 +38,7 @@ const highlightPart = (
 	};
 
 	if (!part) return highlightPoints(full);
-	const idx = full.indexOf(part);
+	const idx = full.toLowerCase().indexOf(part.toLowerCase());
 	if (idx === -1) return highlightPoints(full);
 	const before = full.slice(0, idx);
 	const after = full.slice(idx + part.length);
@@ -68,8 +70,10 @@ function renderChineseWithPoints(item: (typeof episodeData)[number]) {
 	const result: React.ReactNode[] = [];
 	const text = item.cn;
 	let lastIdx = 0;
+	const lowerText = text.toLowerCase();
 	item.points.forEach((pt, i) => {
-		const ptIdx = text.indexOf(pt.cn, lastIdx);
+		const ptCnLower = pt.cn.toLowerCase();
+		const ptIdx = lowerText.indexOf(ptCnLower, lastIdx);
 		if (ptIdx !== -1) {
 			if (ptIdx > lastIdx) result.push(text.slice(lastIdx, ptIdx));
 			result.push(
