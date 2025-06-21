@@ -1,0 +1,352 @@
+[
+	{
+		"en": "Narrator: Peppa and George are very excited today. It is snowing outside.",
+		"cn": "旁白：佩奇和乔治今天非常兴奋。外面正在下雪。",
+		"sentence": {
+			"en": "It is snowing outside.",
+			"cn": "外面正在下雪。",
+			"examples": [
+				{
+					"en": "It is raining outside.",
+					"cn": "外面正在下雨。"
+				},
+				{
+					"en": "It is sunny outside.",
+					"cn": "外面是晴天。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Mummy, can we go and play in the snow?",
+		"cn": "佩奇：妈妈，我们可以去雪地里玩吗？",
+		"sentence": {
+			"en": "Can we go and play in the snow?",
+			"cn": "我们可以去雪地里玩吗？",
+			"examples": [
+				{
+					"en": "Can we go and play in the rain?",
+					"cn": "我们可以去雨里玩吗？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Mummy Pig: Yes, but it’s very cold outside so you must wrap up warm.",
+		"cn": "猪妈妈：可以，但外面很冷，你们要穿暖和点。",
+		"points": [
+			{
+				"en": "it’s very cold outside",
+				"cn": "外面很冷"
+			},
+			{
+				"en": "wrap up warm",
+				"cn": "穿暖和点"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: And don’t forget to wear your hats and scarves and gloves.",
+		"cn": "猪爸爸：别忘了戴帽子、围巾和手套。",
+		"sentence": {
+			"en": "wear your hats and scarves and gloves",
+			"cn": "戴帽子、围巾和手套",
+			"examples": [
+				{
+					"en": "wear your boots and raincoats",
+					"cn": "穿上靴子和雨衣"
+				},
+				{
+					"en": "wear your helmets and knee pads",
+					"cn": "戴上头盔和护膝"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: It is very cold outside. Peppa and George must wear their hats and scarves and gloves.",
+		"cn": "旁白：外面很冷，佩奇和乔治必须戴上帽子、围巾和手套。"
+	},
+	{ "en": "Peppa Pig: Come on, George.", "cn": "佩奇：快点，乔治。" },
+	{
+		"en": "Narrator: Peppa and George are making footprints in the snow.",
+		"cn": "旁白：佩奇和乔治正在雪地里踩脚印。",
+		"points": [
+			{
+				"en": "making footprints in the snow",
+				"cn": "在雪地里踩脚印"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Peppa and George love making footprints in the snow.",
+		"cn": "旁白：佩奇和乔治喜欢在雪地里踩脚印。"
+	},
+	{ "en": "Narrator: Oh dear.", "cn": "旁白：哦，糟糕。" },
+	{ "en": "Peppa Pig: It’s not funny.", "cn": "佩奇：不好笑。" },
+	{
+		"en": "Peppa Pig: George, let’s play snowballs.",
+		"cn": "佩奇：乔治，我们来打雪仗吧。",
+		"sentence": {
+			"en": "let’s play snowballs",
+			"cn": "我们来打雪仗",
+			"examples": [
+				{
+					"en": "let’s play football",
+					"cn": "我们来踢足球"
+				},
+				{
+					"en": "let’s play hide and seek",
+					"cn": "我们来玩捉迷藏"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Peppa has made a snowball.",
+		"cn": "旁白：佩奇做了一个雪球。"
+	},
+	{
+		"en": "Narrator: Peppa and George are having a lot of fun.",
+		"cn": "旁白：佩奇和乔治玩得很开心。",
+		"points": [
+			{
+				"en": "having a lot of fun",
+				"cn": "玩得很开心"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: George, come back, you little piggy.",
+		"cn": "佩奇：乔治，回来，你这个小猪。",
+		"points": [
+			{
+				"en": "come back",
+				"cn": "回来"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Oh dear. Maybe this game is getting a little too rough.",
+		"cn": "旁白：哦，糟糕。这个游戏可能有点太激烈了。",
+		"sentence": {
+			"en": "this game is getting a little too rough",
+			"cn": "这个游戏可能有点太激烈了",
+			"examples": [
+				{
+					"en": "this game is getting a little too difficult",
+					"cn": "这个游戏可能有点太难了"
+				},
+				{
+					"en": "this game is getting a little too boring",
+					"cn": "这个游戏可能有点太无聊了"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig: Sorry, George.", "cn": "佩奇：对不起，乔治。" },
+	{
+		"en": "Peppa Pig: George, let’s build a snowman.",
+		"cn": "佩奇：乔治，我们来堆雪人吧。",
+		"points": [
+			{
+				"en": "let’s build a snowman",
+				"cn": "我们来堆雪人"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Peppa and George are making a snowman. First they make a body.",
+		"cn": "旁白：佩奇和乔治正在堆雪人。首先他们做了一个身体。"
+	},
+	{
+		"en": "Peppa Pig: George, this is the snowman’s body.",
+		"cn": "佩奇：乔治，这是雪人的身体。"
+	},
+	{
+		"en": "Narrator: Now they make the snowman’s head.",
+		"cn": "旁白：现在他们做雪人的头。"
+	},
+	{
+		"en": "Peppa Pig: Now he needs arms and eyes and a mouth.",
+		"cn": "佩奇：现在他需要胳膊、眼睛和嘴巴。"
+	},
+	{
+		"en": "Narrator: George has found some sticks for the snowman’s arms.",
+		"cn": "旁白：乔治找来了一些树枝做雪人的胳膊。"
+	},
+	{
+		"en": "Narrator: Peppa has found some stones for the snowman’s eyes and mouth.",
+		"cn": "旁白：佩奇找来了一些石头做雪人的眼睛和嘴巴。"
+	},
+	{ "en": "Peppa Pig: This is his face.", "cn": "佩奇：这是他的脸。" },
+	{
+		"en": "Peppa Pig: Now the snowman needs a nose.",
+		"cn": "佩奇：现在雪人需要一个鼻子。"
+	},
+	{
+		"en": "Narrator: Peppa has got a carrot to make the snowman’s nose.",
+		"cn": "旁白：佩奇拿了根胡萝卜做雪人的鼻子。",
+		"sentence": {
+			"en": "Peppa has got a carrot to make the snowman’s nose.",
+			"cn": "佩奇拿了根胡萝卜做雪人的鼻子。",
+			"examples": [
+				{
+					"en": "Peppa has got a stick to make the snowman’s arm.",
+					"cn": "佩奇拿了一根树枝做雪人的胳膊。"
+				},
+				{
+					"en": "Peppa has got a stone to make the snowman’s eye.",
+					"cn": "佩奇拿了一块石头做雪人的眼睛。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: The snowman looks very happy, but maybe he is a bit cold.",
+		"cn": "旁白：雪人看起来很开心，但可能有点冷。",
+		"sentence": {
+			"en": "maybe he is a bit cold",
+			"cn": "可能有点冷",
+			"examples": [
+				{
+					"en": "maybe he is a bit tired",
+					"cn": "可能有点累"
+				},
+				{
+					"en": "maybe he is a bit hungry",
+					"cn": "可能有点饿"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: The snowman needs some clothes to keep him warm.",
+		"cn": "佩奇：雪人需要一些衣服来保暖。",
+		"sentence": {
+			"en": "The snowman needs some clothes to keep him warm.",
+			"cn": "雪人需要一些衣服来保暖。",
+			"examples": [
+				{
+					"en": "The snowman needs a hat to keep him warm.",
+					"cn": "雪人需要一顶帽子来保暖。"
+				},
+				{
+					"en": "The snowman needs a scarf to keep him warm.",
+					"cn": "雪人需要一条围巾来保暖。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: George has found some clothes to keep the snowman nice and warm.",
+		"cn": "旁白：乔治找来了一些衣服让雪人暖和起来。"
+	},
+	{
+		"en": "Narrator: The snowman is wearing his hat and scarf and gloves.",
+		"cn": "旁白：雪人戴上了帽子、围巾和手套。"
+	},
+	{
+		"en": "Peppa Pig: Mummy, Daddy, come and look.",
+		"cn": "佩奇：妈妈，爸爸，快来看。",
+		"sentence": {
+			"en": "come and look",
+			"cn": "快来看",
+			"examples": [
+				{
+					"en": "come and see",
+					"cn": "快来看看"
+				},
+				{
+					"en": "come and play",
+					"cn": "快来玩"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Mummy Pig is wearing her hat and scarf and gloves.",
+		"cn": "旁白：猪妈妈戴上了帽子、围巾和手套。"
+	},
+	{
+		"en": "Mummy Pig: That is the best snowman I have ever seen.",
+		"cn": "猪妈妈：这是我见过最棒的雪人。",
+		"sentence": {
+			"en": "the best snowman I have ever seen",
+			"cn": "我见过最棒的雪人",
+			"examples": [
+				{
+					"en": "the best cake I have ever tasted",
+					"cn": "我吃过最好吃的蛋糕"
+				},
+				{
+					"en": "the best game I have ever played",
+					"cn": "我玩过最棒的游戏"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Daddy Pig looks quite cold. He isn’t wearing his hat and scarf and gloves.",
+		"cn": "旁白：猪爸爸看起来很冷，他没有戴帽子、围巾和手套。"
+	},
+	{
+		"en": "Peppa Pig: Daddy, why aren’t you wearing your hat and scarf and gloves?",
+		"cn": "佩奇：爸爸，你为什么没戴帽子、围巾和手套？",
+		"sentence": {
+			"en": "why aren’t you wearing your hat and scarf and gloves?",
+			"cn": "你为什么没戴帽子、围巾和手套？",
+			"examples": [
+				{
+					"en": "why aren’t you wearing your coat?",
+					"cn": "你为什么没穿外套？"
+				},
+				{
+					"en": "why aren’t you wearing your boots?",
+					"cn": "你为什么没穿靴子？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: I don’t know where they are. I can’t find them anywhere.",
+		"cn": "猪爸爸：我不知道它们在哪，哪儿都找不到。",
+		"sentence": {
+			"en": "I can’t find them anywhere.",
+			"cn": "哪儿都找不到。",
+			"examples": [
+				{
+					"en": "I can’t find my keys anywhere.",
+					"cn": "哪儿都找不到我的钥匙。"
+				},
+				{
+					"en": "I can’t find my glasses anywhere.",
+					"cn": "哪儿都找不到我的眼镜。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Mummy Pig: I think I know where Daddy’s hat, scarf and gloves are.",
+		"cn": "猪妈妈：我想我知道爸爸的帽子、围巾和手套在哪。",
+		"sentence": {
+			"en": "I think I know where Daddy’s hat, scarf and gloves are.",
+			"cn": "我想我知道爸爸的帽子、围巾和手套在哪。",
+			"examples": [
+				{
+					"en": "I think I know who stole my lunch.",
+					"cn": "我想我知道谁偷了我的午餐。"
+				},
+				{
+					"en": "I think I know which book I left at school.",
+					"cn": "我想我知道我把哪本书落在学校了。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Daddy Pig’s hat and scarf and gloves are on the snowman.",
+		"cn": "旁白：猪爸爸的帽子、围巾和手套在雪人身上。"
+	},
+	{ "en": "Daddy Pig: Oh.", "cn": "猪爸爸：哦。" }
+]

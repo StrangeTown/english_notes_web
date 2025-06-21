@@ -1,0 +1,586 @@
+[
+	{
+		"en": "Narrator: Today Peppa and her family are going for a drive in their red car.",
+		"cn": "旁白：今天佩奇和她的家人要开着他们的红车去兜风。",
+		"points": [
+			{
+				"en": "going for a drive",
+				"cn": "去兜风"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: Shall we have the roof down?",
+		"cn": "猪爸爸：我们要把车顶打开吗？",
+		"points": [
+			{
+				"en": "have the roof down",
+				"cn": "把车顶打开"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Yes, please.", "cn": "佩奇：要，谢谢。" },
+	{
+		"en": "Narrator: Peppa and George love their car.",
+		"cn": "旁白：佩奇和乔治都很喜欢他们的车。"
+	},
+	{
+		"en": "Daddy Pig: Is everybody ready?",
+		"cn": "猪爸爸：大家都准备好了吗？",
+		"sentence": {
+			"en": "Is everybody ready?",
+			"cn": "大家都准备好了吗？",
+			"examples": [
+				{
+					"en": "Is everybody in the car?",
+					"cn": "大家都上车了吗？"
+				},
+				{
+					"en": "Is everybody happy?",
+					"cn": "大家都开心吗？"
+				}
+			]
+		}
+	},
+	{ "en": "Mummy Pig, Peppa Pig: Ready.", "cn": "猪妈妈、佩奇：准备好了。" },
+	{ "en": "Daddy Pig: Then let’s go.", "cn": "猪爸爸：那我们出发吧。" },
+	{ "en": "Peppa Pig: I love our car.", "cn": "佩奇：我喜欢我们的车。" },
+	{
+		"en": "Daddy Pig: And our car loves us, too. Don’t you?",
+		"cn": "猪爸爸：我们的车也喜欢我们，对吧？",
+		"points": [
+			{
+				"en": "Don’t you?",
+				"cn": "对吧？"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Oh, dear. The car does not sound very well.",
+		"cn": "旁白：哦，糟糕。车子听起来不太好。",
+		"sentence": {
+			"en": "The car does not sound very well.",
+			"cn": "车子听起来不太好。",
+			"examples": [
+				{
+					"en": "The engine does not sound very well.",
+					"cn": "发动机听起来不太好。"
+				},
+				{
+					"en": "The music does not sound very well.",
+					"cn": "音乐听起来不太好。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: What’s wrong, Daddy?",
+		"cn": "佩奇：怎么了，爸爸？",
+		"points": [
+			{
+				"en": "What’s wrong?",
+				"cn": "怎么了？"
+			}
+		]
+	},
+	{ "en": "Daddy Pig: I don’t know.", "cn": "猪爸爸：我不知道。" },
+	{
+		"en": "Mummy Pig: Let’s take it to Granddad Dog’s garage. He can fix it.",
+		"cn": "猪妈妈：我们去狗爷爷的修车厂吧，他能修好。"
+	},
+	{
+		"en": "Daddy Pig: That’s a good idea, Mummy Pig.",
+		"cn": "猪爸爸：好主意，猪妈妈。",
+		"points": [
+			{
+				"en": "That’s a good idea",
+				"cn": "好主意"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Granddad Dog runs the garage. He is very good at mending cars.",
+		"cn": "旁白：狗爷爷经营着修车厂，他很擅长修车。",
+		"points": [
+			{
+				"en": "Granddad Dog runs the garage",
+				"cn": "狗爷爷经营着修车厂"
+			},
+			{
+				"en": "mending cars",
+				"cn": "修车"
+			}
+		]
+	},
+	{
+		"en": "Granddad Dog: Oh, dear, Daddy Pig. Your car does not seem very well.",
+		"cn": "狗爷爷：哎呀，猪爸爸，你的车好像不太好。",
+		"sentence": {
+			"en": "Your car does not seem very well.",
+			"cn": "你的车好像不太好。",
+			"examples": [
+				{
+					"en": "Your bike does not seem very well.",
+					"cn": "你的自行车好像不太好。"
+				},
+				{
+					"en": "Your computer does not seem very well.",
+					"cn": "你的电脑好像不太好。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: Can you fix it please, Granddad Dog?",
+		"cn": "猪爸爸：狗爷爷，你能帮忙修一下吗？",
+		"points": [
+			{
+				"en": "Can you fix it please",
+				"cn": "你能帮忙修一下吗"
+			}
+		]
+	},
+	{
+		"en": "Granddad Dog: Yes, but it will take all day.",
+		"cn": "狗爷爷：可以，但要一整天。",
+		"sentence": {
+			"en": "It will take all day.",
+			"cn": "要一整天。",
+			"examples": [
+				{
+					"en": "It will take all morning.",
+					"cn": "要一整个早上。"
+				},
+				{
+					"en": "It will take all week.",
+					"cn": "要一整周。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig, Mummy Pig, Peppa Pig, George: Oh.",
+		"cn": "猪爸爸、猪妈妈、佩奇、乔治：哦。"
+	},
+	{
+		"en": "Peppa Pig: We wanted to go for a drive in our car.",
+		"cn": "佩奇：我们本来想开车兜风的。",
+		"sentence": {
+			"en": "We wanted to go for a drive in our car.",
+			"cn": "我们本来想开车兜风的。",
+			"examples": [
+				{
+					"en": "We wanted to go for a walk in the park.",
+					"cn": "我们本来想去公园散步的。"
+				},
+				{
+					"en": "We wanted to go for a picnic.",
+					"cn": "我们本来想去野餐的。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Granddad Dog: Don’t worry. You can borrow this new car while I fix yours.",
+		"cn": "狗爷爷：别担心，你们可以先用这辆新车，我来修你们的车。",
+		"sentence": {
+			"en": "You can borrow this new car while I fix yours.",
+			"cn": "你们可以先用这辆新车，我来修你们的车。",
+			"examples": [
+				{
+					"en": "You can borrow my umbrella while I fix yours.",
+					"cn": "你可以先用我的伞，我来修你的。"
+				},
+				{
+					"en": "You can borrow my book while I fix yours.",
+					"cn": "你可以先用我的书，我来修你的。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig, Mummy Pig, Peppa Pig, George: Hurrah!",
+		"cn": "猪爸爸、猪妈妈、佩奇、乔治：万岁！"
+	},
+	{
+		"en": "Daddy Pig: Thank you, Granddad Dog.",
+		"cn": "猪爸爸：谢谢你，狗爷爷。"
+	},
+	{
+		"en": "Granddad Dog: Would you like the roof down?",
+		"cn": "狗爷爷：要把车顶打开吗？"
+	},
+	{ "en": "Peppa Pig: Yes, please.", "cn": "佩奇：要，谢谢。" },
+	{
+		"en": "Granddad Dog: I’ll just press this red button.",
+		"cn": "狗爷爷：我按一下这个红色按钮。",
+		"points": [
+			{
+				"en": "press this red button",
+				"cn": "按一下这个红色按钮"
+			}
+		]
+	},
+	{
+		"en": "Narrator: What a clever car.",
+		"cn": "旁白：多聪明的车啊。",
+		"sentence": {
+			"en": "What a clever car.",
+			"cn": "多聪明的车啊。",
+			"examples": [
+				{
+					"en": "What a clever dog.",
+					"cn": "多聪明的狗啊。"
+				},
+				{
+					"en": "What a clever kid.",
+					"cn": "多聪明的孩子啊。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig, Mummy Pig, Peppa Pig, George: Wow.",
+		"cn": "猪爸爸、猪妈妈、佩奇、乔治：哇。"
+	},
+	{
+		"en": "Granddad Dog: When you come back, I will have fixed your car.",
+		"cn": "狗爷爷：等你们回来，我就把车修好了。",
+		"sentence": {
+			"en": "I will have fixed your car.",
+			"cn": "我就把车修好了。",
+			"examples": [
+				{
+					"en": "I will have cleaned the house.",
+					"cn": "我就把房子打扫干净了。"
+				},
+				{
+					"en": "I will have finished my homework.",
+					"cn": "我就完成作业了。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: Thank you, Granddad Dog. Goodbye.",
+		"cn": "猪爸爸：谢谢你，狗爷爷。再见。"
+	},
+	{ "en": "Mummy Pig: Goodbye.", "cn": "猪妈妈：再见。" },
+	{ "en": "Peppa Pig: Bye-bye.", "cn": "佩奇：再见。" },
+	{ "en": "Granddad Dog: Goodbye.", "cn": "狗爷爷：再见。" },
+	{
+		"en": "Narrator: Peppa and her family like the new blue car.",
+		"cn": "旁白：佩奇一家很喜欢这辆新蓝车。"
+	},
+	{
+		"en": "Daddy Pig: There’s so many buttons in this new car.",
+		"cn": "猪爸爸：这辆新车有好多按钮。",
+		"sentence": {
+			"en": "There’s so many buttons in this new car.",
+			"cn": "这辆新车有好多按钮。",
+			"examples": [
+				{
+					"en": "There’s so many toys in this new box.",
+					"cn": "这个新盒子里有好多玩具。"
+				},
+				{
+					"en": "There’s so many books in this new library.",
+					"cn": "这个新图书馆里有好多书。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: What does the green button do, Daddy?",
+		"cn": "佩奇：爸爸，绿色按钮是干什么的？",
+		"sentence": {
+			"en": "What does the green button do?",
+			"cn": "绿色按钮是干什么的？",
+			"examples": [
+				{
+					"en": "What does the red table do?",
+					"cn": "红色桌子是干什么的？"
+				},
+				{
+					"en": "What does the yellow light do?",
+					"cn": "黄色灯是干什么的？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: Let’s see.",
+		"cn": "猪爸爸：让我看看。",
+		"points": [
+			{
+				"en": "Let’s see",
+				"cn": "让我看看"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Magic windows.", "cn": "佩奇：魔法车窗。" },
+	{
+		"en": "Peppa Pig: Daddy, make the magic windows go down.",
+		"cn": "佩奇：爸爸，让魔法车窗降下来。"
+	},
+	{
+		"en": "Peppa Pig: What does the blue button do?",
+		"cn": "佩奇：蓝色按钮是干什么的？"
+	},
+	{
+		"en": "Daddy Pig: I don’t know. Let’s see.",
+		"cn": "猪爸爸：我不知道，让我看看。"
+	},
+	{
+		"en": "Peppa Pig: I love this new car. Can we keep it?",
+		"cn": "佩奇：我喜欢这辆新车，我们能留下它吗？",
+		"sentence": {
+			"en": "Can we keep it?",
+			"cn": "我们能留下它吗？",
+			"examples": [
+				{
+					"en": "Can we keep the puppy?",
+					"cn": "我们能留下小狗吗？"
+				},
+				{
+					"en": "Can we keep the toy?",
+					"cn": "我们能留下这个玩具吗？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Mummy Pig: No, we can’t keep it, Peppa. We’ve only borrowed it for today.",
+		"cn": "猪妈妈：不行，佩奇，我们只是借一天。",
+		"sentence": {
+			"en": "We’ve only borrowed it for today.",
+			"cn": "我们只是借一天。",
+			"examples": [
+				{
+					"en": "We’ve only borrowed it for the weekend.",
+					"cn": "我们只是借周末。"
+				},
+				{
+					"en": "We’ve only borrowed it for a week.",
+					"cn": "我们只是借一周。"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig and George: Oh.", "cn": "佩奇和乔治：哦。" },
+	{
+		"en": "Mummy Pig: Oh, no. I think it’s going to rain.",
+		"cn": "猪妈妈：哦，不。我觉得要下雨了。",
+		"sentence": {
+			"en": "I think it’s going to rain.",
+			"cn": "我觉得要下雨了。",
+			"examples": [
+				{
+					"en": "I think it’s going to snow.",
+					"cn": "我觉得要下雪了。"
+				},
+				{
+					"en": "I think it’s going to be sunny.",
+					"cn": "我觉得会是晴天。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: Yes, I’ll just put the roof up.",
+		"cn": "猪爸爸：是的，我把车顶关上。"
+	},
+	{
+		"en": "Daddy Pig: Now, which is the button to close the roof?",
+		"cn": "猪爸爸：现在，哪个按钮是关车顶的？",
+		"sentence": {
+			"en": "Which is the button to close the roof?",
+			"cn": "哪个按钮是关车顶的？",
+			"examples": [
+				{
+					"en": "Which is the button to open the door?",
+					"cn": "哪个按钮是开门的？"
+				},
+				{
+					"en": "Which is the button to turn on the light?",
+					"cn": "哪个按钮是开灯的？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: Whoops. Silly me. Ah ha! This must be the button.",
+		"cn": "猪爸爸：哎呀，我真糊涂。啊哈！一定是这个按钮。",
+		"sentence": {
+			"en": "This must be the button.",
+			"cn": "一定是这个按钮。",
+			"examples": [
+				{
+					"en": "This must be the right way.",
+					"cn": "一定是这条路。"
+				},
+				{
+					"en": "This must be the answer.",
+					"cn": "一定是答案。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: The new car has squirted Daddy Pig with water.",
+		"cn": "旁白：新车喷水到猪爸爸身上了。",
+		"points": [
+			{
+				"en": "squirted Daddy Pig with water",
+				"cn": "喷水到猪爸爸身上"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Silly Daddy. That’s not the roof.",
+		"cn": "佩奇：傻爸爸，那不是关车顶的。"
+	},
+	{ "en": "Daddy Pig: This button.", "cn": "猪爸爸：这个按钮。" },
+	{
+		"en": "Daddy Pig: Whoops. Not that one.",
+		"cn": "猪爸爸：哎呀，不是这个。",
+		"points": [
+			{
+				"en": "Not that one",
+				"cn": "不是这个"
+			}
+		]
+	},
+	{ "en": "Daddy Pig: This button.", "cn": "猪爸爸：这个按钮。" },
+	{
+		"en": "Narrator: Daddy Pig has forgotten which button closes the roof.",
+		"cn": "旁白：猪爸爸忘了哪个按钮关车顶。",
+		"sentence": {
+			"en": "Daddy Pig has forgotten which button closes the roof.",
+			"cn": "猪爸爸忘了哪个按钮关车顶。",
+			"examples": [
+				{
+					"en": "Daddy Pig has forgotten which button opens the door.",
+					"cn": "猪爸爸忘了哪个按钮开门。"
+				},
+				{
+					"en": "Daddy Pig has forgotten which button turns on the light.",
+					"cn": "猪爸爸忘了哪个按钮开灯。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: I don’t think this car likes me.",
+		"cn": "猪爸爸：我觉得这辆车不喜欢我。"
+	},
+	{
+		"en": "Mummy Pig: Let’s try the red button.",
+		"cn": "猪妈妈：试试红色按钮吧。"
+	},
+	{
+		"en": "Daddy Pig, Mummy Pig, Peppa Pig, George: Hurrah!",
+		"cn": "猪爸爸、猪妈妈、佩奇、乔治：万岁！"
+	},
+	{
+		"en": "Mummy Pig: But now it’s stopped raining.",
+		"cn": "猪妈妈：不过现在雨停了。",
+		"sentence": {
+			"en": "Now it’s stopped raining.",
+			"cn": "现在雨停了。",
+			"examples": [
+				{
+					"en": "Now it’s stopped snowing.",
+					"cn": "现在雪停了。"
+				},
+				{
+					"en": "Now it’s stopped being windy.",
+					"cn": "现在风停了。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Can we open the roof again?",
+		"cn": "佩奇：我们能再打开车顶吗？"
+	},
+	{
+		"en": "Daddy Pig: Yes. Which button was it?",
+		"cn": "猪爸爸：可以，哪个按钮？"
+	},
+	{
+		"en": "Mummy Pig, Peppa Pig, George: The red one.",
+		"cn": "猪妈妈、佩奇、乔治：红色的。"
+	},
+	{
+		"en": "Daddy Pig, Mummy Pig, Peppa Pig, George: Hurrah!",
+		"cn": "猪爸爸、猪妈妈、佩奇、乔治：万岁！"
+	},
+	{
+		"en": "Narrator: Granddad Dog has fixed the car.",
+		"cn": "旁白：狗爷爷把车修好了。"
+	},
+	{ "en": "Granddad Dog: Your car is fixed.", "cn": "狗爷爷：你的车修好了。" },
+	{
+		"en": "Daddy Pig, Mummy Pig, Peppa Pig, George: Hurrah!",
+		"cn": "猪爸爸、猪妈妈、佩奇、乔治：万岁！"
+	},
+	{
+		"en": "Daddy Pig: Thank you, Granddad Dog. Keep the change.",
+		"cn": "猪爸爸：谢谢你，狗爷爷，不用找了。",
+		"points": [
+			{
+				"en": "Keep the change",
+				"cn": "不用找了"
+			}
+		]
+	},
+	{
+		"en": "Granddad Dog: Thank you, Daddy Pig.",
+		"cn": "狗爷爷：谢谢你，猪爸爸。"
+	},
+	{ "en": "Granddad Dog: Goodbye.", "cn": "狗爷爷：再见。" },
+	{ "en": "Daddy Pig: Goodbye.", "cn": "猪爸爸：再见。" },
+	{ "en": "Mummy Pig: Goodbye.", "cn": "猪妈妈：再见。" },
+	{ "en": "Peppa Pig: Bye-bye.", "cn": "佩奇：再见。" },
+	{
+		"en": "Daddy Pig: It’s good to get our old car back again.",
+		"cn": "猪爸爸：能把我们的老车开回来真好。",
+		"sentence": {
+			"en": "It’s good to get our old car back again.",
+			"cn": "能把我们的老车开回来真好。",
+			"examples": [
+				{
+					"en": "It’s good to get my old toy back again.",
+					"cn": "能把我的旧玩具拿回来真好。"
+				},
+				{
+					"en": "It’s good to get my old book back again.",
+					"cn": "能把我的旧书拿回来真好。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: I like the new car, but I like our old car better.",
+		"cn": "佩奇：我喜欢新车，但我更喜欢我们的老车。",
+		"sentence": {
+			"en": "I like our old car better.",
+			"cn": "我更喜欢我们的老车。",
+			"examples": [
+				{
+					"en": "I like my old bike better.",
+					"cn": "我更喜欢我的旧自行车。"
+				},
+				{
+					"en": "I like my old computer better.",
+					"cn": "我更喜欢我的旧电脑。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: And I think our old car likes us too. Don’t you.",
+		"cn": "猪爸爸：我觉得我们的老车也喜欢我们，对吧。"
+	}
+]
