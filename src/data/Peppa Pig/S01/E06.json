@@ -1,0 +1,537 @@
+[
+	{
+		"en": "Narrator: Peppa and George are going to the playgroup. It is George’s first day.",
+		"cn": "旁白：佩奇和乔治要去幼儿园了。这是乔治的第一天。",
+		"sentence": {
+			"en": "It is George’s first day.",
+			"cn": "这是乔治的第一天。",
+			"examples": [
+				{
+					"en": "It is Peppa’s birthday.",
+					"cn": "今天是佩奇的生日。"
+				},
+				{
+					"en": "It is Daddy Pig’s day off.",
+					"cn": "今天是猪爸爸的休息日。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: George, are you looking forward to the playgroup?",
+		"cn": "猪爸爸：乔治，你期待去幼儿园吗？",
+		"sentence": {
+			"en": "Are you looking forward to the playgroup?",
+			"cn": "你期待去幼儿园吗？",
+			"examples": [
+				{
+					"en": "Are you looking forward to the party?",
+					"cn": "你期待派对吗？"
+				},
+				{
+					"en": "Are you looking forward to the holiday?",
+					"cn": "你期待假期吗？"
+				}
+			]
+		}
+	},
+	{ "en": "George: Oink, oink.", "cn": "乔治：哼哼。" },
+	{
+		"en": "Peppa Pig: Daddy, maybe George is too small to go to my playgroup.",
+		"cn": "佩奇：爸爸，也许乔治太小了，不能去我的幼儿园。",
+		"sentence": {
+			"en": "Maybe George is too small to go to my playgroup.",
+			"cn": "也许乔治太小了，不能去我的幼儿园。",
+			"examples": [
+				{
+					"en": "Maybe Peppa is too small to ride a bike.",
+					"cn": "也许佩奇太小了，不能骑自行车。"
+				},
+				{
+					"en": "Maybe Daddy Pig is too big to fit in the car.",
+					"cn": "也许猪爸爸太大了，不能坐进车里。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: He’ll be fine, Peppa. There’ll be you and Mr Dinosaur there to keep him company.",
+		"cn": "猪爸爸：他会没事的，佩奇。有你和恐龙先生陪着他。",
+		"sentence": {
+			"en": "There’ll be you and Mr Dinosaur there to keep him company.",
+			"cn": "有你和恐龙先生陪着他。",
+			"examples": [
+				{
+					"en": "There’ll be Mummy Pig and Teddy there to keep you company.",
+					"cn": "有猪妈妈和泰迪熊陪着你。"
+				},
+				{
+					"en": "There’ll be Suzy Sheep and her doll there to keep you company.",
+					"cn": "有苏茜羊和她的洋娃娃陪着你。"
+				}
+			]
+		}
+	},
+	{ "en": "George: Grrr, Dinosaur.", "cn": "乔治：嗷呜，恐龙。" },
+	{
+		"en": "Peppa Pig: But I want to play with the big children, not George and his toy dinosaur.",
+		"cn": "佩奇：但我想和大孩子们玩，不想和乔治还有他的恐龙玩具玩。"
+	},
+	{
+		"en": "Narrator: Oh, dear. Peppa doesn’t want George to go to her playgroup.",
+		"cn": "旁白：哎呀，佩奇不想让乔治去她的幼儿园。",
+		"sentence": {
+			"en": "Peppa doesn’t want George to go to her playgroup.",
+			"cn": "佩奇不想让乔治去她的幼儿园。",
+			"examples": [
+				{
+					"en": "Peppa doesn’t want George to play with her toys.",
+					"cn": "佩奇不想让乔治玩她的玩具。"
+				},
+				{
+					"en": "Peppa doesn’t want George to eat her ice cream.",
+					"cn": "佩奇不想让乔治吃她的冰淇淋。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: We’re here.",
+		"cn": "猪爸爸：我们到了。",
+		"points": [
+			{
+				"en": "We’re here.",
+				"cn": "我们到了。"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Daddy, are you sure George is big enough?",
+		"cn": "佩奇：爸爸，你确定乔治够大了吗？",
+		"sentence": {
+			"en": "Are you sure George is big enough?",
+			"cn": "你确定乔治够大了吗？",
+			"examples": [
+				{
+					"en": "Are you sure Peppa is old enough?",
+					"cn": "你确定佩奇够大了吗？"
+				},
+				{
+					"en": "Are you sure Daddy Pig is strong enough?",
+					"cn": "你确定猪爸爸够强壮吗？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: He’ll be fine.",
+		"cn": "猪爸爸：他会没事的。",
+		"points": [
+			{
+				"en": "He’ll be fine.",
+				"cn": "他会没事的。"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: All right, he can come.",
+		"cn": "佩奇：好吧，他可以来。"
+	},
+	{ "en": "Daddy Pig: Bye-bye.", "cn": "猪爸爸：再见。" },
+	{
+		"en": "Narrator: Madame Gazelle looks after the children at the playgroup.",
+		"cn": "旁白：羚羊老师在幼儿园照顾孩子们。",
+		"points": [
+			{
+				"en": "looks after",
+				"cn": "照顾"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Hello. This is my little brother George.",
+		"cn": "佩奇：你好，这是我弟弟乔治。",
+		"points": [
+			{
+				"en": "little brother",
+				"cn": "弟弟"
+			}
+		]
+	},
+	{ "en": "Madame Gazelle: Hello, George.", "cn": "羚羊老师：你好，乔治。" },
+	{
+		"en": "Suzy Sheep: I wish I had a little brother like George.",
+		"cn": "苏茜羊：我真希望我也有个像乔治这样的弟弟。",
+		"sentence": {
+			"en": "I wish I had a little brother like George.",
+			"cn": "我真希望我也有个像乔治这样的弟弟。",
+			"examples": [
+				{
+					"en": "I wish I had a little sister like Peppa.",
+					"cn": "我真希望我也有个像佩奇这样的妹妹。"
+				},
+				{
+					"en": "I wish I had a big brother like Danny.",
+					"cn": "我真希望我也有个像丹尼狗这样的哥哥。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Really?",
+		"cn": "佩奇：真的吗？",
+		"points": [
+			{
+				"en": "Really?",
+				"cn": "真的吗？"
+			}
+		]
+	},
+	{
+		"en": "Danny Dog: Hello, I’m Danny Dog. Is that a dinosaur?",
+		"cn": "丹尼狗：你好，我是丹尼狗。那是恐龙吗？"
+	},
+	{
+		"en": "Peppa Pig: It’s just a toy dinosaur.",
+		"cn": "佩奇：那只是个恐龙玩具。",
+		"sentence": {
+			"en": "It’s just a toy dinosaur.",
+			"cn": "那只是个恐龙玩具。",
+			"examples": [
+				{
+					"en": "It’s just a toy car.",
+					"cn": "那只是个玩具车。"
+				},
+				{
+					"en": "It’s just a toy teddy bear.",
+					"cn": "那只是个泰迪熊玩具。"
+				}
+			]
+		}
+	},
+	{ "en": "George: Grrr, dinosaur.", "cn": "乔治：嗷呜，恐龙。" },
+	{
+		"en": "Danny Dog: Brilliant.",
+		"cn": "丹尼狗：太棒了。",
+		"points": [
+			{
+				"en": "Brilliant.",
+				"cn": "太棒了。"
+			}
+		]
+	},
+	{ "en": "George: Dinosaur, grrr.", "cn": "乔治：恐龙，嗷呜。" },
+	{ "en": "George: Dinosaur, grrr.", "cn": "乔治：恐龙，嗷呜。" },
+	{
+		"en": "Madame Gazelle: Really scary.",
+		"cn": "羚羊老师：真吓人。",
+		"points": [
+			{
+				"en": "Really scary.",
+				"cn": "真吓人。"
+			}
+		]
+	},
+	{ "en": "Danny Dog: That’s brilliant.", "cn": "丹尼狗：太棒了。" },
+	{
+		"en": "Peppa Pig: George is my brother. He’s brilliant.",
+		"cn": "佩奇：乔治是我弟弟，他很棒。"
+	},
+	{
+		"en": "Narrator: Peppa is proud of her little brother George.",
+		"cn": "旁白：佩奇为她的弟弟乔治感到骄傲。",
+		"points": [
+			{
+				"en": "is proud of",
+				"cn": "感到骄傲"
+			}
+		]
+	},
+	{
+		"en": "Madame Gazelle: Shall we show George how we paint pictures?",
+		"cn": "羚羊老师：我们要不要教乔治怎么画画？",
+		"sentence": {
+			"en": "Shall we show George how we paint pictures?",
+			"cn": "我们要不要教乔治怎么画画？",
+			"examples": [
+				{
+					"en": "Shall we show Peppa how we play games?",
+					"cn": "我们要不要教佩奇怎么玩游戏？"
+				},
+				{
+					"en": "Shall we show Danny how we sing songs?",
+					"cn": "我们要不要教丹尼狗怎么唱歌？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: George is not very good at painting.",
+		"cn": "佩奇：乔治画画不太好。",
+		"sentence": {
+			"en": "George is not very good at painting.",
+			"cn": "乔治画画不太好。",
+			"examples": [
+				{
+					"en": "Peppa is not very good at singing.",
+					"cn": "佩奇唱歌不太好。"
+				},
+				{
+					"en": "Daddy Pig is not very good at cooking.",
+					"cn": "猪爸爸做饭不太好。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Madame Gazelle: Well, maybe you could help him.",
+		"cn": "羚羊老师：那你可以帮帮他。",
+		"sentence": {
+			"en": "Maybe you could help him.",
+			"cn": "那你可以帮帮他。",
+			"examples": [
+				{
+					"en": "Maybe you could help her.",
+					"cn": "那你可以帮帮她。"
+				},
+				{
+					"en": "Maybe you could help me.",
+					"cn": "那你可以帮帮我。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Yes, I’m very good. I will show him how to paint a flower.",
+		"cn": "佩奇：我很厉害，我来教他怎么画花。"
+	},
+	{
+		"en": "Peppa Pig: George, today I’m going to teach you how to paint a flower.",
+		"cn": "佩奇：乔治，今天我要教你画花。",
+		"sentence": {
+			"en": "I’m going to teach you how to paint a flower.",
+			"cn": "我要教你怎么画花。",
+			"examples": [
+				{
+					"en": "I’m going to teach you how to play football.",
+					"cn": "我要教你怎么踢足球。"
+				},
+				{
+					"en": "I’m going to teach you how to ride a bike.",
+					"cn": "我要教你怎么骑自行车。"
+				}
+			]
+		}
+	},
+	{ "en": "George: Oink, oink.", "cn": "乔治：哼哼。" },
+	{
+		"en": "Peppa Pig: First you paint a big circle.",
+		"cn": "佩奇：首先你要画一个大圆圈。",
+		"points": [
+			{
+				"en": "a big circle.",
+				"cn": "一个大圆圈。"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: No, George. That’s the wrong colour.",
+		"cn": "佩奇：不对，乔治，那是错的颜色。",
+		"sentence": {
+			"en": "That’s the wrong colour.",
+			"cn": "那是错的颜色。",
+			"examples": [
+				{
+					"en": "That’s the wrong shape.",
+					"cn": "那是错的形状。"
+				},
+				{
+					"en": "That’s the wrong size.",
+					"cn": "那是错的大小。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Now you paint the flower’s petals.",
+		"cn": "佩奇：现在你画花瓣。",
+		"points": [
+			{
+				"en": "flower’s petals.",
+				"cn": "花瓣。"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: George, that’s the wrong shape.",
+		"cn": "佩奇：乔治，那是错的形状。"
+	},
+	{
+		"en": "Peppa Pig: Now you paint the stalk and the leaves.",
+		"cn": "佩奇：现在你画花茎和叶子。",
+		"points": [
+			{
+				"en": "the stalk and the leaves.",
+				"cn": "花茎和叶子。"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Perfect.",
+		"cn": "佩奇：太棒了。",
+		"points": [
+			{
+				"en": "Perfect.",
+				"cn": "太棒了。"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: George, you’ve done it all wrong.",
+		"cn": "佩奇：乔治，你全画错了。",
+		"sentence": {
+			"en": "You’ve done it all wrong.",
+			"cn": "你全画错了。",
+			"examples": [
+				{
+					"en": "You’ve said it all wrong.",
+					"cn": "你全说错了。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Madame Gazelle: Now, what do we have here?",
+		"cn": "羚羊老师：现在我们看看这里画了什么？",
+		"sentence": {
+			"en": "What do we have here?",
+			"cn": "我们看看这里画了什么？",
+			"examples": [
+				{
+					"en": "What do we have here? A lovely picture.",
+					"cn": "我们看看这里画了什么？一幅漂亮的画。"
+				},
+				{
+					"en": "What do we have here? A delicious cake.",
+					"cn": "我们看看这里做了什么？一个美味的蛋糕。"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig: I’ve painted a flower.", "cn": "佩奇：我画了一朵花。" },
+	{
+		"en": "Madame Gazelle: That’s very good, Peppa. And George has painted a dinosaur.",
+		"cn": "羚羊老师：画得很好，佩奇。乔治画了一只恐龙。",
+		"points": [
+			{
+				"en": "That's very good",
+				"cn": "画得很好"
+			}
+		]
+	},
+	{ "en": "George: Grrr, dinosaur.", "cn": "乔治：嗷呜，恐龙。" },
+	{ "en": "Danny Dog: Brilliant.", "cn": "丹尼狗：太棒了。" },
+	{
+		"en": "Madame Gazelle: I think George and Peppa’s pictures should go on the wall.",
+		"cn": "羚羊老师：我觉得乔治和佩奇的画应该贴在墙上。",
+		"sentence": {
+			"en": "should go on the wall.",
+			"cn": "应该贴在墙上。",
+			"examples": [
+				{
+					"en": "should go on the fridge.",
+					"cn": "应该贴在冰箱上。"
+				},
+				{
+					"en": "should go in the book.",
+					"cn": "应该放在书里。"
+				}
+			]
+		}
+	},
+	{
+		"en": "The Children: Hurrah!",
+		"cn": "孩子们：万岁！",
+		"points": [
+			{
+				"en": "Hurrah!",
+				"cn": "万岁！"
+			}
+		]
+	},
+	{
+		"en": "Madame Gazelle: Peppa, you must be very proud of your little brother.",
+		"cn": "羚羊老师：佩奇，你一定为你的弟弟感到骄傲。",
+		"sentence": {
+			"en": "You must be very proud of your little brother.",
+			"cn": "你一定为你的弟弟感到骄傲。",
+			"examples": [
+				{
+					"en": "You must be very proud of your sister.",
+					"cn": "你一定为你的妹妹感到骄傲。"
+				},
+				{
+					"en": "You must be very proud of your friend.",
+					"cn": "你一定为你的朋友感到骄傲。"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig: Yes, I am.", "cn": "佩奇：是的，我很骄傲。" },
+	{
+		"en": "Narrator: It is home time, and the children’s parents are here to pick them up.",
+		"cn": "旁白：放学时间到了，孩子们的家长来接他们了。",
+		"points": [
+			{
+				"en": "It is home time.",
+				"cn": "放学时间到了。"
+			},
+			{
+				"en": "pick them up.",
+				"cn": "接他们。"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Can George come next time?",
+		"cn": "佩奇：乔治下次还能来吗？",
+		"points": [
+			{
+				"en": "next time",
+				"cn": "下次"
+			}
+		]
+	},
+	{
+		"en": "Madame Gazelle: Yes, and he can paint us another lovely picture. And what will you paint next time, George?",
+		"cn": "羚羊老师：可以，他下次还能画一幅漂亮的画。乔治，你下次想画什么？",
+		"points": [
+			{
+				"en": "lovely picture",
+				"cn": "漂亮的画"
+			}
+		]
+	},
+	{ "en": "George: Dinosaur, grrr.", "cn": "乔治：恐龙，嗷呜。" },
+	{
+		"en": "Madame Gazelle: Another dinosaur picture? Well, maybe you can show us all how to paint a dinosaur.",
+		"cn": "羚羊老师：又是恐龙画？那你可以教大家怎么画恐龙。",
+		"sentence": {
+			"en": "Maybe you can show us all how to paint a dinosaur.",
+			"cn": "那你可以教大家怎么画恐龙。",
+			"examples": [
+				{
+					"en": "Maybe you can show us all how to play a game.",
+					"cn": "那你可以教大家怎么玩游戏。"
+				},
+				{
+					"en": "Maybe you can show us all how to bake a cake.",
+					"cn": "那你可以教大家怎么烤蛋糕。"
+				}
+			]
+		}
+	},
+	{ "en": "Danny Dog: Brilliant.", "cn": "丹尼狗：太棒了。" },
+	{ "en": "Peppa Pig: Yes, brilliant.", "cn": "佩奇：是的，太棒了。" },
+	{ "en": "George: Brilliant.", "cn": "乔治：太棒了。" }
+]

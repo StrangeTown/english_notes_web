@@ -1,0 +1,667 @@
+[
+	{
+		"en": "Narrator: Peppa and her family are going camping.",
+		"cn": "旁白：佩奇和她的家人要去露营。",
+		"points": [
+			{
+				"en": "going camping",
+				"cn": "去露营"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: I love camping. We’re here.",
+		"cn": "猪爸爸：我喜欢露营。我们到了。",
+		"points": [
+			{
+				"en": "We’re here",
+				"cn": "我们到了"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: Peppa, George, this is the tent I had when I was a little boy.",
+		"cn": "猪爸爸：佩奇，乔治，这是我小时候用的帐篷。",
+		"sentence": {
+			"en": "This is the tent I had when I was a little boy.",
+			"cn": "这是我小时候用的帐篷。",
+			"examples": [
+				{
+					"en": "This is the bike I had when I was a little girl.",
+					"cn": "这是我小时候用的自行车。"
+				},
+				{
+					"en": "This is the teddy bear I had when I was a baby.",
+					"cn": "这是我小时候用的泰迪熊。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Daddy, how are you going to make that into a tent?",
+		"cn": "佩奇：爸爸，你怎么把它变成帐篷？",
+		"sentence": {
+			"en": "how are you going to make that into a tent?",
+			"cn": "你怎么把它变成帐篷？",
+			"examples": [
+				{
+					"en": "how are you going to make that into a car?",
+					"cn": "你怎么把它变成汽车？"
+				},
+				{
+					"en": "how are you going to make that into a cake?",
+					"cn": "你怎么把它变成蛋糕？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: Don’t worry, Peppa. I’m an expert at camping. Mummy Pig, put the tent on the poles, please.",
+		"cn": "猪爸爸：别担心，佩奇。我是露营专家。猪妈妈，请把帐篷放到杆子上。",
+		"points": [
+			{
+				"en": "Don’t worry",
+				"cn": "别担心"
+			},
+			{
+				"en": "I’m an expert at camping",
+				"cn": "我是露营专家"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: That’s it. Easy as pie.",
+		"cn": "猪爸爸：好了。轻而易举。",
+		"points": [
+			{
+				"en": "Easy as pie",
+				"cn": "轻而易举"
+			}
+		]
+	},
+	{ "en": "Daddy Pig: Ooo.", "cn": "猪爸爸：哦。" },
+	{
+		"en": "Mummy Pig: Do these pegs do anything?",
+		"cn": "猪妈妈：这些钉子有用吗？",
+		"sentence": {
+			"en": "Do these pegs do anything?",
+			"cn": "这些钉子有用吗？",
+			"examples": [
+				{
+					"en": "Do these ropes do anything?",
+					"cn": "这些绳子有用吗？"
+				},
+				{
+					"en": "Do these buttons do anything?",
+					"cn": "这些按钮有用吗？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: Of course, I forgot about the pegs.",
+		"cn": "猪爸爸：当然有用，我忘了钉子。",
+		"sentence": {
+			"en": "I forgot about the pegs.",
+			"cn": "我忘了钉子。",
+			"examples": [
+				{
+					"en": "I forgot about the ropes.",
+					"cn": "我忘了绳子。"
+				},
+				{
+					"en": "I forgot about the buttons.",
+					"cn": "我忘了按钮。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Pegs hold the tent up.",
+		"cn": "旁白：钉子可以把帐篷固定住。",
+		"sentence": {
+			"en": "Pegs hold the tent up.",
+			"cn": "钉子可以把帐篷固定住。",
+			"examples": [
+				{
+					"en": "Ropes hold the boat in place.",
+					"cn": "绳子可以把船固定在原地。"
+				},
+				{
+					"en": "Buttons hold the shirt together.",
+					"cn": "按钮可以把衬衫扣在一起。"
+				}
+			]
+		}
+	},
+	{ "en": "Daddy Pig: There.", "cn": "猪爸爸：好了。" },
+	{
+		"en": "Peppa Pig: The tent is a bit little.",
+		"cn": "佩奇：帐篷有点小。",
+		"points": [
+			{
+				"en": "a bit little",
+				"cn": "有点小"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: It was big enough for me when I was a boy, but it does look a bit small now.",
+		"cn": "猪爸爸：我小时候它够大，但现在看起来有点小。",
+		"points": [
+			{
+				"en": "big enough",
+				"cn": "够大"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: That’s because you’ve grown a bit since you were a boy, Daddy Pig.",
+		"cn": "猪妈妈：那是因为你长大了，猪爸爸。",
+		"points": [
+			{
+				"en": "you’ve grown a bit",
+				"cn": "你长大了"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: And your tummy has grown the most of all.",
+		"cn": "佩奇：而且你的肚子长得最多。",
+		"points": [
+			{
+				"en": "the most of all",
+				"cn": "最多"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: Talking of tummies, we should cook supper.",
+		"cn": "猪爸爸：说到肚子，我们该做晚饭了。",
+		"sentence": {
+			"en": "Talking of tummies",
+			"cn": "说到肚子",
+			"examples": [
+				{
+					"en": "Talking of toys, let’s play with them.",
+					"cn": "说到玩具，我们来玩吧。"
+				},
+				{
+					"en": "Talking of food, I’m hungry.",
+					"cn": "说到食物，我饿了。"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig: Yes, yes.", "cn": "佩奇：好呀，好呀。" },
+	{
+		"en": "Daddy Pig: First we have to collect sticks to make a fire.",
+		"cn": "猪爸爸：我们得先捡些木棍生火。",
+		"points": [
+			{
+				"en": "collect sticks",
+				"cn": "捡木棍"
+			},
+			{
+				"en": "make a fire",
+				"cn": "生火"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Yippee.", "cn": "佩奇：耶！" },
+	{
+		"en": "Narrator: Peppa and George are helping Daddy Pig collect sticks for the campfire.",
+		"cn": "旁白：佩奇和乔治在帮猪爸爸捡柴火。"
+	},
+	{
+		"en": "Peppa Pig: George, I’ll pick up the sticks and you can carry them.",
+		"cn": "佩奇：乔治，我捡木棍，你来拿。",
+		"sentence": {
+			"en": "I’ll pick up the sticks and you can carry them.",
+			"cn": "我捡木棍，你来拿。",
+			"examples": [
+				{
+					"en": "I’ll pick up the toys and you can put them away.",
+					"cn": "我捡玩具，你来收拾。"
+				},
+				{
+					"en": "I’ll pick up the books and you can carry them.",
+					"cn": "我捡书，你来拿。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Collecting sticks is fun.",
+		"cn": "佩奇：捡木棍真有趣。"
+	},
+	{
+		"en": "Daddy Pig: Good, that’s enough sticks.",
+		"cn": "猪爸爸：好了，木棍够了。",
+		"points": [
+			{
+				"en": "that’s enough",
+				"cn": "够了"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: That’s a splendid campfire. Now I’ll light it.",
+		"cn": "猪爸爸：这堆篝火真棒。现在我来点火。",
+		"points": [
+			{
+				"en": "a splendid campfire",
+				"cn": "一堆棒极了的篝火"
+			},
+			{
+				"en": "light it",
+				"cn": "点火"
+			}
+		]
+	},
+	{ "en": "Mummy Pig: Here are the matches.", "cn": "猪妈妈：火柴在这儿。" },
+	{
+		"en": "Daddy Pig: We don’t need matches.",
+		"cn": "猪爸爸：我们不需要火柴。",
+		"sentence": {
+			"en": "We don’t need matches.",
+			"cn": "我们不需要火柴。",
+			"examples": [
+				{
+					"en": "We don’t need a map.",
+					"cn": "我们不需要地图。"
+				},
+				{
+					"en": "We don’t need a car.",
+					"cn": "我们不需要汽车。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Daddy, how can you light it without matches?",
+		"cn": "佩奇：爸爸，不用火柴怎么点火？",
+		"sentence": {
+			"en": "how can you light it without matches?",
+			"cn": "不用火柴怎么点火？",
+			"examples": [
+				{
+					"en": "how can you cook it without a stove?",
+					"cn": "不用炉子怎么做饭？"
+				},
+				{
+					"en": "how can you fix it without tools?",
+					"cn": "不用工具怎么修理？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: I’m going to make fire the old way. By simply rubbing these two sticks together.",
+		"cn": "猪爸爸：我要用老方法生火。只要把这两根木棍摩擦在一起。",
+		"sentence": {
+			"en": "I’m going to make fire the old way.",
+			"cn": "我要用老方法生火。",
+			"examples": [
+				{
+					"en": "I’m going to make a cake the old way.",
+					"cn": "我要用老方法做蛋糕。"
+				},
+				{
+					"en": "I’m going to fix it the old way.",
+					"cn": "我要用老方法修理它。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Daddy Pig is rubbing the two sticks together to light the campfire.",
+		"cn": "旁白：猪爸爸正在摩擦两根木棍点燃篝火。",
+		"points": [
+			{
+				"en": "rubbing the two sticks together",
+				"cn": "摩擦两根木棍"
+			},
+			{
+				"en": "to light the campfire",
+				"cn": "点燃篝火"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Where’s the fire, Daddy?", "cn": "佩奇：火呢，爸爸？" },
+	{
+		"en": "Daddy Pig: Nearly there.",
+		"cn": "猪爸爸：快好了。",
+		"points": [
+			{
+				"en": "Nearly there",
+				"cn": "快好了"
+			}
+		]
+	},
+	{
+		"en": "Peppa, Mummy Pig and George: Hurrah!",
+		"cn": "佩奇、猪妈妈和乔治：万岁！"
+	},
+	{ "en": "Daddy Pig: Easy as pie.", "cn": "猪爸爸：轻而易举。" },
+	{
+		"en": "Mummy Pig: Now we can heat up the tomato soup.",
+		"cn": "猪妈妈：现在可以加热番茄汤了。",
+		"points": [
+			{
+				"en": "heat up the tomato soup",
+				"cn": "加热番茄汤"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: Ah, listen to the sounds of nature.",
+		"cn": "猪爸爸：啊，听听大自然的声音。",
+		"points": [
+			{
+				"en": "the sounds of nature",
+				"cn": "大自然的声音"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: What is that sound?",
+		"cn": "佩奇：那是什么声音？",
+		"sentence": {
+			"en": "What is that sound?",
+			"cn": "那是什么声音？",
+			"examples": [
+				{
+					"en": "What is that noise?",
+					"cn": "那是什么噪音？"
+				},
+				{
+					"en": "What is that smell?",
+					"cn": "那是什么味道？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: That is the sound of crickets chirping.",
+		"cn": "猪爸爸：那是蟋蟀叫的声音。",
+		"points": [
+			{
+				"en": "the sound of crickets chirping",
+				"cn": "蟋蟀叫的声音"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: What is that?", "cn": "佩奇：那是什么？" },
+	{
+		"en": "Mummy Pig: That’s an owl. Look, there it is.",
+		"cn": "猪妈妈：那是猫头鹰。看，就在那里。",
+		"points": [
+			{
+				"en": "That’s an owl",
+				"cn": "那是猫头鹰"
+			},
+			{
+				"en": "Look, there it is",
+				"cn": "看，就在那里"
+			}
+		]
+	},
+	{ "en": "Peppa and George: Wow.", "cn": "佩奇和乔治：哇。" },
+	{ "en": "Peppa Pig: And what’s that noise?", "cn": "佩奇：那又是什么声音？" },
+	{
+		"en": "Mummy Pig: Oh, I’m not sure.",
+		"cn": "猪妈妈：哦，我不确定。",
+		"sentence": {
+			"en": "I’m not sure.",
+			"cn": "我不确定。",
+			"examples": [
+				{
+					"en": "I’m not sure what that is.",
+					"cn": "我不确定那是什么。"
+				},
+				{
+					"en": "I’m not sure how to do it.",
+					"cn": "我不确定怎么做。"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig: It’s Daddy’s tummy.", "cn": "佩奇：是爸爸的肚子。" },
+	{
+		"en": "Daddy Pig: My tummy rumbling is one of the best sounds of nature. It means it’s time to eat.",
+		"cn": "猪爸爸：我肚子咕咕叫也是大自然最美的声音之一。这说明该吃饭了。",
+		"points": [
+			{
+				"en": "the best sounds of nature",
+				"cn": "大自然最美的声音之一"
+			},
+			{
+				"en": "it means it’s time to eat",
+				"cn": "这说明该吃饭了"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: I love tomato soup.", "cn": "佩奇：我喜欢番茄汤。" },
+	{ "en": "Daddy Pig: So do I.", "cn": "猪爸爸：我也是。" },
+	{
+		"en": "Mummy Pig: There’s another one of Daddy Pig’s sounds of nature.",
+		"cn": "猪妈妈：又有一个猪爸爸的大自然声音。"
+	},
+	{ "en": "Daddy Pig: What?", "cn": "猪爸爸：什么？" },
+	{
+		"en": "Mummy Pig: Come on, children. Into the tent. It’s bedtime.",
+		"cn": "猪妈妈：来吧，孩子们。进帐篷，该睡觉了。",
+		"points": [
+			{
+				"en": "Into the tent",
+				"cn": "进帐篷"
+			},
+			{
+				"en": "It’s bedtime",
+				"cn": "该睡觉了"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: We won’t all fit in. The tent is too little.",
+		"cn": "佩奇：我们都进不去，帐篷太小了。",
+		"points": [
+			{
+				"en": "We won’t all fit in",
+				"cn": "我们都进不去"
+			},
+			{
+				"en": "The tent is too little",
+				"cn": "帐篷太小了"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: It will be fine. In you go.",
+		"cn": "猪爸爸：没关系，进去吧。",
+		"points": [
+			{
+				"en": "It will be fine",
+				"cn": "没关系"
+			},
+			{
+				"en": "In you go",
+				"cn": "进去吧"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: Move further in, Mummy Pig.",
+		"cn": "猪爸爸：猪妈妈，再往里挪挪。",
+		"points": [
+			{
+				"en": "Move further in",
+				"cn": "再往里挪挪"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Daddy, you’re too big for the tent.",
+		"cn": "佩奇：爸爸，你太大了，进不去帐篷。"
+	},
+	{
+		"en": "Daddy Pig: Never mind. I’d rather sleep outside anyway.",
+		"cn": "猪爸爸：没关系，我还是喜欢在外面睡。",
+		"sentence": {
+			"en": "I’d rather sleep outside anyway.",
+			"cn": "我还是喜欢在外面睡。",
+			"examples": [
+				{
+					"en": "I’d rather play outside anyway.",
+					"cn": "我还是喜欢在外面玩。"
+				},
+				{
+					"en": "I’d rather eat outside anyway.",
+					"cn": "我还是喜欢在外面吃。"
+				}
+			]
+		}
+	},
+	{ "en": "Mummy Pig: Good night, Daddy Pig.", "cn": "猪妈妈：晚安，猪爸爸。" },
+	{ "en": "Peppa Pig: Good night, Daddy.", "cn": "佩奇：晚安，爸爸。" },
+	{ "en": "George: Night-night.", "cn": "乔治：晚安。" },
+	{ "en": "Daddy Pig: Good night, everyone.", "cn": "猪爸爸：大家晚安。" },
+	{
+		"en": "Narrator: Mummy Pig, Peppa and George are sleeping in the tent. Daddy Pig is sleeping outside under the stars.",
+		"cn": "旁白：猪妈妈、佩奇和乔治在帐篷里睡觉。猪爸爸在星空下睡觉。",
+		"points": [
+			{
+				"en": "sleeping outside under the stars",
+				"cn": "在星空下睡觉"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: I love camping, sleeping in the open air with the stars above me.",
+		"cn": "猪爸爸：我喜欢露营，喜欢在星空下露天睡觉。",
+		"points": [
+			{
+				"en": "sleeping in the open air",
+				"cn": "露天睡觉"
+			},
+			{
+				"en": "with the stars above me",
+				"cn": "星空在我头顶"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: Maybe this wasn’t such a good idea after all.",
+		"cn": "猪爸爸：也许这主意不太好。",
+		"sentence": {
+			"en": "Maybe this wasn’t such a good idea after all.",
+			"cn": "也许这主意不太好。",
+			"examples": [
+				{
+					"en": "Maybe this wasn’t such a good plan after all.",
+					"cn": "也许这个计划不太好。"
+				},
+				{
+					"en": "Maybe this wasn’t such a good choice after all.",
+					"cn": "也许这个选择不太好。"
+				}
+			]
+		}
+	},
+	{ "en": "Narrator: It is morning.", "cn": "旁白：天亮了。" },
+	{
+		"en": "Peppa Pig: Daddy, it was lovely and cosy in the tent. Oh, where’s Daddy?",
+		"cn": "佩奇：爸爸，帐篷里又暖和又舒服。咦，爸爸去哪儿了？",
+		"points": [
+			{
+				"en": "lovely and cosy in the tent",
+				"cn": "帐篷里又暖和又舒服"
+			},
+			{
+				"en": "where’s Daddy",
+				"cn": "爸爸去哪儿了"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Daddy Pig has gone.",
+		"cn": "旁白：猪爸爸不见了。",
+		"points": [
+			{
+				"en": "Daddy Pig has gone",
+				"cn": "猪爸爸不见了"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: Poor Daddy Pig. He must have been cold and wet. And now where is he?",
+		"cn": "猪妈妈：可怜的猪爸爸，他一定又冷又湿。现在他在哪儿？",
+		"points": [
+			{
+				"en": "cold and wet",
+				"cn": "又冷又湿"
+			},
+			{
+				"en": "now where is he",
+				"cn": "现在他在哪儿"
+			}
+		]
+	},
+	{ "en": "Mummy Pig: What’s that sound?", "cn": "猪妈妈：那是什么声音？" },
+	{
+		"en": "Peppa Pig: It sounds like snoring.",
+		"cn": "佩奇：听起来像打呼噜。",
+		"sentence": {
+			"en": "It sounds like snoring.",
+			"cn": "听起来像打呼噜。",
+			"examples": [
+				{
+					"en": "It sounds like singing.",
+					"cn": "听起来像唱歌。"
+				},
+				{
+					"en": "It sounds like laughing.",
+					"cn": "听起来像笑声。"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig: Daddy Pig!", "cn": "佩奇：猪爸爸！" },
+	{ "en": "Daddy Pig: What?", "cn": "猪爸爸：什么？" },
+	{
+		"en": "Peppa Pig: Daddy, you’re safe.",
+		"cn": "佩奇：爸爸，你没事。",
+		"points": [
+			{
+				"en": "you’re safe",
+				"cn": "你没事"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: Of course I’m safe. I’m an expert at camping. I slept in the car.",
+		"cn": "猪爸爸：我当然没事。我是露营专家。我在车里睡的。",
+		"points": [
+			{
+				"en": "I’m an expert at camping",
+				"cn": "我是露营专家"
+			},
+			{
+				"en": "I slept in the car",
+				"cn": "我在车里睡的"
+			}
+		]
+	},
+	{ 
+		"en": "Peppa Pig: Silly Daddy.", 
+		"cn": "佩奇：傻爸爸。",
+		"points": [
+			{
+				"en": "Silly Daddy",
+				"cn": "傻爸爸"
+			}
+		]
+	},
+	{ "en": "Daddy Pig: I love camping.", "cn": "猪爸爸：我喜欢露营。" }
+]

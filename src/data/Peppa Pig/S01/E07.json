@@ -1,0 +1,393 @@
+[
+	{
+		"en": "Narrator: Mummy Pig is working on her computer. Daddy Pig is making soup for lunch.",
+		"cn": "旁白：猪妈妈正在用电脑工作。猪爸爸在做午饭的汤。",
+		"points": [
+			{
+				"en": "working on her computer.",
+				"cn": "用电脑工作。"
+			},
+			{
+				"en": "making soup for lunch.",
+				"cn": "做午饭的汤。"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Daddy, can we go and watch Mummy on her computer?",
+		"cn": "佩奇：爸爸，我们可以去看妈妈用电脑吗？",
+		"sentence": {
+			"en": "Can we go and watch Mummy on her computer?",
+			"cn": "我们可以去看妈妈用电脑吗？",
+			"examples": [
+				{
+					"en": "Can we go and watch Daddy on his computer?",
+					"cn": "我们可以去看爸爸用电脑吗？"
+				},
+				{
+					"en": "Can we go and watch Mummy on her phone?",
+					"cn": "我们可以去看妈妈用手机吗？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: Yes, as long as you don’t disturb her. She has a lot of important work to do today.",
+		"cn": "猪爸爸：可以，只要你们别打扰她。她今天有很多重要的工作要做。",
+		"sentence": {
+			"en": "as long as you don’t disturb her.",
+			"cn": "只要你们别打扰她。",
+			"examples": [
+				{
+					"en": "as long as you don’t disturb Daddy.",
+					"cn": "只要你们别打扰爸爸。"
+				},
+				{
+					"en": "as long as you don’t disturb Mummy.",
+					"cn": "只要你们别打扰妈妈。"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig: Thank you, Daddy.", "cn": "佩奇：谢谢你，爸爸。" },
+	{
+		"en": "Narrator: Mummy Pig has a lot of important work to do.",
+		"cn": "旁白：猪妈妈有很多重要的工作要做。",
+		"points": [
+			{
+				"en": "important work",
+				"cn": "重要的工作"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Mummy, could George and I sit on your lap and watch you work?",
+		"cn": "佩奇：妈妈，我和乔治可以坐在你腿上看你工作吗？",
+		"points": [
+			{
+				"en": "sit on your lap",
+				"cn": "坐在你腿上"
+			},
+			{
+				"en": "watch you work",
+				"cn": "看你工作"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: Yes, if you both sit quietly.",
+		"cn": "猪妈妈：可以，只要你们俩安静地坐着。",
+		"sentence": {
+			"en": "if you both sit quietly.",
+			"cn": "只要你们俩安静地坐着。",
+			"examples": [
+				{
+					"en": "if you both sit still.",
+					"cn": "只要你们俩静静地坐着。"
+				},
+				{
+					"en": "if you both listen carefully.",
+					"cn": "只要你们俩仔细听。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Peppa and George love to watch Mummy work on the computer.",
+		"cn": "旁白：佩奇和乔治喜欢看妈妈用电脑工作。"
+	},
+	{
+		"en": "Peppa Pig: Mummy, can we play that computer game, Happy Mrs Chicken?",
+		"cn": "佩奇：妈妈，我们可以玩那个电脑游戏“快乐母鸡”吗？",
+		"points": [
+			{
+				"en": "play that computer game",
+				"cn": "玩那个电脑游戏"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: We can play Happy Mrs Chicken later, but now I have to work.",
+		"cn": "猪妈妈：我们等会儿再玩“快乐母鸡”，现在我要工作。",
+		"sentence": {
+			"en": "We can play Happy Mrs Chicken later.",
+			"cn": "我们等会儿再玩“快乐母鸡”。",
+			"examples": [
+				{
+					"en": "We can play that game later.",
+					"cn": "我们等会儿再玩那个游戏。"
+				},
+				{
+					"en": "We can watch that movie later.",
+					"cn": "我们等会儿再看那个电影。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Mummy, can we help you work?",
+		"cn": "佩奇：妈妈，我们能帮你工作吗？"
+	},
+	{
+		"en": "Mummy Pig: No, Peppa. You mustn’t touch the computer. And, George, you mustn’t touch the computer either.",
+		"cn": "猪妈妈：不行，佩奇。你不能碰电脑。乔治，你也不能碰电脑。",
+		"sentence": {
+			"en": "You mustn’t touch the computer.",
+			"cn": "你不能碰电脑。",
+			"examples": [
+				{
+					"en": "You mustn’t touch the buttons.",
+					"cn": "你不能碰按钮。"
+				},
+				{
+					"en": "You mustn’t touch the screen.",
+					"cn": "你不能碰屏幕。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Yes, George, you mustn’t do this.",
+		"cn": "佩奇：对，乔治，你不能这样做。"
+	},
+	{
+		"en": "Mummy Pig: Peppa, stop.",
+		"cn": "猪妈妈：佩奇，停下。",
+		"points": [
+			{
+				"en": "stop",
+				"cn": "停下"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Sorry, Mummy. I was just showing George what not to do.",
+		"cn": "佩奇：对不起，妈妈。我只是想告诉乔治不能怎么做。",
+		"sentence": {
+			"en": "I was just showing George what not to do.",
+			"cn": "我只是想告诉乔治不能怎么做。",
+			"examples": [
+				{
+					"en": "I was just showing George how to play.",
+					"cn": "我只是想告诉乔治怎么玩。"
+				},
+				{
+					"en": "I was just showing George how to fix it.",
+					"cn": "我只是想告诉乔治怎么修理它。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Oh, dear. The computer is not meant to do that.",
+		"cn": "旁白：哎呀，电脑本来不该那样的。",
+		"sentence": {
+			"en": "The computer is not meant to do that.",
+			"cn": "电脑本来不该那样的。",
+			"examples": [
+				{
+					"en": "The car is not meant to make that noise.",
+					"cn": "汽车本来不该发出那种声音。"
+				},
+				{
+					"en": "The toy is not meant to break like that.",
+					"cn": "玩具本来不该那样坏掉。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Mummy Pig: Daddy Pig. Daddy Pig.",
+		"cn": "猪妈妈：猪爸爸，猪爸爸。"
+	},
+	{
+		"en": "Daddy Pig: What is it, Mummy Pig?",
+		"cn": "猪爸爸：怎么了，猪妈妈？",
+		"points": [
+			{
+				"en": "What is it",
+				"cn": "怎么了"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: Daddy Pig, can you mend the computer?",
+		"cn": "猪妈妈：猪爸爸，你能修一下电脑吗？",
+		"sentence": {
+			"en": "Can you mend the computer?",
+			"cn": "你能修一下电脑吗？",
+			"examples": [
+				{
+					"en": "Can you mend the car?",
+					"cn": "你能修一下车吗？"
+				},
+				{
+					"en": "Can you mend the toy?",
+					"cn": "你能修一下玩具吗？"
+				}
+			]
+		}
+	},
+	{ "en": "Daddy Pig: Uhh...", "cn": "猪爸爸：呃……" },
+	{
+		"en": "Mummy Pig: I’ll finish the lunch while you mend the computer.",
+		"cn": "猪妈妈：你修电脑的时候我来做午饭。",
+		"sentence": {
+			"en": "I’ll finish the lunch while you mend the computer.",
+			"cn": "你修电脑的时候我来做午饭。",
+			"examples": [
+				{
+					"en": "I’ll finish the cleaning while you mend the car.",
+					"cn": "你修车的时候我来打扫卫生。"
+				},
+				{
+					"en": "I’ll finish the shopping while you mend the toy.",
+					"cn": "你修玩具的时候我来购物。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: Uh, right you are, Mummy Pig, but I’m not very good with these things.",
+		"cn": "猪爸爸：呃，好的，猪妈妈，不过我不太会弄这些东西。",
+		"points": [
+			{
+				"en": "right you are",
+				"cn": "好的"
+			},
+			{
+				"en": "I’m not very good with these things.",
+				"cn": "我不太会弄这些东西。"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: Oh, thank you, Daddy Pig.",
+		"cn": "猪妈妈：谢谢你，猪爸爸。"
+	},
+	{
+		"en": "Narrator: Daddy Pig is going to mend the computer.",
+		"cn": "旁白：猪爸爸要去修电脑了。"
+	},
+	{
+		"en": "Daddy Pig: Hmmm...Hmmm...Hmmm...Um, maybe if I just switch it off...and then switch it on again.",
+		"cn": "猪爸爸：嗯……嗯……嗯……也许我只要关掉再开机就好了。",
+		"points": [
+			{
+				"en": "switch it off",
+				"cn": "关掉"
+			},
+			{
+				"en": "switch it on again",
+				"cn": "再开机"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Daddy Pig has mended the computer.",
+		"cn": "旁白：猪爸爸把电脑修好了。"
+	},
+	{ "en": "Peppa Pig: Hurrah, Daddy!", "cn": "佩奇：万岁，爸爸！" },
+	{
+		"en": "Daddy Pig: Yes, I am a bit of an expert at these things.",
+		"cn": "猪爸爸：是的，我对这些东西还挺在行的。",
+		"sentence": {
+			"en": "I am a bit of an expert at these things.",
+			"cn": "我对这些东西还挺在行的。",
+			"examples": [
+				{
+					"en": "I am a bit of an expert at fixing cars.",
+					"cn": "我对修车还挺在行的。"
+				},
+				{
+					"en": "I am a bit of an expert at cooking.",
+					"cn": "我对烹饪还挺在行的。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Daddy, can we play that computer game, Happy Mrs Chicken?",
+		"cn": "佩奇：爸爸，我们可以玩那个电脑游戏“快乐母鸡”吗？"
+	},
+	{
+		"en": "Daddy Pig: Maybe you should ask Mummy Pig.",
+		"cn": "猪爸爸：你们最好问问猪妈妈。",
+		"sentence": {
+			"en": "Maybe you should ask Mummy Pig.",
+			"cn": "你们最好问问猪妈妈。",
+			"examples": [
+				{
+					"en": "Maybe you should eat your vegetables.",
+					"cn": "你们最好吃蔬菜。"
+				},
+				{
+					"en": "Maybe you should look it up online.",
+					"cn": "你们最好在网上查一下。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Mummy said that we could play it later.",
+		"cn": "佩奇：妈妈说我们可以等会儿玩。"
+	},
+	{
+		"en": "Daddy Pig: Well, that’s OK then. But I don’t know where the disk is.",
+		"cn": "猪爸爸：那就好，不过我不知道光盘在哪里。",
+		"sentence": {
+			"en": "I don’t know where the disk is.",
+			"cn": "我不知道光盘在哪里。",
+			"examples": [
+				{
+					"en": "I don’t know where the remote control is.",
+					"cn": "我不知道遥控器在哪里。"
+				},
+				{
+					"en": "I don’t know where the keys are.",
+					"cn": "我不知道钥匙在哪里。"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig: Yippee!", "cn": "佩奇：耶！" },
+	{
+		"en": "Peppa Pig: Now it’s my turn.",
+		"cn": "佩奇：现在轮到我了。",
+		"points": [
+			{
+				"en": "Now it’s my turn.",
+				"cn": "现在轮到我了。"
+			}
+		]
+	},
+	{ "en": "Daddy Pig: Now it’s my turn.", "cn": "猪爸爸：现在轮到我了。" },
+	{
+		"en": "Mummy Pig: What on earth is going on?",
+		"cn": "猪妈妈：到底发生了什么？",
+		"sentence": {
+			"en": "What on earth is going on?",
+			"cn": "到底发生了什么？",
+			"examples": [
+				{
+					"en": "What on earth is happening?",
+					"cn": "到底发生了什么事？"
+				},
+				{
+					"en": "What on earth is that noise?",
+					"cn": "那是什么声音？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Mummy Pig: Well, I see the computer is working again.",
+		"cn": "猪妈妈：嗯，我看到电脑又能用了。",
+		"points": [
+			{
+				"en": "the computer is working again.",
+				"cn": "电脑又能用了。"
+			}
+		]
+	}
+]
