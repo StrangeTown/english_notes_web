@@ -1,0 +1,466 @@
+[
+	{
+		"en": "Narrator: Peppa and George are playing hide and seek.",
+		"cn": "旁白：佩奇和乔治在玩捉迷藏。",
+		"points": [
+			{
+				"en": "hide and seek",
+				"cn": "捉迷藏"
+			}
+		]
+	},
+	{
+		"en": "Narrator: It is George's turn to hide.",
+		"cn": "旁白：轮到乔治藏起来了。",
+		"sentence": {
+			"en": "It is George's turn to hide.",
+			"cn": "轮到乔治藏起来了。",
+			"examples": [
+				{
+					"en": "It is Peppa's turn to eat ice cream.",
+					"cn": "轮到佩奇吃冰淇淋了。"
+				},
+				{
+					"en": "It is Daddy Pig's turn to cook dinner.",
+					"cn": "轮到猪爸爸做晚饭了。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: He must quickly find somewhere to hide before Peppa finishes counting.",
+		"cn": "旁白：他必须在佩奇数完之前赶快找个地方藏起来。",
+		"sentence": {
+			"en": "find somewhere to hide",
+			"cn": "找个地方藏起来",
+			"examples": [
+				{
+					"en": "find somewhere to play",
+					"cn": "找个地方玩"
+				},
+				{
+					"en": "find somewhere to eat",
+					"cn": "找个地方吃"
+				}
+			]
+		},
+		"points": [
+			{
+				"en": "finishes counting",
+				"cn": "数完"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: One... two... three... four... five... six... seven...",
+		"cn": "佩奇：一……二……三……四……五……六……七……"
+	},
+	{
+		"en": "Narrator: George has found somewhere to hide.",
+		"cn": "旁白：乔治找到藏身的地方了。"
+	},
+	{ "en": "Peppa Pig: Eight...", "cn": "佩奇：八……" },
+	{ "en": "Narrator: Just in time.", "cn": "旁白：正好赶上。" },
+	{
+		"en": "Peppa Pig: Nine... ten... Ready or not.",
+		"cn": "佩奇：九……十……不管你准备好了没有。",
+		"points": [
+			{
+				"en": "Ready or not",
+				"cn": "不管你准备好了没有"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Here I come.",
+		"cn": "佩奇：我要来了。",
+		"points": [
+			{
+				"en": "Here I come",
+				"cn": "我要来了"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Peppa has to find where George is hiding.",
+		"cn": "旁白：佩奇要找出乔治藏在哪里。",
+		"sentence": {
+			"en": "Peppa has to find where George is hiding.",
+			"cn": "佩奇要找出乔治藏在哪里。",
+			"examples": [
+				{
+					"en": "Peppa has to find where Daddy Pig is hiding.",
+					"cn": "佩奇要找出猪爸爸藏在哪里。"
+				},
+				{
+					"en": "Peppa has to find where Mummy Pig is hiding.",
+					"cn": "佩奇要找出猪妈妈藏在哪里。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Found you.",
+		"cn": "佩奇：找到你了。",
+		"points": [
+			{
+				"en": "Found you",
+				"cn": "找到你了"
+			}
+		]
+	},
+	{ "en": "George: Oh.", "cn": "乔治：哦。" },
+	{ "en": "Narrator: Peppa has found George.", "cn": "旁白：佩奇找到了乔治。" },
+	{
+		"en": "Peppa Pig: George, I could see you too easily.",
+		"cn": "佩奇：乔治，我太容易看到你了。",
+		"points": [
+			{
+				"en": "too easily",
+				"cn": "太容易"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Now it is Peppa's turn to hide.",
+		"cn": "旁白：现在轮到佩奇藏起来了。"
+	},
+	{ "en": "George: One... um... three.", "cn": "乔治：一……呃……三。" },
+	{
+		"en": "Mummy Pig: I'll help George to count.",
+		"cn": "猪妈妈：我来帮乔治数数。",
+		"sentence": {
+			"en": "I'll help George to count.",
+			"cn": "我来帮乔治数数。",
+			"examples": [
+				{
+					"en": "I'll help Peppa to find her toy.",
+					"cn": "我来帮佩奇找她的玩具。"
+				},
+				{
+					"en": "I'll help Daddy Pig to cook dinner.",
+					"cn": "我来帮猪爸爸做晚饭。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Mummy Pig: One... two... three... four... five... six... seven... eight... nine... ten.",
+		"cn": "猪妈妈：一……二……三……四……五……六……七……八……九……十。"
+	},
+	{
+		"en": "Mummy Pig: Okay, George, open your eyes.",
+		"cn": "猪妈妈：好了，乔治，睁开眼睛吧。",
+		"points": [
+			{
+				"en": "open your eyes",
+				"cn": "睁开眼睛"
+			}
+		]
+	},
+	{
+		"en": "Narrator: George has to find where Peppa is hiding.",
+		"cn": "旁白：乔治要找出佩奇藏在哪里。"
+	},
+	{ "en": "George: Oh.", "cn": "乔治：哦。" },
+	{
+		"en": "Narrator: Peppa isn't hiding under the table.",
+		"cn": "旁白：佩奇没有藏在桌子底下。",
+		"points": [
+			{
+				"en": "hiding under the table",
+				"cn": "藏在桌子底下"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: George, have you thought of looking upstairs?",
+		"cn": "猪爸爸：乔治，你想过去楼上找找吗？",
+		"sentence": {
+			"en": "have you thought of looking upstairs?",
+			"cn": "你想过去楼上找找吗？",
+			"examples": [
+				{
+					"en": "have you thought of going to the park?",
+					"cn": "你想过去公园吗？"
+				},
+				{
+					"en": "have you thought of playing with your friends?",
+					"cn": "你想和朋友们玩玩吗？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Peppa isn't under the bed.",
+		"cn": "旁白：佩奇没有在床底下。"
+	},
+	{
+		"en": "Narrator: What was that strange noise?",
+		"cn": "旁白：那是什么奇怪的声音？",
+		"points": [
+			{
+				"en": "strange noise",
+				"cn": "奇怪的声音"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Peppa isn't behind the curtain.",
+		"cn": "旁白：佩奇没有在窗帘后面。",
+		"points": [
+			{
+				"en": "behind the curtain",
+				"cn": "在窗帘后面"
+			}
+		]
+	},
+	{
+		"en": "Narrator: There is that strange noise again.",
+		"cn": "旁白：又有那个奇怪的声音了。"
+	},
+	{
+		"en": "Narrator: What can it be?",
+		"cn": "旁白：那会是什么呢？",
+		"points": [
+			{
+				"en": "What can it be?",
+				"cn": "那会是什么呢？"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Whee!", "cn": "佩奇：咻——！" },
+	{
+		"en": "Narrator: George has found where Peppa was hiding.",
+		"cn": "旁白：乔治找到了佩奇藏的地方。"
+	},
+	{ "en": "Peppa Pig: George found me.", "cn": "佩奇：乔治找到我了。" },
+	{
+		"en": "Peppa Pig: Now it's Daddy's turn to hide.",
+		"cn": "佩奇：现在轮到爸爸藏了。"
+	},
+	{
+		"en": "Daddy Pig: Oh, I think George should have another turn.",
+		"cn": "猪爸爸：哦，我觉得乔治应该再来一次。",
+		"points": [
+			{
+				"en": "should have another turn",
+				"cn": "应该再来一次"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: But George isn't very good at hiding.",
+		"cn": "佩奇：可是乔治不太会藏。",
+		"sentence": {
+			"en": "George isn't very good at hiding.",
+			"cn": "乔治不太会藏。",
+			"examples": [
+				{
+					"en": "Peppa isn't very good at counting.",
+					"cn": "佩奇不太会数数。"
+				},
+				{
+					"en": "Daddy Pig isn't very good at cooking.",
+					"cn": "猪爸爸不太会做饭。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: I'm sure he'll be better this time.",
+		"cn": "猪爸爸：我相信这次他会更好。",
+		"sentence": {
+			"en": "he'll be better this time",
+			"cn": "他这次会更好",
+			"examples": [
+				{
+					"en": "he'll be better at playing football this time",
+					"cn": "他这次踢足球会更好"
+				},
+				{
+					"en": "he'll be better at drawing this time",
+					"cn": "他这次画画会更好"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: Close your eyes and start counting.",
+		"cn": "猪爸爸：闭上眼睛开始数数吧。",
+		"points": [
+			{
+				"en": "Close your eyes",
+				"cn": "闭上眼睛"
+			},
+			{
+				"en": "start counting",
+				"cn": "开始数数"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: One... two... three...", "cn": "佩奇：一……二……三……" },
+	{
+		"en": "Narrator: Oh, dear.",
+		"cn": "旁白：哎呀。",
+		"points": [
+			{
+				"en": "Oh, dear",
+				"cn": "哎呀"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Peppa will easily find George.",
+		"cn": "旁白：佩奇很容易就能找到乔治。"
+	},
+	{ "en": "Peppa Pig: Four... five... six...", "cn": "佩奇：四……五……六……" },
+	{
+		"en": "Daddy Pig: George! Come over here...",
+		"cn": "猪爸爸：乔治！快到这边来……",
+		"points": [
+			{
+				"en": "Come over here",
+				"cn": "快到这边来"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Seven... eight... nine... ten.",
+		"cn": "佩奇：七……八……九……十。"
+	},
+	{
+		"en": "Peppa Pig: Ready or not, here I come.",
+		"cn": "佩奇：不管你准备好了没有，我要来了。",
+		"points": [
+			{
+				"en": "here I come",
+				"cn": "我要来了"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Oh, George isn't hiding under the table.",
+		"cn": "佩奇：哦，乔治没有藏在桌子底下。"
+	},
+	{
+		"en": "Peppa Pig: But George always hides under the table.",
+		"cn": "佩奇：可是乔治总是藏在桌子底下。"
+	},
+	{
+		"en": "Daddy Pig: Have you thought of looking upstairs?",
+		"cn": "猪爸爸：你想过去楼上找找吗？"
+	},
+	{ "en": "Peppa Pig: I know where he is.", "cn": "佩奇：我知道他在哪里。" },
+	{
+		"en": "Peppa Pig: George is in the toy basket.",
+		"cn": "佩奇：乔治在玩具篮里。",
+		"points": [
+			{
+				"en": "in the toy basket",
+				"cn": "在玩具篮里"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Oh.", "cn": "佩奇：哦。" },
+	{
+		"en": "Narrator: George is not in the toy basket.",
+		"cn": "旁白：乔治不在玩具篮里。"
+	},
+	{
+		"en": "Narrator: Where can he be?",
+		"cn": "旁白：他会在哪里呢？",
+		"sentence": {
+			"en": "Where can he be?",
+			"cn": "他会在哪里呢？",
+			"examples": [
+				{
+					"en": "Where can Daddy Pig be?",
+					"cn": "猪爸爸会在哪里呢？"
+				},
+				{
+					"en": "Where can Mummy Pig be?",
+					"cn": "猪妈妈会在哪里呢？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Peppa cannot find George anywhere.",
+		"cn": "旁白：佩奇哪儿都找不到乔治。"
+	},
+	{
+		"en": "Peppa Pig: Daddy, I can't find George anywhere.",
+		"cn": "佩奇：爸爸，我哪儿都找不到乔治。"
+	},
+	{
+		"en": "Daddy Pig: Oh, dear, I wonder where he can be.",
+		"cn": "猪爸爸：哎呀，我想知道他会在哪里。",
+		"sentence": {
+			"en": "I wonder where he can be.",
+			"cn": "我想知道他会在哪里。",
+			"examples": [
+				{
+					"en": "I wonder where my dog can be.",
+					"cn": "我想知道我的狗会在哪里。"
+				},
+				{
+					"en": "I wonder where his sister can be.",
+					"cn": "我想知道他的妹妹会在哪里。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: Actually, I think there's something about George in this newspaper.",
+		"cn": "猪爸爸：其实，我觉得这份报纸上有乔治的消息。",
+		"sentence": {
+			"en": "there's something about George in this newspaper",
+			"cn": "这份报纸上有乔治的消息",
+			"examples": [
+				{
+					"en": "there's something about Peppa in this book",
+					"cn": "这本书上有佩奇的消息"
+				},
+				{
+					"en": "there's something about Daddy Pig in this magazine",
+					"cn": "这本杂志上有猪爸爸的消息"
+				}
+			]
+		}
+	},
+	{ "en": "George: Whee...", "cn": "乔治：咻——。" },
+	{ "en": "Peppa Pig: George. Found you.", "cn": "佩奇：乔治，找到你了。" },
+	{
+		"en": "Mummy Pig: Oh, George. That was a good place to hide.",
+		"cn": "猪妈妈：哦，乔治。那个藏身的地方真不错。",
+		"sentence": {
+			"en": "That was a good place to hide.",
+			"cn": "那个藏身的地方真不错。",
+			"examples": [
+				{
+					"en": "That was a good place to play.",
+					"cn": "那个玩耍的地方真不错。"
+				},
+				{
+					"en": "That was a good place to eat.",
+					"cn": "那个吃饭的地方真不错。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: George was hiding behind Daddy Pig's newspaper all the time.",
+		"cn": "旁白：原来乔治一直藏在猪爸爸的报纸后面。",
+		"points": [
+			{
+				"en": "hiding behind Daddy Pig's newspaper",
+				"cn": "藏在猪爸爸的报纸后面"
+			},
+			{
+				"en": "all the time",
+				"cn": "一直"
+			}
+		]
+	}
+]

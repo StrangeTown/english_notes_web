@@ -1,9 +1,10 @@
 import React, { useEffect } from "react";
-import episodeData from "../../data/Peppa Pig/S01/E04.json";
+import { useParams } from "react-router-dom";
+import type { EpisodeItem } from "../../types";
 import Sentence from "./Sentence";
 import Watermarks from "./Watermarks";
 import Header from "./Header";
-import PracticeSection from "./Parctice";
+// import PracticeSection from "./Parctice";
 import "./no-break.css";
 
 const highlightPart = (
@@ -65,7 +66,7 @@ const highlightPart = (
 };
 
 // Helper to render Chinese line with underlined points
-function renderChineseWithPoints(item: (typeof episodeData)[number]) {
+function renderChineseWithPoints(item: EpisodeItem) {
 	if (!item.points || item.points.length === 0) return item.cn;
 	const result: React.ReactNode[] = [];
 	const text = item.cn;
@@ -92,11 +93,33 @@ function renderChineseWithPoints(item: (typeof episodeData)[number]) {
 }
 
 const Detail: React.FC = () => {
+	const { episode } = useParams();
+
+	// Dynamically import the episode data based on the param
+	const [episodeData, setEpisodeData] = React.useState<EpisodeItem[]>([]);
+
+	useEffect(() => {
+		const loadEpisode = async () => {
+			try {
+				let data;
+				if (episode) {
+					data = await import(`../../data/Peppa Pig/S01/${episode}.json`);
+				} else {
+					data = await import("../../data/Peppa Pig/S01/E01.json");
+				}
+				setEpisodeData(data.default || data);
+			} catch (error) {
+				console.error("Failed to load episode data:", error);
+			}
+		};
+		loadEpisode();
+	}, [episode]);
+
 	useEffect(() => {
 		console.log("Episode Data:", episodeData);
-	}, []);
+	}, [episodeData]);
 
-	const practiceItems = episodeData.filter((item) => item.sentence);
+	// const practiceItems = episodeData.filter((item) => item.sentence);
 
 	return (
 		<div>
