@@ -26,9 +26,38 @@ const highlightPart = (
 				result.push(
 					<span
 						key={"point-" + i}
-						className="underline decoration-blue-500 underline-offset-2"
+						style={{
+							display: 'inline-block',
+							position: 'relative',
+							verticalAlign: 'baseline',
+							fontFamily: '"Comic Neue", "Comic Sans MS", cursive, sans-serif',
+							padding: '0 1px',
+							lineHeight: 1.7,
+						}}
 					>
-						{pt.en}
+						<span style={{ position: 'relative', zIndex: 1 }}>{pt.en}</span>
+						<svg
+							width="100%"
+							height="6"
+							viewBox={`0 0 ${pt.en.length * 10} 6`}
+							preserveAspectRatio="none"
+							style={{
+								position: 'absolute',
+								left: 0,
+								right: 0,
+								bottom: '0.13em',
+								zIndex: 0,
+								pointerEvents: 'none',
+							}}
+						>
+							<path
+								d={`M2,5 Q${pt.en.length * 2},4 ${pt.en.length * 4},5 Q${pt.en.length * 6},6 ${pt.en.length * 8},5 Q${pt.en.length * 9.2},4 ${pt.en.length * 9.8},5`}
+								stroke="#4f8cff" // lighter blue
+								strokeWidth="2.2"
+								fill="none"
+								style={{ filter: 'blur(0.2px)' }}
+							/>
+						</svg>
 					</span>
 				);
 				lastIdx = ptIdx + pt.en.length;
@@ -133,7 +162,7 @@ const Detail: React.FC = () => {
 					>
 						{/* Main */}
 						<div>
-							<div className="mb-2 text-dark">
+							<div className="mb-2 text-dark" style={{ fontFamily: '"Comic Neue", "Comic Sans MS", cursive, sans-serif' }}>
 								{highlightPart(
 									item.en,
 									item.sentence && item.sentence.en,
