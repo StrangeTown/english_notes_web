@@ -1,0 +1,462 @@
+[
+	{
+		"en": "Narrator: It is a bright sunny day. Peppa and her family are in the park. They are going to fly a kite.",
+		"cn": "旁白：今天天气晴朗，佩奇和她的家人在公园里。他们要放风筝。",
+		"points": [
+			{
+				"en": "a bright sunny day",
+				"cn": "晴朗的一天"
+			},
+			{
+				"en": "in the park",
+				"cn": "在公园里"
+			},
+			{
+				"en": "fly a kite",
+				"cn": "放风筝"
+			}
+		]
+	},
+	{
+		"en": "Narrator: George is going to fly the kite first.",
+		"cn": "旁白：乔治要先放风筝。"
+	},
+	{
+		"en": "Narrator: George runs as fast as he can. But the kite won’t fly.",
+		"cn": "旁白：乔治尽力跑得很快，但风筝飞不起来。",
+		"sentence": {
+			"en": "run as fast as he can",
+			"cn": "尽力跑得很快",
+			"examples": [
+				{
+					"en": "throw the ball as far as you can",
+					"cn": "尽力把球扔得很远"
+				},
+				{
+					"en": "jump as high as you can",
+					"cn": "尽力跳得很高"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: George, you’re doing it all wrong. You didn’t run fast enough. Now it’s my turn.",
+		"cn": "佩奇：乔治，你做错了，你跑得不够快。现在轮到我了。",
+		"points": [
+			{
+				"en": "you’re doing it all wrong",
+				"cn": "你做错了"
+			},
+			{
+				"en": "run fast enough",
+				"cn": "跑得够快"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Peppa runs as fast as she can. But the kite still won’t fly.",
+		"cn": "旁白：佩奇尽力跑得很快，但风筝还是飞不起来。",
+		"sentence": {
+			"en": "But the kite still won’t fly.",
+			"cn": "但风筝还是飞不起来。",
+			"examples": [
+				{
+					"en": "But the ball still won’t bounce.",
+					"cn": "但球还是弹不起来。"
+				},
+				{
+					"en": "But the car still won’t start.",
+					"cn": "但车还是不能启动。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: The kite won’t fly if there isn’t any wind, no matter how fast you run.",
+		"cn": "猪爸爸：如果没有风，风筝怎么跑都飞不起来。",
+		"points": [
+			{
+				"en": "if there isn’t any wind",
+				"cn": "如果没有风"
+			},
+			{
+				"en": "no matter how fast you run",
+				"cn": "不管你跑得多快"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Oh.", "cn": "佩奇：哦。" },
+	{
+		"en": "Mummy Pig: We just have to wait until the wind picks up a bit.",
+		"cn": "猪妈妈：我们得等风大一点。",
+		"sentence": {
+			"en": "wait until the wind picks up a bit",
+			"cn": "等风大一点",
+			"examples": [
+				{
+					"en": "wait until the rain stops",
+					"cn": "等雨停了"
+				},
+				{
+					"en": "wait until the sun comes out",
+					"cn": "等太阳出来"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig: Oh.", "cn": "佩奇：哦。" },
+	{
+		"en": "Peppa Pig: Look, it’s getting windy.",
+		"cn": "佩奇：看，风大起来了。",
+		"points": [
+			{
+				"en": "it’s getting windy",
+				"cn": "风大起来了"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Now that it is windy, the kite can fly.",
+		"cn": "旁白：现在有风了，风筝能飞起来了。"
+	},
+	{
+		"en": "Narrator: The wind is quite strong now.",
+		"cn": "旁白：现在风很大。",
+		"points": [
+			{
+				"en": "the wind is quite strong",
+				"cn": "风很大"
+			}
+		]
+	},
+	{
+		"en": "Narrator: The wind is very strong now.",
+		"cn": "旁白：风越来越大了。"
+	},
+	{ "en": "Peppa Pig: George!", "cn": "佩奇：乔治！" },
+	{ "en": "Daddy Pig: Peppa!", "cn": "猪爸爸：佩奇！" },
+	{ "en": "Peppa Pig: Thank you, Daddy.", "cn": "佩奇：谢谢你，爸爸。" },
+	{
+		"en": "Narrator: Daddy Pig flies the kite.",
+		"cn": "旁白：猪爸爸在放风筝。"
+	},
+	{
+		"en": "Peppa Pig: Higher, higher.",
+		"cn": "佩奇：再高点，再高点。",
+		"points": [
+			{
+				"en": "Higher, higher",
+				"cn": "再高点"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Daddy Pig flies the kite very well.",
+		"cn": "旁白：猪爸爸风筝放得很好。",
+		"sentence": {
+			"en": "Daddy Pig flies the kite very well.",
+			"cn": "猪爸爸风筝放得很好。",
+			"examples": [
+				{
+					"en": "Daddy Pig drives the car very well.",
+					"cn": "猪爸爸开车开得很好。"
+				},
+				{
+					"en": "Daddy Pig cooks very well.",
+					"cn": "猪爸爸做饭做得很好。"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig and George: Wow!", "cn": "佩奇和乔治：哇！" },
+	{
+		"en": "Daddy Pig: Yes, I am a bit of an expert at these things.",
+		"cn": "猪爸爸：是的，这些我很在行。",
+		"sentence": {
+			"en": "I am a bit of an expert at these things.",
+			"cn": "这些我很在行。",
+			"examples": [
+				{
+					"en": "I am a bit of an expert at fixing cars.",
+					"cn": "我修车很在行。"
+				},
+				{
+					"en": "I am a bit of an expert at cooking.",
+					"cn": "我做饭很在行。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Mummy Pig: Watch out for the trees. You might get the kite stuck in one.",
+		"cn": "猪妈妈：小心树，风筝可能会挂在树上。",
+		"points": [
+			{
+				"en": "watch out for the trees",
+				"cn": "小心树"
+			},
+			{
+				"en": "get the kite stuck in one",
+				"cn": "风筝挂在树上"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: Don’t worry. I know what I’m doing.",
+		"cn": "猪爸爸：别担心，我知道自己在做什么。",
+		"points": [
+			{
+				"en": "I know what I’m doing",
+				"cn": "我知道自己在做什么"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Oh dear. Daddy Pig has got the kite caught in a tree.",
+		"cn": "旁白：糟糕，猪爸爸把风筝挂在树上了。",
+		"points": [
+			{
+				"en": "got the kite caught in a tree",
+				"cn": "把风筝挂在树上"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: Oh no.",
+		"cn": "猪爸爸：哦，不。",
+		"points": [
+			{
+				"en": "Oh no",
+				"cn": "哦，不"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Oh.", "cn": "佩奇：哦。" },
+	{
+		"en": "Mummy Pig: Don’t worry, George. Daddy will get the kite down.",
+		"cn": "猪妈妈：别担心，乔治，爸爸会把风筝拿下来的。",
+		"points": [
+			{
+				"en": "Daddy will get the kite down",
+				"cn": "爸爸会把风筝拿下来的"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Hurrah!", "cn": "佩奇：万岁！" },
+	{ "en": "Daddy Pig: Uh, yes.", "cn": "猪爸爸：呃，是的。" },
+	{
+		"en": "Daddy Pig: Careful. There’s a big muddy puddle.",
+		"cn": "猪爸爸：小心，有个大泥坑。",
+		"points": [
+			{
+				"en": "a big muddy puddle",
+				"cn": "一个大泥坑"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Peppa and George love to jump in muddy puddles.",
+		"cn": "旁白：佩奇和乔治喜欢跳泥坑。"
+	},
+	{
+		"en": "Peppa Pig: Can we jump in the puddle? Please.",
+		"cn": "佩奇：我们能跳泥坑吗？求你了。",
+		"points": [
+			{
+				"en": "jump in the puddle",
+				"cn": "跳泥坑"
+			},
+			{
+				"en": "Please",
+				"cn": "求你了"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: No, I don’t want you covered in mud.",
+		"cn": "猪妈妈：不行，我不想你们全身都是泥。",
+		"points": [
+			{
+				"en": "covered in mud",
+				"cn": "全身都是泥"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Oh.", "cn": "佩奇：哦。" },
+	{
+		"en": "Daddy Pig: Stand back, children.",
+		"cn": "猪爸爸：孩子们，站远点。",
+		"points": [
+			{
+				"en": "Stand back",
+				"cn": "站远点"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: Please be careful, Daddy Pig.",
+		"cn": "猪妈妈：猪爸爸，请小心。",
+		"points": [
+			{
+				"en": "Please be careful",
+				"cn": "请小心"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: I know what I’m doing.",
+		"cn": "猪爸爸：我知道自己在做什么。"
+	},
+	{ "en": "Mummy Pig: Please be careful.", "cn": "猪妈妈：请小心。" },
+	{
+		"en": "Peppa Pig: Just a bit further, Daddy.",
+		"cn": "佩奇：再靠近一点，爸爸。",
+		"points": [
+			{
+				"en": "Just a bit further",
+				"cn": "再靠近一点"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: Daddy Pig, you are much too heavy for that branch.",
+		"cn": "猪妈妈：猪爸爸，你太重了，那根树枝承受不了。",
+		"sentence": {
+			"en": "you are much too heavy for that branch",
+			"cn": "你太重了，那根树枝承受不了",
+			"examples": [
+				{
+					"en": "you are much too heavy for that swing",
+					"cn": "你太重了，秋千承受不了"
+				},
+				{
+					"en": "you are much too heavy for that chair",
+					"cn": "你太重了，那把椅子承受不了"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: Nonsense. I know exactly how heavy I am. There.",
+		"cn": "猪爸爸：别胡说，我知道自己多重。好了。",
+		"points": [
+			{
+				"en": "I know exactly how heavy I am",
+				"cn": "我知道自己多重"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Hurrah!", "cn": "佩奇：万岁！" },
+	{
+		"en": "Narrator: Daddy Pig has rescued the kite.",
+		"cn": "旁白：猪爸爸把风筝救下来了。",
+		"sentence": {
+			"en": "Daddy Pig has rescued the kite.",
+			"cn": "猪爸爸把风筝救下来了。",
+			"examples": [
+				{
+					"en": "Daddy Pig has rescued the kite from the tree.",
+					"cn": "猪爸爸从树上把风筝救了下来。"
+				},
+				{
+					"en": "Daddy Pig has rescued the ball from the pond.",
+					"cn": "猪爸爸从池塘里把球救了出来。"
+				}
+			]
+		}
+	},
+	{ "en": "Daddy Pig: Whoa!", "cn": "猪爸爸：哇！" },
+	{
+		"en": "Narrator: Oh dear. Everyone is covered in mud.",
+		"cn": "旁白：糟糕，大家都沾满了泥。"
+	},
+	{
+		"en": "Daddy Pig: It’s only mud.",
+		"cn": "猪爸爸：只是泥而已。",
+		"points": [
+			{
+				"en": "It’s only mud",
+				"cn": "只是泥而已"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Luckily, Daddy Pig hasn’t hurt himself.",
+		"cn": "旁白：幸运的是，猪爸爸没有受伤。",
+		"points": [
+			{
+				"en": "hasn’t hurt himself",
+				"cn": "没有受伤"
+			}
+		]
+	},
+	{
+		"en": "Narrator: And the kite is out of the tree.",
+		"cn": "旁白：风筝也从树上下来了。",
+		"points": [
+			{
+				"en": "the kite is out of the tree",
+				"cn": "风筝从树上下来"
+			}
+		]
+	},
+	{ "en": "Mummy Pig and Peppa Pig: Hurrah!", "cn": "猪妈妈和佩奇：万岁！" },
+	{
+		"en": "Peppa Pig: Mummy, now that we’re all muddy, can we jump in the puddle?",
+		"cn": "佩奇：妈妈，现在我们都沾满了泥，可以跳泥坑了吗？"
+	},
+	{
+		"en": "Mummy Pig: I suppose so. After all, you can’t get any muddier. And I think Daddy Pig is going to be doing the washing.",
+		"cn": "猪妈妈：我想可以。反正你们也不会更脏了。我觉得猪爸爸要去洗衣服了。",
+		"points": [
+			{
+				"en": "I suppose so",
+				"cn": "我想可以"
+			},
+			{
+				"en": "after all",
+				"cn": "毕竟"
+			},
+			{
+				"en": "you can’t get any muddier",
+				"cn": "你们也不会更脏了"
+			},
+			{
+				"en": "Daddy Pig is going to be doing the washing",
+				"cn": "猪爸爸要去洗衣服了"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: Oh.",
+		"cn": "猪爸爸：哦。"
+	},
+	{
+		"en": "Narrator: Peppa and George love jumping up and down in muddy puddles.",
+		"cn": "旁白：佩奇和乔治喜欢在泥坑里跳来跳去。",
+		"points": [
+			{
+				"en": "jumping up and down in muddy puddles",
+				"cn": "在泥坑里跳来跳去"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Mummy and Daddy love jumping up and down in muddy puddles.",
+		"cn": "旁白：猪妈妈和猪爸爸也喜欢在泥坑里跳来跳去。"
+	},
+	{
+		"en": "Narrator: Everyone loves jumping up and down in muddy puddles.",
+		"cn": "旁白：大家都喜欢在泥坑里跳来跳去。"
+	},
+	{
+		"en": "Narrator: Jumping up and down in muddy puddles is just as much fun as flying the kite.",
+		"cn": "旁白：在泥坑里跳来跳去和放风筝一样有趣。",
+		"points": [
+			{
+				"en": "is just as much fun as flying the kite",
+				"cn": "和放风筝一样有趣"
+			}
+		]
+	}
+]
