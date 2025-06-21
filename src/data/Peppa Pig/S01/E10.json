@@ -1,0 +1,640 @@
+[
+	{
+		"en": "Narrator: It is a lovely sunny day and Peppa and George are riding their bicycles.",
+		"cn": "旁白：今天天气晴朗，佩奇和乔治在骑自行车。",
+		"points": [
+			{
+				"en": "lovely sunny day",
+				"cn": "晴朗的一天"
+			},
+			{
+				"en": "riding their bicycles",
+				"cn": "骑自行车"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: That’s a fine pumpkin, Daddy Pig.",
+		"cn": "猪妈妈：那是个很棒的南瓜，猪爸爸。",
+		"points": [
+			{
+				"en": "fine pumpkin",
+				"cn": "很棒的南瓜"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Daddy Pig is very proud of his pumpkin.",
+		"cn": "旁白：猪爸爸为他的南瓜感到非常自豪。",
+		"points": [
+			{
+				"en": "is very proud of his pumpkin",
+				"cn": "为他的南瓜感到非常自豪"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: Pumpkins are the only thing I can grow. Probably because I love pumpkin pie.",
+		"cn": "猪爸爸：南瓜是我唯一能种出来的东西，大概因为我喜欢南瓜派。",
+		"sentence": {
+			"en": "the only thing I can grow",
+			"cn": "我唯一能种出来的东西",
+			"examples": [
+				{
+					"en": "the only thing I can cook",
+					"cn": "我唯一能做的菜"
+				},
+				{
+					"en": "the only thing I can fix",
+					"cn": "我唯一能修理的东西"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Come on, George. Danny! Suzy! Rebecca!",
+		"cn": "佩奇：快点，乔治。丹尼！苏茜！丽贝卡！"
+	},
+	{
+		"en": "Narrator: Peppa and her friends, Danny Dog, Suzy Sheep and Rebecca Rabbit, are riding their bicycles. George is riding his tricycle.",
+		"cn": "旁白：佩奇和她的朋友丹尼狗、苏茜羊和丽贝卡兔在骑自行车。乔治骑着三轮车。"
+	},
+	{
+		"en": "Peppa Pig: He’s going so slowly.",
+		"cn": "佩奇：他骑得好慢。",
+		"points": [
+			{
+				"en": "going so slowly",
+				"cn": "骑得好慢"
+			}
+		]
+	},
+	{
+		"en": "Danny Dog: Let’s race to Daddy Pig’s pumpkin.",
+		"cn": "丹尼狗：我们来比赛，看谁先到猪爸爸的南瓜那里。",
+		"sentence": {
+			"en": "Let's race to Daddy Pig’s pumpkin",
+			"cn": "我们来比赛，看谁先到猪爸爸的南瓜那里",
+			"examples": [
+				{
+					"en": "Let's race to the top of the hill",
+					"cn": "我们来比赛，看谁先到山顶"
+				},
+				{
+					"en": "Let's race to the playground",
+					"cn": "我们来比赛，看谁先到游乐场"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: If we race to Daddy’s pumpkin, we have to be very careful not to bump into it. Daddy would be very sad if the pumpkin got broken.",
+		"cn": "佩奇：如果我们去爸爸的南瓜那里比赛，一定要小心别撞到南瓜。要是南瓜坏了，爸爸会很伤心的。",
+		"points": [
+			{
+				"en": "be very careful not to bump into it",
+				"cn": "一定要小心别撞到它"
+			}
+		],
+		"sentence": {
+			"en": "Daddy would be very sad if the pumpkin got broken",
+			"cn": "要是南瓜坏了，爸爸会很伤心的",
+			"examples": [
+				{
+					"en": "Daddy would be very sad if the toy got broken",
+					"cn": "要是玩具坏了，爸爸会很伤心的"
+				},
+				{
+					"en": "Daddy would be very sad if the car got scratched",
+					"cn": "要是车被刮花了，爸爸会很伤心的"
+				}
+			]
+		}
+	},
+	{
+		"en": "Danny Dog: Don’t worry, Peppa. Race you.",
+		"cn": "丹尼狗：别担心，佩奇。来比赛吧。",
+		"points": [
+			{
+				"en": "Race you",
+				"cn": "来比赛吧"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Peppa and her friends are racing to Daddy Pig’s pumpkin.",
+		"cn": "旁白：佩奇和她的朋友们正在朝猪爸爸的南瓜比赛。"
+	},
+	{
+		"en": "Daddy Pig: Hey, watch out for my pumpkin.",
+		"cn": "猪爸爸：嘿，小心我的南瓜。",
+		"sentence": {
+			"en": "watch out for my pumpkin",
+			"cn": "小心我的南瓜",
+			"examples": [
+				{
+					"en": "watch out for my car",
+					"cn": "小心我的车"
+				},
+				{
+					"en": "watch out for my cake",
+					"cn": "小心我的蛋糕"
+				}
+			]
+		}
+	},
+	{ "en": "Danny Dog: Hurrah!", "cn": "丹尼狗：万岁！" },
+	{
+		"en": "Mummy Pig: Peppa, look out. Daddy’s pumpkin.",
+		"cn": "猪妈妈：佩奇，小心，爸爸的南瓜。",
+		"points": [
+			{
+				"en": "look out",
+				"cn": "小心"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Sorry, Daddy.", "cn": "佩奇：对不起，爸爸。" },
+	{
+		"en": "Peppa Pig: Look at George. He’s going so slowly. George is still riding a baby bike.",
+		"cn": "佩奇：看乔治，他骑得好慢。乔治还在骑小孩子的自行车。",
+		"points": [
+			{
+				"en": "riding a baby bike",
+				"cn": "骑小孩子的自行车"
+			}
+		]
+	},
+	{
+		"en": "Danny Dog: Yours is a baby bike too, Peppa. You’ve still got stabilisers.",
+		"cn": "丹尼狗：佩奇，你的也是小孩子的自行车，你还有辅助轮。",
+		"sentence": {
+			"en": "You’ve still got stabilisers",
+			"cn": "你还有辅助轮",
+			"examples": [
+				{
+					"en": "You’ve still got training wheels",
+					"cn": "你还有辅助轮"
+				},
+				{
+					"en": "You’ve still got support wheels",
+					"cn": "你还有支撑轮"
+				}
+			]
+		}
+	},
+	{
+		"en": "Rebecca Rabbit: I can ride without my stabilisers.",
+		"cn": "丽贝卡兔：我不用辅助轮也能骑。",
+		"sentence": {
+			"en": "I can ride without my stabilisers",
+			"cn": "我不用辅助轮也能骑",
+			"examples": [
+				{
+					"en": "I can read without my glasses",
+					"cn": "我不用眼镜也能看书"
+				},
+				{
+					"en": "I can swim without my armbands",
+					"cn": "我不用臂圈也能游泳"
+				}
+			]
+		}
+	},
+	{
+		"en": "Suzy Sheep: Me too.",
+		"cn": "苏茜羊：我也是。",
+		"points": [
+			{
+				"en": "Me too",
+				"cn": "我也是"
+			}
+		]
+	},
+	{ "en": "Danny Dog: And me.", "cn": "丹尼狗：我也是。" },
+	{
+		"en": "Danny Dog: Let’s ride up the hill again. Are you coming, Peppa?",
+		"cn": "丹尼狗：我们再骑上山吧。佩奇，你来吗？",
+		"sentence": {
+			"en": "Are you coming, Peppa?",
+			"cn": "佩奇，你来吗？",
+			"examples": [
+				{
+					"en": "Are you coming to the park?",
+					"cn": "你来公园吗？"
+				},
+				{
+					"en": "Are you coming to the party?",
+					"cn": "你来派对吗？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: No, I think I’ll stay here.",
+		"cn": "佩奇：不了，我想留在这里。",
+		"points": [
+			{
+				"en": "I think I’ll stay here",
+				"cn": "我想留在这里"
+			}
+		]
+	},
+	{
+		"en": "Suzy Sheep: See you later.",
+		"cn": "苏茜羊：待会儿见。",
+		"points": [
+			{
+				"en": "See you later",
+				"cn": "待会儿见"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Bye.", "cn": "佩奇：再见。" },
+	{
+		"en": "Narrator: Peppa wishes she did not have stabilisers on her bicycle.",
+		"cn": "旁白：佩奇希望她的自行车没有辅助轮。"
+	},
+	{
+		"en": "Peppa Pig: Daddy, I don’t want stabilisers anymore.",
+		"cn": "佩奇：爸爸，我不要辅助轮了。",
+		"sentence": {
+			"en": "I don’t want stabilisers anymore",
+			"cn": "我不要辅助轮了",
+			"examples": [
+				{
+					"en": "I don’t want this balloon anymore",
+					"cn": "我不要这个气球了"
+				},
+				{
+					"en": "I don’t want that teddy bear anymore",
+					"cn": "我不要那个泰迪熊了"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: Do you think you can ride without them?",
+		"cn": "猪爸爸：你觉得没有辅助轮能骑吗？"
+	},
+	{ "en": "Peppa Pig: Yes.", "cn": "佩奇：可以。" },
+	{
+		"en": "Daddy Pig: All right, Peppa. Let’s take them off.",
+		"cn": "猪爸爸：好吧，佩奇，我们把它们拆掉。",
+		"sentence": {
+			"en": "Let’s take them off",
+			"cn": "我们把它们拆掉",
+			"examples": [
+				{
+					"en": "Let’s take off your shoes",
+					"cn": "我们脱掉你的鞋子"
+				},
+				{
+					"en": "Let’s take off the stickers",
+					"cn": "我们把贴纸撕掉"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Daddy Pig is taking the stabilisers off Peppa’s bicycle.",
+		"cn": "旁白：猪爸爸正在给佩奇的自行车拆辅助轮。"
+	},
+	{
+		"en": "Mummy Pig: Are you sure you want to ride without stabilisers?",
+		"cn": "猪妈妈：你确定不要辅助轮了吗？",
+		"sentence": {
+			"en": "Are you sure you want to ride without stabilisers?",
+			"cn": "你确定不要辅助轮了吗？",
+			"examples": [
+				{
+					"en": "Are you sure you want to go outside?",
+					"cn": "你确定要出去吗？"
+				},
+				{
+					"en": "Are you sure you want to eat this?",
+					"cn": "你确定要吃这个吗？"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig: Yes.", "cn": "佩奇：确定。" },
+	{
+		"en": "Mummy Pig: You’ve never done it before.",
+		"cn": "猪妈妈：你以前没试过哦。",
+		"points": [
+			{
+				"en": "You’ve never done it before",
+				"cn": "你以前没试过"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: I can do it. I can, I can.",
+		"cn": "佩奇：我能行，我能行，我能行。",
+		"points": [
+			{
+				"en": "I can do it",
+				"cn": "我能行"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: It’s not funny.",
+		"cn": "佩奇：不好笑。",
+		"points": [
+			{
+				"en": "It’s not funny",
+				"cn": "不好笑"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Riding without stabilisers is not easy.",
+		"cn": "旁白：没有辅助轮骑车可不容易。",
+		"sentence": {
+			"en": "Riding without stabilisers is not easy",
+			"cn": "没有辅助轮骑车可不容易",
+			"examples": [
+				{
+					"en": "Swimming without armbands is not easy",
+					"cn": "没有臂圈游泳可不容易"
+				},
+				{
+					"en": "Watching movies without subtitles is not easy",
+					"cn": "没有字幕看电影可不容易"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: Would you like some help, Peppa?",
+		"cn": "猪爸爸：佩奇，要我帮忙吗？",
+		"points": [
+			{
+				"en": "Would you like some help?",
+				"cn": "要我帮忙吗？"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Yes, please, Daddy.", "cn": "佩奇：要，谢谢爸爸。" },
+	{
+		"en": "Daddy Pig: All right. Ready, steady, go.",
+		"cn": "猪爸爸：好，准备，预备，走！",
+		"points": [
+			{
+				"en": "Ready, steady, go",
+				"cn": "准备，预备，走"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Don’t let go, Daddy.",
+		"cn": "佩奇：爸爸，别松手。",
+		"points": [
+			{
+				"en": "Don’t let go",
+				"cn": "别松手"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: Don’t worry. I’ve got you.",
+		"cn": "猪爸爸：别担心，我抓着你呢。",
+		"points": [
+			{
+				"en": "I’ve got you",
+				"cn": "我抓着你呢"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: You’re doing really well, Peppa.",
+		"cn": "猪妈妈：佩奇，你做得很好。",
+		"points": [
+			{
+				"en": "You’re doing really well",
+				"cn": "你做得很好"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Hold on, Daddy.",
+		"cn": "佩奇：爸爸，抓紧我。",
+		"points": [
+			{
+				"en": "Hold on",
+				"cn": "抓紧我"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: Just keep pedalling.",
+		"cn": "猪爸爸：继续踩踏板。",
+		"sentence": {
+			"en": "Just keep pedalling",
+			"cn": "继续踩踏板",
+			"examples": [
+				{
+					"en": "Just keep swimming",
+					"cn": "继续游泳"
+				},
+				{
+					"en": "Just keep running",
+					"cn": "继续跑步"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Peppa is riding on her own without stabilisers.",
+		"cn": "旁白：佩奇已经自己骑车了，没有辅助轮。",
+		"points": [
+			{
+				"en": "riding on her own without stabilisers",
+				"cn": "自己骑车，没有辅助轮"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Daddy, you let go.",
+		"cn": "佩奇：爸爸，你松手了。",
+		"points": [
+			{
+				"en": "you let go",
+				"cn": "你松手了"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: You’ve been cycling on your own for ages.",
+		"cn": "猪爸爸：你已经自己骑了很久了。",
+		"sentence": {
+			"en": "You’ve been cycling on your own for ages",
+			"cn": "你已经自己骑了很久了",
+			"examples": [
+				{
+					"en": "You’ve been reading for ages",
+					"cn": "你已经读书很久了"
+				},
+				{
+					"en": "You’ve been playing for ages",
+					"cn": "你已经玩了很久了"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Have I?",
+		"cn": "佩奇：是吗？",
+		"points": [
+			{
+				"en": "Have I?",
+				"cn": "是吗？"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: You’re really very good at it.",
+		"cn": "猪妈妈：你真的很棒。",
+		"points": [
+			{
+				"en": "You’re really very good at it",
+				"cn": "你真的很棒"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Am I?", "cn": "佩奇：真的吗？" },
+	{
+		"en": "Peppa Pig: Oh, I can do it. Look at me, look at me. I can ride my bike properly.",
+		"cn": "佩奇：哦，我会骑了。看我，看我，我会骑自行车了。",
+		"sentence": {
+			"en": "I can ride my bike properly",
+			"cn": "我会骑自行车了",
+			"examples": [
+				{
+					"en": "I can swim properly",
+					"cn": "我会游泳了"
+				},
+				{
+					"en": "I can draw properly",
+					"cn": "我会画画了"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Danny, Suzy, Rebecca, look. I don’t need my stabilisers anymore. Look at me.",
+		"cn": "佩奇：丹尼，苏茜，丽贝卡，看，我不用辅助轮了。看我！",
+		"points": [
+			{
+				"en": "Look at me",
+				"cn": "看我"
+			}
+		]
+	},
+	{
+		"en": "Danny Dog, Suzy Sheep, Rebecca Rabbit: Hurrah!",
+		"cn": "丹尼狗、苏茜羊、丽贝卡兔：万岁！"
+	},
+	{
+		"en": "Peppa Pig: Race you to Daddy’s pumpkin.",
+		"cn": "佩奇：我们来比赛，看谁先到爸爸的南瓜那里。"
+	},
+	{ "en": "Peppa Pig: Whee!", "cn": "佩奇：咻——！" },
+	{
+		"en": "Daddy Pig: Peppa, look out! My pumpkin!",
+		"cn": "猪爸爸：佩奇，小心！我的南瓜！"
+	},
+	{
+		"en": "Peppa Pig: I’m going to win.",
+		"cn": "佩奇：我要赢了。",
+		"points": [
+			{
+				"en": "I’m going to win",
+				"cn": "我要赢了"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Peppa is not looking where she is going.",
+		"cn": "旁白：佩奇没有看路。",
+		"points": [
+			{
+				"en": "not looking where she is going",
+				"cn": "没有看路"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Oh, dear. Peppa has squashed Daddy Pig’s pumpkin.",
+		"cn": "旁白：哎呀，佩奇把猪爸爸的南瓜压扁了。"
+	},
+	{
+		"en": "Peppa Pig: Sorry I squashed your pumpkin, Daddy.",
+		"cn": "佩奇：对不起，爸爸，我把你的南瓜压扁了。",
+		"points": [
+			{
+				"en": "I squashed your pumpkin",
+				"cn": "我把你的南瓜压扁了"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: Never mind the pumpkin. The important thing is that you are okay. In future you really must look where you’re going.",
+		"cn": "猪爸爸：别管南瓜了，重要的是你没事。以后你一定要看路。",
+		"points": [
+			{
+				"en": "Never mind the pumpkin",
+				"cn": "别管南瓜了"
+			},
+			{
+				"en": "the important thing is that you are okay",
+				"cn": "重要的是你没事"
+			},
+			{
+				"en": "look where you’re going",
+				"cn": "看路"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: I promise I will, Daddy",
+		"cn": "佩奇：我保证会的，爸爸。",
+		"points": [
+			{
+				"en": "I promise I will",
+				"cn": "我保证会的"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: Good. Anyway, now the pumpkin is broken, I can make it into pumpkin pie.",
+		"cn": "猪爸爸：好。反正南瓜坏了，我可以做南瓜派了。",
+		"points": [
+			{
+				"en": "make it into pumpkin pie",
+				"cn": "做成南瓜派"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: I love pumpkin pie.", "cn": "佩奇：我喜欢南瓜派。" },
+	{
+		"en": "Mummy Pig: And because Daddy Pig’s pumpkin is so big, there will be enough pumpkin pie for everyone.",
+		"cn": "猪妈妈：而且猪爸爸的南瓜很大，大家都有南瓜派吃。",
+		"sentence": {
+			"en": "there will be enough pumpkin pie for everyone",
+			"cn": "大家都有南瓜派吃",
+			"examples": [
+				{
+					"en": "there will be enough cake for everyone",
+					"cn": "大家都有蛋糕吃"
+				},
+				{
+					"en": "there will be enough ice cream for everyone",
+					"cn": "大家都有冰淇淋吃"
+				}
+			]
+		}
+	}
+]

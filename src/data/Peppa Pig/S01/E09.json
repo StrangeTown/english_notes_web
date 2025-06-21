@@ -1,0 +1,509 @@
+[
+	{
+		"en": "Narrator: Peppa and George are playing at Granny Pig and Grandpa Pig’s house.",
+		"cn": "旁白：佩奇和乔治正在猪奶奶和猪爷爷家玩。"
+	},
+	{
+		"en": "Peppa Pig: Grandpa, catch.",
+		"cn": "佩奇：爷爷，接住。",
+		"points": [
+			{
+				"en": "catch",
+				"cn": "接住"
+			}
+		]
+	},
+	{
+		"en": "Grandpa Pig: Ho-ho-ho-ho, catch.",
+		"cn": "猪爷爷：呵呵呵呵，接住。"
+	},
+	{ "en": "Grandpa Pig: What’s this?", "cn": "猪爷爷：这是什么？" },
+	{ "en": "George: Dinosaur. Grrr.", "cn": "乔治：恐龙。哇呜。" },
+	{
+		"en": "Grandpa Pig: A dinosaur? Ho-ho-ho-ho.",
+		"cn": "猪爷爷：恐龙？呵呵呵呵。"
+	},
+	{
+		"en": "Peppa Pig: Grandpa, what are you doing?",
+		"cn": "佩奇：爷爷，你在做什么？",
+		"sentence": {
+			"en": "What are you doing?",
+			"cn": "你在做什么？",
+			"examples": [
+				{
+					"en": "What are you doing, Daddy?",
+					"cn": "爸爸，你在做什么？"
+				},
+				{
+					"en": "What are you doing, Mummy?",
+					"cn": "妈妈，你在做什么？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Grandpa Pig: I’m planting these seeds.",
+		"cn": "猪爷爷：我在种这些种子。",
+		"sentence": {
+			"en": "I’m planting these seeds.",
+			"cn": "我在种这些种子。",
+			"examples": [
+				{
+					"en": "I’m planting these flowers.",
+					"cn": "我在种这些花。"
+				},
+				{
+					"en": "I’m planting these vegetables.",
+					"cn": "我在种这些蔬菜。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Seeds? What are seeds for?",
+		"cn": "佩奇：种子？种子是干什么的？",
+		"sentence": {
+			"en": "What are seeds for?",
+			"cn": "种子是干什么的？",
+			"examples": [
+				{
+					"en": "What are flowers for?",
+					"cn": "花是干什么的？"
+				},
+				{
+					"en": "What are these tools for?",
+					"cn": "这些工具是干什么的？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Grandpa Pig: Seeds grow into plants.",
+		"cn": "猪爷爷：种子会长成植物。",
+		"points": [
+			{
+				"en": "grow into",
+				"cn": "长成"
+			}
+		]
+	},
+	{
+		"en": "Grandpa Pig: I just dig a little hole and put the seed in. Then I cover it with earth and water it.",
+		"cn": "猪爷爷：我只要挖个小洞，把种子放进去，然后盖上土，浇点水。",
+		"points": [
+			{
+				"en": "dig a little hole",
+				"cn": "挖个小洞"
+			},
+			{
+				"en": "put the seed in",
+				"cn": "把种子放进去"
+			},
+			{
+				"en": "cover it with earth",
+				"cn": "盖上土"
+			},
+			{
+				"en": "water it",
+				"cn": "浇水"
+			}
+		]
+	},
+	{
+		"en": "Grandpa Pig: Everything in my garden grows from tiny seeds like these.",
+		"cn": "猪爷爷：我花园里的所有东西都是从这样的小种子长出来的。",
+		"points": [
+			{
+				"en": "everything in my garden",
+				"cn": "我花园里的所有东西"
+			},
+			{
+				"en": "tiny seeds like these",
+				"cn": "像这样的很小的种子"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Even the big apple tree?",
+		"cn": "佩奇：连那棵大苹果树也是吗？",
+		"sentence": {
+			"en": "Even the big apple tree?",
+			"cn": "连那棵大苹果树也是吗？",
+			"examples": [
+				{
+					"en": "Even the big peach tree?",
+					"cn": "连那棵大桃树也是吗？"
+				},
+				{
+					"en": "Even the big carrot?",
+					"cn": "连那根大胡萝卜也是吗？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Grandpa Pig: Oh, yes. These tiny seeds will grow into a little apple tree like this.",
+		"cn": "猪爷爷：当然。这些小种子会长成像这样的苹果树苗。"
+	},
+	{ "en": "Peppa and George: Oo-oo-oo.", "cn": "佩奇和乔治：哦哦哦。" },
+	{
+		"en": "Grandpa Pig: And that little apple tree will grow into a big apple tree like this.",
+		"cn": "猪爷爷：然后小苹果树会长成像这样的苹果大树。"
+	},
+	{ "en": "Grandpa Pig: Ouch!", "cn": "猪爷爷：哎哟！" },
+	{
+		"en": "Grandpa Pig: And inside this apple are more seeds.",
+		"cn": "猪爷爷：这个苹果里面还有更多的种子。",
+		"points": [
+			{
+				"en": "inside this apple",
+				"cn": "这个苹果里面"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: To make more apple trees.",
+		"cn": "佩奇：可以长出更多的苹果树。"
+	},
+	{
+		"en": "Grandpa Pig: Exactly.",
+		"cn": "猪爷爷：没错。",
+		"points": [
+			{
+				"en": "Exactly.",
+				"cn": "没错。"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Grandpa, Grandpa, I want to plant a seed.",
+		"cn": "佩奇：爷爷，爷爷，我想种一颗种子。"
+	},
+	{
+		"en": "Grandpa Pig: Would you like to plant a strawberry seed?",
+		"cn": "猪爷爷：你想种一颗草莓种子吗？",
+		"sentence": {
+			"en": "Would you like to plant a strawberry seed?",
+			"cn": "你想种一颗草莓种子吗？",
+			"examples": [
+				{
+					"en": "Would you like to cook a cake?",
+					"cn": "你想做一个蛋糕吗？"
+				},
+				{
+					"en": "Would you like to read a story?",
+					"cn": "你想读一个故事吗？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Yes, please.",
+		"cn": "佩奇：好的，谢谢。",
+		"points": [
+			{
+				"en": "Yes, please.",
+				"cn": "好的，谢谢。"
+			}
+		]
+	},
+	{
+		"en": "Grandpa Pig: This seed will grow into a lovely strawberry plant.",
+		"cn": "猪爷爷：这颗种子会长成漂亮的草莓苗。"
+	},
+	{
+		"en": "Grandpa Pig: I just make a little hole.",
+		"cn": "猪爷爷：我先挖个小洞。"
+	},
+	{
+		"en": "Peppa Pig: Then I put the seed in and cover it with earth.",
+		"cn": "佩奇：然后我把种子放进去，再盖上土。",
+		"points": [
+			{
+				"en": "put the seed in",
+				"cn": "把种子放进去"
+			},
+			{
+				"en": "cover it with earth",
+				"cn": "盖上土"
+			}
+		]
+	},
+	{
+		"en": "Grandpa Pig: Shall I water it for you?",
+		"cn": "猪爷爷：要我帮你浇水吗？",
+		"sentence": {
+			"en": "Shall I water it for you?",
+			"cn": "要我帮你浇水吗？",
+			"examples": [
+				{
+					"en": "Shall I help you with that?",
+					"cn": "要我帮你吗？"
+				},
+				{
+					"en": "Shall I carry this for you?",
+					"cn": "要我帮你拿这个吗？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: No, no. I want to water it.",
+		"cn": "佩奇：不用不用，我要自己浇。"
+	},
+	{
+		"en": "Grandpa Pig: Good. Now we wait for it to grow.",
+		"cn": "猪爷爷：好。现在我们等它长大。",
+		"sentence": {
+			"en": "Now we wait for it to grow.",
+			"cn": "现在我们等它长大。",
+			"examples": [
+				{
+					"en": "Now we wait for the cake to bake.",
+					"cn": "现在我们等蛋糕烤好。"
+				},
+				{
+					"en": "Now we wait for the paint to dry.",
+					"cn": "现在我们等油漆干。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Peppa and George are waiting for the seed to grow.",
+		"cn": "旁白：佩奇和乔治正在等种子发芽。"
+	},
+	{
+		"en": "Peppa Pig: It’s not doing anything.",
+		"cn": "佩奇：它什么都没发生。",
+		"points": [
+			{
+				"en": "not doing anything",
+				"cn": "什么都没发生"
+			}
+		]
+	},
+	{
+		"en": "Grandpa Pig: Ho-ho-ho-ho-ho. You have to be patient, Peppa. It will take a long time to grow.",
+		"cn": "猪爷爷：呵呵呵呵呵。要有耐心，佩奇。它要很久才会长大。",
+		"points": [
+			{
+				"en": "You have to be patient.",
+				"cn": "你要有耐心。"
+			},
+			{
+				"en": "It will take a long time to grow.",
+				"cn": "它要很久才会长大。"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: Peppa, George, it’s time to go home.",
+		"cn": "猪妈妈：佩奇，乔治，该回家了。",
+		"sentence": {
+			"en": "It’s time to go home.",
+			"cn": "该回家了。",
+			"examples": [
+				{
+					"en": "It’s time to go to bed.",
+					"cn": "该睡觉了。"
+				},
+				{
+					"en": "It’s time to eat lunch.",
+					"cn": "该吃午饭了。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: But we’re waiting for my strawberry plant to grow. I wanted strawberries for tea.",
+		"cn": "佩奇：可是我们在等我的草莓苗长大。我想下午茶吃草莓。",
+		"sentence": {
+			"en": "I wanted strawberries for tea.",
+			"cn": "我想下午茶吃草莓。",
+			"examples": [
+				{
+					"en": "I wanted ice cream for dessert.",
+					"cn": "我想要冰淇淋当甜点。"
+				},
+				{
+					"en": "I wanted to play with my toys.",
+					"cn": "我想玩我的玩具。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Grandpa Pig: Don’t worry, Peppa. Next time you come, the seed will have grown into a plant.",
+		"cn": "猪爷爷：别担心，佩奇。下次你来，种子就会长成小苗了。",
+		"points": [
+			{
+				"en": "Next time you come",
+				"cn": "下次你来"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: And we’ll have strawberries!",
+		"cn": "佩奇：我们就能吃到草莓了！"
+	},
+	{ "en": "Grandpa Pig: Yes.", "cn": "猪爷爷：对。" },
+	{ "en": "Mummy Pig: Come on, Peppa.", "cn": "猪妈妈：走吧，佩奇。" },
+	{
+		"en": "Peppa Pig: Bye-bye, Grandpa. Bye-bye, strawberry.",
+		"cn": "佩奇：再见，爷爷。再见，草莓。"
+	},
+	{
+		"en": "Narrator: Grandpa Pig looks after Peppa’s strawberry plant. After many days Grandpa Pig finds a tiny plant growing. Day by day the plant grows bigger and bigger. Then, one day, Grandpa Pig finds something very special.",
+		"cn": "旁白：猪爷爷照顾着佩奇的草莓苗。过了很多天，猪爷爷发现小苗长出来了。一天一天，小苗越来越大。终于有一天，猪爷爷发现了特别的东西。",
+		"points": [
+			{
+				"en": "looks after",
+				"cn": "照顾着"
+			},
+			{
+				"en": "finds a tiny plant growing",
+				"cn": "发现小苗长出来了"
+			},
+			{
+				"en": "grows bigger and bigger",
+				"cn": "越来越大"
+			},
+			{
+				"en": "finds something very special",
+				"cn": "发现了特别的东西"
+			}
+		]
+	},
+	{ "en": "Grandpa Pig: Strawberries!", "cn": "猪爷爷：草莓！" },
+	{
+		"en": "Peppa Pig: Grandpa, we’re back.",
+		"cn": "佩奇：爷爷，我们回来了。",
+		"points": [
+			{
+				"en": "we’re back",
+				"cn": "我们回来了"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Peppa and George have come to play again.",
+		"cn": "旁白：佩奇和乔治又来玩了。"
+	},
+	{
+		"en": "Peppa Pig: Grandpa, Grandpa, did my plant grow?",
+		"cn": "佩奇：爷爷，爷爷，我的小苗长大了吗？"
+	},
+	{ "en": "Grandpa Pig: Yes, look.", "cn": "猪爷爷：长大了，你看。" },
+	{ "en": "Peppa Pig: Strawberries!", "cn": "佩奇：草莓！" },
+	{ "en": "Peppa Pig: Thank you, Grandpa.", "cn": "佩奇：谢谢你，爷爷。" },
+	{
+		"en": "Peppa Pig: Grandpa, can we plant something else?",
+		"cn": "佩奇：爷爷，我们还能种别的吗？",
+		"sentence": {
+			"en": "Can we plant something else?",
+			"cn": "我们还能种别的吗？",
+			"examples": [
+				{
+					"en": "Can we play something else?",
+					"cn": "我们还能玩别的吗？"
+				},
+				{
+					"en": "Can we eat something else?",
+					"cn": "我们还能吃别的吗？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Grandpa Pig: Yes, now it’s George’s turn to choose.",
+		"cn": "猪爷爷：可以，现在轮到乔治选了。",
+		"sentence": {
+			"en": "Now it’s George’s turn to choose.",
+			"cn": "现在轮到乔治选了。",
+			"examples": [
+				{
+					"en": "Now it’s Peppa’s turn to choose.",
+					"cn": "现在轮到佩奇选了。"
+				},
+				{
+					"en": "Now it’s Daddy Pig’s turn to choose.",
+					"cn": "现在轮到猪爸爸选了。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Yes, you choose, George. Choose...a carrot.",
+		"cn": "佩奇：对，乔治你选吧。选……胡萝卜。"
+	},
+	{
+		"en": "Peppa Pig: Grandpa, I think George wants to grow carrots.",
+		"cn": "佩奇：爷爷，我觉得乔治想种胡萝卜。"
+	},
+	{
+		"en": "Grandpa Pig: George, would you like to grow a carrot?",
+		"cn": "猪爷爷：乔治，你想种胡萝卜吗？"
+	},
+	{ "en": "George: No.", "cn": "乔治：不。" },
+	{
+		"en": "Grandpa Pig: What would you like to grow?",
+		"cn": "猪爷爷：那你想种什么？",
+		"sentence": {
+			"en": "What would you like to grow?",
+			"cn": "那你想种什么？",
+			"examples": [
+				{
+					"en": "What would you like to eat?",
+					"cn": "那你想吃什么？"
+				},
+				{
+					"en": "What would you like to play?",
+					"cn": "那你想玩什么？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: George has thought of something he wants to grow.",
+		"cn": "旁白：乔治想好了他要种什么。",
+		"sentence": {
+			"en": "George has thought of something he wants to grow.",
+			"cn": "乔治想好了他要种什么。",
+			"examples": [
+				{
+					"en": "Peppa has thought of something she wants to buy.",
+					"cn": "佩奇想好了她要买什么。"
+				},
+				{
+					"en": "Daddy Pig has thought of something he wants to eat.",
+					"cn": "猪爸爸想好了他要吃什么。"
+				}
+			]
+		}
+	},
+	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
+	{
+		"en": "Narrator: George wants to grow a dinosaur tree.",
+		"cn": "旁白：乔治想种一棵恐龙树。"
+	},
+	{
+		"en": "Peppa Pig: Silly George. Dinosaurs don’t grow on trees.",
+		"cn": "佩奇：傻乔治，恐龙不会长在树上。",
+		"sentence": {
+			"en": "Dinosaurs don’t grow on trees.",
+			"cn": "恐龙不会长在树上。",
+			"examples": [
+				{
+					"en": "Cars don’t grow on trees.",
+					"cn": "汽车不会长在树上。"
+				},
+				{
+					"en": "Toys don’t grow on trees.",
+					"cn": "玩具不会长在树上。"
+				}
+			]
+		}
+	},
+	{ "en": "George: Dinosaur. Grrr.", "cn": "乔治：恐龙。哇呜。" }
+]
