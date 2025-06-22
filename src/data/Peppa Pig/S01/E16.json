@@ -1,63 +1,418 @@
-Narrator: Peppa, George, Mummy and Daddy are having breakfast. It is a lovely sunny day, and Peppa and George can’t wait to go into the garden to play.
-
-Peppa Pig: Mummy, please can we go out to play?
-
-Mummy Pig: You can go out to play when you finish your breakfast.
-
-Daddy Pig: George, don’t drink your juice too quickly.
-
-Narrator: George drank his juice too quickly, and now he has hiccups.
-
-Peppa Pig: Can we go out to play now, Mummy?
-
-Mummy Pig: Not while George has hiccups.
-
-Peppa Pig: But George’s hiccups have gone, Mummy. Haven’t they, George?
-
-Mummy Pig: Oh, all right. You can go out and play. But look after George.
-
-Narrator: Peppa and George love playing in the garden.
-
-Peppa Pig: George, I’m going to throw the ball and then you have to catch it.
-
-Peppa Pig: George, please stop hiccuping.
-
-Peppa Pig: George!
-
-Peppa Pig: Now you throw the ball to me and I have to catch it.
-
-Peppa Pig: George!
-
-Narrator: Oh, dear. George’s hiccups are spoiling the game.
-
-Peppa Pig: George, I know how to cure hiccups. You have to do what I say.
-
-Peppa Pig: Rub the top of your head and rub your tummy.
-
-Peppa Pig: Good. Now your hiccups have gone.
-
-Narrator: Peppa’s cure for hiccups doesn’t seem to have worked.
-
-Peppa Pig: George, you’ve done it all wrong. I know a better way to cure hiccups. First, jump up and down three times on one leg.
-
-Peppa Pig: Now wave your arms up and down and stick your tongue out.
-
-Peppa Pig: And now close your eyes and turn around quickly three times.
-
-Narrator: Peppa’s new cure hasn’t worked either. George still has hiccups.
-
-Peppa Pig: I know. To cure hiccups the ill piggy must be given a shock. George, I’m going to scare you, but you must remember it’s only a game and it will stop your hiccups.
-
-Peppa Pig: Remember, this is just pretend scaring.
-
-Mummy Pig: Peppa, you mustn’t play so roughly with George. He’s only little.
-
-Peppa Pig: Sorry, Mummy. I was just trying to stop George’s hiccups.
-
-Narrator: George’s hiccups have gone.
-
-Narrator: Here comes Daddy Pig with two beakers of juice.
-
-Mummy Pig: George, if you drink too quickly you will get hiccups again.
-
-Peppa Pig: I’m not as little as George. I can drink juice as quickly as I want to.
+[
+	{
+		"en": "Narrator: Peppa, George, Mummy and Daddy are having breakfast. It is a lovely sunny day, and Peppa and George can’t wait to go into the garden to play.",
+		"cn": "旁白：佩奇、乔治、妈妈和爸爸正在吃早餐。今天天气晴朗，佩奇和乔治迫不及待想去花园玩。",
+		"sentence": {
+			"en": "Peppa and George can’t wait to go into the garden to play.",
+			"cn": "佩奇和乔治迫不及待想去花园玩。",
+			"examples": [
+				{
+					"en": "I can’t wait to see you.",
+					"cn": "我迫不及待想见你。"
+				},
+				{
+					"en": "We can’t wait to go on holiday.",
+					"cn": "我们迫不及待想去度假。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Mummy, please can we go out to play?",
+		"cn": "小猪佩奇：妈妈，我们可以出去玩吗？",
+		"points": [
+			{
+				"en": "go out to play",
+				"cn": "出去玩"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: You can go out to play when you finish your breakfast.",
+		"cn": "猪妈妈：你们吃完早餐就可以出去玩。",
+		"points": [
+			{
+				"en": "finish your breakfast",
+				"cn": "吃完早餐"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: George, don’t drink your juice too quickly.",
+		"cn": "猪爸爸：乔治，不要喝得太快。",
+		"sentence": {
+			"en": "don’t drink your juice too quickly",
+			"cn": "不要喝得太快",
+			"examples": [
+				{
+					"en": "Don’t eat your food too quickly.",
+					"cn": "不要吃得太快。"
+				},
+				{
+					"en": "Don’t run too quickly.",
+					"cn": "不要跑得太快。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: George drank his juice too quickly, and now he has hiccups.",
+		"cn": "旁白：乔治喝得太快，现在打嗝了。",
+		"points": [
+			{
+				"en": "he has hiccups",
+				"cn": "他打嗝了"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Can we go out to play now, Mummy?",
+		"cn": "小猪佩奇：妈妈，我们现在可以出去玩吗？"
+	},
+	{
+		"en": "Mummy Pig: Not while George has hiccups.",
+		"cn": "猪妈妈：乔治还在打嗝，不能出去玩。",
+		"sentence": {
+			"en": "Not while George has hiccups.",
+			"cn": "乔治还在打嗝，不能出去玩。",
+			"examples": [
+				{
+					"en": "Not while it’s raining.",
+					"cn": "下雨的时候不能(出去)。"
+				},
+				{
+					"en": "Not while you’re eating.",
+					"cn": "吃东西的时候不能(说话)。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: But George’s hiccups have gone, Mummy. Haven’t they, George?",
+		"cn": "小猪佩奇：妈妈，乔治的嗝已经好了，对吧，乔治？",
+		"sentence": {
+			"en": "George's hiccups have gone",
+			"cn": "乔治的嗝已经好了",
+			"examples": [
+				{
+					"en": "My hiccups have gone.",
+					"cn": "我的嗝已经好了。"
+				},
+				{
+					"en": "The rain has gone.",
+					"cn": "雨停了。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Mummy Pig: Oh, all right. You can go out and play. But look after George.",
+		"cn": "猪妈妈：好吧，你们可以出去玩，但要照顾好乔治。",
+		"points": [
+			{
+				"en": "all right",
+				"cn": "好吧"
+			},
+			{
+				"en": "look after George",
+				"cn": "照顾好乔治"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Peppa and George love playing in the garden.",
+		"cn": "旁白：佩奇和乔治喜欢在花园里玩。"
+	},
+	{
+		"en": "Peppa Pig: George, I’m going to throw the ball and then you have to catch it.",
+		"cn": "小猪佩奇：乔治，我要扔球，你要接住哦。",
+		"sentence": {
+			"en": "you have to catch it",
+			"cn": "你要接住它",
+			"examples": [
+				{
+					"en": "You have to catch the ball.",
+					"cn": "你要接住球。"
+				},
+				{
+					"en": "You have to finish your homework.",
+					"cn": "你要完成作业。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: George, please stop hiccuping.",
+		"cn": "小猪佩奇：乔治，别再打嗝了。"
+	},
+	{
+		"en": "Peppa Pig: George!",
+		"cn": "小猪佩奇：乔治！"
+	},
+	{
+		"en": "Peppa Pig: Now you throw the ball to me and I have to catch it.",
+		"cn": "小猪佩奇：现在你扔球给我，我来接。"
+	},
+	{
+		"en": "Peppa Pig: George!",
+		"cn": "小猪佩奇：乔治！"
+	},
+	{
+		"en": "Narrator: Oh, dear. George’s hiccups are spoiling the game.",
+		"cn": "旁白：糟糕，乔治的嗝影响了游戏。",
+		"sentence": {
+			"en": "George’s hiccups are spoiling the game",
+			"cn": "乔治的嗝影响了游戏",
+			"examples": [
+				{
+					"en": "The rain is spoiling the picnic.",
+					"cn": "雨影响了野餐。"
+				},
+				{
+					"en": "His bad mood is spoiling the party.",
+					"cn": "他的坏情绪影响了派对。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: George, I know how to cure hiccups. You have to do what I say.",
+		"cn": "小猪佩奇：乔治，我知道怎么治打嗝，你要听我的。",
+		"sentence": {
+			"en": "You have to do what I say",
+			"cn": "你要听我的",
+			"examples": [
+				{
+					"en": "You have to do what I tell you.",
+					"cn": "你要听我说。"
+				},
+				{
+					"en": "You have to do what the teacher says.",
+					"cn": "你要听老师的话。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Rub the top of your head and rub your tummy.",
+		"cn": "小猪佩奇：揉揉你的头顶，再揉揉肚子。",
+		"points": [
+			{
+				"en": "rub the top of your head",
+				"cn": "揉揉你的头顶"
+			},
+			{
+				"en": "rub your tummy",
+				"cn": "揉揉肚子"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Good. Now your hiccups have gone.",
+		"cn": "小猪佩奇：好了，现在你的嗝没了。"
+	},
+	{
+		"en": "Narrator: Peppa’s cure for hiccups doesn’t seem to have worked.",
+		"cn": "旁白：佩奇的方法似乎没用。",
+		"sentence": {
+			"en": "Peppa’s cure for hiccups doesn’t seem to have worked",
+			"cn": "佩奇的方法似乎没用",
+			"examples": [
+				{
+					"en": "His cure for the cold doesn’t seem to have worked.",
+					"cn": "他治感冒的方法似乎没用。"
+				},
+				{
+					"en": "Her solution to the problem doesn’t seem to have worked.",
+					"cn": "她解决问题的方法似乎没用。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: George, you’ve done it all wrong. I know a better way to cure hiccups. First, jump up and down three times on one leg.",
+		"cn": "小猪佩奇：乔治，你做错了。我知道更好的办法。先单腿跳三下。",
+		"sentence": {
+			"en": "I know a better way to cure hiccups",
+			"cn": "我知道更好的治打嗝的方法",
+			"examples": [
+				{
+					"en": "I know a better way to cook pasta.",
+					"cn": "我知道更好的煮意大利面的办法。"
+				},
+				{
+					"en": "I know a better way to solve this problem.",
+					"cn": "我知道更好的解决这个问题的方法。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Now wave your arms up and down and stick your tongue out.",
+		"cn": "小猪佩奇：现在挥挥手臂，伸出舌头。",
+		"points": [
+			{
+				"en": "wave your arms up and down",
+				"cn": "挥挥手臂"
+			},
+			{
+				"en": "stick your tongue out",
+				"cn": "伸出舌头"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: And now close your eyes and turn around quickly three times.",
+		"cn": "小猪佩奇：现在闭上眼睛，快速转三圈。",
+		"points": [
+			{
+				"en": "close your eyes",
+				"cn": "闭上眼睛"
+			},
+			{
+				"en": "turn around quickly three times",
+				"cn": "快速转三圈"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Peppa’s new cure hasn’t worked either. George still has hiccups.",
+		"cn": "旁白：佩奇的新方法也没用，乔治还在打嗝。",
+		"sentence": {
+			"en": "Peppa’s new cure hasn’t worked either",
+			"cn": "佩奇的新方法也没用",
+			"examples": [
+				{
+					"en": "His new plan hasn’t worked either.",
+					"cn": "他的新计划也没用。"
+				},
+				{
+					"en": "Her new idea hasn’t worked either.",
+					"cn": "她的新主意也没用。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: I know. To cure hiccups the ill piggy must be given a shock. George, I’m going to scare you, but you must remember it’s only a game and it will stop your hiccups.",
+		"cn": "小猪佩奇：我知道了，要治打嗝得吓一跳。乔治，我要吓你，但记住只是游戏，这样嗝就会停。",
+		"sentence": {
+			"en": "it’s only a game and it will stop your hiccups",
+			"cn": "只是游戏，这样嗝就会停",
+			"examples": [
+				{
+					"en": "It’s only a joke, and it will make you laugh.",
+					"cn": "只是个笑话，这样你就会笑。"
+				},
+				{
+					"en": "It’s only a story, and it will help you sleep.",
+					"cn": "只是个故事，这样你就能睡着。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Remember, this is just pretend scaring.",
+		"cn": "小猪佩奇：记住，这只是装装样子。",
+		"sentence": {
+			"en": "this is just pretend scaring",
+			"cn": "这只是装装样子",
+			"examples": [
+				{
+					"en": "This is just pretend playing.",
+					"cn": "这只是装装样子玩。"
+				},
+				{
+					"en": "This is just pretend cooking.",
+					"cn": "这只是装装样子做饭。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Mummy Pig: Peppa, you mustn’t play so roughly with George. He’s only little.",
+		"cn": "猪妈妈：佩奇，不能和乔治玩得太粗鲁，他还小。",
+		"sentence": {
+			"en": "you mustn’t play so roughly with George",
+			"cn": "不能和乔治玩得太粗鲁",
+			"examples": [
+				{
+					"en": "You mustn’t drive so fast.",
+					"cn": "不能开车太快。"
+				},
+				{
+					"en": "You mustn’t talk so loudly.",
+					"cn": "不能说话太大声。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Sorry, Mummy. I was just trying to stop George’s hiccups.",
+		"cn": "小猪佩奇：对不起，妈妈。我只是想帮乔治止嗝。",
+		"sentence": {
+			"en": "I was just trying to stop George’s hiccups",
+			"cn": "我只是想帮乔治止嗝",
+			"examples": [
+				{
+					"en": "I was just trying to help you.",
+					"cn": "我只是想帮你。"
+				},
+				{
+					"en": "I was just trying to make you laugh.",
+					"cn": "我只是想让你笑。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: George’s hiccups have gone.",
+		"cn": "旁白：乔治的嗝好了。"
+	},
+	{
+		"en": "Narrator: Here comes Daddy Pig with two beakers of juice.",
+		"cn": "旁白：猪爸爸端来了两杯果汁。",
+		"sentence": {
+			"en": "Here comes Daddy Pig with two beakers of juice",
+			"cn": "猪爸爸端来了两杯果汁",
+			"examples": [
+				{
+					"en": "Here comes the bus with the children.",
+					"cn": "校车来了，孩子们都在里面。"
+				},
+				{
+					"en": "Here comes the clown with balloons.",
+					"cn": "小丑来了，手里拿着气球。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Mummy Pig: George, if you drink too quickly you will get hiccups again.",
+		"cn": "猪妈妈：乔治，如果你喝得太快又会打嗝。",
+		"points": [
+			{
+				"en": "drink too quickly",
+				"cn": "喝得太快"
+			},
+			{
+				"en": "get hiccups",
+				"cn": "打嗝"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: I’m not as little as George. I can drink juice as quickly as I want to.",
+		"cn": "小猪佩奇：我不像乔治那么小，我想多快喝果汁都行。",
+		"points": [
+			{
+				"en": "as little as George",
+				"cn": "像乔治那么小"
+			},
+			{
+				"en": "as quickly as I want to",
+				"cn": "多快喝果汁都行"
+			}
+		]
+	}
+]
