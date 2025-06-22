@@ -1,0 +1,650 @@
+[
+	{
+		"en": "Narrator: Peppa and George are playing in the garden.",
+		"cn": "旁白：佩奇和乔治正在花园里玩。",
+		"points": [
+			{
+				"en": "playing in the garden",
+				"cn": "在花园里玩"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: To me, George.",
+		"cn": "佩奇：扔给我，乔治。",
+		"points": [
+			{
+				"en": "To me",
+				"cn": "扔给我"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: You threw the ball too hard, George. So the rules say I win.",
+		"cn": "佩奇：乔治，你扔得太用力了，所以按规则我赢了。",
+		"points": [
+			{
+				"en": "you threw the ball too hard",
+				"cn": "你扔得太用力了"
+			},
+			{
+				"en": "the rules say I win",
+				"cn": "按规则我赢了"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Now it’s my turn.", "cn": "佩奇：现在轮到我了。" },
+	{
+		"en": "Peppa Pig: I win again.",
+		"cn": "佩奇：我又赢了。",
+		"points": [
+			{
+				"en": "I win again",
+				"cn": "我又赢了"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: Peppa, George, today your big cousin Chloé is coming to visit.",
+		"cn": "猪妈妈：佩奇，乔治，今天你们的大表姐克洛伊要来做客。",
+		"points": [
+			{
+				"en": "big cousin Chloé",
+				"cn": "大表姐克洛伊"
+			},
+			{
+				"en": "coming to visit",
+				"cn": "要来做客"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Yipee, cousin Chloé!", "cn": "佩奇：耶，克洛伊表姐！" },
+	{
+		"en": "Peppa Pig: George, Chloé’s a big girl like me. So don’t be sad if she finds you too little to play with.",
+		"cn": "佩奇：乔治，克洛伊是个大孩子，像我一样。如果她觉得你太小不和你玩，别难过。",
+		"sentence": {
+			"en": "don’t be sad if she finds you too little to play with",
+			"cn": "别难过，如果她觉得你太小不和你玩",
+			"examples": [
+				{
+					"en": "don’t be sad if your friends don’t want to play",
+					"cn": "别难过，如果你的朋友不想和你玩"
+				},
+				{
+					"en": "don’t be sad if you lose the game",
+					"cn": "别难过，如果你输了游戏"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: I’m sure Chloé will play with both of you.",
+		"cn": "猪爸爸：我相信克洛伊会和你们俩一起玩的。",
+		"points": [
+			{
+				"en": "play with both of you",
+				"cn": "和你们俩一起玩"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Chloé’s here.", "cn": "佩奇：克洛伊来了。" },
+	{
+		"en": "Narrator: Auntie Pig has brought Chloé to spend the day at Peppa’s house. Chloé is Peppa and George’s cousin.",
+		"cn": "旁白：猪姨妈带着克洛伊来佩奇家玩一天。克洛伊是佩奇和乔治的表姐。",
+		"points": [
+			{
+				"en": "spend the day at Peppa’s house",
+				"cn": "在佩奇家玩一天"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Chloé is a bit older than Peppa and George.",
+		"cn": "旁白：克洛伊比佩奇和乔治大一点。",
+		"points": [
+			{
+				"en": "a bit older than Peppa and George",
+				"cn": "比佩奇和乔治大一点"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Hello, Chloé.", "cn": "佩奇：你好，克洛伊。" },
+	{
+		"en": "Cousin Chloé: Hello, Peppa. Hello, George.",
+		"cn": "克洛伊：你好，佩奇。你好，乔治。"
+	},
+	{
+		"en": "Daddy Pig: See you later.",
+		"cn": "猪爸爸：待会儿见。",
+		"points": [
+			{
+				"en": "See you later",
+				"cn": "待会儿见"
+			}
+		]
+	},
+	{
+		"en": "Cousin Chloé: Do you want to play a game?",
+		"cn": "克洛伊：你们想玩游戏吗？"
+	},
+	{
+		"en": "Peppa Pig: Yes, let’s play catch.",
+		"cn": "佩奇：想，我们来玩接球吧。",
+		"points": [
+			{
+				"en": "play catch",
+				"cn": "玩接球"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Peppa loves playing catch.",
+		"cn": "旁白：佩奇喜欢玩接球。"
+	},
+	{
+		"en": "Cousin Chloé: Do you still play catch? That’s a game for little children.",
+		"cn": "克洛伊：你还玩接球啊？那是小孩子玩的游戏。",
+		"sentence": {
+			"en": "Do you still play catch?",
+			"cn": "你还玩接球吗？",
+			"examples": [
+				{
+					"en": "Do you still play hide and seek?",
+					"cn": "你还玩捉迷藏吗？"
+				},
+				{
+					"en": "Do you still play tag?",
+					"cn": "你还玩捉人吗？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Oh. We only play catch because George likes it.",
+		"cn": "佩奇：哦，我们玩接球只是因为乔治喜欢。",
+		"sentence": {
+			"en": "We only play catch because George likes it.",
+			"cn": "我们玩接球只是因为乔治喜欢。",
+			"examples": [
+				{
+					"en": "We only ride our bikes because George likes it.",
+					"cn": "我们骑自行车只是因为乔治喜欢。"
+				},
+				{
+					"en": "We only fly kites because George likes it.",
+					"cn": "我们放风筝只是因为乔治喜欢。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Cousin Chloé: OK, let’s play it for George. Do you play it with the proper rules or the baby rules?",
+		"cn": "克洛伊：好吧，那就陪乔治玩。你们是按大孩子的规则还是小孩子的规则玩？",
+		"points": [
+			{
+				"en": "play it with the proper rules",
+				"cn": "按大孩子的规则玩"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Proper rules.", "cn": "佩奇：大孩子的规则。" },
+	{
+		"en": "Cousin Chloé: I’ll start. Peppa, you’re 'it.' Catch me if you can.",
+		"cn": "克洛伊：我先来。佩奇，你是'抓人'，有本事来抓我呀。",
+		"points": [
+			{
+				"en": "you’re 'it'",
+				"cn": "你是'抓人'"
+			},
+			{
+				"en": "Catch me if you can",
+				"cn": "有本事来抓我呀"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Peppa is it. She has to chase Chloé and George.",
+		"cn": "旁白：佩奇是抓人的，她要追克洛伊和乔治。",
+		"points": [
+			{
+				"en": "chase Chloé and George",
+				"cn": "追克洛伊和乔治"
+			}
+		]
+	},
+	{
+		"en": "Cousin Chloé: Can’t catch me.",
+		"cn": "克洛伊：你抓不到我。",
+		"points": [
+			{
+				"en": "Can’t catch me",
+				"cn": "你抓不到我"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: George, I’m going to easily catch you. You’re so little.",
+		"cn": "佩奇：乔治，我很容易就能抓到你，你太小了。",
+		"points": [
+			{
+				"en": "you’re so little",
+				"cn": "你太小了"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: That’s not fair. You’re helping George.",
+		"cn": "佩奇：不公平，你在帮乔治。",
+		"points": [
+			{
+				"en": "That’s not fair",
+				"cn": "不公平"
+			},
+			{
+				"en": "You’re helping George",
+				"cn": "你在帮乔治"
+			}
+		]
+	},
+	{
+		"en": "Cousin Chloé: That’s because he’s little. Do you want me to help you?",
+		"cn": "克洛伊：因为他小。你要我帮你吗？",
+		"points": [
+			{
+				"en": "Do you want me to help you?",
+				"cn": "你要我帮你吗？"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: No. I don’t need help. I’m a big girl like you.",
+		"cn": "佩奇：不用，我不需要帮忙。我和你一样是大孩子。",
+		"sentence": {
+			"en": "I’m a big girl like you",
+			"cn": "我和你一样是大孩子",
+			"examples": [
+				{
+					"en": "I'm a teacher like you",
+					"cn": "我和你一样是老师"
+				},
+				{
+					"en": "I'm a doctor like you",
+					"cn": "我和你一样是医生"
+				}
+			]
+		}
+	},
+	{
+		"en": "Cousin Chloé: Come on then, Peppa. Try and catch us.",
+		"cn": "克洛伊：那来吧，佩奇，试着抓我们。",
+		"points": [
+			{
+				"en": "Come on then",
+				"cn": "那来吧"
+			},
+			{
+				"en": "Try and catch us",
+				"cn": "试着抓我们"
+			}
+		]
+	},
+	{ "en": "Cousin Chloé: Can’t catch us.", "cn": "克洛伊：你抓不到我们。" },
+	{ "en": "Cousin Chloé: Can’t catch us.", "cn": "克洛伊：你抓不到我们。" },
+	{
+		"en": "Peppa Pig: This is a silly game. Can we play something else?",
+		"cn": "佩奇：这个游戏真无聊，我们能玩点别的吗？",
+		"sentence": {
+			"en": "Can we play something else?",
+			"cn": "我们能玩点别的吗？",
+			"examples": [
+				{
+					"en": "Can we watch something else?",
+					"cn": "我们能看点别的吗？"
+				},
+				{
+					"en": "Can we eat something else?",
+					"cn": "我们能吃点别的吗？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Cousin Chloé: OK, I know a really good game for big children. It’s called Sly Fox.",
+		"cn": "克洛伊：好吧，我知道一个大孩子玩的好游戏，叫'狡猾的狐狸'。",
+		"sentence": {
+			"en": "It’s called Sly Fox",
+			"cn": "它叫'狡猾的狐狸'",
+			"examples": [
+				{
+					"en": "It’s called Hide and Seek",
+					"cn": "它叫'捉迷藏'"
+				},
+				{
+					"en": "It’s called Tag",
+					"cn": "它叫'捉人'"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Sly Fox! I want to play Sly Fox. What is it?",
+		"cn": "佩奇：狡猾的狐狸！我想玩狡猾的狐狸。那是什么？"
+	},
+	{
+		"en": "Cousin Chloé: One person is the sly fox, and the others creep up on them.",
+		"cn": "克洛伊：一个人当狐狸，其他人悄悄靠近她。"
+	},
+	{
+		"en": "Peppa Pig: Me, me! I want to be the sly fox.",
+		"cn": "佩奇：我我我！我想当狐狸。",
+		"sentence": {
+			"en": "I want to be the sly fox",
+			"cn": "我想当狐狸",
+			"examples": [
+				{
+					"en": "I want to be the teacher",
+					"cn": "我想当老师"
+				},
+				{
+					"en": "I want to be the doctor",
+					"cn": "我想当医生"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Peppa is the sly fox. While her back is turned, the others creep up on her. But if Peppa turns and sees someone move, they have to go back to the start.",
+		"cn": "旁白：佩奇当狐狸。她转身时，其他人悄悄靠近她。但如果佩奇转身看到有人动，就得回到起点。",
+		"points": [
+			{
+				"en": "while her back is turned",
+				"cn": "她转身时"
+			},
+			{
+				"en": "creep up on her",
+				"cn": "悄悄靠近她"
+			},
+			{
+				"en": "if Peppa turns and sees someone move",
+				"cn": "如果佩奇转身看到有人动"
+			},
+			{
+				"en": "have to go back to the start",
+				"cn": "得回到起点"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: George, I saw you move. Back to the start.",
+		"cn": "佩奇：乔治，我看到你动了，回到起点。"
+	},
+	{
+		"en": "Cousin Chloé: Got you. I win.",
+		"cn": "克洛伊：抓到你了，我赢了。",
+		"points": [
+			{
+				"en": "Got you",
+				"cn": "抓到你了"
+			},
+			{
+				"en": "I win",
+				"cn": "我赢了"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: You moved before I was ready.",
+		"cn": "佩奇：你还没等我准备好就动了。",
+		"sentence": {
+			"en": "You moved before I was ready",
+			"cn": "你还没等我准备好就动了",
+			"examples": [
+				{
+					"en": "You spoke before I was ready",
+					"cn": "你还没等我准备好就说话了"
+				},
+				{
+					"en": "You started before I was ready",
+					"cn": "你还没等我准备好就开始了"
+				}
+			]
+		}
+	},
+	{
+		"en": "Cousin Chloé: The rules say I can move when I like, don’t they, George?",
+		"cn": "克洛伊：规则说我想什么时候动都行，对吧，乔治？"
+	},
+	{
+		"en": "Narrator: Now it’s Chloé’s turn to be the sly fox.",
+		"cn": "旁白：现在轮到克洛伊当狐狸了。",
+		"sentence": {
+			"en": "Now it’s Chloé’s turn to be the sly fox",
+			"cn": "现在轮到克洛伊当狐狸了",
+			"examples": [
+				{
+					"en": "Now it’s Daddy Pig’s turn to be the teacher",
+					"cn": "现在轮到猪爸爸当老师了"
+				},
+				{
+					"en": "Now it’s Mummy Pig’s turn to be the doctor",
+					"cn": "现在轮到猪妈妈当医生了"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Peppa and George must stay very still.",
+		"cn": "旁白：佩奇和乔治必须一动不动。",
+		"points": [
+			{
+				"en": "stay very still",
+				"cn": "一动不动"
+			}
+		]
+	},
+	{
+		"en": "Cousin Chloé: Peppa, I saw you move. Back to the start.",
+		"cn": "克洛伊：佩奇，我看到你动了，回到起点。"
+	},
+	{
+		"en": "Peppa Pig: It’s not fair. You looked too long.",
+		"cn": "佩奇：不公平，你看太久了。",
+		"points": [
+			{
+				"en": "It’s not fair",
+				"cn": "不公平"
+			},
+			{
+				"en": "You looked too long",
+				"cn": "你看太久了"
+			}
+		]
+	},
+	{
+		"en": "Cousin Chloé: The rules say I can look as long as I want. Back to the start.",
+		"cn": "克洛伊：规则说我想看多久都行，回到起点。",
+		"sentence": {
+			"en": "The rules say I can look as long as I want",
+			"cn": "规则说我想看多久都行",
+			"examples": [
+				{
+					"en": "The rules say I can play as long as I want",
+					"cn": "规则说我想玩多久都行"
+				},
+				{
+					"en": "The rules say I can eat as long as I want",
+					"cn": "规则说我想吃多久都行"
+				}
+			]
+		}
+	},
+	{ "en": "Narrator: George is the winner.", "cn": "旁白：乔治赢了。" },
+	{
+		"en": "Peppa Pig: Can we play a different game?",
+		"cn": "佩奇：我们能玩别的游戏吗？"
+	},
+	{
+		"en": "Cousin Chloé: Yes, but as long as it’s a grown-up game.",
+		"cn": "克洛伊：可以，但要是大孩子玩的游戏。",
+		"sentence": {
+			"en": "as long as it’s a grown-up game",
+			"cn": "要是大孩子玩的游戏",
+			"examples": [
+				{
+					"en": "as long as it’s a healthy food",
+					"cn": "要是健康的食物"
+				},
+				{
+					"en": "as long as it’s a fixed price",
+					"cn": "要是固定价格的"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: I know. Let’s play my favourite game. It’s very grown-up.",
+		"cn": "佩奇：我知道，我们玩我最喜欢的游戏，很大孩子的。"
+	},
+	{
+		"en": "Cousin Chloé: George, do you know what Peppa’s favourite game is?",
+		"cn": "克洛伊：乔治，你知道佩奇最喜欢的游戏是什么吗？"
+	},
+	{
+		"en": "Narrator: Peppa’s favourite game is jumping up and down in muddy puddles.",
+		"cn": "旁白：佩奇最喜欢的游戏是跳泥坑。"
+	},
+	{
+		"en": "Peppa Pig: George, if you jump in puddles, you must wear your boots. I’ve brought some boots for you too, Chloé.",
+		"cn": "佩奇：乔治，如果你要跳泥坑，必须穿上靴子。我也给你带了靴子，克洛伊。",
+		"sentence": {
+			"en": "I’ve brought some boots for you too, Chloé",
+			"cn": "我也给你带了靴子，克洛伊",
+			"examples": [
+				{
+					"en": "I’ve brought some hats for you too, Chloé",
+					"cn": "我也给你带了帽子，克洛伊"
+				},
+				{
+					"en": "I’ve brought some coats for you too, Chloé",
+					"cn": "我也给你带了外套，克洛伊"
+				}
+			]
+		}
+	},
+	{
+		"en": "Cousin Chloé: I’m too grown-up to jump in muddy puddles.",
+		"cn": "克洛伊：我太大了，不跳泥坑。",
+		"sentence": {
+			"en": "I’m too grown-up to jump in muddy puddles",
+			"cn": "我太大了，不跳泥坑",
+			"examples": [
+				{
+					"en": "I’m too grown-up to play with toys",
+					"cn": "我太大了，不玩玩具"
+				},
+				{
+					"en": "I’m too grown-up to watch cartoons",
+					"cn": "我太大了，不看卡通"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: Oh. So am I.",
+		"cn": "佩奇：哦，我也是。",
+		"points": [
+			{
+				"en": "So am I",
+				"cn": "我也是"
+			}
+		]
+	},
+	{
+		"en": "Narrator: George loves jumping in muddy puddles.",
+		"cn": "旁白：乔治喜欢跳泥坑。"
+	},
+	{
+		"en": "Narrator: Secretly Peppa would love to jump in the puddle, but she wants to look grown-up.",
+		"cn": "旁白：其实佩奇也很想跳泥坑，但她想装作很大孩子。",
+		"sentence": {
+			"en": "but she wants to look grown-up",
+			"cn": "但她想装作很大孩子",
+			"examples": [
+				{
+					"en": "but she wants to look like a superhero",
+					"cn": "但她想装作超级英雄"
+				},
+				{
+					"en": "but she wants to look like a princess",
+					"cn": "但她想装作公主"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: I hear there’s some puddle jumping going on.",
+		"cn": "猪爸爸：我听说有人在跳泥坑。",
+		"sentence": {
+			"en": "I hear there’s some puddle jumping going on",
+			"cn": "我听说有人在跳泥坑",
+			"examples": [
+				{
+					"en": "I hear there’s some singing going on",
+					"cn": "我听说有人在唱歌"
+				},
+				{
+					"en": "I hear there’s some dancing going on",
+					"cn": "我听说有人在跳舞"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Mummy Pig and Daddy Pig love jumping in muddy puddles.",
+		"cn": "旁白：猪妈妈和猪爸爸喜欢跳泥坑。"
+	},
+	{
+		"en": "Cousin Chloé: It does look fun.",
+		"cn": "克洛伊：看起来挺有趣的。",
+		"points": [
+			{
+				"en": "It does look fun",
+				"cn": "看起来挺有趣的"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Yes, it does.", "cn": "佩奇：是啊。" },
+	{
+		"en": "Cousin Chloé: Maybe there’s a rule that says big girls can jump in muddy puddles.",
+		"cn": "克洛伊：也许有个规则说大孩子也能跳泥坑。"
+	},
+	{
+		"en": "Peppa Pig: Yes, that’s a good rule.",
+		"cn": "佩奇：对，这是个好规则。"
+	},
+	{
+		"en": "Cousin Chloé: Race you.",
+		"cn": "克洛伊：来比赛吧。",
+		"points": [
+			{
+				"en": "Race you",
+				"cn": "来比赛吧"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Race you.", "cn": "佩奇：来比赛吧。" },
+	{
+		"en": "Narrator: Peppa and Chloé love jumping up and down in muddy puddles.",
+		"cn": "旁白：佩奇和克洛伊喜欢在泥坑里跳来跳去。"
+	},
+	{
+		"en": "Narrator: Everyone loves jumping up and down in muddy puddles. Even grown-up girls.",
+		"cn": "旁白：大家都喜欢在泥坑里跳来跳去，连大孩子也喜欢。",
+		"points": [
+			{
+				"en": "Even grown-up girls",
+				"cn": "连大孩子也喜欢"
+			}
+		]
+	}
+]
