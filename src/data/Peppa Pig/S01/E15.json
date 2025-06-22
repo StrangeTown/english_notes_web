@@ -1,85 +1,405 @@
-Narrator: Daddy Pig wears glasses. He needs to wear glasses to see clearly. When Daddy Pig wears his glasses, everything looks fine. But when Daddy Pig takes his glasses off, he can’t see things clearly. Everything looks a bit soft and fuzzy. So it is very important that Daddy Pig knows where his glasses are.
-
-Narrator: Sometimes Daddy Pig loses his glasses.
-
-Mummy Pig: Peppa, George, have you seen Daddy Pig’s glasses? He can’t find them anywhere.
-
-Peppa Pig: No, Mummy.
-
-Narrator: Peppa and George do not know where Daddy Pig’s glasses are.
-
-Mummy Pig: Oh, dear. Daddy Pig cannot see a thing without them. And it makes him very grumpy.
-
-Narrator: Without his glasses on, Daddy Pig cannot read his newspaper.
-
-Daddy Pig: This is ridiculous. I can’t see anything. Somebody must have put my glasses somewhere.
-
-Mummy Pig: Do you remember where you last put them, Daddy Pig?
-
-Daddy Pig: When I don’t wear them I always put them in my pocket. But they aren’t there now.
-
-Peppa Pig: Daddy, can we help find your glasses?
-
-Mummy Pig: Good idea, Peppa. If you find them, Daddy will stop being so grumpy.
-
-Daddy Pig: I’m not grumpy.
-
-Narrator: Peppa and George are looking for Daddy’s glasses.
-
-Narrator: Peppa looks under the newspaper, but Daddy Pig’s glasses are not there.
-
-Peppa Pig: Oh.
-
-Narrator: George looks on top of the television, but Daddy Pig’s glasses are not there.
-
-George: Oh.
-
-Peppa Pig: Let’s look upstairs in Mummy and Daddy’s bedroom.
-
-Narrator: Peppa and George are looking in Mummy and Daddy Pig’s bedroom.
-
-Peppa Pig: George, be careful not to knock anything over.
-
-Peppa Pig: It’s not funny.
-
-Narrator: Peppa looks under the pillows, but Daddy Pig’s glasses are not there.
-
-Peppa Pig: Oh.
-
-Narrator: George looks in Daddy’s slippers, but the glasses are not there either.
-
-Peppa Pig: Let’s look in the bathroom.
-
-Narrator: Peppa and George are looking in the bathroom. The glasses are not in the bath.
-
-George: Oh.
-
-Narrator: The glasses are not in the toilet.
-
-Peppa Pig: Oh.
-
-Peppa Pig: It’s too difficult.
-
-Narrator: Peppa and George cannot find Daddy Pig’s glasses anywhere.
-
-Peppa Pig: We’ve looked everywhere but we can’t find Daddy’s glasses.
-
-Mummy Pig: Oh, dear. Now what can we do?
-
-Daddy Pig: I suppose I‘ll just have to learn to do without them. If I move slowly I won’t bump into things.
-
-Peppa Pig: There they are. Daddy’s glasses.
-
-Mummy Pig: Daddy Pig. You were sitting on them all the time.
-
-Daddy Pig: Oh.
-
-Peppa Pig: Silly Daddy.
-
-Daddy Pig: I don’t know how they got there.
-
-Mummy Pig: I wonder how.
-
-Mummy Pig: Well you may have been a bit silly, Daddy Pig, but at least you’re not grumpy anymore.
-
-Daddy Pig: I was not grumpy.
+[
+	{
+		"en": "Narrator: Daddy Pig wears glasses. He needs to wear glasses to see clearly. When Daddy Pig wears his glasses, everything looks fine. But when Daddy Pig takes his glasses off, he can’t see things clearly. Everything looks a bit soft and fuzzy. So it is very important that Daddy Pig knows where his glasses are.",
+		"cn": "旁白：猪爸爸戴眼镜。他需要戴眼镜才能看清楚。猪爸爸戴上眼镜时，一切都很清楚。但当他摘下眼镜时，就看不清楚了，一切都模糊了。所以猪爸爸知道眼镜在哪里非常重要。",
+		"points": [
+			{
+				"en": "wears glasses",
+				"cn": "戴眼镜"
+			},
+			{
+				"en": "see clearly",
+				"cn": "看清楚"
+			},
+			{
+				"en": "everything looks fine",
+				"cn": "一切都很清楚"
+			},
+			{
+				"en": "everything looks a bit soft and fuzzy",
+				"cn": "一切都模糊了"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Sometimes Daddy Pig loses his glasses.",
+		"cn": "旁白：有时候猪爸爸会把眼镜弄丢。"
+	},
+	{
+		"en": "Mummy Pig: Peppa, George, have you seen Daddy Pig’s glasses? He can’t find them anywhere.",
+		"cn": "猪妈妈：佩奇，乔治，你们看到猪爸爸的眼镜了吗？他到处都找不到。",
+		"sentence": {
+			"en": "He can’t find them anywhere.",
+			"cn": "他到处都找不到。",
+			"examples": [
+				{
+					"en": "He can’t find his keys anywhere.",
+					"cn": "他到处都找不到他的钥匙。"
+				},
+				{
+					"en": "He can’t find his wallet anywhere.",
+					"cn": "他到处都找不到他的钱包。"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig: No, Mummy.", "cn": "佩奇：没有，妈妈。" },
+	{
+		"en": "Narrator: Peppa and George do not know where Daddy Pig’s glasses are.",
+		"cn": "旁白：佩奇和乔治不知道猪爸爸的眼镜在哪里。"
+	},
+	{
+		"en": "Mummy Pig: Oh, dear. Daddy Pig cannot see a thing without them. And it makes him very grumpy.",
+		"cn": "猪妈妈：哎呀，猪爸爸没有眼镜什么都看不见，这让他很不高兴。",
+		"points": [
+			{
+				"en": "cannot see a thing",
+				"cn": "什么都看不见"
+			},
+			{
+				"en": "makes him very grumpy",
+				"cn": "让他很不高兴"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Without his glasses on, Daddy Pig cannot read his newspaper.",
+		"cn": "旁白：没有眼镜，猪爸爸看不了报纸。",
+		"points": [
+			{
+				"en": "cannot read his newspaper",
+				"cn": "看不了报纸"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: This is ridiculous. I can’t see anything. Somebody must have put my glasses somewhere.",
+		"cn": "猪爸爸：太荒唐了，我什么都看不见。一定是谁把我的眼镜放到别的地方了。",
+		"points": [
+			{
+				"en": "I can’t see anything",
+				"cn": "我什么都看不见"
+			},
+			{
+				"en": "put my glasses somewhere",
+				"cn": "把我的眼镜放到别的地方了"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: Do you remember where you last put them, Daddy Pig?",
+		"cn": "猪妈妈：猪爸爸，你还记得上次把眼镜放哪了吗？",
+		"sentence": {
+			"en": "Do you remember where you last put them?",
+			"cn": "你还记得上次把它们放哪了吗？",
+			"examples": [
+				{
+					"en": "Do you remember where you left your keys?",
+					"cn": "你还记得上次把钥匙放哪了吗？"
+				},
+				{
+					"en": "Do you remember where you parked the car?",
+					"cn": "你还记得上次把车停在哪了吗？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: When I don’t wear them I always put them in my pocket. But they aren’t there now.",
+		"cn": "猪爸爸：我不戴的时候总是把它们放在口袋里，但现在不在那儿。",
+		"points": [
+			{
+				"en": "put them in my pocket",
+				"cn": "放在口袋里"
+			},
+			{
+				"en": "they aren’t there now",
+				"cn": "现在不在那儿"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Daddy, can we help find your glasses?",
+		"cn": "佩奇：爸爸，我们能帮你找眼镜吗？"
+	},
+	{
+		"en": "Mummy Pig: Good idea, Peppa. If you find them, Daddy will stop being so grumpy.",
+		"cn": "猪妈妈：好主意，佩奇。你们要是找到了，爸爸就不会再不高兴了。",
+		"sentence": {
+			"en": "If you find them, Daddy will stop being so grumpy.",
+			"cn": "要是你们找到了，爸爸就不会再不高兴了。",
+			"examples": [
+				{
+					"en": "If you finish your homework, you can play outside.",
+					"cn": "要是你完成了作业，就可以出去玩。"
+				},
+				{
+					"en": "If you eat your vegetables, you can have dessert.",
+					"cn": "要是你吃了蔬菜，就可以吃甜点。"
+				}
+			]
+		}
+	},
+	{ "en": "Daddy Pig: I’m not grumpy.", "cn": "猪爸爸：我才没有不高兴。" },
+	{
+		"en": "Narrator: Peppa and George are looking for Daddy’s glasses.",
+		"cn": "旁白：佩奇和乔治在找猪爸爸的眼镜。",
+		"points": [
+			{
+				"en": "looking for Daddy’s glasses",
+				"cn": "找猪爸爸的眼镜"
+			}
+		]
+	},
+	{
+		"en": "Narrator: Peppa looks under the newspaper, but Daddy Pig’s glasses are not there.",
+		"cn": "旁白：佩奇在报纸下面找，但没有。",
+		"points": [
+			{
+				"en": "under the newspaper",
+				"cn": "在报纸下面"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Oh.", "cn": "佩奇：哦。" },
+	{
+		"en": "Narrator: George looks on top of the television, but Daddy Pig’s glasses are not there.",
+		"cn": "旁白：乔治在电视机上面找，但没有。",
+		"points": [
+			{
+				"en": "on top of the television",
+				"cn": "在电视机上面"
+			}
+		]
+	},
+	{ "en": "George: Oh.", "cn": "乔治：哦。" },
+	{
+		"en": "Peppa Pig: Let’s look upstairs in Mummy and Daddy’s bedroom.",
+		"cn": "佩奇：我们去楼上爸爸妈妈的卧室找找。"
+	},
+	{
+		"en": "Narrator: Peppa and George are looking in Mummy and Daddy Pig’s bedroom.",
+		"cn": "旁白：佩奇和乔治在爸爸妈妈的卧室里找。"
+	},
+	{
+		"en": "Peppa Pig: George, be careful not to knock anything over.",
+		"cn": "佩奇：乔治，小心别碰倒东西。",
+		"sentence": {
+			"en": "be careful not to knock anything over",
+			"cn": "小心别碰倒东西",
+			"examples": [
+				{
+					"en": "be careful not to spill your drink",
+					"cn": "小心别洒了饮料"
+				},
+				{
+					"en": "be careful not to drop the vase",
+					"cn": "小心别掉了花瓶"
+				}
+			]
+		}
+	},
+	{ "en": "Peppa Pig: It’s not funny.", "cn": "佩奇：不好笑。" },
+	{
+		"en": "Narrator: Peppa looks under the pillows, but Daddy Pig’s glasses are not there.",
+		"cn": "旁白：佩奇在枕头下面找，但没有。",
+		"points": [
+			{
+				"en": "under the pillows",
+				"cn": "在枕头下面"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Oh.", "cn": "佩奇：哦。" },
+	{
+		"en": "Narrator: George looks in Daddy’s slippers, but the glasses are not there either.",
+		"cn": "旁白：乔治在爸爸的拖鞋里找，但也没有。",
+		"points": [
+			{
+				"en": "in Daddy’s slippers",
+				"cn": "在爸爸的拖鞋里"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: Let’s look in the bathroom.",
+		"cn": "佩奇：我们去浴室找找。",
+		"sentence": {
+			"en": "Let’s look in the bathroom.",
+			"cn": "我们去浴室找找。",
+			"examples": [
+				{
+					"en": "Let’s look in the kitchen.",
+					"cn": "我们去厨房找找。"
+				},
+				{
+					"en": "Let’s look in the garden.",
+					"cn": "我们去花园找找。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Peppa and George are looking in the bathroom. The glasses are not in the bath.",
+		"cn": "旁白：佩奇和乔治在浴室找，浴缸里没有眼镜。"
+	},
+	{ "en": "George: Oh.", "cn": "乔治：哦。" },
+	{
+		"en": "Narrator: The glasses are not in the toilet.",
+		"cn": "旁白：马桶里也没有眼镜。",
+		"points": [
+			{
+				"en": "in the toilet",
+				"cn": "在马桶里"
+			}
+		]
+	},
+	{ "en": "Peppa Pig: Oh.", "cn": "佩奇：哦。" },
+	{
+		"en": "Peppa Pig: It’s too difficult.",
+		"cn": "佩奇：太难了。",
+		"sentence": {
+			"en": "It’s too difficult.",
+			"cn": "太难了。",
+			"examples": [
+				{
+					"en": "It’s too hot.",
+					"cn": "太热了。"
+				},
+				{
+					"en": "It’s too late.",
+					"cn": "太晚了。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: Peppa and George cannot find Daddy Pig’s glasses anywhere.",
+		"cn": "旁白：佩奇和乔治哪儿都找不到猪爸爸的眼镜。"
+	},
+	{
+		"en": "Peppa Pig: We’ve looked everywhere but we can’t find Daddy’s glasses.",
+		"cn": "佩奇：我们到处都找了，可还是找不到爸爸的眼镜。"
+	},
+	{
+		"en": "Mummy Pig: Oh, dear. Now what can we do?",
+		"cn": "猪妈妈：哎呀，现在怎么办？",
+		"sentence": {
+			"en": "Now what can we do?",
+			"cn": "现在怎么办？",
+			"examples": [
+				{
+					"en": "Now what can we play?",
+					"cn": "现在我们能玩什么？"
+				},
+				{
+					"en": "Now what can we eat?",
+					"cn": "现在我们能吃什么？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: I suppose I‘ll just have to learn to do without them. If I move slowly I won’t bump into things.",
+		"cn": "猪爸爸：看来我只能学着不用眼镜了。如果我走慢点，就不会撞到东西。",
+		"sentence": {
+			"en": "I suppose I‘ll just have to learn to do without them.",
+			"cn": "看来我只能学着不用它们了。",
+			"examples": [
+				{
+					"en": "I suppose I‘ll just have to run without my shoes.",
+					"cn": "看来我只能学着不穿鞋跑步了。"
+				},
+				{
+					"en": "I suppose I‘ll just have to cook without my recipe.",
+					"cn": "看来我只能学着不用食谱做饭了。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Peppa Pig: There they are. Daddy’s glasses.",
+		"cn": "佩奇：在那儿呢，爸爸的眼镜。",
+		"points": [
+			{
+				"en": "There they are",
+				"cn": "在那儿呢"
+			}
+		]
+	},
+	{
+		"en": "Mummy Pig: Daddy Pig. You were sitting on them all the time.",
+		"cn": "猪妈妈：猪爸爸，你一直坐在眼镜上。",
+		"sentence": {
+			"en": "You were sitting on them all the time.",
+			"cn": "你一直坐在它们上面。",
+			"examples": [
+				{
+					"en": "You were hiding behind the door all the time.",
+					"cn": "你一直躲在门后面。"
+				},
+				{
+					"en": "You were waiting for me all the time.",
+					"cn": "你一直在等我。"
+				}
+			]
+		}
+	},
+	{ "en": "Daddy Pig: Oh.", "cn": "猪爸爸：哦。" },
+	{ "en": "Peppa Pig: Silly Daddy.", "cn": "佩奇：傻爸爸。" },
+	{
+		"en": "Daddy Pig: I don’t know how they got there.",
+		"cn": "猪爸爸：我也不知道怎么会在那儿。",
+		"sentence": {
+			"en": "I don’t know how they got there.",
+			"cn": "我也不知道它们怎么会在那儿。",
+			"examples": [
+				{
+					"en": "I don’t know how they got lost.",
+					"cn": "我也不知道它们怎么会丢了。"
+				},
+				{
+					"en": "I don’t know how they got broken.",
+					"cn": "我也不知道它们怎么会坏了。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Mummy Pig: I wonder how.",
+		"cn": "猪妈妈：我也想知道。",
+		"sentence": {
+			"en": "I wonder how.",
+			"cn": "我也想知道。",
+			"examples": [
+				{
+					"en": "I wonder how they did that.",
+					"cn": "我也想知道他们是怎么做到的。"
+				},
+				{
+					"en": "I wonder how it works.",
+					"cn": "我也想知道它是怎么工作的。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Mummy Pig: Well you may have been a bit silly, Daddy Pig, but at least you’re not grumpy anymore.",
+		"cn": "猪妈妈：你是有点傻，猪爸爸，但至少你现在不生气了。",
+		"sentence": {
+			"en": "at least you’re not grumpy anymore.",
+			"cn": "至少你现在不生气了。",
+			"examples": [
+				{
+					"en": "at least you’re happy now.",
+					"cn": "至少你现在开心了。"
+				},
+				{
+					"en": "at least you’re safe now.",
+					"cn": "至少你现在安全了。"
+				}
+			]
+		}
+	},
+	{ "en": "Daddy Pig: I was not grumpy.", "cn": "猪爸爸：我才没有生气。" }
+]

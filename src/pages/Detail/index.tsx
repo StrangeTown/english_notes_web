@@ -158,10 +158,10 @@ const Detail: React.FC = () => {
 				{episodeData.map((item, idx) => (
 					<div
 						key={idx}
-						className="pl-6 bg-white rounded text-left flex flex-row justify-between items-center border-b border-gray-200 last:border-b-0 h-[116px] no-break"
+						className="pl-6 bg-white rounded text-left flex flex-row justify-between items-stretch border-b border-gray-200 last:border-b-0 no-break"
 					>
 						{/* Main */}
-						<div>
+						<div className="py-6">
 							<div className="mb-2 text-dark" style={{ fontFamily: '"Comic Neue", "Comic Sans MS", cursive, sans-serif' }}>
 								{highlightPart(
 									item.en,

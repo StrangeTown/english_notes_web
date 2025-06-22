@@ -15,10 +15,10 @@ interface SentenceProps {
 
 const Sentence: React.FC<SentenceProps> = ({ sentence }) => {
 	if (!sentence) {
-		return <div className="bg-gray-200 p-2 w-[240px] h-full flex flex-col justify-center" />;
+		return <div className="bg-gray-200 p-2 w-[240px] flex flex-col justify-center" />;
 	}
 	return (
-		<div className="bg-gray-200 p-2 w-[240px] h-full flex flex-col justify-center flex-shrink-0 ml-4">
+		<div className="bg-gray-200 p-2 w-[240px] flex flex-col justify-center flex-shrink-0 ml-4">
 			{sentence.examples && Array.isArray(sentence.examples) && (
 				<div className="text-xs text-gray-600 flex flex-col gap-1">
 					{sentence.examples.map((ex, eIdx) => (
