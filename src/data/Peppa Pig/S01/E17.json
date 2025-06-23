@@ -1,109 +1,565 @@
-Narrator: It is a lovely, bright, sunny day. Peppa and her family are going for a picnic. Daddy Pig is bringing the picnic basket.
-
-Daddy Pig: Picnic basket, bread, cheese, tomatoes and lemonade. Is there anything we’ve forgotten?
-
-Peppa Pig: Mummy’s strawberry cake.
-
-Daddy Pig: I was just teasing. Mummy’s homemade strawberry cake is there too.
-
-Daddy Pig: Is everybody ready?
-
-Mummy Pig, Peppa Pig, George: Ready.
-
-Daddy Pig: Then let’s go.
-
-Daddy Pig: This looks like just the spot for our picnic.
-
-Mummy Pig, Peppa Pig, George: Hurrah!
-
-Daddy Pig: It’s great to be outdoors. We should run around a bit and get some exercise.
-
-Mummy Pig: I want to eat, then have a nap. I certainly don’t want to run around.
-
-Peppa Pig: Maybe Daddy should run around a bit. His tummy is quite big.
-
-Daddy Pig: My tummy is not big. But later I will get some exercise. Even if no one else does.
-
-Mummy Pig: Let’s eat.
-
-Daddy Pig: Good idea, Mummy Pig. I’m really hungry.
-
-Daddy Pig: Delicious.
-
-Daddy Pig: Aah, I feel quite sleepy.
-
-Mummy Pig: I thought you wanted to run around a bit, Daddy Pig.
-
-Daddy Pig: Later.
-
-Peppa Pig: Look, there’s a little duck pond.
-
-Peppa Pig: Mummy, can we feed the ducks?
-
-Mummy Pig: Yes, you can feed them the rest of the bread.
-
-Narrator: Peppa and George love feeding bread to ducks.
-
-Peppa Pig: Mummy, I think they want some more.
-
-Mummy Pig: That was the last of the bread. I’m sure they’ve had enough.
-
-Peppa Pig: Sorry, Mrs Duck. We’ve no more bread.
-
-Narrator: The ducks want more food.
-
-Mummy Pig: So much for Daddy Pig and his exercise.
-
-Daddy Pig: What?
-
-Mummy Pig: You lot again? Peppa told you; there’s no more bread.
-
-Peppa Pig: Mummy, we do have strawberry cake.
-
-Mummy Pig: Well, if there’s any cake left over you can give it to the ducks.
-
-Narrator: Everybody likes Mummy Pig’s homemade strawberry cake.
-
-Mummy Pig: A wasp! I hate wasps. Shoo!
-
-Daddy Pig: What a fuss, Mummy Pig. It’s only a little wasp.
-
-Mummy Pig: Go away, wasp.
-
-Daddy Pig: Just stay still, Mummy Pig. Then it will fly away.
-
-Daddy Pig: There, you see? All you had to do was stay still.
-
-Daddy Pig: Get away. Scram.
-
-Daddy Pig: Help!
-
-Daddy Pig: Shoo! Get it off me.
-
-Peppa Pig: I hope the wasp doesn’t sting daddy.
-
-Daddy Pig: Oh, get away, you little pest.
-
-Mummy Pig: No, Daddy Pig is running too fast for the wasp to catch him.
-
-Peppa Pig: Let’s eat our cake before the wasp comes back.
-
-Peppa Pig: Oh no, we forgot to leave any for the ducks.
-
-Daddy Pig: I think I lost it.
-
-Mummy Pig: You said you would run around and get some exercise, Daddy Pig, but I didn’t believe you’d do it.
-
-Daddy Pig: Luckily, I managed to hang on to my slice of strawberry cake.
-
-Peppa Pig: Stop, Daddy. We promised the rest of the cake for the ducks.
-
-Daddy Pig: Oh.
-
-Peppa Pig: You’re very lucky ducks. Say thank you to Daddy Pig.
-
-Daddy Pig: You’re most welcome.
-
-Mummy Pig: It’s time to go home. Say goodbye to the ducks.
-
-Peppa Pig: Bye-bye, ducks. See you next time.
+[
+	{
+		"en": "Narrator: It is a lovely, bright, sunny day. Peppa and her family are going for a picnic. Daddy Pig is bringing the picnic basket.",
+		"cn": "旁白：今天天气晴朗，佩奇一家要去野餐。猪爸爸正带着野餐篮。",
+		"points": [
+			{
+				"en": "going for a picnic",
+				"cn": "去野餐"
+			},
+			{
+				"en": "picnic basket",
+				"cn": "野餐篮"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: Picnic basket, bread, cheese, tomatoes and lemonade. Is there anything we’ve forgotten?",
+		"cn": "猪爸爸：野餐篮、面包、奶酪、西红柿和柠檬水。我们还忘了什么吗？",
+    "points": [
+      {
+        "en": "Is there anything we’ve forgotten?",
+        "cn": "我们还忘了什么吗？"
+      }
+    ]
+	},
+	{
+		"en": "Peppa Pig: Mummy’s strawberry cake.",
+		"cn": "小猪佩奇：妈妈的草莓蛋糕。"
+	},
+	{
+		"en": "Daddy Pig: I was just teasing. Mummy’s homemade strawberry cake is there too.",
+		"cn": "猪爸爸：我只是逗你玩。妈妈自制的草莓蛋糕也带上了。",
+    "points": [
+      {
+        "en": "I was just teasing",
+        "cn": "我只是逗你玩"
+      },
+      {
+        "en": "homemade strawberry cake",
+        "cn": "自制草莓蛋糕"
+      }
+    ]
+	},
+	{
+		"en": "Daddy Pig: Is everybody ready?",
+		"cn": "猪爸爸：大家都准备好了吗？"
+	},
+	{
+		"en": "Mummy Pig, Peppa Pig, George: Ready.",
+		"cn": "猪妈妈、小猪佩奇、乔治：准备好了。"
+	},
+	{ 
+    "en": "Daddy Pig: Then let’s go.", 
+    "cn": "猪爸爸：那我们出发吧。",
+    "points": [
+      {
+        "en": "let’s go",
+        "cn": "我们出发吧"
+      }
+    ]
+  },
+	{
+		"en": "Daddy Pig: This looks like just the spot for our picnic.",
+		"cn": "猪爸爸：这里看起来很适合野餐。",
+    "sentence": {
+      "en": "just the spot for our picnic",
+      "cn": "很适合野餐",
+      "examples": [
+        {
+          "en": "This is just the spot for playing football.",
+          "cn": "这里很适合踢足球。"
+        },
+        {
+          "en": "This is just the spot for looking at the stars.",
+          "cn": "这里很适合看星星。"
+        }
+      ]
+    }
+	},
+	{
+		"en": "Mummy Pig, Peppa Pig, George: Hurrah!",
+		"cn": "猪妈妈、小猪佩奇、乔治：万岁！"
+	},
+	{
+		"en": "Daddy Pig: It’s great to be outdoors. We should run around a bit and get some exercise.",
+		"cn": "猪爸爸：在户外真好。我们应该跑一跑，锻炼一下。",
+    "points": [
+      {
+        "en": "run around a bit",
+        "cn": "跑一跑"
+      },
+      {
+        "en": "get some exercise",
+        "cn": "锻炼一下"
+      }
+    ]
+	},
+	{
+		"en": "Mummy Pig: I want to eat, then have a nap. I certainly don’t want to run around.",
+		"cn": "猪妈妈：我想先吃饭，然后小睡一会儿。我可不想跑来跑去。",
+    "points": [
+      {
+        "en": "have a nap",
+        "cn": "小睡一会儿"
+      }
+    ],
+    "sentence": {
+      "en": "I certainly don’t want to run around",
+      "cn": "我可不想跑来跑去",
+      "examples": [
+        {
+          "en": "I certainly don’t want to go shopping.",
+          "cn": "我可不想去购物。"
+        },
+        {
+          "en": "I certainly don’t want to play tennis.",
+          "cn": "我可不想打网球。"
+        }
+      ]
+    }
+	},
+	{
+		"en": "Peppa Pig: Maybe Daddy should run around a bit. His tummy is quite big.",
+		"cn": "小猪佩奇：也许爸爸应该多跑跑，他的肚子挺大的。",
+    "points": [
+      {
+        "en": "his tummy is quite big",
+        "cn": "他的肚子挺大的"
+      }
+    ]
+	},
+	{
+		"en": "Daddy Pig: My tummy is not big. But later I will get some exercise. Even if no one else does.",
+		"cn": "猪爸爸：我的肚子不大。不过等会儿我会锻炼的，就算没人陪我。",
+    "points": [
+      {
+        "en": "Even if no one else does",
+        "cn": "就算没人陪我"
+      }
+    ]
+	},
+	{ "en": "Mummy Pig: Let’s eat.", "cn": "猪妈妈：我们吃饭吧。" },
+	{
+		"en": "Daddy Pig: Good idea, Mummy Pig. I’m really hungry.",
+		"cn": "猪爸爸：好主意，猪妈妈。我真的饿了。",
+    "points": [
+      {
+        "en": "Good idea",
+        "cn": "好主意"
+      },
+      {
+        "en": "I’m really hungry",
+        "cn": "我真的饿了"
+      }
+    ]
+	},
+	{ "en": "Daddy Pig: Delicious.", "cn": "猪爸爸：真好吃。" },
+	{
+		"en": "Daddy Pig: Aah, I feel quite sleepy.",
+		"cn": "猪爸爸：啊，我有点困了。",
+    "points": [
+      {
+        "en": "I feel quite sleepy",
+        "cn": "我有点困了"
+      }
+    ]
+	},
+	{
+		"en": "Mummy Pig: I thought you wanted to run around a bit, Daddy Pig.",
+		"cn": "猪妈妈：我还以为你要跑一跑呢，猪爸爸。",
+    "sentence": {
+      "en": "I thought you wanted to run around a bit",
+      "cn": "我还以为你要跑一跑呢",
+      "examples": [
+        {
+          "en": "I thought you wanted to read a book.",
+          "cn": "我还以为你要看书呢。"
+        },
+        {
+          "en": "I thought you wanted to go swimming.",
+          "cn": "我还以为你要去游泳。"
+        }
+      ]
+    }
+	},
+	{ "en": "Daddy Pig: Later.", "cn": "猪爸爸：等会儿吧。" },
+	{
+		"en": "Peppa Pig: Look, there’s a little duck pond.",
+		"cn": "小猪佩奇：看，有个小鸭塘。",
+    "points": [
+      {
+        "en": "little duck pond",
+        "cn": "小鸭塘"
+      }
+    ]
+	},
+	{
+		"en": "Peppa Pig: Mummy, can we feed the ducks?",
+		"cn": "小猪佩奇：妈妈，我们可以喂鸭子吗？",
+    "points": [
+      {
+        "en": "feed the ducks",
+        "cn": "喂鸭子"
+      }
+    ]
+	},
+	{
+		"en": "Mummy Pig: Yes, you can feed them the rest of the bread.",
+		"cn": "猪妈妈：可以，把剩下的面包喂给它们吧。",
+    "points": [
+      {
+        "en": "the rest of the bread",
+        "cn": "剩下的面包"
+      }
+    ]
+	},
+	{
+		"en": "Narrator: Peppa and George love feeding bread to ducks.",
+		"cn": "旁白：佩奇和乔治喜欢喂鸭子吃面包。"
+	},
+	{
+		"en": "Peppa Pig: Mummy, I think they want some more.",
+		"cn": "小猪佩奇：妈妈，我觉得它们还想吃。",
+    "points": [
+      {
+        "en": "they want some more",
+        "cn": "它们还想吃"
+      }
+    ]
+	},
+	{
+		"en": "Mummy Pig: That was the last of the bread. I’m sure they’ve had enough.",
+		"cn": "猪妈妈：面包已经没有了，我相信它们吃饱了。",
+    "sentence": {
+      "en": "That was the last of the bread.",
+      "cn": "面包已经没有了",
+      "examples": [
+        {
+          "en": "That was the last of the cake.",
+          "cn": "蛋糕已经没有了。"
+        },
+        {
+          "en": "That was the last of the juice.",
+          "cn": "果汁已经没有了。"
+        }
+      ]
+    }
+	},
+	{
+		"en": "Peppa Pig: Sorry, Mrs Duck. We’ve no more bread.",
+		"cn": "小猪佩奇：对不起，鸭太太，我们没有面包了。",
+    "sentence": {
+      "en": "We’ve no more bread",
+      "cn": "我们没有面包了",
+      "examples": [
+        {
+          "en": "We’ve no more milk.",
+          "cn": "我们没有牛奶了。"
+        },
+        {
+          "en": "We’ve no more honey.",
+          "cn": "我们没有蜂蜜了。"
+        }
+      ]
+    }
+	},
+	{
+		"en": "Narrator: The ducks want more food.",
+		"cn": "旁白：鸭子们还想要吃的。"
+	},
+	{
+		"en": "Mummy Pig: So much for Daddy Pig and his exercise.",
+		"cn": "猪妈妈：猪爸爸的锻炼就到此为止了。"
+	},
+	{ "en": "Daddy Pig: What?", "cn": "猪爸爸：什么？" },
+	{
+		"en": "Mummy Pig: You lot again? Peppa told you; there’s no more bread.",
+		"cn": "猪妈妈：你们又来了？佩奇说了，没有面包了。",
+    "points": [
+      {
+        "en": "Peppa told you",
+        "cn": "佩奇说了"
+      }
+    ]
+	},
+	{
+		"en": "Peppa Pig: Mummy, we do have strawberry cake.",
+		"cn": "小猪佩奇：妈妈，我们还有草莓蛋糕。"
+	},
+	{
+		"en": "Mummy Pig: Well, if there’s any cake left over you can give it to the ducks.",
+		"cn": "猪妈妈：如果蛋糕有剩下的，可以给鸭子吃。",
+    "sentence": {
+      "en": "if there’s any cake left over",
+      "cn": "如果蛋糕有剩下的",
+      "examples": [
+        {
+          "en": "if there’s any juice left over",
+          "cn": "如果果汁有剩下的"
+        },
+        {
+          "en": "if there’s any apple left over",
+          "cn": "如果苹果有剩下的"
+        }
+      ]
+    }
+	},
+	{
+		"en": "Narrator: Everybody likes Mummy Pig’s homemade strawberry cake.",
+		"cn": "旁白：大家都喜欢猪妈妈做的草莓蛋糕。"
+	},
+	{
+		"en": "Mummy Pig: A wasp! I hate wasps. Shoo!",
+		"cn": "猪妈妈：有只黄蜂！我讨厌黄蜂，走开！",
+    "points": [
+      {
+        "en": "I hate wasps",
+        "cn": "我讨厌黄蜂"
+      },
+      {
+        "en": "Shoo!",
+        "cn": "走开！"
+      }
+    ]
+	},
+	{
+		"en": "Daddy Pig: What a fuss, Mummy Pig. It’s only a little wasp.",
+		"cn": "猪爸爸：猪妈妈，别大惊小怪，只是一只小黄蜂。",
+    "points": [
+      {
+        "en": "What a fuss",
+        "cn": "别大惊小怪"
+      },
+      {
+        "en": "It’s only a little wasp",
+        "cn": "只是一只小黄蜂"
+      }
+    ]
+	},
+	{ 
+    "en": "Mummy Pig: Go away, wasp.", 
+    "cn": "猪妈妈：走开，黄蜂。",
+    "points": [
+      {
+        "en": "Go away, wasp",
+        "cn": "走开，黄蜂"
+      }
+    ]
+  },
+	{
+		"en": "Daddy Pig: Just stay still, Mummy Pig. Then it will fly away.",
+		"cn": "猪爸爸：别动，猪妈妈，它就会飞走。",
+    "points": [
+      {
+        "en": "stay still",
+        "cn": "别动"
+      },
+      {
+        "en": "it will fly away",
+        "cn": "它就会飞走"
+      }
+    ]
+	},
+	{
+		"en": "Daddy Pig: There, you see? All you had to do was stay still.",
+		"cn": "猪爸爸：看吧，你只要不动就行了。",
+    "sentence": {
+      "en": "All you had to do was stay still",
+      "cn": "你只要不动就行了",
+      "examples": [
+        {
+          "en": "All you had to do was wait.",
+          "cn": "你只要等就行了。"
+        },
+        {
+          "en": "All you had to do was ask.",
+          "cn": "你只要问就行了。"
+        }
+      ]
+    },
+    "points": [
+      {
+        "en": "you see?",
+        "cn": "看吧？"
+      }
+    ]
+	},
+	{ "en": "Daddy Pig: Get away. Scram.", "cn": "猪爸爸：走开，快走开。" },
+	{ "en": "Daddy Pig: Help!", "cn": "猪爸爸：救命啊！" },
+	{
+		"en": "Daddy Pig: Shoo! Get it off me.",
+		"cn": "猪爸爸：走开，别在我身上。",
+    "points": [
+      {
+        "en": "Get it off me",
+        "cn": "别在我身上"
+      }
+    ]
+	},
+	{
+		"en": "Peppa Pig: I hope the wasp doesn’t sting daddy.",
+		"cn": "小猪佩奇：希望黄蜂别蜇爸爸。",
+    "points": [
+      {
+        "en": "doesn’t sting daddy",
+        "cn": "别蜇爸爸"
+      }
+    ]
+	},
+	{
+		"en": "Daddy Pig: Oh, get away, you little pest.",
+		"cn": "猪爸爸：走开，你这小讨厌鬼。",
+    "points": [
+      {
+        "en": "you little pest",
+        "cn": "你这小讨厌鬼"
+      }
+    ]
+	},
+	{
+		"en": "Mummy Pig: No, Daddy Pig is running too fast for the wasp to catch him.",
+		"cn": "猪妈妈：不会的，猪爸爸跑得太快，黄蜂追不上他。",
+    "sentence": {
+      "en": "Daddy Pig is running too fast for the wasp to catch him",
+      "cn": "猪爸爸跑得太快，黄蜂追不上他",
+      "examples": [
+        {
+          "en": "The dog is running too fast for the cat to catch it.",
+          "cn": "狗跑得太快，猫追不上它。"
+        },
+        {
+          "en": "The child is running too fast for the ball to catch it.",
+          "cn": "孩子跑得太快，球追不上他。"
+        }
+      ]
+    }
+	},
+	{
+		"en": "Peppa Pig: Let’s eat our cake before the wasp comes back.",
+		"cn": "小猪佩奇：我们趁黄蜂没回来赶快吃蛋糕吧。"
+	},
+	{
+		"en": "Peppa Pig: Oh no, we forgot to leave any for the ducks.",
+		"cn": "小猪佩奇：糟了，我们忘了给鸭子留蛋糕了。",
+    "sentence": {
+      "en": "we forgot to leave any for the ducks",
+      "cn": "我们忘了给鸭子留蛋糕了",
+      "examples": [
+        {
+          "en": "we forgot to leave any for the birds",
+          "cn": "我们忘了给鸟儿留食物了"
+        },
+        {
+          "en": "we forgot to leave any for the children",
+          "cn": "我们忘了给孩子们留零食了"
+        }
+      ]
+    }
+	},
+	{ 
+    "en": "Daddy Pig: I think I lost it.", 
+    "cn": "猪爸爸：我想我甩掉它了。",
+    "points": [
+      {
+        "en": "I lost it",
+        "cn": "我甩掉它了"
+      }
+    ]
+  },
+	{
+		"en": "Mummy Pig: You said you would run around and get some exercise, Daddy Pig, but I didn’t believe you’d do it.",
+		"cn": "猪妈妈：你说要跑步锻炼，猪爸爸，我还不信你会真的去做。",
+    "sentence": {
+      "en": "I didn’t believe you’d do it",
+      "cn": "我还不信你会真的去做",
+      "examples": [
+        {
+          "en": "I didn’t believe you’d finish the job.",
+          "cn": "我还不信你会完成这项工作。"
+        },
+        {
+          "en": "I didn’t believe you’d win the game.",
+          "cn": "我还不信你会赢得比赛。"
+        }
+      ]
+    }
+	},
+	{
+		"en": "Daddy Pig: Luckily, I managed to hang on to my slice of strawberry cake.",
+		"cn": "猪爸爸：幸好我还保住了我的那块草莓蛋糕。",
+    "sentence": {
+      "en": "I managed to hang on to my slice of strawberry cake",
+      "cn": "我还保住了我的那块草莓蛋糕",
+      "examples": [
+        {
+          "en": "I managed to hang on to my book.",
+          "cn": "我还保住了我的书。"
+        },
+        {
+          "en": "I managed to hang on to my toy.",
+          "cn": "我还保住了我的玩具。"
+        }
+      ]
+    }
+	},
+	{
+		"en": "Peppa Pig: Stop, Daddy. We promised the rest of the cake for the ducks.",
+		"cn": "小猪佩奇：停下，爸爸。我们答应把剩下的蛋糕留给鸭子。",
+    "sentence": {
+      "en": "We promised the rest of the cake for the ducks",
+      "cn": "我们答应把剩下的蛋糕留给鸭子",
+      "examples": [
+        {
+          "en": "We promised the rest of the food for the birds.",
+          "cn": "我们答应把剩下的食物留给鸟儿。"
+        },
+        {
+          "en": "We promised the rest of the toys for the children.",
+          "cn": "我们答应把剩下的玩具留给孩子们。"
+        }
+      ]
+    }
+	},
+	{ "en": "Daddy Pig: Oh.", "cn": "猪爸爸：哦。" },
+	{
+		"en": "Peppa Pig: You’re very lucky ducks. Say thank you to Daddy Pig.",
+		"cn": "小猪佩奇：你们真幸运，鸭子们。要谢谢猪爸爸。",
+    "points": [
+      {
+        "en": "Say thank you to Daddy Pig",
+        "cn": "要谢谢猪爸爸"
+      }
+    ]
+	},
+	{ 
+    "en": "Daddy Pig: You’re most welcome.", 
+    "cn": "猪爸爸：不客气。",
+    "points": [
+      {
+        "en": "You’re most welcome",
+        "cn": "不客气"
+      }
+    ]
+  },
+	{
+		"en": "Mummy Pig: It’s time to go home. Say goodbye to the ducks.",
+		"cn": "猪妈妈：该回家了，和鸭子们说再见。",
+    "points": [
+      {
+        "en": "Say goodbye to the ducks",
+        "cn": "和鸭子们说再见"
+      }
+    ]
+	},
+	{
+		"en": "Peppa Pig: Bye-bye, ducks. See you next time.",
+		"cn": "小猪佩奇：再见，鸭子们，下次见。",
+    "points": [
+      {
+        "en": "See you next time",
+        "cn": "下次见"
+      }
+    ]
+	}
+]
