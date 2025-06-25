@@ -1,133 +1,222 @@
-Narrator: Mummy Pig and Daddy Pig have just made breakfast for Peppa and George.
-
-Daddy Pig: Breakfast is ready.
-
-Narrator: Peppa has red spots on her face.
-
-Peppa Pig: Mummy, I don’t feel very well.
-
-Mummy Pig: Oh, dear, Peppa. You don’t look very well.
-
-Daddy Pig: Don’t worry. I’ll ring Dr. Brown Bear.
-
-Dr. Brown Bear: Dr. Brown Bear speaking.
-
-Daddy Pig: Peppa is not very well. Her face is covered in red spots.
-
-Dr. Brown Bear: Hmmm. Put Peppa to bed and I’ll come straight round.
-
-Narrator: Dr. Brown Bear has come to make Peppa better.
-
-Dr. Brown Bear: Hello, Peppa. How are you today?
-
-Peppa Pig: I’m not very well.
-
-Dr. Brown Bear: Stick your tongue out, please.
-
-Dr. Brown Bear: Hmm. It’s not anything serious. Peppa has just got a rash.
-
-Peppa Pig: Do I need medicine?
-
-Dr. Brown Bear: The rash will clear up quickly, but if you like I can give you just a little medicine.
-
-Peppa Pig: Yes, please.
-
-Dr. Brown Bear: I’m afraid it doesn’t taste very nice. Open wide, please.
-
-Peppa Pig: Yuck! Disgusting!
-
-Dr. Brown Bear: You are a brave little one for taking it so well.
-
-Dr. Brown Bear: Peppa must stay in bed. I’ll call back later to check that she’s better.
-
-Mummy Pig: Can Peppa have visitors?
-
-Dr. Brown Bear: Oh, yes, she can have visitors. The rash isn’t catching. Goodbye.
-
-Daddy Pig: Goodbye, Dr. Brown Bear.
-
-Peppa Pig: Mummy, can I get up now?
-
-Mummy Pig: Dr. Brown Bear says that you must stay in bed for a little bit, Peppa.
-
-Peppa Pig: Oh. But it’s so boring.
-
-Mummy Pig: Dr. Brown Bear did say you could have visitors.
-
-Peppa Pig: Could Suzy Sheep visit me?
-
-Narrator: Suzy Sheep is Peppa’s best friend.
-
-Mummy Pig: I’ll ring Suzy Sheep’s mummy.
-
-Mrs Sheep: Hello, Mrs Pig.
-
-Mummy Pig: May Peppa talk with Suzy, please?
-
-Peppa Pig: Hello, Suzy.
-
-Suzy Sheep: Hello, Peppa.
-
-Peppa Pig: I’m not very well. I have red spots on my face.
-
-Suzy Sheep: Has the doctor been?
-
-Peppa Pig: Yes, Dr. Brown Bear was here. He said I wasn’t very well and that I was very brave.
-
-Suzy Sheep: So are you really ill?
-
-Peppa Pig: Yes, yes. It’s not pretend. I have to stay in bed. Dr. Brown Bear gave me medicine that tasted really horrible.
-
-Suzy Sheep: I’m coming to see you. I’m going to wear my nurse’s outfit.
-
-Narrator: Suzy Sheep has come to see Peppa. Suzy is wearing her nurse’s costume. Danny Dog and Rebecca Rabbit have come along too.
-
-Suzy Sheep, Danny Dog, Rebecca Rabbit: Hello, Peppa.
-
-Peppa Pig: Hello.
-
-Suzy Sheep: How do you feel?
-
-Peppa Pig: I’m not very well, Suzy. I have to stay in bed.
-
-Suzy Sheep: What can we do to make you better?
-
-Peppa Pig: You can get me some orange juice.
-
-Suzy Sheep: Okay.
-
-Narrator: Peppa seems to be quite enjoying herself.
-
-Peppa Pig: Thank you, Suzy.
-
-Suzy Sheep: Do you feel any better?
-
-Peppa Pig: A little bit.
-
-Peppa Pig: Danny, ask my mummy if I could have some ice cream. And Rebecca, could you bring me some flowers from the garden?
-
-Narrator: Dr. Brown Bear is here to see whether Peppa is better.
-
-Dr. Brown Bear: Ah, good. The nurse is already here. How is the patient?
-
-Suzy Sheep: I’m not a real nurse. It’s just pretend.
-
-Dr. Brown Bear: I see. Would you like me to take a look myself?
-
-Suzy Sheep: Yes, please.
-
-Dr. Brown Bear: I say! No more red spots! You’re completely better.
-
-Peppa Pig: Aren’t I still a bit ill?
-
-Dr. Brown Bear: How do you feel?
-
-Peppa Pig: I think I should stay in bed a little bit more.
-
-Daddy Pig: I fancy a game with this ball in the garden. Who wants to join me?
-
-Suzy Sheep, Danny Dog, Rebecca Rabbit: Me, me, me!
-
-Peppa Pig: Me too!
-
-Dr. Brown Bear: Well, I never. A complete recovery.
+[
+	{
+		"en": "Narrator: Mummy Pig and Daddy Pig have just made breakfast for Peppa and George.",
+		"cn": "旁白：猪妈妈和猪爸爸刚刚为佩奇和乔治做好了早餐。"
+	},
+	{ "en": "Daddy Pig: Breakfast is ready.", "cn": "猪爸爸：早餐好了。" },
+	{
+		"en": "Narrator: Peppa has red spots on her face.",
+		"cn": "旁白：佩奇脸上长了红点。"
+	},
+	{
+		"en": "Peppa Pig: Mummy, I don’t feel very well.",
+		"cn": "小猪佩奇：妈妈，我不太舒服。"
+	},
+	{
+		"en": "Mummy Pig: Oh, dear, Peppa. You don’t look very well.",
+		"cn": "猪妈妈：哎呀，佩奇，你看起来不太好。"
+	},
+	{
+		"en": "Daddy Pig: Don’t worry. I’ll ring Dr. Brown Bear.",
+		"cn": "猪爸爸：别担心，我给布朗熊医生打电话。"
+	},
+	{
+		"en": "Dr. Brown Bear: Dr. Brown Bear speaking.",
+		"cn": "布朗熊医生：我是布朗熊医生。"
+	},
+	{
+		"en": "Daddy Pig: Peppa is not very well. Her face is covered in red spots.",
+		"cn": "猪爸爸：佩奇不太舒服，脸上都是红点。"
+	},
+	{
+		"en": "Dr. Brown Bear: Hmmm. Put Peppa to bed and I’ll come straight round.",
+		"cn": "布朗熊医生：嗯，让佩奇躺床上，我马上过来。"
+	},
+	{
+		"en": "Narrator: Dr. Brown Bear has come to make Peppa better.",
+		"cn": "旁白：布朗熊医生来给佩奇看病了。"
+	},
+	{
+		"en": "Dr. Brown Bear: Hello, Peppa. How are you today?",
+		"cn": "布朗熊医生：你好，佩奇。你今天怎么样？"
+	},
+	{ "en": "Peppa Pig: I’m not very well.", "cn": "小猪佩奇：我不太舒服。" },
+	{
+		"en": "Dr. Brown Bear: Stick your tongue out, please.",
+		"cn": "布朗熊医生：请把舌头伸出来。"
+	},
+	{
+		"en": "Dr. Brown Bear: Hmm. It’s not anything serious. Peppa has just got a rash.",
+		"cn": "布朗熊医生：嗯，没什么大碍，佩奇只是起了疹子。"
+	},
+	{ "en": "Peppa Pig: Do I need medicine?", "cn": "小猪佩奇：我需要吃药吗？" },
+	{
+		"en": "Dr. Brown Bear: The rash will clear up quickly, but if you like I can give you just a little medicine.",
+		"cn": "布朗熊医生：疹子很快就会好，不过你想要的话我可以给你一点药。"
+	},
+	{ "en": "Peppa Pig: Yes, please.", "cn": "小猪佩奇：要，谢谢。" },
+	{
+		"en": "Dr. Brown Bear: I’m afraid it doesn’t taste very nice. Open wide, please.",
+		"cn": "布朗熊医生：味道可能不太好，请张大嘴。"
+	},
+	{ "en": "Peppa Pig: Yuck! Disgusting!", "cn": "小猪佩奇：呸！好难喝！" },
+	{
+		"en": "Dr. Brown Bear: You are a brave little one for taking it so well.",
+		"cn": "布朗熊医生：你真勇敢，喝得很好。"
+	},
+	{
+		"en": "Dr. Brown Bear: Peppa must stay in bed. I’ll call back later to check that she’s better.",
+		"cn": "布朗熊医生：佩奇要卧床休息，我等会儿再来看看她好没好。"
+	},
+	{
+		"en": "Mummy Pig: Can Peppa have visitors?",
+		"cn": "猪妈妈：佩奇可以有客人来吗？"
+	},
+	{
+		"en": "Dr. Brown Bear: Oh, yes, she can have visitors. The rash isn’t catching. Goodbye.",
+		"cn": "布朗熊医生：可以，疹子不传染。再见。"
+	},
+	{
+		"en": "Daddy Pig: Goodbye, Dr. Brown Bear.",
+		"cn": "猪爸爸：再见，布朗熊医生。"
+	},
+	{
+		"en": "Peppa Pig: Mummy, can I get up now?",
+		"cn": "小猪佩奇：妈妈，我现在能起来吗？"
+	},
+	{
+		"en": "Mummy Pig: Dr. Brown Bear says that you must stay in bed for a little bit, Peppa.",
+		"cn": "猪妈妈：布朗熊医生说你还要再躺一会儿。"
+	},
+	{
+		"en": "Peppa Pig: Oh. But it’s so boring.",
+		"cn": "小猪佩奇：哦，可是好无聊。"
+	},
+	{
+		"en": "Mummy Pig: Dr. Brown Bear did say you could have visitors.",
+		"cn": "猪妈妈：布朗熊医生说你可以有客人来。"
+	},
+	{
+		"en": "Peppa Pig: Could Suzy Sheep visit me?",
+		"cn": "小猪佩奇：苏茜羊能来看我吗？"
+	},
+	{
+		"en": "Narrator: Suzy Sheep is Peppa’s best friend.",
+		"cn": "旁白：苏茜羊是佩奇最好的朋友。"
+	},
+	{
+		"en": "Mummy Pig: I’ll ring Suzy Sheep’s mummy.",
+		"cn": "猪妈妈：我给苏茜羊的妈妈打电话。"
+	},
+	{ "en": "Mrs Sheep: Hello, Mrs Pig.", "cn": "羊妈妈：你好，猪妈妈。" },
+	{
+		"en": "Mummy Pig: May Peppa talk with Suzy, please?",
+		"cn": "猪妈妈：佩奇能和苏茜说话吗？"
+	},
+	{ "en": "Peppa Pig: Hello, Suzy.", "cn": "小猪佩奇：你好，苏茜。" },
+	{ "en": "Suzy Sheep: Hello, Peppa.", "cn": "苏茜羊：你好，佩奇。" },
+	{
+		"en": "Peppa Pig: I’m not very well. I have red spots on my face.",
+		"cn": "小猪佩奇：我不太舒服，脸上有红点。"
+	},
+	{ "en": "Suzy Sheep: Has the doctor been?", "cn": "苏茜羊：医生来过了吗？" },
+	{
+		"en": "Peppa Pig: Yes, Dr. Brown Bear was here. He said I wasn’t very well and that I was very brave.",
+		"cn": "小猪佩奇：来了，布朗熊医生说我不太好，但很勇敢。"
+	},
+	{
+		"en": "Suzy Sheep: So are you really ill?",
+		"cn": "苏茜羊：你真的生病了吗？"
+	},
+	{
+		"en": "Peppa Pig: Yes, yes. It’s not pretend. I have to stay in bed. Dr. Brown Bear gave me medicine that tasted really horrible.",
+		"cn": "小猪佩奇：真的，不是装的。我得卧床休息，医生还给了我很难喝的药。"
+	},
+	{
+		"en": "Suzy Sheep: I’m coming to see you. I’m going to wear my nurse’s outfit.",
+		"cn": "苏茜羊：我来看你，我要穿护士服。"
+	},
+	{
+		"en": "Narrator: Suzy Sheep has come to see Peppa. Suzy is wearing her nurse’s costume. Danny Dog and Rebecca Rabbit have come along too.",
+		"cn": "旁白：苏茜羊来看佩奇了，还穿着护士服。丹尼狗和丽贝卡兔也来了。"
+	},
+	{
+		"en": "Suzy Sheep, Danny Dog, Rebecca Rabbit: Hello, Peppa.",
+		"cn": "苏茜羊、丹尼狗、丽贝卡兔：你好，佩奇。"
+	},
+	{ "en": "Peppa Pig: Hello.", "cn": "小猪佩奇：你好。" },
+	{ "en": "Suzy Sheep: How do you feel?", "cn": "苏茜羊：你感觉怎么样？" },
+	{
+		"en": "Peppa Pig: I’m not very well, Suzy. I have to stay in bed.",
+		"cn": "小猪佩奇：我不太舒服，得卧床休息。"
+	},
+	{
+		"en": "Suzy Sheep: What can we do to make you better?",
+		"cn": "苏茜羊：我们能做什么让你好起来？"
+	},
+	{
+		"en": "Peppa Pig: You can get me some orange juice.",
+		"cn": "小猪佩奇：你可以给我拿点橙汁。"
+	},
+	{ "en": "Suzy Sheep: Okay.", "cn": "苏茜羊：好的。" },
+	{
+		"en": "Narrator: Peppa seems to be quite enjoying herself.",
+		"cn": "旁白：佩奇好像挺享受的。"
+	},
+	{ "en": "Peppa Pig: Thank you, Suzy.", "cn": "小猪佩奇：谢谢你，苏茜。" },
+	{
+		"en": "Suzy Sheep: Do you feel any better?",
+		"cn": "苏茜羊：你感觉好点了吗？"
+	},
+	{ "en": "Peppa Pig: A little bit.", "cn": "小猪佩奇：好一点点。" },
+	{
+		"en": "Peppa Pig: Danny, ask my mummy if I could have some ice cream. And Rebecca, could you bring me some flowers from the garden?",
+		"cn": "小猪佩奇：丹尼，去问问我妈妈我能不能吃冰淇淋。丽贝卡，你能不能给我从花园里摘些花？"
+	},
+	{
+		"en": "Narrator: Dr. Brown Bear is here to see whether Peppa is better.",
+		"cn": "旁白：布朗熊医生来看看佩奇好些没有。"
+	},
+	{
+		"en": "Dr. Brown Bear: Ah, good. The nurse is already here. How is the patient?",
+		"cn": "布朗熊医生：啊，好。护士已经在这里了。病人怎么样？"
+	},
+	{
+		"en": "Suzy Sheep: I’m not a real nurse. It’s just pretend.",
+		"cn": "苏茜羊：我不是护士，只是在装扮。"
+	},
+	{
+		"en": "Dr. Brown Bear: I see. Would you like me to take a look myself?",
+		"cn": "布朗熊医生：我明白了。要我自己来看看吗？"
+	},
+	{ "en": "Suzy Sheep: Yes, please.", "cn": "苏茜羊：好的。" },
+	{
+		"en": "Dr. Brown Bear: I say! No more red spots! You’re completely better.",
+		"cn": "布朗熊医生：我说！没有红点了！你完全好了。"
+	},
+	{
+		"en": "Peppa Pig: Aren’t I still a bit ill?",
+		"cn": "小猪佩奇：我还没有一点点生病吗？"
+	},
+	{
+		"en": "Dr. Brown Bear: How do you feel?",
+		"cn": "布朗熊医生：你感觉怎么样？"
+	},
+	{
+		"en": "Peppa Pig: I think I should stay in bed a little bit more.",
+		"cn": "小猪佩奇：我想我还应该再躺一会儿。"
+	},
+	{
+		"en": "Daddy Pig: I fancy a game with this ball in the garden. Who wants to join me?",
+		"cn": "猪爸爸：我想在花园里玩这个球。谁想和我一起玩？"
+	},
+	{
+		"en": "Suzy Sheep, Danny Dog, Rebecca Rabbit: Me, me, me!",
+		"cn": "苏茜羊、丹尼狗、丽贝卡兔：我，我，我！"
+	},
+	{ "en": "Peppa Pig: Me too!", "cn": "小猪佩奇：我也要！" },
+	{
+		"en": "Dr. Brown Bear: Well, I never. A complete recovery.",
+		"cn": "布朗熊医生：我从来没见过。完全康复了。"
+	}
+]

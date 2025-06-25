@@ -1,117 +1,184 @@
-Narrator: Mummy Pig and Daddy Pig have been tidying the house.
-
-Daddy Pig: Mummy Pig and I found this old box in the attic.
-
-Peppa Pig and George: Ooo!
-
-Daddy Pig: Can anyone guess what’s inside?
-
-Peppa Pig: Hmmm? Nope.
-
-Mummy Pig: It’s full of musical instruments.
-
-Peppa Pig and George: Wow!
-
-Daddy Pig: They are a bit old and dusty.
-
-Mummy Pig: This is the violin I used to play when I was little.
-
-Peppa Pig: Mummy, can you play your violin?
-
-Mummy Pig: I haven’t played it for a long time.
-
-Peppa Pig: Please, Mummy. Please play it.
-
-Mummy Pig: I hope I haven’t forgotten how.
-
-Daddy Pig: Bravo!
-
-Peppa Pig: Hurrah!
-
-Peppa Pig: Mummy, can I play the violin?
-
-Mummy Pig: Hold it like this.
-
-Peppa Pig: Yes, Mummy.
-
-Daddy Pig and Mummy Pig: Oh!
-
-Narrator: Oh, dear. I do not think it is meant to sound like that.
-
-Narrator: George wants to try.
-
-Peppa Pig: Hold it like this, George.
-
-Daddy Pig, Mummy Pig and Peppa Pig: Oh!
-
-Narrator: That does not sound quite right either.
-
-Peppa Pig: The violin is too hard to play.
-
-Daddy Pig: Peppa, maybe you’d do better with this tin drum.
-
-Peppa Pig: Thank you, Daddy.
-
-Narrator: That sounds better. Peppa loves playing the drum.
-
-Mummy Pig: Lovely.
-
-Daddy Pig: Yes, it sounds very nice.
-
-Mummy Pig: This is Daddy Pig’s old accordion.
-
-Daddy Pig: I used to play this to Mummy Pig when we first met.
-
-Mummy Pig: Oh, Daddy Pig. You remember this tune.
-
-Narrator: George wants to play the accordion too.
-
-Daddy Pig: Are you sure, George? The accordion is quite difficult.
-
-Peppa Pig: George, the “accrodion” is almost as difficult to play as my drum.
-
-Daddy Pig: Okay, George.
-
-Narrator: Maybe George is a bit too little to play the accordion.
-
-Peppa Pig: Daddy, what other instruments are in the box?
-
-Daddy Pig: Just this horn.
-
-Peppa Pig: Can I try?
-
-Daddy Pig: You have to blow it very hard.
-
-Narrator: That does not sound right.
-
-Peppa Pig: It’s impossible.
-
-Mummy Pig: I think I used to be able to play it.
-
-Narrator: That really does not sound right.
-
-Daddy Pig: Maybe it just needs someone big and strong like me.
-
-Narrator: That does not sound right either.
-
-Daddy Pig: Peppa’s right. It is impossible to play.
-
-Mummy Pig: Never mind, Daddy Pig. Just stick to the accordion. You play it beautifully.
-
-Daddy Pig: Well, I do play it quite nicely, even if I say so myself.
-
-Mummy Pig: And I’ll play my violin.
-
-Peppa Pig: And I’ll play my drum.
-
-Narrator: Mummy Pig plays the violin.
-
-Narrator: Daddy Pig plays the accordion.
-
-Narrator: Peppa plays the drum.
-
-Narrator: But what instrument will George play?
-
-Narrator: George is blowing the horn.
-
-Peppa Pig: Mummy couldn’t play the horn. And Daddy couldn’t play it. And even I couldn’t play it. But George can play it.
+[
+	{
+		"en": "Narrator: Mummy Pig and Daddy Pig have been tidying the house.",
+		"cn": "旁白：猪妈妈和猪爸爸一直在整理房子。"
+	},
+	{
+		"en": "Daddy Pig: Mummy Pig and I found this old box in the attic.",
+		"cn": "猪爸爸：猪妈妈和我在阁楼上发现了这个旧箱子。"
+	},
+	{ "en": "Peppa Pig and George: Ooo!", "cn": "小猪佩奇和乔治：哦！" },
+	{
+		"en": "Daddy Pig: Can anyone guess what’s inside?",
+		"cn": "猪爸爸：有人能猜到里面是什么吗？"
+	},
+	{ "en": "Peppa Pig: Hmmm? Nope.", "cn": "小猪佩奇：嗯？不知道。" },
+	{
+		"en": "Mummy Pig: It’s full of musical instruments.",
+		"cn": "猪妈妈：里面全是乐器。"
+	},
+	{ "en": "Peppa Pig and George: Wow!", "cn": "小猪佩奇和乔治：哇！" },
+	{
+		"en": "Daddy Pig: They are a bit old and dusty.",
+		"cn": "猪爸爸：它们有点旧，还有灰尘。"
+	},
+	{
+		"en": "Mummy Pig: This is the violin I used to play when I was little.",
+		"cn": "猪妈妈：这是我小时候拉的小提琴。"
+	},
+	{
+		"en": "Peppa Pig: Mummy, can you play your violin?",
+		"cn": "小猪佩奇：妈妈，你会拉小提琴吗？"
+	},
+	{
+		"en": "Mummy Pig: I haven’t played it for a long time.",
+		"cn": "猪妈妈：我很久没拉了。"
+	},
+	{
+		"en": "Peppa Pig: Please, Mummy. Please play it.",
+		"cn": "小猪佩奇：求你了，妈妈，拉一下吧。"
+	},
+	{
+		"en": "Mummy Pig: I hope I haven’t forgotten how.",
+		"cn": "猪妈妈：希望我没忘记怎么拉。"
+	},
+	{ "en": "Daddy Pig: Bravo!", "cn": "猪爸爸：太棒了！" },
+	{ "en": "Peppa Pig: Hurrah!", "cn": "小猪佩奇：万岁！" },
+	{
+		"en": "Peppa Pig: Mummy, can I play the violin?",
+		"cn": "小猪佩奇：妈妈，我可以拉小提琴吗？"
+	},
+	{ "en": "Mummy Pig: Hold it like this.", "cn": "猪妈妈：这样拿着。" },
+	{ "en": "Peppa Pig: Yes, Mummy.", "cn": "小猪佩奇：好的，妈妈。" },
+	{ "en": "Daddy Pig and Mummy Pig: Oh!", "cn": "猪爸爸和猪妈妈：哦！" },
+	{
+		"en": "Narrator: Oh, dear. I do not think it is meant to sound like that.",
+		"cn": "旁白：哎呀，应该不是这个声音。"
+	},
+	{ "en": "Narrator: George wants to try.", "cn": "旁白：乔治也想试试。" },
+	{
+		"en": "Peppa Pig: Hold it like this, George.",
+		"cn": "小猪佩奇：乔治，这样拿着。"
+	},
+	{
+		"en": "Daddy Pig, Mummy Pig and Peppa Pig: Oh!",
+		"cn": "猪爸爸、猪妈妈和小猪佩奇：哦！"
+	},
+	{
+		"en": "Narrator: That does not sound quite right either.",
+		"cn": "旁白：这个声音也不太对。"
+	},
+	{
+		"en": "Peppa Pig: The violin is too hard to play.",
+		"cn": "小猪佩奇：小提琴太难拉了。"
+	},
+	{
+		"en": "Daddy Pig: Peppa, maybe you’d do better with this tin drum.",
+		"cn": "猪爸爸：佩奇，也许你玩这个小鼓会更好。"
+	},
+	{ "en": "Peppa Pig: Thank you, Daddy.", "cn": "小猪佩奇：谢谢你，爸爸。" },
+	{
+		"en": "Narrator: That sounds better. Peppa loves playing the drum.",
+		"cn": "旁白：这个声音好多了。佩奇喜欢打鼓。"
+	},
+	{ "en": "Mummy Pig: Lovely.", "cn": "猪妈妈：真好听。" },
+	{
+		"en": "Daddy Pig: Yes, it sounds very nice.",
+		"cn": "猪爸爸：是的，声音很好听。"
+	},
+	{
+		"en": "Mummy Pig: This is Daddy Pig’s old accordion.",
+		"cn": "猪妈妈：这是猪爸爸以前的手风琴。"
+	},
+	{
+		"en": "Daddy Pig: I used to play this to Mummy Pig when we first met.",
+		"cn": "猪爸爸：我和猪妈妈刚认识时经常给她弹这个。"
+	},
+	{
+		"en": "Mummy Pig: Oh, Daddy Pig. You remember this tune.",
+		"cn": "猪妈妈：哦，猪爸爸，你还记得这首曲子。"
+	},
+	{
+		"en": "Narrator: George wants to play the accordion too.",
+		"cn": "旁白：乔治也想弹手风琴。"
+	},
+	{
+		"en": "Daddy Pig: Are you sure, George? The accordion is quite difficult.",
+		"cn": "猪爸爸：你确定吗，乔治？手风琴很难弹的。"
+	},
+	{
+		"en": "Peppa Pig: George, the “accrodion” is almost as difficult to play as my drum.",
+		"cn": "小猪佩奇：乔治，手风琴和我的鼓一样难弹。"
+	},
+	{ "en": "Daddy Pig: Okay, George.", "cn": "猪爸爸：好吧，乔治。" },
+	{
+		"en": "Narrator: Maybe George is a bit too little to play the accordion.",
+		"cn": "旁白：也许乔治还太小，弹不了手风琴。"
+	},
+	{
+		"en": "Peppa Pig: Daddy, what other instruments are in the box?",
+		"cn": "小猪佩奇：爸爸，箱子里还有什么乐器？"
+	},
+	{ "en": "Daddy Pig: Just this horn.", "cn": "猪爸爸：只有这个号了。" },
+	{ "en": "Peppa Pig: Can I try?", "cn": "小猪佩奇：我可以试试吗？" },
+	{
+		"en": "Daddy Pig: You have to blow it very hard.",
+		"cn": "猪爸爸：你要用力吹。"
+	},
+	{
+		"en": "Narrator: That does not sound right.",
+		"cn": "旁白：这个声音不对。"
+	},
+	{ "en": "Peppa Pig: It’s impossible.", "cn": "小猪佩奇：太难了。" },
+	{
+		"en": "Mummy Pig: I think I used to be able to play it.",
+		"cn": "猪妈妈：我记得我以前会吹。"
+	},
+	{
+		"en": "Narrator: That really does not sound right.",
+		"cn": "旁白：这个声音真的不对。"
+	},
+	{
+		"en": "Daddy Pig: Maybe it just needs someone big and strong like me.",
+		"cn": "猪爸爸：也许需要像我这样强壮的人来吹。"
+	},
+	{
+		"en": "Narrator: That does not sound right either.",
+		"cn": "旁白：这个声音也不对。"
+	},
+	{
+		"en": "Daddy Pig: Peppa’s right. It is impossible to play.",
+		"cn": "猪爸爸：佩奇说得对，这个真的吹不响。"
+	},
+	{
+		"en": "Mummy Pig: Never mind, Daddy Pig. Just stick to the accordion. You play it beautifully.",
+		"cn": "猪妈妈：没关系，猪爸爸。还是弹手风琴吧，你弹得很棒。"
+	},
+	{
+		"en": "Daddy Pig: Well, I do play it quite nicely, even if I say so myself.",
+		"cn": "猪爸爸：嗯，我弹得确实不错，自己都这么觉得。"
+	},
+	{
+		"en": "Mummy Pig: And I’ll play my violin.",
+		"cn": "猪妈妈：我来拉小提琴。"
+	},
+	{ "en": "Peppa Pig: And I’ll play my drum.", "cn": "小猪佩奇：我来打鼓。" },
+	{
+		"en": "Narrator: Mummy Pig plays the violin.",
+		"cn": "旁白：猪妈妈拉小提琴。"
+	},
+	{
+		"en": "Narrator: Daddy Pig plays the accordion.",
+		"cn": "旁白：猪爸爸弹手风琴。"
+	},
+	{ "en": "Narrator: Peppa plays the drum.", "cn": "旁白：佩奇打鼓。" },
+	{
+		"en": "Narrator: But what instrument will George play?",
+		"cn": "旁白：那乔治会玩什么乐器呢？"
+	},
+	{ "en": "Narrator: George is blowing the horn.", "cn": "旁白：乔治在吹号。" },
+	{
+		"en": "Peppa Pig: Mummy couldn’t play the horn. And Daddy couldn’t play it. And even I couldn’t play it. But George can play it.",
+		"cn": "小猪佩奇：妈妈不会吹号，爸爸也不会，连我都不会，但乔治会。"
+	}
+]

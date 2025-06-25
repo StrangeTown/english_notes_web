@@ -1,153 +1,241 @@
-Narrator: Peppa and her family are going out for the day.
-
-Daddy Pig: Peppa, George, today we’re going to Windy Castle.
-
-Peppa Pig: What’s Windy Castle, Daddy?
-
-Daddy Pig: It’s a castle on a very high hill.
-
-Narrator: George likes castles.
-
-Peppa Pig: Windy Castle sounds like a boring thing, for boys.
-
-Daddy Pig: No, Peppa. You’ll love it. There’s a great view from the top of Windy Castle. You can even see Granny and Grandpa’s house.
-
-Peppa Pig: Wow! Let’s go.
-
-Daddy Pig: I’ll map read and Mummy Pig will drive.
-
-Mummy Pig: Are you sure, Daddy Pig? When you map read we always get lost and you get grumpy.
-
-Daddy Pig: We will not get lost. And I will not get grumpy.
-
-Mummy Pig: Windy Castle, here we come.
-
-Peppa Pig: Are we nearly there yet?
-
-Daddy Pig: Not quite.
-
-Peppa Pig: Oh.
-
-Daddy Pig: Would you like to play a game?
-
-Peppa Pig: Yes, please. Let’s play I Spy.
-
-Daddy Pig: OK. I’ll go first.
-
-Narrator: Daddy Pig has to secretly look at something and the others have to guess what it is.
-
-Daddy Pig: I spy with my little eye something coloured red.
-
-Peppa Pig: Red. My dress. That’s red.
-
-Daddy Pig: No, it’s not your dress.
-
-Peppa Pig: Hmm? The car.
-
-Daddy Pig: That’s right, our red car.
-
-Peppa Pig: My go. I spy with my little eye something blue.
-
-Daddy Pig: Hmm. George’s blue shirt.
-
-Peppa Pig: No.
-
-Mummy Pig: Is it something in the car?
-
-Peppa Pig: No. Give up?
-
-Daddy Pig: Yes.
-
-Peppa Pig: The sky. The blue sky. I win.
-
-Mummy Pig: Daddy Pig, do you know where we are?
-
-Daddy Pig: I know exactly where we are. Although, this road doesn’t look the same as it does on this map.
-
-Mummy Pig: Oh, Daddy Pig. We’re lost.
-
-Daddy Pig: We are not lost.
-
-Mummy Pig: So how do we get to Windy Castle from here?
-
-Daddy Pig: Just give me a moment. Hmm.
-
-Mummy Pig: I know. We can ring Granny and Grandpa.
-
-Daddy Pig: There’s no need to ring Granny and Grandpa. I’ll get us to Windy Castle if it takes me all day.
-
-Mummy Pig: We haven’t got all day.
-
-Grandpa Pig: Hello, Grandpa Pig speaking.
-
-Mummy Pig: Grandpa Pig, we’ve got a bit lost on the way to Windy Castle.
-
-Grandpa Pig: Is Daddy Pig doing the map reading?
-
-Mummy Pig: Yes, Daddy Pig is doing the map reading and he’s a bit grumpy at the moment.
-
-Daddy Pig: I am not grumpy.
-
-Grandpa Pig: This is the best route. Keep on the main road until you see Windy Castle up ahead.
-
-Mummy Pig: Thank you, Grandpa Pig.
-
-Mummy Pig: We follow the main road and look out for Windy Castle.
-
-Daddy Pig: As I thought.
-
-Peppa Pig: Look. Is that a castle?
-
-Daddy Pig: Yes. It’s Windy Castle.
-
-Mummy Pig: Come on, car.
-
-Peppa Pig: Go on, car. You can make it.
-
-Daddy Pig, Mummy Pig, Peppa Pig: Hurrah!
-
-Narrator: Peppa and her family have arrived at Windy Castle.
-
-Peppa Pig: Wow, it’s so tall.
-
-Daddy Pig: Let’s go inside. The view from the top is fantastic.
-
-Peppa Pig: Wow!
-
-Mummy Pig: Look at the view.
-
-Peppa Pig: Mummy, is that Granny and Grandpa’s house?
-
-Mummy Pig: Yes, it is.
-
-Peppa Pig: It’s so far away.
-
-Daddy Pig: Let’s take a look through the telescope.
-
-Peppa Pig: Can I look first, please?
-
-Daddy Pig: Yes, but you must let George look next.
-
-Peppa Pig: Wow!
-
-Narrator: The telescope makes everything look bigger.
-
-Peppa Pig: I can see Granny and Grandpa.
-
-Peppa Pig: Look, George.
-
-George: Dankey ‘ig, Papa ‘ig.
-
-Narrator: George is waving at Granny and Grandpa.
-
-Peppa Pig: Silly George. Granny and Grandpa are too far away to see you waving.
-
-Mummy Pig: I know. We can ring them.
-
-Grandpa Pig: Hello.
-
-Mummy Pig: Grandpa Pig, we can see you from Windy Castle. Wave at us.
-
-Peppa Pig: Granny and Grandpa are waving at us.
-
-Peppa Pig: I love Windy Castle.
+[
+	{
+		"en": "Narrator: Peppa and her family are going out for the day.",
+		"cn": "旁白：佩奇一家要出去玩一天。"
+	},
+	{
+		"en": "Daddy Pig: Peppa, George, today we’re going to Windy Castle.",
+		"cn": "猪爸爸：佩奇，乔治，今天我们要去风之城堡。"
+	},
+	{
+		"en": "Peppa Pig: What’s Windy Castle, Daddy?",
+		"cn": "小猪佩奇：爸爸，风之城堡是什么？"
+	},
+	{
+		"en": "Daddy Pig: It’s a castle on a very high hill.",
+		"cn": "猪爸爸：那是座在高山上的城堡。"
+	},
+	{ "en": "Narrator: George likes castles.", "cn": "旁白：乔治喜欢城堡。" },
+	{
+		"en": "Peppa Pig: Windy Castle sounds like a boring thing, for boys.",
+		"cn": "小猪佩奇：风之城堡听起来是男孩子才喜欢的无聊东西。"
+	},
+	{
+		"en": "Daddy Pig: No, Peppa. You’ll love it. There’s a great view from the top of Windy Castle. You can even see Granny and Grandpa’s house.",
+		"cn": "猪爸爸：不是的，佩奇，你会喜欢的。风之城堡顶上风景很好，还能看到奶奶和爷爷的家。"
+	},
+	{ "en": "Peppa Pig: Wow! Let’s go.", "cn": "小猪佩奇：哇！我们走吧。" },
+	{
+		"en": "Daddy Pig: I’ll map read and Mummy Pig will drive.",
+		"cn": "猪爸爸：我来看地图，猪妈妈开车。"
+	},
+	{
+		"en": "Mummy Pig: Are you sure, Daddy Pig? When you map read we always get lost and you get grumpy.",
+		"cn": "猪妈妈：你确定吗？你看地图我们总迷路，还会发脾气。"
+	},
+	{
+		"en": "Daddy Pig: We will not get lost. And I will not get grumpy.",
+		"cn": "猪爸爸：我们不会迷路，我也不会发脾气。"
+	},
+	{
+		"en": "Mummy Pig: Windy Castle, here we come.",
+		"cn": "猪妈妈：风之城堡，我们来了。"
+	},
+	{ "en": "Peppa Pig: Are we nearly there yet?", "cn": "小猪佩奇：快到了吗？" },
+	{ "en": "Daddy Pig: Not quite.", "cn": "猪爸爸：还没到。" },
+	{ "en": "Peppa Pig: Oh.", "cn": "小猪佩奇：哦。" },
+	{
+		"en": "Daddy Pig: Would you like to play a game?",
+		"cn": "猪爸爸：你想玩个游戏吗？"
+	},
+	{
+		"en": "Peppa Pig: Yes, please. Let’s play I Spy.",
+		"cn": "小猪佩奇：想！我们玩“我猜我猜”吧。"
+	},
+	{ "en": "Daddy Pig: OK. I’ll go first.", "cn": "猪爸爸：好，我先来。" },
+	{
+		"en": "Narrator: Daddy Pig has to secretly look at something and the others have to guess what it is.",
+		"cn": "旁白：猪爸爸要悄悄看一样东西，大家来猜是什么。"
+	},
+	{
+		"en": "Daddy Pig: I spy with my little eye something coloured red.",
+		"cn": "猪爸爸：我猜到一样红色的东西。"
+	},
+	{
+		"en": "Peppa Pig: Red. My dress. That’s red.",
+		"cn": "小猪佩奇：红色，我的裙子是红的。"
+	},
+	{
+		"en": "Daddy Pig: No, it’s not your dress.",
+		"cn": "猪爸爸：不是你的裙子。"
+	},
+	{ "en": "Peppa Pig: Hmm? The car.", "cn": "小猪佩奇：嗯？是汽车。" },
+	{
+		"en": "Daddy Pig: That’s right, our red car.",
+		"cn": "猪爸爸：对，是我们的红车。"
+	},
+	{
+		"en": "Peppa Pig: My go. I spy with my little eye something blue.",
+		"cn": "小猪佩奇：轮到我了。我猜到一样蓝色的东西。"
+	},
+	{
+		"en": "Daddy Pig: Hmm. George’s blue shirt.",
+		"cn": "猪爸爸：嗯，是乔治的蓝衬衫。"
+	},
+	{ "en": "Peppa Pig: No.", "cn": "小猪佩奇：不是。" },
+	{
+		"en": "Mummy Pig: Is it something in the car?",
+		"cn": "猪妈妈：是在车里吗？"
+	},
+	{ "en": "Peppa Pig: No. Give up?", "cn": "小猪佩奇：不是。你们猜不出来吗？" },
+	{ "en": "Daddy Pig: Yes.", "cn": "猪爸爸：猜不出来。" },
+	{
+		"en": "Peppa Pig: The sky. The blue sky. I win.",
+		"cn": "小猪佩奇：是天空，蓝色的天空。我赢了。"
+	},
+	{
+		"en": "Mummy Pig: Daddy Pig, do you know where we are?",
+		"cn": "猪妈妈：猪爸爸，你知道我们在哪吗？"
+	},
+	{
+		"en": "Daddy Pig: I know exactly where we are. Although, this road doesn’t look the same as it does on this map.",
+		"cn": "猪爸爸：我当然知道。虽然这条路和地图上不太一样。"
+	},
+	{
+		"en": "Mummy Pig: Oh, Daddy Pig. We’re lost.",
+		"cn": "猪妈妈：哎呀，猪爸爸，我们迷路了。"
+	},
+	{ "en": "Daddy Pig: We are not lost.", "cn": "猪爸爸：我们没迷路。" },
+	{
+		"en": "Mummy Pig: So how do we get to Windy Castle from here?",
+		"cn": "猪妈妈：那我们怎么去风之城堡？"
+	},
+	{
+		"en": "Daddy Pig: Just give me a moment. Hmm.",
+		"cn": "猪爸爸：让我想想。嗯……"
+	},
+	{
+		"en": "Mummy Pig: I know. We can ring Granny and Grandpa.",
+		"cn": "猪妈妈：我知道了，我们可以给奶奶和爷爷打电话。"
+	},
+	{
+		"en": "Daddy Pig: There’s no need to ring Granny and Grandpa. I’ll get us to Windy Castle if it takes me all day.",
+		"cn": "猪爸爸：不用打电话，我一定能带你们去风之城堡。"
+	},
+	{
+		"en": "Mummy Pig: We haven’t got all day.",
+		"cn": "猪妈妈：可我们没那么多时间。"
+	},
+	{
+		"en": "Grandpa Pig: Hello, Grandpa Pig speaking.",
+		"cn": "猪爷爷：你好，我是猪爷爷。"
+	},
+	{
+		"en": "Mummy Pig: Grandpa Pig, we’ve got a bit lost on the way to Windy Castle.",
+		"cn": "猪妈妈：猪爷爷，我们去风之城堡的路上迷路了。"
+	},
+	{
+		"en": "Grandpa Pig: Is Daddy Pig doing the map reading?",
+		"cn": "猪爷爷：是猪爸爸在看地图吗？"
+	},
+	{
+		"en": "Mummy Pig: Yes, Daddy Pig is doing the map reading and he’s a bit grumpy at the moment.",
+		"cn": "猪妈妈：是的，猪爸爸在看地图，他现在有点不高兴。"
+	},
+	{ "en": "Daddy Pig: I am not grumpy.", "cn": "猪爸爸：我没有不高兴。" },
+	{
+		"en": "Grandpa Pig: This is the best route. Keep on the main road until you see Windy Castle up ahead.",
+		"cn": "猪爷爷：最好的路线是一直沿主路走，直到看到风之城堡。"
+	},
+	{
+		"en": "Mummy Pig: Thank you, Grandpa Pig.",
+		"cn": "猪妈妈：谢谢你，猪爷爷。"
+	},
+	{
+		"en": "Mummy Pig: We follow the main road and look out for Windy Castle.",
+		"cn": "猪妈妈：我们沿主路走，注意看风之城堡。"
+	},
+	{ "en": "Daddy Pig: As I thought.", "cn": "猪爸爸：果然如此。" },
+	{
+		"en": "Peppa Pig: Look. Is that a castle?",
+		"cn": "小猪佩奇：快看，那是城堡吗？"
+	},
+	{
+		"en": "Daddy Pig: Yes. It’s Windy Castle.",
+		"cn": "猪爸爸：是的，那就是风之城堡。"
+	},
+	{ "en": "Mummy Pig: Come on, car.", "cn": "猪妈妈：加油，小汽车。" },
+	{
+		"en": "Peppa Pig: Go on, car. You can make it.",
+		"cn": "小猪佩奇：加油，小汽车，你能行。"
+	},
+	{
+		"en": "Daddy Pig, Mummy Pig, Peppa Pig: Hurrah!",
+		"cn": "猪爸爸、猪妈妈、小猪佩奇：万岁！"
+	},
+	{
+		"en": "Narrator: Peppa and her family have arrived at Windy Castle.",
+		"cn": "旁白：佩奇一家到风之城堡了。"
+	},
+	{ "en": "Peppa Pig: Wow, it’s so tall.", "cn": "小猪佩奇：哇，好高啊。" },
+	{
+		"en": "Daddy Pig: Let’s go inside. The view from the top is fantastic.",
+		"cn": "猪爸爸：我们进去吧，顶上的风景很棒。"
+	},
+	{ "en": "Peppa Pig: Wow!", "cn": "小猪佩奇：哇！" },
+	{ "en": "Mummy Pig: Look at the view.", "cn": "猪妈妈：快看风景。" },
+	{
+		"en": "Peppa Pig: Mummy, is that Granny and Grandpa’s house?",
+		"cn": "小猪佩奇：妈妈，那是奶奶和爷爷的家吗？"
+	},
+	{ "en": "Mummy Pig: Yes, it is.", "cn": "猪妈妈：是的。" },
+	{ "en": "Peppa Pig: It’s so far away.", "cn": "小猪佩奇：好远啊。" },
+	{
+		"en": "Daddy Pig: Let’s take a look through the telescope.",
+		"cn": "猪爸爸：我们用望远镜看看。"
+	},
+	{
+		"en": "Peppa Pig: Can I look first, please?",
+		"cn": "小猪佩奇：我能先看吗？"
+	},
+	{
+		"en": "Daddy Pig: Yes, but you must let George look next.",
+		"cn": "猪爸爸：可以，但你要让乔治下一个看。"
+	},
+	{ "en": "Peppa Pig: Wow!", "cn": "小猪佩奇：哇！" },
+	{
+		"en": "Narrator: The telescope makes everything look bigger.",
+		"cn": "旁白：望远镜让一切看起来更大了。"
+	},
+	{
+		"en": "Peppa Pig: I can see Granny and Grandpa.",
+		"cn": "小猪佩奇：我能看到奶奶和爷爷。"
+	},
+	{ "en": "Peppa Pig: Look, George.", "cn": "小猪佩奇：乔治，你看。" },
+	{ "en": "George: Dankey ‘ig, Papa ‘ig.", "cn": "乔治：奶奶，爷爷。" },
+	{
+		"en": "Narrator: George is waving at Granny and Grandpa.",
+		"cn": "旁白：乔治在向奶奶和爷爷挥手。"
+	},
+	{
+		"en": "Peppa Pig: Silly George. Granny and Grandpa are too far away to see you waving.",
+		"cn": "小猪佩奇：傻乔治，奶奶和爷爷太远了，看不到你挥手。"
+	},
+	{
+		"en": "Mummy Pig: I know. We can ring them.",
+		"cn": "猪妈妈：我知道了，我们可以给他们打电话。"
+	},
+	{ "en": "Grandpa Pig: Hello.", "cn": "猪爷爷：你好。" },
+	{
+		"en": "Mummy Pig: Grandpa Pig, we can see you from Windy Castle. Wave at us.",
+		"cn": "猪妈妈：猪爷爷，我们在风之城堡能看到你，快向我们挥手。"
+	},
+	{
+		"en": "Peppa Pig: Granny and Grandpa are waving at us.",
+		"cn": "小猪佩奇：奶奶和爷爷在向我们挥手。"
+	},
+	{
+		"en": "Peppa Pig: I love Windy Castle.",
+		"cn": "小猪佩奇：我喜欢风之城堡。"
+	}
+]

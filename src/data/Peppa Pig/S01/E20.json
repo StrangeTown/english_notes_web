@@ -1,153 +1,238 @@
-Narrator: Today is the day of the school fete. Peppa loves coming to the fete. Here are Peppa's friends: Candy Cat, Suzy Sheep, Danny Dog, Rebecca Rabbit, and Pedro Pony.
-
-Peppa Pig: Hello, everyone.
-
-Candy Cat, Suzy Sheep, Danny Dog, Rebecca Rabbit, Pedro Pony: Hello, Peppa.
-
-Suzy Sheep: I love the school fete.
-
-Peppa Pig: Me too. What do you like best?
-
-Suzy Sheep: The face painting.
-
-Pedro Pony: I like the balloons.
-
-Danny Dog: I like the bouncy castle the best.
-
-Peppa Pig: I like everything.
-
-Daddy Pig: A very good choice, Peppa.
-
-Danny Dog: See you later, Peppa.
-
-Peppa Pig: See you later.
-
-Daddy Pig: George, what do you like best?
-
-George: Dinosaur, grrr.
-
-Mummy Pig: Oh, dear. There aren’t any dinosaurs at the fete, George.
-
-Daddy Pig: Maybe we can get you a dinosaur balloon.
-
-Mummy Pig: Are you sure they have dinosaur balloons, Daddy Pig?
-
-Daddy Pig: I’m certain of it.
-
-Peppa Pig: Can George and I get our faces painted first?
-
-Daddy Pig: Of course.
-
-Narrator: Miss Rabbit has painted Peppa’s friends as tigers.
-
-Miss Rabbit: There you are, Suzy. Now you look like a tiger.
-
-Suzy Sheep: Thank you, Miss Rabbit.
-
-Peppa Pig: Wow! I like your face, Suzy. Are you a pussy cat?
-
-Suzy Sheep: No. I’m a tiger.
-
-Miss Rabbit: Peppa, would you like your face painted?
-
-Peppa Pig: Yes, please. Can I be...an elephant?
-
-Miss Rabbit: Oh, dear. I don’t know how to do elephants. I can do tigers.
-
-Peppa Pig: Yes, a tiger please.
-
-Miss Rabbit: There you are, Peppa. Now you’re a tiger.
-
-Peppa Pig: I’m a tiger.
-
-Miss Rabbit: George, what would you like to be?
-
-George: Dinosaur, grrr.
-
-Miss Rabbit: A dinosaur? How about a tiger instead? I’m good at tigers.
-
-Peppa Pig: I’m a tiger.
-
-Danny Dog: So am I, woof-woof.
-
-Candy Cat: Tigers don’t say “woof-woof.”
-
-Danny Dog: How do you know?
-
-Candy Cat: Because tigers are big cats, and I’m a cat.
-
-Peppa Pig: Candy, please can you teach us how to be tigers?
-
-Candy Cat: OK. Tigers creep very very slowly. And then they jump.
-
-Candy Cat: Tigers like to lick themselves clean.
-
-Candy Cat: But best of all, when tigers are happy they purr.
-
-Mummy Pig: Hello, children. My goodness, you’re all tigers.
-
-Candy Cat: And I’m teaching them to be proper tigers.
-
-Mummy Pig: What do you little tigers want to do next?
-
-George: Dinosaur.
-
-Daddy Pig: That’s right. We have to find George a dinosaur balloon.
-
-Mummy Pig: Let’s get you all balloons.
-
-The Children: Hurrah!
-
-Mummy Pig: Hello, Madame Gazelle. We’d like some balloons, please.
-
-Madame Gazelle: Certainly. I’ve got lots of different ones.
-
-Peppa Pig: Can I have an elephant balloon, please?
-
-Madame Gazelle: Here you are, Peppa.
-
-Suzy Sheep: Can I have a kangaroo?
-
-Danny Dog: A lion, please.
-
-Rebecca Rabbit: A monkey, please.
-
-Pedro Pony: A parrot, please.
-
-Madame Gazelle: Yes, I’ve got all those.
-
-Daddy Pig: Most important of all, we need a dinosaur balloon for George.
-
-Madame Gazelle: Oh, dear. I do not seem to have any dinosaur balloons.
-
-Daddy Pig: Oh.
-
-Daddy Pig: Don’t worry, George. I’ve got an idea.
-
-Daddy Pig: Could we have two of the long balloons, please?
-
-Daddy Pig: Watch this, everybody.
-
-Narrator: What is Daddy Pig doing with the balloons?
-
-Daddy Pig: There. Can anyone guess what it is?
-
-Suzy Sheep: Is it a kangaroo?
-
-Daddy Pig: No, it’s a...
-
-George: Dinosaur.
-
-Daddy Pig:That’s right, a dinosaur.
-
-Narrator: Daddy Pig has made a balloon dinosaur.
-
-George: Grrr, dinosaur.
-
-Peppa Pig: Now the bouncy castle.
-
-Narrator: Peppa loves bouncing on the bouncy castle.
-
-Narrator: Everyone loves bouncing on the bouncy castle.
-
-Peppa Pig: This is the best school fete ever. 
+[
+	{
+		"en": "Narrator: Today is the day of the school fete. Peppa loves coming to the fete. Here are Peppa's friends: Candy Cat, Suzy Sheep, Danny Dog, Rebecca Rabbit, and Pedro Pony.",
+		"cn": "旁白：今天是学校游园会的日子。佩奇很喜欢来游园会。佩奇的朋友们有：糖果猫、苏茜羊、丹尼狗、丽贝卡兔和佩德罗小马。"
+	},
+	{ "en": "Peppa Pig: Hello, everyone.", "cn": "小猪佩奇：大家好。" },
+	{
+		"en": "Candy Cat, Suzy Sheep, Danny Dog, Rebecca Rabbit, Pedro Pony: Hello, Peppa.",
+		"cn": "糖果猫、苏茜羊、丹尼狗、丽贝卡兔、佩德罗小马：你好，佩奇。"
+	},
+	{
+		"en": "Suzy Sheep: I love the school fete.",
+		"cn": "苏茜羊：我喜欢学校游园会。"
+	},
+	{
+		"en": "Peppa Pig: Me too. What do you like best?",
+		"cn": "小猪佩奇：我也是。你最喜欢什么？"
+	},
+	{ "en": "Suzy Sheep: The face painting.", "cn": "苏茜羊：画脸。" },
+	{
+		"en": "Pedro Pony: I like the balloons.",
+		"cn": "佩德罗小马：我喜欢气球。"
+	},
+	{
+		"en": "Danny Dog: I like the bouncy castle the best.",
+		"cn": "丹尼狗：我最喜欢充气城堡。"
+	},
+	{ "en": "Peppa Pig: I like everything.", "cn": "小猪佩奇：我都喜欢。" },
+	{
+		"en": "Daddy Pig: A very good choice, Peppa.",
+		"cn": "猪爸爸：佩奇，这个选择很好。"
+	},
+	{ "en": "Danny Dog: See you later, Peppa.", "cn": "丹尼狗：待会见，佩奇。" },
+	{ "en": "Peppa Pig: See you later.", "cn": "小猪佩奇：待会见。" },
+	{
+		"en": "Daddy Pig: George, what do you like best?",
+		"cn": "猪爸爸：乔治，你最喜欢什么？"
+	},
+	{ "en": "George: Dinosaur, grrr.", "cn": "乔治：恐龙，嗷呜。" },
+	{
+		"en": "Mummy Pig: Oh, dear. There aren’t any dinosaurs at the fete, George.",
+		"cn": "猪妈妈：哎呀，乔治，游园会没有恐龙。"
+	},
+	{
+		"en": "Daddy Pig: Maybe we can get you a dinosaur balloon.",
+		"cn": "猪爸爸：也许我们可以给你买个恐龙气球。"
+	},
+	{
+		"en": "Mummy Pig: Are you sure they have dinosaur balloons, Daddy Pig?",
+		"cn": "猪妈妈：你确定有恐龙气球吗，猪爸爸？"
+	},
+	{ "en": "Daddy Pig: I’m certain of it.", "cn": "猪爸爸：我很确定。" },
+	{
+		"en": "Peppa Pig: Can George and I get our faces painted first?",
+		"cn": "小猪佩奇：乔治和我可以先画脸吗？"
+	},
+	{ "en": "Daddy Pig: Of course.", "cn": "猪爸爸：当然可以。" },
+	{
+		"en": "Narrator: Miss Rabbit has painted Peppa’s friends as tigers.",
+		"cn": "旁白：兔小姐把佩奇的朋友们都画成了老虎。"
+	},
+	{
+		"en": "Miss Rabbit: There you are, Suzy. Now you look like a tiger.",
+		"cn": "兔小姐：好了，苏茜。你现在像只老虎了。"
+	},
+	{
+		"en": "Suzy Sheep: Thank you, Miss Rabbit.",
+		"cn": "苏茜羊：谢谢你，兔小姐。"
+	},
+	{
+		"en": "Peppa Pig: Wow! I like your face, Suzy. Are you a pussy cat?",
+		"cn": "小猪佩奇：哇，我喜欢你的脸，苏茜。你是只小猫吗？"
+	},
+	{ "en": "Suzy Sheep: No. I’m a tiger.", "cn": "苏茜羊：不是，我是老虎。" },
+	{
+		"en": "Miss Rabbit: Peppa, would you like your face painted?",
+		"cn": "兔小姐：佩奇，你想画脸吗？"
+	},
+	{
+		"en": "Peppa Pig: Yes, please. Can I be...an elephant?",
+		"cn": "小猪佩奇：想！我可以画成大象吗？"
+	},
+	{
+		"en": "Miss Rabbit: Oh, dear. I don’t know how to do elephants. I can do tigers.",
+		"cn": "兔小姐：哎呀，我不会画大象，我会画老虎。"
+	},
+	{ "en": "Peppa Pig: Yes, a tiger please.", "cn": "小猪佩奇：那画老虎吧。" },
+	{
+		"en": "Miss Rabbit: There you are, Peppa. Now you’re a tiger.",
+		"cn": "兔小姐：好了，佩奇。你现在是只老虎了。"
+	},
+	{ "en": "Peppa Pig: I’m a tiger.", "cn": "小猪佩奇：我是老虎。" },
+	{
+		"en": "Miss Rabbit: George, what would you like to be?",
+		"cn": "兔小姐：乔治，你想画成什么？"
+	},
+	{ "en": "George: Dinosaur, grrr.", "cn": "乔治：恐龙，嗷呜。" },
+	{
+		"en": "Miss Rabbit: A dinosaur? How about a tiger instead? I’m good at tigers.",
+		"cn": "兔小姐：恐龙？不如画老虎吧，我擅长画老虎。"
+	},
+	{ "en": "Peppa Pig: I’m a tiger.", "cn": "小猪佩奇：我是老虎。" },
+	{ "en": "Danny Dog: So am I, woof-woof.", "cn": "丹尼狗：我也是，汪汪。" },
+	{
+		"en": "Candy Cat: Tigers don’t say “woof-woof.”",
+		"cn": "糖果猫：老虎不会汪汪叫。"
+	},
+	{ "en": "Danny Dog: How do you know?", "cn": "丹尼狗：你怎么知道？" },
+	{
+		"en": "Candy Cat: Because tigers are big cats, and I’m a cat.",
+		"cn": "糖果猫：因为老虎是大猫，我是猫。"
+	},
+	{
+		"en": "Peppa Pig: Candy, please can you teach us how to be tigers?",
+		"cn": "小猪佩奇：糖果猫，你能教我们怎么当老虎吗？"
+	},
+	{
+		"en": "Candy Cat: OK. Tigers creep very very slowly. And then they jump.",
+		"cn": "糖果猫：好的。老虎走路很慢很慢，然后突然跳起来。"
+	},
+	{
+		"en": "Candy Cat: Tigers like to lick themselves clean.",
+		"cn": "糖果猫：老虎喜欢舔自己。"
+	},
+	{
+		"en": "Candy Cat: But best of all, when tigers are happy they purr.",
+		"cn": "糖果猫：最棒的是，老虎高兴时会呼噜呼噜叫。"
+	},
+	{
+		"en": "Mummy Pig: Hello, children. My goodness, you’re all tigers.",
+		"cn": "猪妈妈：孩子们，你们全是老虎啊。"
+	},
+	{
+		"en": "Candy Cat: And I’m teaching them to be proper tigers.",
+		"cn": "糖果猫：我正在教他们怎么当真正的老虎。"
+	},
+	{
+		"en": "Mummy Pig: What do you little tigers want to do next?",
+		"cn": "猪妈妈：小老虎们，接下来想做什么？"
+	},
+	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
+	{
+		"en": "Daddy Pig: That’s right. We have to find George a dinosaur balloon.",
+		"cn": "猪爸爸：对，我们要给乔治找个恐龙气球。"
+	},
+	{
+		"en": "Mummy Pig: Let’s get you all balloons.",
+		"cn": "猪妈妈：我们给大家都买气球吧。"
+	},
+	{ "en": "The Children: Hurrah!", "cn": "孩子们：万岁！" },
+	{
+		"en": "Mummy Pig: Hello, Madame Gazelle. We’d like some balloons, please.",
+		"cn": "猪妈妈：你好，Gazelle夫人。我们想要一些气球。"
+	},
+	{
+		"en": "Madame Gazelle: Certainly. I’ve got lots of different ones.",
+		"cn": "Gazelle夫人：当然。我有很多不同的气球。"
+	},
+	{
+		"en": "Peppa Pig: Can I have an elephant balloon, please?",
+		"cn": "小猪佩奇：我可以要一个大象气球吗？"
+	},
+	{
+		"en": "Madame Gazelle: Here you are, Peppa.",
+		"cn": "Gazelle夫人：给你，佩奇。"
+	},
+	{
+		"en": "Suzy Sheep: Can I have a kangaroo?",
+		"cn": "苏茜羊：我可以要一只袋鼠吗？"
+	},
+	{ "en": "Danny Dog: A lion, please.", "cn": "丹尼狗：我想要一只狮子。" },
+	{
+		"en": "Rebecca Rabbit: A monkey, please.",
+		"cn": "丽贝卡兔：我想要一只猴子。"
+	},
+	{
+		"en": "Pedro Pony: A parrot, please.",
+		"cn": "佩德罗小马：我想要一只鹦鹉。"
+	},
+	{
+		"en": "Madame Gazelle: Yes, I’ve got all those.",
+		"cn": "Gazelle夫人：好的，我都有。"
+	},
+	{
+		"en": "Daddy Pig: Most important of all, we need a dinosaur balloon for George.",
+		"cn": "猪爸爸：最重要的是，我们需要一个恐龙气球给乔治。"
+	},
+	{
+		"en": "Madame Gazelle: Oh, dear. I do not seem to have any dinosaur balloons.",
+		"cn": "Gazelle夫人：哦，亲爱的。我似乎没有恐龙气球。"
+	},
+	{ "en": "Daddy Pig: Oh.", "cn": "猪爸爸：哦。" },
+	{
+		"en": "Daddy Pig: Don’t worry, George. I’ve got an idea.",
+		"cn": "猪爸爸：别担心，乔治。我有个主意。"
+	},
+	{
+		"en": "Daddy Pig: Could we have two of the long balloons, please?",
+		"cn": "猪爸爸：请给我们两个长气球。"
+	},
+	{ "en": "Daddy Pig: Watch this, everybody.", "cn": "猪爸爸：大家看看这个。" },
+	{
+		"en": "Narrator: What is Daddy Pig doing with the balloons?",
+		"cn": "旁白：猪爸爸在气球上做什么呢？"
+	},
+	{
+		"en": "Daddy Pig: There. Can anyone guess what it is?",
+		"cn": "猪爸爸：好了。谁能猜出这是什么？"
+	},
+	{ "en": "Suzy Sheep: Is it a kangaroo?", "cn": "苏茜羊：这是袋鼠吗？" },
+	{ "en": "Daddy Pig: No, it’s a...", "cn": "猪爸爸：不，这是一个..." },
+	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
+	{
+		"en": "Daddy Pig:That’s right, a dinosaur.",
+		"cn": "猪爸爸：没错，是恐龙。"
+	},
+	{
+		"en": "Narrator: Daddy Pig has made a balloon dinosaur.",
+		"cn": "旁白：猪爸爸做了一个气球恐龙。"
+	},
+	{ "en": "George: Grrr, dinosaur.", "cn": "乔治：恐龙，嗷呜。" },
+	{
+		"en": "Peppa Pig: Now the bouncy castle.",
+		"cn": "小猪佩奇：现在去充气城堡。"
+	},
+	{
+		"en": "Narrator: Peppa loves bouncing on the bouncy castle.",
+		"cn": "旁白：佩奇喜欢在充气城堡上跳。"
+	},
+	{
+		"en": "Narrator: Everyone loves bouncing on the bouncy castle.",
+		"cn": "旁白：每个人都喜欢在充气城堡上跳。"
+	},
+	{
+		"en": "Peppa Pig: This is the best school fete ever.",
+		"cn": "小猪佩奇：这是有史以来最棒的学校游园会。"
+	}
+]

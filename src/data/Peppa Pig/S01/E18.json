@@ -1,149 +1,227 @@
-Narrator: Today is Mummy Pig’s birthday. Daddy Pig has made Mummy Pig breakfast in bed.
-
-Daddy Pig: Happy Birthday, Mummy Pig.
-
-Narrator: Peppa and George have made Mummy Pig a birthday card.
-
-Peppa Pig: Happy Birthday, Mummy.
-
-Mummy Pig: Oh, what a lovely birthday surprise.
-
-Daddy Pig: And there are more surprises to come. Enjoy your birthday breakfast. Take your time.
-
-Mummy Pig: Mmm, yummy.
-
-Daddy Pig: Quick, we have to get everything else ready.
-
-Narrator: Daddy Pig has made a birthday cake for Mummy Pig.
-
-Daddy Pig: We’ve just got to put the candles on. One, two...
-
-Mummy Pig: Here I come.
-
-Narrator: Mummy Pig has finished her birthday breakfast.
-
-Peppa Pig: Mummy’s coming.
-
-Daddy Pig: Oh, no. We’re not ready yet.
-
-Daddy Pig: Who is it?
-
-Mummy Pig: It’s Mummy. Can I come in?
-
-Peppa Pig: No, no.
-
-Mummy Pig: Is there something secret going on?
-
-Daddy Pig: No. Nothing’s going on. But you can’t come in.
-
-Mummy Pig: I see.
-
-Daddy Pig: Mummy Pig, why don’t you relax in the sitting room?
-
-Mummy Pig: That sounds nice.
-
-Daddy Pig: Well, it is your birthday.
-
-Mummy Pig: OK, Peppa. I think I know where the sitting room is.
-
-Peppa Pig: Here’s a nice magazine.
-
-Mummy Pig: Thank you, Peppa.
-
-Peppa Pig: And here’s some pretty music.
-
-Mummy Pig: Thank you, Peppa.
-
-Daddy Pig: We need the same number of candles as Mummy’s age.
-
-Peppa Pig: One, two, three.
-
-Daddy Pig: Oh, dear. We haven’t got nearly enough candles.
-
-Peppa Pig: Daddy, how old is Mummy?
-
-Daddy Pig: I’ll whisper it in your ear.
-
-Peppa Pig: Wow! Really old.
-
-Daddy Pig: You know, I think three candles will be fine.
-
-Narrator: Mummy Pig’s birthday cake is ready.
-
-Peppa Pig: Hurrah!
-
-Daddy Pig: We just have to put up the decorations in the sitting room.
-
-Peppa Pig: Hello, Mummy.
-
-Mummy Pig: Ah, there you all are. I was getting a little bored.
-
-Peppa Pig: Mummy, would you like to have a nice walk in the garden.
-
-Mummy Pig: Do I have any choice?
-
-Peppa Pig: Nope.
-
-Peppa Pig: Bye-bye, Mummy. Have a lovely walk. We’ll call you when it’s safe to come back in.
-
-Mummy Pig: I’d forgotten what hard work birthdays were.
-
-Narrator: Daddy Pig, Peppa and George are decorating the sitting room.
-
-Peppa Pig: This is fun.
-
-Narrator: Granny Pig and Grandpa Pig have arrived for Mummy Pig’s birthday.
-
-Grandpa Pig: Happy Birthday, Mummy Pig.
-
-Granny Pig: Aren’t you coming inside?
-
-Mummy Pig: Oh, I can’t come in yet. Daddy Pig, Peppa and George are doing secret things for my birthday.
-
-Granny Pig: How lovely. See you later.
-
-Mummy Pig: Bye.
-
-Peppa Pig: Mummy, would you like to come inside now?
-
-Mummy Pig: I’d love to.
-
-Peppa Pig: Close your eyes.
-
-Peppa Pig: Keep your eyes closed, Mummy.
-
-Daddy Pig: One, two, three, open your eyes.
-
-Daddy Pig, Peppa, Grandpa Pig, Granny Pig: Happy Birthday, Mummy Pig.
-
-Mummy Pig: What a lovely surprise.
-
-Daddy Pig: Blow the candles out, and make a wish.
-
-Peppa Pig: Mummy, Mummy, open your present. Can you guess what it is?
-
-Mummy Pig: I’ve no idea.
-
-Daddy Pig: Open it and see.
-
-Mummy Pig: It’s a beautiful dress.
-
-Peppa Pig: You’re beautiful, Mummy.
-
-Daddy Pig: Now you just need somewhere nice to wear it.
-
-Mummy Pig: What’s this?
-
-Daddy Pig: Two tickets to the theatre. Tonight.
-
-Mummy Pig: Thank you.
-
-Narrator: Mummy Pig loves going to the theatre.
-
-Grandpa Pig: And Granny Pig and I are going to babysit the little ones.
-
-Peppa Pig: Hurrah!
-
-Mummy Pig: What a super birthday. I’m the luckiest mummy in the whole world.
-
-Daddy Pig: And the most beautiful.
+[
+	{
+		"en": "Narrator: Today is Mummy Pig’s birthday. Daddy Pig has made Mummy Pig breakfast in bed.",
+		"cn": "旁白：今天是猪妈妈的生日。猪爸爸为猪妈妈准备了床上早餐。"
+	},
+	{
+		"en": "Daddy Pig: Happy Birthday, Mummy Pig.",
+		"cn": "猪爸爸：生日快乐，猪妈妈。"
+	},
+	{
+		"en": "Narrator: Peppa and George have made Mummy Pig a birthday card.",
+		"cn": "旁白：佩奇和乔治为猪妈妈做了一张生日贺卡。"
+	},
+	{
+		"en": "Peppa Pig: Happy Birthday, Mummy.",
+		"cn": "小猪佩奇：生日快乐，妈妈。"
+	},
+	{
+		"en": "Mummy Pig: Oh, what a lovely birthday surprise.",
+		"cn": "猪妈妈：哦，多么可爱的生日惊喜。"
+	},
+	{
+		"en": "Daddy Pig: And there are more surprises to come. Enjoy your birthday breakfast. Take your time.",
+		"cn": "猪爸爸：还有更多惊喜等着你。慢慢享用你的生日早餐吧。"
+	},
+	{ "en": "Mummy Pig: Mmm, yummy.", "cn": "猪妈妈：嗯，好吃。" },
+	{
+		"en": "Daddy Pig: Quick, we have to get everything else ready.",
+		"cn": "猪爸爸：快点，我们还要准备其他东西。"
+	},
+	{
+		"en": "Narrator: Daddy Pig has made a birthday cake for Mummy Pig.",
+		"cn": "旁白：猪爸爸为猪妈妈做了一个生日蛋糕。"
+	},
+	{
+		"en": "Daddy Pig: We’ve just got to put the candles on. One, two...",
+		"cn": "猪爸爸：我们只需要把蜡烛插上。一，二……"
+	},
+	{ "en": "Mummy Pig: Here I come.", "cn": "猪妈妈：我来了。" },
+	{
+		"en": "Narrator: Mummy Pig has finished her birthday breakfast.",
+		"cn": "旁白：猪妈妈吃完了她的生日早餐。"
+	},
+	{ "en": "Peppa Pig: Mummy’s coming.", "cn": "小猪佩奇：妈妈来了。" },
+	{
+		"en": "Daddy Pig: Oh, no. We’re not ready yet.",
+		"cn": "猪爸爸：哦，不，我们还没准备好。"
+	},
+	{ "en": "Daddy Pig: Who is it?", "cn": "猪爸爸：是谁？" },
+	{
+		"en": "Mummy Pig: It’s Mummy. Can I come in?",
+		"cn": "猪妈妈：是我，可以进来吗？"
+	},
+	{ "en": "Peppa Pig: No, no.", "cn": "小猪佩奇：不行，不行。" },
+	{
+		"en": "Mummy Pig: Is there something secret going on?",
+		"cn": "猪妈妈：你们是不是在搞什么秘密？"
+	},
+	{
+		"en": "Daddy Pig: No. Nothing’s going on. But you can’t come in.",
+		"cn": "猪爸爸：没有，什么都没有，但你不能进来。"
+	},
+	{ "en": "Mummy Pig: I see.", "cn": "猪妈妈：我明白了。" },
+	{
+		"en": "Daddy Pig: Mummy Pig, why don’t you relax in the sitting room?",
+		"cn": "猪爸爸：猪妈妈，你要不要去客厅休息一下？"
+	},
+	{ "en": "Mummy Pig: That sounds nice.", "cn": "猪妈妈：听起来不错。" },
+	{
+		"en": "Daddy Pig: Well, it is your birthday.",
+		"cn": "猪爸爸：毕竟今天是你的生日。"
+	},
+	{
+		"en": "Mummy Pig: OK, Peppa. I think I know where the sitting room is.",
+		"cn": "猪妈妈：好的，佩奇。我想我知道客厅在哪。"
+	},
+	{
+		"en": "Peppa Pig: Here’s a nice magazine.",
+		"cn": "小猪佩奇：给你一本好杂志。"
+	},
+	{ "en": "Mummy Pig: Thank you, Peppa.", "cn": "猪妈妈：谢谢你，佩奇。" },
+	{
+		"en": "Peppa Pig: And here’s some pretty music.",
+		"cn": "小猪佩奇：还有好听的音乐。"
+	},
+	{ "en": "Mummy Pig: Thank you, Peppa.", "cn": "猪妈妈：谢谢你，佩奇。" },
+	{
+		"en": "Daddy Pig: We need the same number of candles as Mummy’s age.",
+		"cn": "猪爸爸：我们需要和妈妈年龄一样多的蜡烛。"
+	},
+	{ "en": "Peppa Pig: One, two, three.", "cn": "小猪佩奇：一，二，三。" },
+	{
+		"en": "Daddy Pig: Oh, dear. We haven’t got nearly enough candles.",
+		"cn": "猪爸爸：哎呀，我们的蜡烛不够多。"
+	},
+	{
+		"en": "Peppa Pig: Daddy, how old is Mummy?",
+		"cn": "小猪佩奇：爸爸，妈妈多大了？"
+	},
+	{
+		"en": "Daddy Pig: I’ll whisper it in your ear.",
+		"cn": "猪爸爸：我悄悄告诉你。"
+	},
+	{ "en": "Peppa Pig: Wow! Really old.", "cn": "小猪佩奇：哇，真的很大了。" },
+	{
+		"en": "Daddy Pig: You know, I think three candles will be fine.",
+		"cn": "猪爸爸：我觉得三根蜡烛就够了。"
+	},
+	{
+		"en": "Narrator: Mummy Pig’s birthday cake is ready.",
+		"cn": "旁白：猪妈妈的生日蛋糕准备好了。"
+	},
+	{ "en": "Peppa Pig: Hurrah!", "cn": "小猪佩奇：万岁！" },
+	{
+		"en": "Daddy Pig: We just have to put up the decorations in the sitting room.",
+		"cn": "猪爸爸：我们只需要在客厅里布置一下。"
+	},
+	{ "en": "Peppa Pig: Hello, Mummy.", "cn": "小猪佩奇：你好，妈妈。" },
+	{
+		"en": "Mummy Pig: Ah, there you all are. I was getting a little bored.",
+		"cn": "猪妈妈：啊，你们都在这儿，我有点无聊了。"
+	},
+	{
+		"en": "Peppa Pig: Mummy, would you like to have a nice walk in the garden.",
+		"cn": "小猪佩奇：妈妈，你想去花园散步吗？"
+	},
+	{ "en": "Mummy Pig: Do I have any choice?", "cn": "猪妈妈：我有选择吗？" },
+	{ "en": "Peppa Pig: Nope.", "cn": "小猪佩奇：没有。" },
+	{
+		"en": "Peppa Pig: Bye-bye, Mummy. Have a lovely walk. We’ll call you when it’s safe to come back in.",
+		"cn": "小猪佩奇：再见，妈妈。好好散步，等安全了我们会叫你回来。"
+	},
+	{
+		"en": "Mummy Pig: I’d forgotten what hard work birthdays were.",
+		"cn": "猪妈妈：我都忘了过生日有多累了。"
+	},
+	{
+		"en": "Narrator: Daddy Pig, Peppa and George are decorating the sitting room.",
+		"cn": "旁白：猪爸爸、佩奇和乔治正在布置客厅。"
+	},
+	{ "en": "Peppa Pig: This is fun.", "cn": "小猪佩奇：这真有趣。" },
+	{
+		"en": "Narrator: Granny Pig and Grandpa Pig have arrived for Mummy Pig’s birthday.",
+		"cn": "旁白：奶奶和爷爷来给猪妈妈过生日了。"
+	},
+	{
+		"en": "Grandpa Pig: Happy Birthday, Mummy Pig.",
+		"cn": "猪爷爷：生日快乐，猪妈妈。"
+	},
+	{
+		"en": "Granny Pig: Aren’t you coming inside?",
+		"cn": "猪奶奶：你不进来吗？"
+	},
+	{
+		"en": "Mummy Pig: Oh, I can’t come in yet. Daddy Pig, Peppa and George are doing secret things for my birthday.",
+		"cn": "猪妈妈：哦，我还不能进来。猪爸爸、佩奇和乔治正在为我的生日做秘密准备。"
+	},
+	{
+		"en": "Granny Pig: How lovely. See you later.",
+		"cn": "猪奶奶：真可爱。待会儿见。"
+	},
+	{ "en": "Mummy Pig: Bye.", "cn": "猪妈妈：再见。" },
+	{
+		"en": "Peppa Pig: Mummy, would you like to come inside now?",
+		"cn": "小猪佩奇：妈妈，你现在想进来吗？"
+	},
+	{ "en": "Mummy Pig: I’d love to.", "cn": "猪妈妈：我很想进来。" },
+	{ "en": "Peppa Pig: Close your eyes.", "cn": "小猪佩奇：闭上你的眼睛。" },
+	{
+		"en": "Peppa Pig: Keep your eyes closed, Mummy.",
+		"cn": "小猪佩奇：妈妈，保持闭眼。"
+	},
+	{
+		"en": "Daddy Pig: One, two, three, open your eyes.",
+		"cn": "猪爸爸：一，二，三，睁开你的眼睛。"
+	},
+	{
+		"en": "Daddy Pig, Peppa, Grandpa Pig, Granny Pig: Happy Birthday, Mummy Pig.",
+		"cn": "猪爸爸、佩奇、猪爷爷、猪奶奶：生日快乐，猪妈妈。"
+	},
+	{
+		"en": "Mummy Pig: What a lovely surprise.",
+		"cn": "猪妈妈：多么可爱的惊喜。"
+	},
+	{
+		"en": "Daddy Pig: Blow the candles out, and make a wish.",
+		"cn": "猪爸爸：吹灭蜡烛，许个愿望。"
+	},
+	{
+		"en": "Peppa Pig: Mummy, Mummy, open your present. Can you guess what it is?",
+		"cn": "小猪佩奇：妈妈，妈妈，打开你的礼物。你能猜到这是什么吗？"
+	},
+	{ "en": "Mummy Pig: I’ve no idea.", "cn": "猪妈妈：我不知道。" },
+	{ "en": "Daddy Pig: Open it and see.", "cn": "猪爸爸：打开看看。" },
+	{
+		"en": "Mummy Pig: It’s a beautiful dress.",
+		"cn": "猪妈妈：这是一件漂亮的裙子。"
+	},
+	{
+		"en": "Peppa Pig: You’re beautiful, Mummy.",
+		"cn": "小猪佩奇：你真美，妈妈。"
+	},
+	{
+		"en": "Daddy Pig: Now you just need somewhere nice to wear it.",
+		"cn": "猪爸爸：现在你只需要一个合适的地方去穿它。"
+	},
+	{ "en": "Mummy Pig: What’s this?", "cn": "猪妈妈：这是什么？" },
+	{
+		"en": "Daddy Pig: Two tickets to the theatre. Tonight.",
+		"cn": "猪爸爸：两张今晚去剧院的票。"
+	},
+	{ "en": "Mummy Pig: Thank you.", "cn": "猪妈妈：谢谢你。" },
+	{
+		"en": "Narrator: Mummy Pig loves going to the theatre.",
+		"cn": "旁白：猪妈妈喜欢去剧院。"
+	},
+	{
+		"en": "Grandpa Pig: And Granny Pig and I are going to babysit the little ones.",
+		"cn": "猪爷爷：还有猪奶奶和我，我们要去照顾小家伙们。"
+	},
+	{ "en": "Peppa Pig: Hurrah!", "cn": "小猪佩奇：万岁！" },
+	{
+		"en": "Mummy Pig: What a super birthday. I’m the luckiest mummy in the whole world.",
+		"cn": "猪妈妈：多么棒的生日。我是全世界最幸运的妈妈。"
+	},
+	{ "en": "Daddy Pig: And the most beautiful.", "cn": "猪爸爸：也是最美丽的。" }
+]

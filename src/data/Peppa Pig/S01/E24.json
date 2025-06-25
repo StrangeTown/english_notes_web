@@ -1,91 +1,135 @@
-Narrator: Peppa is going to her first ballet lesson.
-
-Narrator: This is Madame Gazelle, the ballet teacher.
-
-Madame Gazelle: Aha, you must be young Peppa. I am Madame Gazelle.
-
-Peppa Pig: Hello, Madame.
-
-Madame Gazelle: Oh, so sweet. Welcome to your first lesson of the ballet.
-
-Mummy Pig: I’ll pick you up later.
-
-Peppa Pig: Bye-bye.
-
-Mummy Pig: Enjoy yourself.
-
-Narrator: Here are Peppa’s friends, Candy Cat, Suzy Sheep, Danny Dog, Rebecca Rabbit and Pedro Pony.
-
-Madame Gazelle: Children, today we have a new pupil, Peppa Pig. Now, Peppa, run and join your friends.
-
-Peppa Pig: Hello, everyone.
-
-Children: Hello, Peppa.
-
-Madame Gazelle: We begin with demi-plie.
-
-Madame Gazelle: Demi-plie.
-
-Madame Gazelle: Now, a little jump. Petit-jete. With grace and beauty. Petit-jete. Grace and beauty. Petit-jete. Grace and beauty.
-
-Narrator: The ballet lesson is a lot of fun.
-
-Madame Gazelle: Raise your arms. Imagine that you are beautiful swans. And what noise do you think a swan might make?
-
-Danny Dog: Bow-wow.
-
-Suzy Sheep: Baa.
-
-Candy Cat: Meow.
-
-Pedro Pony: Neigh.
-
-Peppa Pig: Oink.
-
-Madame Gazelle: Grace and beauty.
-
-Narrator: Peppa loves dancing. Everyone loves dancing.
-
-Peppa Pig: Mummy, Mummy, we all danced as swans.
-
-Madame Gazelle: Peppa did very well.
-
-Peppa Pig: I had to dance beautifully and gracefully.
-
-Mummy Pig: That’s lovely.
-
-Peppa Pig: Can I show you how I did it?
-
-Mummy Pig: Let’s get home first. Then you can show Daddy Pig, George and me.
-
-Peppa Pig: Bye-bye.
-
-Narrator: Peppa and Mummy Pig are home.
-
-Peppa Pig: Daddy, George, I’m going to show you how to do ballet.
-
-Daddy Pig: Is it difficult?
-
-Peppa Pig: It was easy for me, but you, George and Mummy will find it very hard. First, we need music.
-
-Peppa Pig: Good. Now, George, Daddy and Mummy, you must copy what I do. Madame Gazelle used funny words, but really it’s just bending your knees and jumping.
-
-Daddy Pig: Ah, the petit-jete.
-
-Peppa Pig: Daddy, you know the funny words.
-
-Daddy Pig: Mummy Pig and I used to be quite good at ballet.
-
-Mummy Pig: Do be careful, Daddy Pig.
-
-Daddy Pig: Our favourite was the pas de deux. Hoopla!
-
-Daddy Pig: That wasn’t quite how I remembered it.
-
-Peppa Pig: Silly Daddy Pig.
-
-Daddy Pig: Maybe we should leave the ballet to Peppa.
-
-Peppa Pig: Yes, I am the best at it.
-
-Peppa Pig: I am a beautiful swan. Oink!
+[
+	{
+		"en": "Narrator: Peppa is going to her first ballet lesson.",
+		"cn": "旁白：佩奇要去上她的第一节芭蕾课。"
+	},
+	{
+		"en": "Narrator: This is Madame Gazelle, the ballet teacher.",
+		"cn": "旁白：这位是羚羊老师，芭蕾舞老师。"
+	},
+	{
+		"en": "Madame Gazelle: Aha, you must be young Peppa. I am Madame Gazelle.",
+		"cn": "羚羊老师：啊哈，你一定是小佩奇。我是羚羊老师。"
+	},
+	{ "en": "Peppa Pig: Hello, Madame.", "cn": "小猪佩奇：你好，老师。" },
+	{
+		"en": "Madame Gazelle: Oh, so sweet. Welcome to your first lesson of the ballet.",
+		"cn": "羚羊老师：真可爱。欢迎你来上第一节芭蕾课。"
+	},
+	{
+		"en": "Mummy Pig: I’ll pick you up later.",
+		"cn": "猪妈妈：我一会儿来接你。"
+	},
+	{ "en": "Peppa Pig: Bye-bye.", "cn": "小猪佩奇：再见。" },
+	{ "en": "Mummy Pig: Enjoy yourself.", "cn": "猪妈妈：玩得开心点。" },
+	{
+		"en": "Narrator: Here are Peppa’s friends, Candy Cat, Suzy Sheep, Danny Dog, Rebecca Rabbit and Pedro Pony.",
+		"cn": "旁白：佩奇的朋友们来了，有糖果猫、苏茜羊、丹尼狗、丽贝卡兔和佩德罗小马。"
+	},
+	{
+		"en": "Madame Gazelle: Children, today we have a new pupil, Peppa Pig. Now, Peppa, run and join your friends.",
+		"cn": "羚羊老师：孩子们，今天有个新同学，佩奇。佩奇，快去和朋友们一起吧。"
+	},
+	{ "en": "Peppa Pig: Hello, everyone.", "cn": "小猪佩奇：大家好。" },
+	{ "en": "Children: Hello, Peppa.", "cn": "孩子们：你好，佩奇。" },
+	{
+		"en": "Madame Gazelle: We begin with demi-plie.",
+		"cn": "羚羊老师：我们先做半蹲。"
+	},
+	{ "en": "Madame Gazelle: Demi-plie.", "cn": "羚羊老师：半蹲。" },
+	{
+		"en": "Madame Gazelle: Now, a little jump. Petit-jete. With grace and beauty. Petit-jete. Grace and beauty. Petit-jete. Grace and beauty.",
+		"cn": "羚羊老师：现在小跳，优雅又美丽。小跳，优雅又美丽。小跳，优雅又美丽。"
+	},
+	{
+		"en": "Narrator: The ballet lesson is a lot of fun.",
+		"cn": "旁白：芭蕾课很有趣。"
+	},
+	{
+		"en": "Madame Gazelle: Raise your arms. Imagine that you are beautiful swans. And what noise do you think a swan might make?",
+		"cn": "羚羊老师：举起手臂，想象你们是美丽的天鹅。你们觉得天鹅会发出什么声音？"
+	},
+	{ "en": "Danny Dog: Bow-wow.", "cn": "丹尼狗：汪汪。" },
+	{ "en": "Suzy Sheep: Baa.", "cn": "苏茜羊：咩。" },
+	{ "en": "Candy Cat: Meow.", "cn": "糖果猫：喵。" },
+	{ "en": "Pedro Pony: Neigh.", "cn": "佩德罗小马：嘶。" },
+	{ "en": "Peppa Pig: Oink.", "cn": "小猪佩奇：哼。" },
+	{ "en": "Madame Gazelle: Grace and beauty.", "cn": "羚羊老师：优雅又美丽。" },
+	{
+		"en": "Narrator: Peppa loves dancing. Everyone loves dancing.",
+		"cn": "旁白：佩奇喜欢跳舞，大家都喜欢跳舞。"
+	},
+	{
+		"en": "Peppa Pig: Mummy, Mummy, we all danced as swans.",
+		"cn": "小猪佩奇：妈妈，妈妈，我们都跳天鹅舞了。"
+	},
+	{
+		"en": "Madame Gazelle: Peppa did very well.",
+		"cn": "羚羊老师：佩奇跳得很好。"
+	},
+	{
+		"en": "Peppa Pig: I had to dance beautifully and gracefully.",
+		"cn": "小猪佩奇：我要跳得优雅又美丽。"
+	},
+	{ "en": "Mummy Pig: That’s lovely.", "cn": "猪妈妈：真棒。" },
+	{
+		"en": "Peppa Pig: Can I show you how I did it?",
+		"cn": "小猪佩奇：我能给你看看我是怎么跳的吗？"
+	},
+	{
+		"en": "Mummy Pig: Let’s get home first. Then you can show Daddy Pig, George and me.",
+		"cn": "猪妈妈：我们先回家，然后你再给我、爸爸和乔治看。"
+	},
+	{ "en": "Peppa Pig: Bye-bye.", "cn": "小猪佩奇：再见。" },
+	{
+		"en": "Narrator: Peppa and Mummy Pig are home.",
+		"cn": "旁白：佩奇和猪妈妈到家了。"
+	},
+	{
+		"en": "Peppa Pig: Daddy, George, I’m going to show you how to do ballet.",
+		"cn": "小猪佩奇：爸爸，乔治，我要教你们跳芭蕾。"
+	},
+	{ "en": "Daddy Pig: Is it difficult?", "cn": "猪爸爸：难吗？" },
+	{
+		"en": "Peppa Pig: It was easy for me, but you, George and Mummy will find it very hard. First, we need music.",
+		"cn": "小猪佩奇：对我来说很简单，但你、乔治和妈妈会觉得很难。首先我们需要音乐。"
+	},
+	{
+		"en": "Peppa Pig: Good. Now, George, Daddy and Mummy, you must copy what I do. Madame Gazelle used funny words, but really it’s just bending your knees and jumping.",
+		"cn": "小猪佩奇：好了，乔治、爸爸、妈妈，你们要跟我做。羚羊老师说了些有趣的词，其实就是弯膝盖和跳。"
+	},
+	{ "en": "Daddy Pig: Ah, the petit-jete.", "cn": "猪爸爸：啊，小跳。" },
+	{
+		"en": "Peppa Pig: Daddy, you know the funny words.",
+		"cn": "小猪佩奇：爸爸，你知道那些有趣的词。"
+	},
+	{
+		"en": "Daddy Pig: Mummy Pig and I used to be quite good at ballet.",
+		"cn": "猪爸爸：我和妈妈以前芭蕾跳得不错。"
+	},
+	{
+		"en": "Mummy Pig: Do be careful, Daddy Pig.",
+		"cn": "猪妈妈：小心点，猪爸爸。"
+	},
+	{
+		"en": "Daddy Pig: Our favourite was the pas de deux. Hoopla!",
+		"cn": "猪爸爸：我们最喜欢双人舞。呼啦！"
+	},
+	{
+		"en": "Daddy Pig: That wasn’t quite how I remembered it.",
+		"cn": "猪爸爸：好像和我记得的不太一样。"
+	},
+	{ "en": "Peppa Pig: Silly Daddy Pig.", "cn": "小猪佩奇：傻爸爸。" },
+	{
+		"en": "Daddy Pig: Maybe we should leave the ballet to Peppa.",
+		"cn": "猪爸爸：也许芭蕾还是交给佩奇吧。"
+	},
+	{
+		"en": "Peppa Pig: Yes, I am the best at it.",
+		"cn": "小猪佩奇：对，我最厉害。"
+	},
+	{
+		"en": "Peppa Pig: I am a beautiful swan. Oink!",
+		"cn": "小猪佩奇：我是美丽的天鹅。哼！"
+	}
+]

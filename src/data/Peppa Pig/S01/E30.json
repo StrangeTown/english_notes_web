@@ -1,141 +1,214 @@
-Narrator: Peppa and her family are going to the museum.
-
-Peppa Pig: Daddy, what is a museum?
-
-Daddy Pig: It’s a place full of interesting things that are very old.
-
-Peppa Pig: Older than you?
-
-Daddy Pig: Yes, even older than me.
-
-Peppa Pig and George: Oo-oo.
-
-Peppa Pig: Really old.
-
-Mummy Pig: There’s one room that is full of things that belonged to kings and queens from long ago.
-
-Peppa Pig: I want to see the king and queen’s room.
-
-Daddy Pig: And there’s another room with a real dinosaur.
-
-George: Wow, dinosaur, grr!
-
-Miss Rabbit: Hello, Mummy Pig.
-
-Mummy Pig: Hello, Miss Rabbit.
-
-Miss Rabbit: How many tickets, please?
-
-Mummy Pig: Two adults and two children.
-
-George: Dinosaur, grr.
-
-Miss Rabbit: And a dinosaur.
-
-Narrator: Peppa wants to see the room full of things that belonged to kings and queens from long ago.
-
-Peppa Pig: Wow!
-
-George: Dinosaur?
-
-Narrator: But George wants to see the real dinosaur.
-
-Mummy Pig: Don’t worry, George. We will see the dinosaur next.
-
-Mummy Pig: Peppa, these are all the things that the queen had a long time ago.
-
-Mummy Pig: This is the queen’s special chair. It’s called a throne.
-
-Peppa Pig: It’s beautiful.
-
-Mummy Pig: This is the queen’s dress.
-
-Peppa Pig: It’s so pretty.
-
-Mummy Pig: Look, Peppa. This is the queen’s golden crown.
-
-Peppa Pig: Wow! What lovely things.
-
-Peppa Pig: Mummy, where is the queen’s television?
-
-Mummy Pig: They didn’t have television then.
-
-Peppa Pig: No television? But they did have computers.
-
-Mummy Pig: No, they didn’t have computers either.
-
-Peppa Pig: What did they do all day?
-
-Peppa Pig: Mummy, if I was the queen I would eat as much cake as I wanted.
-
-Narrator: Peppa imagines being a queen.
-
-Peppa Pig: Mmm, delicious.
-
-Mummy Pig: Is there anything else you would care for, Queen Peppa?
-
-Peppa Pig: Yes, more cake, please.
-
-Mummy Pig: Of course.
-
-Daddy Pig: Come on, everyone.
-
-Peppa Pig: Coming, Daddy.
-
-Peppa Pig: Daddy, I’m Queen Peppa.
-
-Peppa Pig: You must bow when you speak to me.
-
-Daddy Pig: Oh, I’m most terribly sorry, your royal highness.
-
-Peppa Pig: And what do you do?
-
-Daddy Pig: I’m your daddy.
-
-Peppa Pig: That must be very interesting.
-
-Daddy Pig: Yes, it’s very interesting.
-
-Peppa Pig: And what room is this?
-
-Daddy Pig: This is the dinosaur room.
-
-Peppa Pig: The dinosaur room?
-
-Peppa Pig: George, this is the dinosaur room.
-
-George: Dinosaur.
-
-Peppa Pig: Where is the dinosaur?
-
-Daddy Pig: He’s somewhere in the room.
-
-Peppa Pig: I can’t see him. He must be very small.
-
-Daddy Pig: Actually, Peppa, he’s very big.
-
-Peppa Pig: Wow!
-
-Daddy Pig: These are the bones of a real dinosaur.
-
-George: Dinosaur, grr.
-
-Narrator: George imagines being a big dinosaur.
-
-Peppa Pig: It’s a dinosaur! Help, help!
-
-Mummy Pig: The dinosaur room is George’s favourite room.
-
-Peppa Pig: My favourite room is the king and queen’s room.
-
-Mummy Pig: And it looks as if Daddy Pig is already in his favourite room.
-
-Peppa Pig: Which room is that, Mummy?
-
-Mummy Pig: The room with the cakes in.
-
-Narrator: Daddy Pig’s favourite room is the museum cafe.
-
-Daddy Pig: Come on, tuck in.
-
-Peppa Pig: Oh, yes. This is a very nice room.
+[
+	{
+		"en": "Narrator: Peppa and her family are going to the museum.",
+		"cn": "旁白：佩奇一家要去博物馆。"
+	},
+	{
+		"en": "Peppa Pig: Daddy, what is a museum?",
+		"cn": "小猪佩奇：爸爸，博物馆是什么？"
+	},
+	{
+		"en": "Daddy Pig: It’s a place full of interesting things that are very old.",
+		"cn": "猪爸爸：那里有很多有趣的古老东西。"
+	},
+	{ "en": "Peppa Pig: Older than you?", "cn": "小猪佩奇：比你还老吗？" },
+	{
+		"en": "Daddy Pig: Yes, even older than me.",
+		"cn": "猪爸爸：是的，比我还老。"
+	},
+	{ "en": "Peppa Pig and George: Oo-oo.", "cn": "小猪佩奇和乔治：呜——呜——。" },
+	{ "en": "Peppa Pig: Really old.", "cn": "小猪佩奇：真的很老。" },
+	{
+		"en": "Mummy Pig: There’s one room that is full of things that belonged to kings and queens from long ago.",
+		"cn": "猪妈妈：有一个房间里全是很久以前国王和王后的东西。"
+	},
+	{
+		"en": "Peppa Pig: I want to see the king and queen’s room.",
+		"cn": "小猪佩奇：我想看国王和王后的房间。"
+	},
+	{
+		"en": "Daddy Pig: And there’s another room with a real dinosaur.",
+		"cn": "猪爸爸：还有一个房间有真的恐龙。"
+	},
+	{ "en": "George: Wow, dinosaur, grr!", "cn": "乔治：哇，恐龙，嗷！" },
+	{ "en": "Miss Rabbit: Hello, Mummy Pig.", "cn": "兔小姐：你好，猪妈妈。" },
+	{ "en": "Mummy Pig: Hello, Miss Rabbit.", "cn": "猪妈妈：你好，兔小姐。" },
+	{
+		"en": "Miss Rabbit: How many tickets, please?",
+		"cn": "兔小姐：请问几张票？"
+	},
+	{
+		"en": "Mummy Pig: Two adults and two children.",
+		"cn": "猪妈妈：两张成人票，两张儿童票。"
+	},
+	{ "en": "George: Dinosaur, grr.", "cn": "乔治：恐龙，嗷。" },
+	{ "en": "Miss Rabbit: And a dinosaur.", "cn": "兔小姐：还有一只恐龙。" },
+	{
+		"en": "Narrator: Peppa wants to see the room full of things that belonged to kings and queens from long ago.",
+		"cn": "旁白：佩奇想看装满国王和王后物品的房间。"
+	},
+	{ "en": "Peppa Pig: Wow!", "cn": "小猪佩奇：哇！" },
+	{ "en": "George: Dinosaur?", "cn": "乔治：恐龙？" },
+	{
+		"en": "Narrator: But George wants to see the real dinosaur.",
+		"cn": "旁白：但乔治想看真的恐龙。"
+	},
+	{
+		"en": "Mummy Pig: Don’t worry, George. We will see the dinosaur next.",
+		"cn": "猪妈妈：别担心，乔治，等会儿就去看恐龙。"
+	},
+	{
+		"en": "Mummy Pig: Peppa, these are all the things that the queen had a long time ago.",
+		"cn": "猪妈妈：佩奇，这些都是很久以前王后的东西。"
+	},
+	{
+		"en": "Mummy Pig: This is the queen’s special chair. It’s called a throne.",
+		"cn": "猪妈妈：这是王后的专用椅子，叫做王座。"
+	},
+	{ "en": "Peppa Pig: It’s beautiful.", "cn": "小猪佩奇：真漂亮。" },
+	{
+		"en": "Mummy Pig: This is the queen’s dress.",
+		"cn": "猪妈妈：这是王后的裙子。"
+	},
+	{ "en": "Peppa Pig: It’s so pretty.", "cn": "小猪佩奇：好漂亮。" },
+	{
+		"en": "Mummy Pig: Look, Peppa. This is the queen’s golden crown.",
+		"cn": "猪妈妈：佩奇，你看，这是王后的金色王冠。"
+	},
+	{
+		"en": "Peppa Pig: Wow! What lovely things.",
+		"cn": "小猪佩奇：哇！这些东西真漂亮。"
+	},
+	{
+		"en": "Peppa Pig: Mummy, where is the queen’s television?",
+		"cn": "小猪佩奇：妈妈，王后的电视在哪里？"
+	},
+	{
+		"en": "Mummy Pig: They didn’t have television then.",
+		"cn": "猪妈妈：那时候还没有电视。"
+	},
+	{
+		"en": "Peppa Pig: No television? But they did have computers.",
+		"cn": "小猪佩奇：没有电视？那有电脑吗？"
+	},
+	{
+		"en": "Mummy Pig: No, they didn’t have computers either.",
+		"cn": "猪妈妈：没有，那时候也没有电脑。"
+	},
+	{
+		"en": "Peppa Pig: What did they do all day?",
+		"cn": "小猪佩奇：那他们整天都做什么？"
+	},
+	{
+		"en": "Peppa Pig: Mummy, if I was the queen I would eat as much cake as I wanted.",
+		"cn": "小猪佩奇：妈妈，如果我是王后，我会想吃多少蛋糕就吃多少。"
+	},
+	{
+		"en": "Narrator: Peppa imagines being a queen.",
+		"cn": "旁白：佩奇想象自己是王后。"
+	},
+	{ "en": "Peppa Pig: Mmm, delicious.", "cn": "小猪佩奇：嗯，真好吃。" },
+	{
+		"en": "Mummy Pig: Is there anything else you would care for, Queen Peppa?",
+		"cn": "猪妈妈：佩奇王后，还想要什么吗？"
+	},
+	{
+		"en": "Peppa Pig: Yes, more cake, please.",
+		"cn": "小猪佩奇：要的，请再来点蛋糕。"
+	},
+	{ "en": "Mummy Pig: Of course.", "cn": "猪妈妈：当然可以。" },
+	{ "en": "Daddy Pig: Come on, everyone.", "cn": "猪爸爸：大家快来。" },
+	{ "en": "Peppa Pig: Coming, Daddy.", "cn": "小猪佩奇：来了，爸爸。" },
+	{
+		"en": "Peppa Pig: Daddy, I’m Queen Peppa.",
+		"cn": "小猪佩奇：爸爸，我是佩奇女王。"
+	},
+	{
+		"en": "Peppa Pig: You must bow when you speak to me.",
+		"cn": "小猪佩奇：你和我说话要鞠躬。"
+	},
+	{
+		"en": "Daddy Pig: Oh, I’m most terribly sorry, your royal highness.",
+		"cn": "猪爸爸：哦，非常抱歉，殿下。"
+	},
+	{ "en": "Peppa Pig: And what do you do?", "cn": "小猪佩奇：你是做什么的？" },
+	{ "en": "Daddy Pig: I’m your daddy.", "cn": "猪爸爸：我是你爸爸。" },
+	{
+		"en": "Peppa Pig: That must be very interesting.",
+		"cn": "小猪佩奇：那一定很有趣。"
+	},
+	{
+		"en": "Daddy Pig: Yes, it’s very interesting.",
+		"cn": "猪爸爸：是的，很有趣。"
+	},
+	{
+		"en": "Peppa Pig: And what room is this?",
+		"cn": "小猪佩奇：这个房间是什么？"
+	},
+	{
+		"en": "Daddy Pig: This is the dinosaur room.",
+		"cn": "猪爸爸：这是恐龙展厅。"
+	},
+	{ "en": "Peppa Pig: The dinosaur room?", "cn": "小猪佩奇：恐龙展厅？" },
+	{
+		"en": "Peppa Pig: George, this is the dinosaur room.",
+		"cn": "小猪佩奇：乔治，这里是恐龙展厅。"
+	},
+	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
+	{ "en": "Peppa Pig: Where is the dinosaur?", "cn": "小猪佩奇：恐龙在哪里？" },
+	{
+		"en": "Daddy Pig: He’s somewhere in the room.",
+		"cn": "猪爸爸：它就在这个房间里。"
+	},
+	{
+		"en": "Peppa Pig: I can’t see him. He must be very small.",
+		"cn": "小猪佩奇：我看不到，他一定很小。"
+	},
+	{
+		"en": "Daddy Pig: Actually, Peppa, he’s very big.",
+		"cn": "猪爸爸：其实，佩奇，他很大。"
+	},
+	{ "en": "Peppa Pig: Wow!", "cn": "小猪佩奇：哇！" },
+	{
+		"en": "Daddy Pig: These are the bones of a real dinosaur.",
+		"cn": "猪爸爸：这些是真正恐龙的骨头。"
+	},
+	{ "en": "George: Dinosaur, grr.", "cn": "乔治：恐龙，嗷。" },
+	{
+		"en": "Narrator: George imagines being a big dinosaur.",
+		"cn": "旁白：乔治想象自己变成了一只大恐龙。"
+	},
+	{
+		"en": "Peppa Pig: It’s a dinosaur! Help, help!",
+		"cn": "小猪佩奇：是恐龙！救命，救命！"
+	},
+	{
+		"en": "Mummy Pig: The dinosaur room is George’s favourite room.",
+		"cn": "猪妈妈：恐龙展厅是乔治最喜欢的房间。"
+	},
+	{
+		"en": "Peppa Pig: My favourite room is the king and queen’s room.",
+		"cn": "小猪佩奇：我最喜欢国王和王后的房间。"
+	},
+	{
+		"en": "Mummy Pig: And it looks as if Daddy Pig is already in his favourite room.",
+		"cn": "猪妈妈：看来猪爸爸已经在他最喜欢的房间了。"
+	},
+	{
+		"en": "Peppa Pig: Which room is that, Mummy?",
+		"cn": "小猪佩奇：妈妈，哪个房间？"
+	},
+	{
+		"en": "Mummy Pig: The room with the cakes in.",
+		"cn": "猪妈妈：有蛋糕的房间。"
+	},
+	{
+		"en": "Narrator: Daddy Pig’s favourite room is the museum cafe.",
+		"cn": "旁白：猪爸爸最喜欢的房间是博物馆的咖啡厅。"
+	},
+	{ "en": "Daddy Pig: Come on, tuck in.", "cn": "猪爸爸：大家快吃吧。" },
+	{
+		"en": "Peppa Pig: Oh, yes. This is a very nice room.",
+		"cn": "小猪佩奇：是啊，这个房间真不错。"
+	}
+]

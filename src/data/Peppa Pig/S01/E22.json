@@ -1,99 +1,157 @@
-Narrator: Mummy Pig and Daddy Pig are going out for the evening. Granny Pig and Grandpa Pig are going to babysit.
-
-Peppa Pig: Granny Pig! Grandpa Pig!
-
-George: Gannie ‘ig! ‘Papa ‘ig!
-
-Granny Pig: Hello, my little ones.
-
-Grandpa Pig: Hello.
-
-Mummy Pig: Peppa, George, into your beds, quick.
-
-Daddy Pig: Good-night, my little piggies.
-
-Mummy Pig: Good-night, sleep tight.
-
-Peppa Pig: Good-night, Mummy. Good-night, Daddy.
-
-Granny Pig: What little darlings.
-
-Mummy Pig: Now go to sleep quickly.
-
-Peppa Pig: Yes, Mummy.
-
-Granny Pig: So well-behaved.
-
-Narrator: Mummy Pig and Daddy Pig are leaving for their evening out.
-
-Granny Pig: Peppa and George are so good. They just fell asleep when Mummy Pig told them to.
-
-Grandpa Pig: This babysitting is easy.
-
-Peppa Pig: George. George, are you awake?
-
-Narrator: What strange noises.
-
-Grandpa Pig: I wonder if we should check upstairs.
-
-Granny Pig: Peppa, George, are you awake?
-
-Granny Pig: Well, I never. Fast asleep.
-
-Grandpa Pig: So, it wasn’t Peppa and George making all that noise.
-
-Granny Pig: I can’t hear anything.
-
-Grandpa Pig: I think they really have fallen asleep. Let’s watch some television.
-
-TV Programme Host: Gardening. Today we are talking about roses.
-
-Grandpa Pig: Oh, I love gardening programmes.
-
-TV Programme Host: The kiftsgate is a particularly thorny rose. To prune it, start by lopping off the head, and then snip away the budding shoots.
-
-Peppa Pig: Granny Pig.
-
-Granny Pig: Peppa, George. You should be in bed asleep.
-
-Peppa Pig: George and I aren’t sleepy at all. Can we watch TV with you?
-
-Granny Pig: Well, I suppose watching a little TV might make you sleepy.
-
-Peppa Pig: Hurrah!
-
-TV Programme Host: Icelandic roses are a rare treat for the discerning horticulturist. But they are prone to lobbing in temperate habitats.
-
-Peppa Pig: This programme is very boring.
-
-Peppa Pig: Grandpa Pig, can we play that game where you throw us up and catch us?
-
-Grandpa Pig: OK, but just one turn each.
-
-Grandpa Pig: Whee! You seem heavier than before.
-
-Grandpa Pig: Now it’s George’s turn.
-
-Peppa Pig: My turn.
-
-Peppa Pig: Higher, higher!
-
-Granny Pig: Maybe Grandpa Pig is a bit tired.
-
-Peppa Pig: I know. Granny Pig, let’s play catch.
-
-Granny Pig: Uh...
-
-Peppa Pig: You’re “it.” Catch us if you can.
-
-Peppa Pig: Can’t catch me.
-
-Granny Pig: I’m going to catch you.
-
-Narrator: Mummy Pig and Daddy Pig are back home.
-
-Mummy Pig: I hope our little piggies are asleep.
-
-Daddy Pig: Hello. Anyone here?
-
-Daddy Pig: The little piggies are asleep and so are the big piggies.
+[
+	{
+		"en": "Narrator: Mummy Pig and Daddy Pig are going out for the evening. Granny Pig and Grandpa Pig are going to babysit.",
+		"cn": "旁白：猪妈妈和猪爸爸晚上要外出。猪奶奶和猪爷爷来照看孩子。"
+	},
+	{
+		"en": "Peppa Pig: Granny Pig! Grandpa Pig!",
+		"cn": "小猪佩奇：猪奶奶！猪爷爷！"
+	},
+	{ "en": "George: Gannie ‘ig! ‘Papa ‘ig!", "cn": "乔治：奶奶！爷爷！" },
+	{
+		"en": "Granny Pig: Hello, my little ones.",
+		"cn": "猪奶奶：你们好，小宝贝们。"
+	},
+	{ "en": "Grandpa Pig: Hello.", "cn": "猪爷爷：你好。" },
+	{
+		"en": "Mummy Pig: Peppa, George, into your beds, quick.",
+		"cn": "猪妈妈：佩奇，乔治，快上床。"
+	},
+	{
+		"en": "Daddy Pig: Good-night, my little piggies.",
+		"cn": "猪爸爸：晚安，我的小猪们。"
+	},
+	{
+		"en": "Mummy Pig: Good-night, sleep tight.",
+		"cn": "猪妈妈：晚安，睡个好觉。"
+	},
+	{
+		"en": "Peppa Pig: Good-night, Mummy. Good-night, Daddy.",
+		"cn": "小猪佩奇：晚安，妈妈。晚安，爸爸。"
+	},
+	{ "en": "Granny Pig: What little darlings.", "cn": "猪奶奶：多乖的小宝贝。" },
+	{ "en": "Mummy Pig: Now go to sleep quickly.", "cn": "猪妈妈：现在快睡觉。" },
+	{ "en": "Peppa Pig: Yes, Mummy.", "cn": "小猪佩奇：好的，妈妈。" },
+	{ "en": "Granny Pig: So well-behaved.", "cn": "猪奶奶：真乖。" },
+	{
+		"en": "Narrator: Mummy Pig and Daddy Pig are leaving for their evening out.",
+		"cn": "旁白：猪妈妈和猪爸爸出门了。"
+	},
+	{
+		"en": "Granny Pig: Peppa and George are so good. They just fell asleep when Mummy Pig told them to.",
+		"cn": "猪奶奶：佩奇和乔治真乖，猪妈妈一说他们就睡了。"
+	},
+	{
+		"en": "Grandpa Pig: This babysitting is easy.",
+		"cn": "猪爷爷：带孩子真简单。"
+	},
+	{
+		"en": "Peppa Pig: George. George, are you awake?",
+		"cn": "小猪佩奇：乔治，乔治，你醒着吗？"
+	},
+	{ "en": "Narrator: What strange noises.", "cn": "旁白：有什么奇怪的声音。" },
+	{
+		"en": "Grandpa Pig: I wonder if we should check upstairs.",
+		"cn": "猪爷爷：我们要不要上楼看看？"
+	},
+	{
+		"en": "Granny Pig: Peppa, George, are you awake?",
+		"cn": "猪奶奶：佩奇，乔治，你们醒着吗？"
+	},
+	{
+		"en": "Granny Pig: Well, I never. Fast asleep.",
+		"cn": "猪奶奶：哎呀，睡得真香。"
+	},
+	{
+		"en": "Grandpa Pig: So, it wasn’t Peppa and George making all that noise.",
+		"cn": "猪爷爷：所以那些声音不是佩奇和乔治发出来的。"
+	},
+	{
+		"en": "Granny Pig: I can’t hear anything.",
+		"cn": "猪奶奶：我什么都听不到。"
+	},
+	{
+		"en": "Grandpa Pig: I think they really have fallen asleep. Let’s watch some television.",
+		"cn": "猪爷爷：我觉得他们真的睡着了。我们看会儿电视吧。"
+	},
+	{
+		"en": "TV Programme Host: Gardening. Today we are talking about roses.",
+		"cn": "电视节目主持人：园艺。今天我们讲玫瑰花。"
+	},
+	{
+		"en": "Grandpa Pig: Oh, I love gardening programmes.",
+		"cn": "猪爷爷：我喜欢园艺节目。"
+	},
+	{
+		"en": "TV Programme Host: The kiftsgate is a particularly thorny rose. To prune it, start by lopping off the head, and then snip away the budding shoots.",
+		"cn": "电视节目主持人：基夫斯盖特玫瑰特别多刺。修剪时先剪掉顶部，再剪去新芽。"
+	},
+	{ "en": "Peppa Pig: Granny Pig.", "cn": "小猪佩奇：奶奶。" },
+	{
+		"en": "Granny Pig: Peppa, George. You should be in bed asleep.",
+		"cn": "猪奶奶：佩奇，乔治，你们该睡觉了。"
+	},
+	{
+		"en": "Peppa Pig: George and I aren’t sleepy at all. Can we watch TV with you?",
+		"cn": "小猪佩奇：乔治和我一点都不困。我们能和你们一起看电视吗？"
+	},
+	{
+		"en": "Granny Pig: Well, I suppose watching a little TV might make you sleepy.",
+		"cn": "猪奶奶：好吧，也许看会儿电视你们就困了。"
+	},
+	{ "en": "Peppa Pig: Hurrah!", "cn": "小猪佩奇：万岁！" },
+	{
+		"en": "TV Programme Host: Icelandic roses are a rare treat for the discerning horticulturist. But they are prone to lobbing in temperate habitats.",
+		"cn": "电视节目主持人：冰岛玫瑰是园艺爱好者的珍品，但在温带地区容易倒伏。"
+	},
+	{
+		"en": "Peppa Pig: This programme is very boring.",
+		"cn": "小猪佩奇：这个节目真无聊。"
+	},
+	{
+		"en": "Peppa Pig: Grandpa Pig, can we play that game where you throw us up and catch us?",
+		"cn": "小猪佩奇：爷爷，我们能玩你把我们抛起来再接住的游戏吗？"
+	},
+	{
+		"en": "Grandpa Pig: OK, but just one turn each.",
+		"cn": "猪爷爷：可以，但每人只能玩一次。"
+	},
+	{
+		"en": "Grandpa Pig: Whee! You seem heavier than before.",
+		"cn": "猪爷爷：咻！你们好像比以前重了。"
+	},
+	{
+		"en": "Grandpa Pig: Now it’s George’s turn.",
+		"cn": "猪爷爷：现在轮到乔治了。"
+	},
+	{ "en": "Peppa Pig: My turn.", "cn": "小猪佩奇：轮到我了。" },
+	{ "en": "Peppa Pig: Higher, higher!", "cn": "小猪佩奇：再高点，再高点！" },
+	{
+		"en": "Granny Pig: Maybe Grandpa Pig is a bit tired.",
+		"cn": "猪奶奶：也许猪爷爷有点累了。"
+	},
+	{
+		"en": "Peppa Pig: I know. Granny Pig, let’s play catch.",
+		"cn": "小猪佩奇：我知道了。奶奶，我们来玩捉迷藏吧。"
+	},
+	{ "en": "Granny Pig: Uh...", "cn": "猪奶奶：呃……" },
+	{
+		"en": "Peppa Pig: You’re “it.” Catch us if you can.",
+		"cn": "小猪佩奇：你来抓我们吧，看你能不能抓到。"
+	},
+	{ "en": "Peppa Pig: Can’t catch me.", "cn": "小猪佩奇：你抓不到我。" },
+	{ "en": "Granny Pig: I’m going to catch you.", "cn": "猪奶奶：我要抓到你。" },
+	{
+		"en": "Narrator: Mummy Pig and Daddy Pig are back home.",
+		"cn": "旁白：猪妈妈和猪爸爸回家了。"
+	},
+	{
+		"en": "Mummy Pig: I hope our little piggies are asleep.",
+		"cn": "猪妈妈：希望我们的小猪们都睡着了。"
+	},
+	{ "en": "Daddy Pig: Hello. Anyone here?", "cn": "猪爸爸：你好，有人在吗？" },
+	{
+		"en": "Daddy Pig: The little piggies are asleep and so are the big piggies.",
+		"cn": "猪爸爸：小猪们睡着了，大猪们也睡着了。"
+	}
+]

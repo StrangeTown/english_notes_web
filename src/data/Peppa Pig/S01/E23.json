@@ -1,111 +1,172 @@
-Narrator: Peppa and George have been playing in the garden.
-
-Daddy Pig: Peppa, where are your shoes?
-
-Peppa Pig: Oh, I’ve lost them.
-
-Mummy Pig: Well, I’m sure we can find them. Maybe we should try the garden.
-
-Peppa Pig: Yes.
-
-Narrator: Everyone is looking for Peppa’s shoes. Mummy Pig is looking in the flower bed. Peppa’s shoes are not there.
-
-Mummy Pig: Oh.
-
-Narrator: Daddy Pig is looking in the wheelbarrow. Peppa’s shoes are not there.
-
-Daddy Pig: Oh.
-
-Narrator: Peppa and George look in the flowerpots. Peppa’s shoes are not there either.
-
-George: Oh.
-
-Peppa Pig: Oh.
-
-Daddy Pig: We’ve looked everywhere, but we can’t find Peppa’s shoes.
-
-Narrator: Peppa’s shoes are lost.
-
-Peppa Pig: Now I haven’t got any shoes to wear.
-
-Mummy Pig: Poor Peppa. Your shoes were getting a bit old. We’ll buy you a new pair.
-
-Peppa Pig: Can my new shoes be red, Mummy?
-
-Mummy Pig: Of course they can.
-
-Peppa Pig: George, I’m going to have new red shoes.
-
-Narrator: Mummy Pig and Peppa are at Miss Rabbit’s shoe shop.
-
-Mummy Pig: Hello, Miss Rabbit.
-
-Miss Rabbit: Hello, Mummy Pig.
-
-Mummy Pig: We would like to buy some new shoes for Peppa, please.
-
-Peppa Pig: Red shoes.
-
-Miss Rabbit: Oh, I’m sure we can find you lovely new shoes, Peppa.
-
-Peppa Pig: Red ones. Please.
-
-Miss Rabbit: Of course. Red ones.
-
-Peppa Pig: Wow! New red shoes!
-
-Narrator: George and Daddy Pig are playing draughts.
-
-Daddy Pig: Oh, well done, George.
-
-Peppa Pig: Daddy, Daddy, look at my new shoes. They’re red!
-
-Daddy Pig: I say. They are red.
-
-Peppa Pig: Mummy, do you like my new shoes?
-
-Mummy Pig: Yes, Peppa. They make you look very smart.
-
-Peppa Pig: George, do you like my new shoes?
-
-Narrator: Everyone likes Peppa’s new shoes.
-
-Peppa Pig: I like my new shoes so much, I don’t want to ever take them off.
-
-Narrator: It is bathtime. Peppa wants to keep her new shoes on, even for her bath.
-
-Narrator: Peppa is in her pajamas. She still has her new shoes on.
-
-Narrator: Peppa even wants to wear her new shoes in bed.
-
-Mummy Pig: Peppa, are you sure you don’t want to take your shoes off?
-
-Peppa Pig: I don’t want to ever take my new shoes off, Mummy.
-
-Mummy Pig: Very well. Good-night, Peppa and George.
-
-Peppa Pig: Good-night, Mummy. Good-night, Daddy.
-
-Daddy Pig: Good-night, my little piggies.
-
-Narrator: It has been raining all night, and now the garden is very wet. Mummy Pig is wearing her boots. Daddy Pig is wearing his boots. George is wearing his boots. Peppa is still wearing her new red shoes.
-
-Narrator: George is going to play in the wet grass.
-
-Narrator: Oh, dear. Peppa loves playing in the wet grass, but she doesn’t want to get her new shoes wet.
-
-Peppa Pig: I can’t play in the wet grass, George.
-
-George: Oh.
-
-Narrator: George loves jumping in muddy puddles. Peppa loves jumping in puddles, but she doesn’t want to get her new shoes muddy.
-
-Peppa Pig: Oh.
-
-Narrator: Mummy and Daddy love jumping up and down in muddy puddles. Everyone likes jumping in muddy puddles.
-
-Narrator: Where is Peppa going?
-
-Narrator: Peppa is putting on her boots.
-
-Peppa Pig: If you jump in muddy puddles, you must wear your boots.
+[
+	{
+		"en": "Narrator: Peppa and George have been playing in the garden.",
+		"cn": "旁白：佩奇和乔治一直在花园里玩。"
+	},
+	{
+		"en": "Daddy Pig: Peppa, where are your shoes?",
+		"cn": "猪爸爸：佩奇，你的鞋子呢？"
+	},
+	{
+		"en": "Peppa Pig: Oh, I’ve lost them.",
+		"cn": "小猪佩奇：哦，我把它们弄丢了。"
+	},
+	{
+		"en": "Mummy Pig: Well, I’m sure we can find them. Maybe we should try the garden.",
+		"cn": "猪妈妈：我相信我们能找到，也许该去花园找找。"
+	},
+	{ "en": "Peppa Pig: Yes.", "cn": "小猪佩奇：好。" },
+	{
+		"en": "Narrator: Everyone is looking for Peppa’s shoes. Mummy Pig is looking in the flower bed. Peppa’s shoes are not there.",
+		"cn": "旁白：大家都在找佩奇的鞋子。猪妈妈在花坛里找，没找到。"
+	},
+	{ "en": "Mummy Pig: Oh.", "cn": "猪妈妈：哦。" },
+	{
+		"en": "Narrator: Daddy Pig is looking in the wheelbarrow. Peppa’s shoes are not there.",
+		"cn": "旁白：猪爸爸在手推车里找，也没找到。"
+	},
+	{ "en": "Daddy Pig: Oh.", "cn": "猪爸爸：哦。" },
+	{
+		"en": "Narrator: Peppa and George look in the flowerpots. Peppa’s shoes are not there either.",
+		"cn": "旁白：佩奇和乔治在花盆里找，也没找到。"
+	},
+	{ "en": "George: Oh.", "cn": "乔治：哦。" },
+	{ "en": "Peppa Pig: Oh.", "cn": "小猪佩奇：哦。" },
+	{
+		"en": "Daddy Pig: We’ve looked everywhere, but we can’t find Peppa’s shoes.",
+		"cn": "猪爸爸：我们到处都找了，还是找不到佩奇的鞋子。"
+	},
+	{ "en": "Narrator: Peppa’s shoes are lost.", "cn": "旁白：佩奇的鞋子丢了。" },
+	{
+		"en": "Peppa Pig: Now I haven’t got any shoes to wear.",
+		"cn": "小猪佩奇：现在我没有鞋子穿了。"
+	},
+	{
+		"en": "Mummy Pig: Poor Peppa. Your shoes were getting a bit old. We’ll buy you a new pair.",
+		"cn": "猪妈妈：可怜的佩奇，你的鞋子也旧了，我们给你买新鞋吧。"
+	},
+	{
+		"en": "Peppa Pig: Can my new shoes be red, Mummy?",
+		"cn": "小猪佩奇：妈妈，我的新鞋可以是红色的吗？"
+	},
+	{ "en": "Mummy Pig: Of course they can.", "cn": "猪妈妈：当然可以。" },
+	{
+		"en": "Peppa Pig: George, I’m going to have new red shoes.",
+		"cn": "小猪佩奇：乔治，我要有新红鞋啦。"
+	},
+	{
+		"en": "Narrator: Mummy Pig and Peppa are at Miss Rabbit’s shoe shop.",
+		"cn": "旁白：猪妈妈和佩奇来到兔小姐的鞋店。"
+	},
+	{ "en": "Mummy Pig: Hello, Miss Rabbit.", "cn": "猪妈妈：你好，兔小姐。" },
+	{ "en": "Miss Rabbit: Hello, Mummy Pig.", "cn": "兔小姐：你好，猪妈妈。" },
+	{
+		"en": "Mummy Pig: We would like to buy some new shoes for Peppa, please.",
+		"cn": "猪妈妈：我们想给佩奇买双新鞋。"
+	},
+	{ "en": "Peppa Pig: Red shoes.", "cn": "小猪佩奇：红鞋子。" },
+	{
+		"en": "Miss Rabbit: Oh, I’m sure we can find you lovely new shoes, Peppa.",
+		"cn": "兔小姐：我一定能帮你找到漂亮的新鞋，佩奇。"
+	},
+	{ "en": "Peppa Pig: Red ones. Please.", "cn": "小猪佩奇：要红色的，谢谢。" },
+	{ "en": "Miss Rabbit: Of course. Red ones.", "cn": "兔小姐：当然，红色的。" },
+	{ "en": "Peppa Pig: Wow! New red shoes!", "cn": "小猪佩奇：哇！新红鞋！" },
+	{
+		"en": "Narrator: George and Daddy Pig are playing draughts.",
+		"cn": "旁白：乔治和猪爸爸在下跳棋。"
+	},
+	{ "en": "Daddy Pig: Oh, well done, George.", "cn": "猪爸爸：乔治，做得好。" },
+	{
+		"en": "Peppa Pig: Daddy, Daddy, look at my new shoes. They’re red!",
+		"cn": "小猪佩奇：爸爸，爸爸，看我的新鞋，是红色的！"
+	},
+	{ "en": "Daddy Pig: I say. They are red.", "cn": "猪爸爸：哇，真是红色的。" },
+	{
+		"en": "Peppa Pig: Mummy, do you like my new shoes?",
+		"cn": "小猪佩奇：妈妈，你喜欢我的新鞋吗？"
+	},
+	{
+		"en": "Mummy Pig: Yes, Peppa. They make you look very smart.",
+		"cn": "猪妈妈：喜欢，佩奇。你穿上很漂亮。"
+	},
+	{
+		"en": "Peppa Pig: George, do you like my new shoes?",
+		"cn": "小猪佩奇：乔治，你喜欢我的新鞋吗？"
+	},
+	{
+		"en": "Narrator: Everyone likes Peppa’s new shoes.",
+		"cn": "旁白：大家都喜欢佩奇的新鞋。"
+	},
+	{
+		"en": "Peppa Pig: I like my new shoes so much, I don’t want to ever take them off.",
+		"cn": "小猪佩奇：我太喜欢新鞋了，一点都不想脱下来。"
+	},
+	{
+		"en": "Narrator: It is bathtime. Peppa wants to keep her new shoes on, even for her bath.",
+		"cn": "旁白：到了洗澡时间，佩奇连洗澡都不想脱新鞋。"
+	},
+	{
+		"en": "Narrator: Peppa is in her pajamas. She still has her new shoes on.",
+		"cn": "旁白：佩奇穿着睡衣，脚上还是新鞋。"
+	},
+	{
+		"en": "Narrator: Peppa even wants to wear her new shoes in bed.",
+		"cn": "旁白：佩奇甚至想穿着新鞋睡觉。"
+	},
+	{
+		"en": "Mummy Pig: Peppa, are you sure you don’t want to take your shoes off?",
+		"cn": "猪妈妈：佩奇，你真的不想脱鞋吗？"
+	},
+	{
+		"en": "Peppa Pig: I don’t want to ever take my new shoes off, Mummy.",
+		"cn": "小猪佩奇：妈妈，我真的不想脱新鞋。"
+	},
+	{
+		"en": "Mummy Pig: Very well. Good-night, Peppa and George.",
+		"cn": "猪妈妈：好吧。晚安，佩奇，晚安，乔治。"
+	},
+	{
+		"en": "Peppa Pig: Good-night, Mummy. Good-night, Daddy.",
+		"cn": "小猪佩奇：晚安，妈妈。晚安，爸爸。"
+	},
+	{
+		"en": "Daddy Pig: Good-night, my little piggies.",
+		"cn": "猪爸爸：晚安，我的小猪们。"
+	},
+	{
+		"en": "Narrator: It has been raining all night, and now the garden is very wet. Mummy Pig is wearing her boots. Daddy Pig is wearing his boots. George is wearing his boots. Peppa is still wearing her new red shoes.",
+		"cn": "旁白：下了一夜的雨，花园很湿。猪妈妈穿着靴子，猪爸爸穿着靴子，乔治穿着靴子，佩奇还穿着新红鞋。"
+	},
+	{
+		"en": "Narrator: George is going to play in the wet grass.",
+		"cn": "旁白：乔治要去湿草地上玩。"
+	},
+	{
+		"en": "Narrator: Oh, dear. Peppa loves playing in the wet grass, but she doesn’t want to get her new shoes wet.",
+		"cn": "旁白：糟糕，佩奇喜欢在湿草地上玩，但她不想弄湿新鞋。"
+	},
+	{
+		"en": "Peppa Pig: I can’t play in the wet grass, George.",
+		"cn": "小猪佩奇：乔治，我不能在湿草地上玩。"
+	},
+	{ "en": "George: Oh.", "cn": "乔治：哦。" },
+	{
+		"en": "Narrator: George loves jumping in muddy puddles. Peppa loves jumping in puddles, but she doesn’t want to get her new shoes muddy.",
+		"cn": "旁白：乔治喜欢跳泥坑，佩奇也喜欢，但她不想弄脏新鞋。"
+	},
+	{ "en": "Peppa Pig: Oh.", "cn": "小猪佩奇：哦。" },
+	{
+		"en": "Narrator: Mummy and Daddy love jumping up and down in muddy puddles. Everyone likes jumping in muddy puddles.",
+		"cn": "旁白：猪妈妈和猪爸爸喜欢跳泥坑，大家都喜欢跳泥坑。"
+	},
+	{ "en": "Narrator: Where is Peppa going?", "cn": "旁白：佩奇去哪了？" },
+	{
+		"en": "Narrator: Peppa is putting on her boots.",
+		"cn": "旁白：佩奇正在穿靴子。"
+	},
+	{
+		"en": "Peppa Pig: If you jump in muddy puddles, you must wear your boots.",
+		"cn": "小猪佩奇：如果你要跳泥坑，就必须穿靴子。"
+	}
+]
