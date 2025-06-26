@@ -1,131 +1,203 @@
-Narrator: Mummy Pig and Daddy Pig have a new picture of Peppa and George.
-
-Mummy Pig: We should put this lovely new picture on the wall.
-
-Daddy Pig: Leave it to me. I am the DIY expert of the house.
-
-Mummy Pig: Are you sure you can do it?
-
-Daddy Pig: Of course. I’ll just put a nail in the wall and hang the picture on it.
-
-Mummy Pig: Very good. I’m just off to visit Granny and Grandpa Pig. I’ll see you later.
-
-Mummy Pig: And, please don’t make a mess.
-
-Daddy Pig: Mess? Ho-ho-ho.
-
-Mummy Pig: Bye.
-
-Daddy Pig and Peppa Pig: Goodbye.
-
-Peppa Pig: Daddy, can we help put up the picture?
-
-Daddy Pig: You can watch, and then you’ll learn how to do it properly.
-
-Daddy Pig: First, I need a tape measure and a pencil.
-
-Daddy Pig: That is where I’m going to put the nail.
-
-Peppa Pig: Don’t break the wall, Daddy.
-
-Daddy Pig: Ho-ho-ho-ho-ho. Now I need a hammer and a nail.
-
-Daddy Pig: Stand back, children, and watch a craftsman at work.
-
-Narrator: Daddy Pig is going to knock the nail into the wall.
-
-Peppa Pig: Don’t break the wall, Daddy.
-
-Daddy Pig: Ho-ho-ho-ho-ho, don’t be silly, Peppa.
-
-Daddy Pig: Easy as pie.
-
-Daddy Pig: Oh, it’s not meant to do that.
-
-Narrator: Daddy Pig has made a big crack in the wall.
-
-Peppa Pig: Oh, Daddy, you’ve broken the wall.
-
-Daddy Pig: It’s just a tiny crack. The picture will hide it. There.
-
-Peppa Pig: I can still see the crack, Daddy.
-
-Daddy Pig: Yes. I’ll just take the nail out and fill in the crack.
-
-Peppa Pig: Don’t make a mess, Daddy.
-
-Daddy Pig: Ho-ho, don’t be silly, Peppa. It’s coming out...
-
-Peppa Pig: Oh, Daddy. Now you really have broken the wall.
-
-Daddy Pig: Hmmm.
-
-Peppa Pig: Do you think Mummy will notice?
-
-Daddy Pig: Yes, I think she might.
-
-Peppa Pig: Quick, George.
-
-Daddy Pig: What are they doing?
-
-Peppa Pig: Daddy, we can see you.
-
-Narrator: Daddy Pig has to mend the wall before Mummy Pig comes home.
-
-Daddy Pig: Brick, please.
-
-Narrator: First, Daddy Pig fills the hole with bricks.
-
-Daddy Pig: There.
-
-Narrator: Next, Daddy Pig puts plaster over the bricks.
-
-Daddy Pig: Ho-ho-ho, easy as pie.
-
-Narrator: Then Daddy Pig paints the wall.
-
-Daddy Pig: Good as new.
-
-Narrator: The wall is mended.
-
-Peppa Pig: Hurrah!
-
-Narrator: But look at all the mess they have made.
-
-Daddy Pig: Goodness me. We’d better clean up before Mummy comes back.
-
-Narrator: First, Daddy Pig quickly washes Peppa and George. Then Peppa vacuums the floor. And Daddy Pig tidies up the tools.
-
-George: Mummy.
-
-Narrator: Mummy Pig is home.
-
-George: Mummy.
-
-Peppa Pig: Mummy’s here.
-
-Daddy Pig: Quick! Pretend nothing has happened.
-
-Mummy Pig: Hello.
-
-Daddy Pig: Hello.
-
-Mummy Pig: What have you been doing?
-
-Daddy Pig: Oh, nothing.
-
-Mummy Pig: Yes, I can see you’ve been doing nothing. I thought you were going to put the picture up.
-
-Narrator: In all the excitement Daddy Pig has forgotten to put the picture up.
-
-Daddy Pig: Oh.
-
-Mummy Pig: Well, I’m no expert, but I’m sure it’s quite easy.
-
-Mummy Pig: There.
-
-Daddy Pig: Hmmm. Yes, that did look quite easy.
-
-Peppa Pig: But when you did it, Daddy, it looked really hard.
-
-Daddy Pig: Shush, Peppa. Don’t tell anyone.
+[
+	{
+		"en": "Narrator: Mummy Pig and Daddy Pig have a new picture of Peppa and George.",
+		"cn": "旁白：猪妈妈和猪爸爸有一张佩奇和乔治的新照片。"
+	},
+	{
+		"en": "Mummy Pig: We should put this lovely new picture on the wall.",
+		"cn": "猪妈妈：我们应该把这张漂亮的新照片挂在墙上。"
+	},
+	{
+		"en": "Daddy Pig: Leave it to me. I am the DIY expert of the house.",
+		"cn": "猪爸爸：交给我吧。我是家里的DIY专家。"
+	},
+	{
+		"en": "Mummy Pig: Are you sure you can do it?",
+		"cn": "猪妈妈：你确定你能行吗？"
+	},
+	{
+		"en": "Daddy Pig: Of course. I’ll just put a nail in the wall and hang the picture on it.",
+		"cn": "猪爸爸：当然。我只要在墙上钉颗钉子，把照片挂上去就行了。"
+	},
+	{
+		"en": "Mummy Pig: Very good. I’m just off to visit Granny and Grandpa Pig. I’ll see you later.",
+		"cn": "猪妈妈：很好。我去看姥姥和姥爷，一会儿见。"
+	},
+	{
+		"en": "Mummy Pig: And, please don’t make a mess.",
+		"cn": "猪妈妈：还有，别弄乱了。"
+	},
+	{ "en": "Daddy Pig: Mess? Ho-ho-ho.", "cn": "猪爸爸：乱？呵呵呵。" },
+	{ "en": "Mummy Pig: Bye.", "cn": "猪妈妈：再见。" },
+	{ "en": "Daddy Pig and Peppa Pig: Goodbye.", "cn": "猪爸爸和佩奇：再见。" },
+	{
+		"en": "Peppa Pig: Daddy, can we help put up the picture?",
+		"cn": "佩奇：爸爸，我们能帮忙挂照片吗？"
+	},
+	{
+		"en": "Daddy Pig: You can watch, and then you’ll learn how to do it properly.",
+		"cn": "猪爸爸：你们可以看，这样就能学会怎么做了。"
+	},
+	{
+		"en": "Daddy Pig: First, I need a tape measure and a pencil.",
+		"cn": "猪爸爸：首先，我需要卷尺和铅笔。"
+	},
+	{
+		"en": "Daddy Pig: That is where I’m going to put the nail.",
+		"cn": "猪爸爸：我要把钉子钉在这里。"
+	},
+	{
+		"en": "Peppa Pig: Don’t break the wall, Daddy.",
+		"cn": "佩奇：爸爸，别把墙弄坏了。"
+	},
+	{
+		"en": "Daddy Pig: Ho-ho-ho-ho-ho. Now I need a hammer and a nail.",
+		"cn": "猪爸爸：呵呵呵呵呵。现在我需要锤子和钉子。"
+	},
+	{
+		"en": "Daddy Pig: Stand back, children, and watch a craftsman at work.",
+		"cn": "猪爸爸：孩子们，站远点，看工匠是怎么干活的。"
+	},
+	{
+		"en": "Narrator: Daddy Pig is going to knock the nail into the wall.",
+		"cn": "旁白：猪爸爸要把钉子钉进墙里了。"
+	},
+	{
+		"en": "Peppa Pig: Don’t break the wall, Daddy.",
+		"cn": "佩奇：爸爸，别把墙弄坏了。"
+	},
+	{
+		"en": "Daddy Pig: Ho-ho-ho-ho-ho, don’t be silly, Peppa.",
+		"cn": "猪爸爸：呵呵呵呵呵，别傻了，佩奇。"
+	},
+	{ "en": "Daddy Pig: Easy as pie.", "cn": "猪爸爸：小菜一碟。" },
+	{
+		"en": "Daddy Pig: Oh, it’s not meant to do that.",
+		"cn": "猪爸爸：哦，不应该这样的。"
+	},
+	{
+		"en": "Narrator: Daddy Pig has made a big crack in the wall.",
+		"cn": "旁白：猪爸爸把墙弄出了一道大裂缝。"
+	},
+	{
+		"en": "Peppa Pig: Oh, Daddy, you’ve broken the wall.",
+		"cn": "佩奇：哦，爸爸，你把墙弄坏了。"
+	},
+	{
+		"en": "Daddy Pig: It’s just a tiny crack. The picture will hide it. There.",
+		"cn": "猪爸爸：只是个小裂缝，照片能挡住。好了。"
+	},
+	{
+		"en": "Peppa Pig: I can still see the crack, Daddy.",
+		"cn": "佩奇：爸爸，我还是能看到裂缝。"
+	},
+	{
+		"en": "Daddy Pig: Yes. I’ll just take the nail out and fill in the crack.",
+		"cn": "猪爸爸：好吧，我把钉子拔出来，把裂缝补上。"
+	},
+	{
+		"en": "Peppa Pig: Don’t make a mess, Daddy.",
+		"cn": "佩奇：爸爸，别弄得一团糟。"
+	},
+	{
+		"en": "Daddy Pig: Ho-ho, don’t be silly, Peppa. It’s coming out...",
+		"cn": "猪爸爸：呵呵，别傻了，佩奇。快出来了……"
+	},
+	{
+		"en": "Peppa Pig: Oh, Daddy. Now you really have broken the wall.",
+		"cn": "佩奇：哦，爸爸，这下你真的把墙弄坏了。"
+	},
+	{ "en": "Daddy Pig: Hmmm.", "cn": "猪爸爸：嗯……" },
+	{
+		"en": "Peppa Pig: Do you think Mummy will notice?",
+		"cn": "佩奇：你觉得妈妈会发现吗？"
+	},
+	{
+		"en": "Daddy Pig: Yes, I think she might.",
+		"cn": "猪爸爸：我觉得她会的。"
+	},
+	{ "en": "Peppa Pig: Quick, George.", "cn": "佩奇：快点，乔治。" },
+	{ "en": "Daddy Pig: What are they doing?", "cn": "猪爸爸：他们在干什么？" },
+	{
+		"en": "Peppa Pig: Daddy, we can see you.",
+		"cn": "佩奇：爸爸，我们能看到你。"
+	},
+	{
+		"en": "Narrator: Daddy Pig has to mend the wall before Mummy Pig comes home.",
+		"cn": "旁白：猪爸爸得在猪妈妈回家前修好墙。"
+	},
+	{ "en": "Daddy Pig: Brick, please.", "cn": "猪爸爸：请给我砖头。" },
+	{
+		"en": "Narrator: First, Daddy Pig fills the hole with bricks.",
+		"cn": "旁白：首先，猪爸爸用砖头把洞填上。"
+	},
+	{ "en": "Daddy Pig: There.", "cn": "猪爸爸：好了。" },
+	{
+		"en": "Narrator: Next, Daddy Pig puts plaster over the bricks.",
+		"cn": "旁白：接着，猪爸爸在砖头上抹灰。"
+	},
+	{
+		"en": "Daddy Pig: Ho-ho-ho, easy as pie.",
+		"cn": "猪爸爸：呵呵呵，小菜一碟。"
+	},
+	{
+		"en": "Narrator: Then Daddy Pig paints the wall.",
+		"cn": "旁白：然后猪爸爸刷墙。"
+	},
+	{ "en": "Daddy Pig: Good as new.", "cn": "猪爸爸：和新的一样。" },
+	{ "en": "Narrator: The wall is mended.", "cn": "旁白：墙修好了。" },
+	{ "en": "Peppa Pig: Hurrah!", "cn": "佩奇：万岁！" },
+	{
+		"en": "Narrator: But look at all the mess they have made.",
+		"cn": "旁白：但你看看他们弄得多乱。"
+	},
+	{
+		"en": "Daddy Pig: Goodness me. We’d better clean up before Mummy comes back.",
+		"cn": "猪爸爸：天哪，咱们得赶紧收拾，妈妈快回来了。"
+	},
+	{
+		"en": "Narrator: First, Daddy Pig quickly washes Peppa and George. Then Peppa vacuums the floor. And Daddy Pig tidies up the tools.",
+		"cn": "旁白：首先，猪爸爸赶紧给佩奇和乔治洗干净。然后佩奇吸地，猪爸爸收拾工具。"
+	},
+	{ "en": "George: Mummy.", "cn": "乔治：妈妈。" },
+	{ "en": "Narrator: Mummy Pig is home.", "cn": "旁白：猪妈妈回来了。" },
+	{ "en": "George: Mummy.", "cn": "乔治：妈妈。" },
+	{ "en": "Peppa Pig: Mummy’s here.", "cn": "佩奇：妈妈回来了。" },
+	{
+		"en": "Daddy Pig: Quick! Pretend nothing has happened.",
+		"cn": "猪爸爸：快！假装什么都没发生。"
+	},
+	{ "en": "Mummy Pig: Hello.", "cn": "猪妈妈：你们好。" },
+	{ "en": "Daddy Pig: Hello.", "cn": "猪爸爸：你好。" },
+	{
+		"en": "Mummy Pig: What have you been doing?",
+		"cn": "猪妈妈：你们在干什么？"
+	},
+	{ "en": "Daddy Pig: Oh, nothing.", "cn": "猪爸爸：哦，没干什么。" },
+	{
+		"en": "Mummy Pig: Yes, I can see you’ve been doing nothing. I thought you were going to put the picture up.",
+		"cn": "猪妈妈：是啊，我看你们什么都没干。我还以为你要把照片挂上去呢。"
+	},
+	{
+		"en": "Narrator: In all the excitement Daddy Pig has forgotten to put the picture up.",
+		"cn": "旁白：在一阵忙乱中，猪爸爸忘了挂照片。"
+	},
+	{ "en": "Daddy Pig: Oh.", "cn": "猪爸爸：哦。" },
+	{
+		"en": "Mummy Pig: Well, I’m no expert, but I’m sure it’s quite easy.",
+		"cn": "猪妈妈：我不是专家，但我觉得这很简单。"
+	},
+	{ "en": "Mummy Pig: There.", "cn": "猪妈妈：好了。" },
+	{
+		"en": "Daddy Pig: Hmmm. Yes, that did look quite easy.",
+		"cn": "猪爸爸：嗯，确实挺简单的。"
+	},
+	{
+		"en": "Peppa Pig: But when you did it, Daddy, it looked really hard.",
+		"cn": "佩奇：可你做的时候，看起来很难。"
+	},
+	{
+		"en": "Daddy Pig: Shush, Peppa. Don’t tell anyone.",
+		"cn": "猪爸爸：嘘，佩奇，别告诉别人。"
+	}
+]

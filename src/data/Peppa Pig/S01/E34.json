@@ -1,157 +1,219 @@
-Narrator: Peppa and George are having a fancy dress party. All their friends are invited. Peppa is dressed as a fairy princess. And George is dressed as a dinosaur.
-
-George: Grrr, dinosaur.
-
-Narrator: Here are Peppa’s friends, Candy Cat, Suzy Sheep, Danny Dog, Rebecca Rabbit, and Pedro Pony.
-
-Narrator: Suzy is wearing her nurse’s costume.
-
-Daddy Pig: Hello, Suzy.
-
-Suzy Sheep: Hello, Mr Pig.
-
-Daddy Pig: I’m glad the nurse has arrived. Have you just come from the hospital?
-
-Suzy Sheep: I’m not a real nurse. It’s just pretend.
-
-Daddy Pig: Very good. My my, who have we here?
-
-Danny Dog: I’m a pirate. Shiver me timbers.
-
-Candy Cat: I’m a witch. I can turn you into a frog.
-
-Pedro Pony: I’m a clown.
-
-Daddy Pig: That’s funny.
-
-Daddy Pig: What are you, Rebecca Rabbit?
-
-Rebecca Rabbit: I’m a carrot.
-
-Daddy Pig: Fantastic. Come in. There’s a fairy princess and a dinosaur waiting to meet you.
-
-Peppa Pig: Hello, everyone.
-
-Suzy Sheep, Danny Dog, Candy Cat, Pedro Pony, Rebecca Rabbit: Hello, Peppa.
-
-Peppa Pig: Hello, Suzy. I’m princess Peppa. You must bow when you speak to me.
-
-Suzy Sheep: Hello, your majesty. I’m nurse Suzy. Open wide and say, “Aah.”
-
-Peppa Pig: Aah.
-
-Pedro Pony: I’m a clown.
-
-Rebecca Rabbit: Do something funny.
-
-Danny Dog: Rebecca, why are you dressed as a carrot?
-
-Rebecca Rabbit: I like carrots.
-
-George: Grrr, dinosaur.
-
-Danny Dog: A scary dinosaur.
-
-Narrator: Peppa is admiring herself in the mirror.
-
-Peppa Pig: Mirror, mirror on the wall, who’s the fairest of them all?
-
-Peppa Pig: (as the mirror) You are, Peppa.
-
-Candy Cat: Hello, Peppa.
-
-Peppa Pig: Hello. I’m a little fairy princess.
-
-Candy Cat: I’m a witch. And I’ve got a magic wand.
-
-Peppa Pig: I’ve got a magic wand too.
-
-Candy Cat: I can turn you into a frog.
-
-Peppa Pig: And I’ll turn you into a frog.
-
-George: Dinosaur. Grrr.
-
-Narrator: Oh, dear. George is scared of his own reflection.
-
-Mummy Pig: Oh, silly George. Look, it’s you in the mirror.
-
-George: Grrr.
-
-Mummy Pig: Children, it’s time to decide who has the best fancy dress costume.
-
-Daddy Pig: We need a judge.
-
-The Children: Me, me!
-
-Daddy Pig: As it’s Peppa’s party, maybe she should be the judge.
-
-Peppa Pig: I’m the judge, I’m the judge.
-
-Peppa Pig: Daddy, what is a judge?
-
-Daddy Pig: The judge decides who has the best costume.
-
-Peppa Pig: Oh, goody!
-
-Narrator: Peppa is going to choose who has the best costume.
-
-Peppa Pig: Suzy, can I see your costume, please?
-
-Suzy Sheep: I’m nurse Suzy. I make people better.
-
-Peppa Pig: Very good, nurse Suzy.
-
-Peppa Pig: Now Danny.
-
-Danny Dog: I’m a pirate. Shiver me timbers.
-
-Peppa Pig: Now Candy.
-
-Candy Cat: I’m a witch. I can turn you into a frog.
-
-Peppa Pig: Well, I’m a fairy princess, and I can turn you into a frog.
-
-Mummy Pig: Children, children.
-
-Peppa Pig: Sorry, Mummy.
-
-Mummy Pig: Who’s next?
-
-Pedro Pony: I’m a clown.
-
-Peppa Pig: That’s funny.
-
-Peppa Pig: And Rebecca.
-
-Rebecca Rabbit: I’m a carrot.
-
-Peppa Pig: Lovely.
-
-Peppa Pig: And my little brother George is a scary dinosaur.
-
-George: Grrr.
-
-Peppa Pig: Everyone’s costume is very good.
-
-The Children: Hurrah!
-
-Mummy Pig: Now you say who the winner is.
-
-Peppa Pig: Oh, yes. Ahem. And the winner is...me!
-
-Mummy Pig: Peppa, you can’t pick yourself. You’re the judge.
-
-Peppa Pig: Oh, can’t I?
-
-Mummy Pig: You have to pick another winner.
-
-Peppa Pig: Okay. The carrot wins.
-
-The Children: Hurrah!
-
-Rebecca Rabbit: Thank you.
-
-Narrator: Peppa loves fancy dress parties.
-
-Narrator: Everyone loves fancy dress parties.
+[
+	{
+		"en": "Narrator: Peppa and George are having a fancy dress party. All their friends are invited. Peppa is dressed as a fairy princess. And George is dressed as a dinosaur.",
+		"cn": "旁白：佩奇和乔治正在举办化妆舞会，所有朋友都被邀请了。佩奇打扮成了小仙女，乔治打扮成了恐龙。"
+	},
+	{ "en": "George: Grrr, dinosaur.", "cn": "乔治：嗷，恐龙。" },
+	{
+		"en": "Narrator: Here are Peppa’s friends, Candy Cat, Suzy Sheep, Danny Dog, Rebecca Rabbit, and Pedro Pony.",
+		"cn": "旁白：佩奇的朋友们来了，糖果猫、苏茜羊、丹尼狗、丽贝卡兔和佩德罗小马。"
+	},
+	{
+		"en": "Narrator: Suzy is wearing her nurse’s costume.",
+		"cn": "旁白：苏茜穿着护士服。"
+	},
+	{ "en": "Daddy Pig: Hello, Suzy.", "cn": "猪爸爸：你好，苏茜。" },
+	{ "en": "Suzy Sheep: Hello, Mr Pig.", "cn": "苏茜羊：你好，猪先生。" },
+	{
+		"en": "Daddy Pig: I’m glad the nurse has arrived. Have you just come from the hospital?",
+		"cn": "猪爸爸：护士来了真好。你刚从医院来吗？"
+	},
+	{
+		"en": "Suzy Sheep: I’m not a real nurse. It’s just pretend.",
+		"cn": "苏茜羊：我不是真的护士，只是装扮。"
+	},
+	{
+		"en": "Daddy Pig: Very good. My my, who have we here?",
+		"cn": "猪爸爸：很好。哎呀，这是谁呀？"
+	},
+	{
+		"en": "Danny Dog: I’m a pirate. Shiver me timbers.",
+		"cn": "丹尼狗：我是海盗。哇哈哈。"
+	},
+	{
+		"en": "Candy Cat: I’m a witch. I can turn you into a frog.",
+		"cn": "糖果猫：我是女巫，我能把你变成青蛙。"
+	},
+	{ "en": "Pedro Pony: I’m a clown.", "cn": "佩德罗小马：我是小丑。" },
+	{ "en": "Daddy Pig: That’s funny.", "cn": "猪爸爸：真有趣。" },
+	{
+		"en": "Daddy Pig: What are you, Rebecca Rabbit?",
+		"cn": "猪爸爸：丽贝卡兔，你扮成什么了？"
+	},
+	{ "en": "Rebecca Rabbit: I’m a carrot.", "cn": "丽贝卡兔：我是胡萝卜。" },
+	{
+		"en": "Daddy Pig: Fantastic. Come in. There’s a fairy princess and a dinosaur waiting to meet you.",
+		"cn": "猪爸爸：太棒了，快进来，有个小仙女和恐龙等着见你们。"
+	},
+	{ "en": "Peppa Pig: Hello, everyone.", "cn": "小猪佩奇：大家好。" },
+	{
+		"en": "Suzy Sheep, Danny Dog, Candy Cat, Pedro Pony, Rebecca Rabbit: Hello, Peppa.",
+		"cn": "苏茜羊、丹尼狗、糖果猫、佩德罗小马、丽贝卡兔：你好，佩奇。"
+	},
+	{
+		"en": "Peppa Pig: Hello, Suzy. I’m princess Peppa. You must bow when you speak to me.",
+		"cn": "小猪佩奇：你好，苏茜。我是佩奇公主，和我说话要鞠躬。"
+	},
+	{
+		"en": "Suzy Sheep: Hello, your majesty. I’m nurse Suzy. Open wide and say, “Aah.”",
+		"cn": "苏茜羊：您好，陛下。我是护士苏茜。张嘴说“啊”。"
+	},
+	{ "en": "Peppa Pig: Aah.", "cn": "小猪佩奇：啊——。" },
+	{ "en": "Pedro Pony: I’m a clown.", "cn": "佩德罗小马：我是小丑。" },
+	{
+		"en": "Rebecca Rabbit: Do something funny.",
+		"cn": "丽贝卡兔：表演点有趣的吧。"
+	},
+	{
+		"en": "Danny Dog: Rebecca, why are you dressed as a carrot?",
+		"cn": "丹尼狗：丽贝卡，你为什么扮成胡萝卜？"
+	},
+	{ "en": "Rebecca Rabbit: I like carrots.", "cn": "丽贝卡兔：我喜欢胡萝卜。" },
+	{ "en": "George: Grrr, dinosaur.", "cn": "乔治：嗷，恐龙。" },
+	{ "en": "Danny Dog: A scary dinosaur.", "cn": "丹尼狗：好吓人的恐龙。" },
+	{
+		"en": "Narrator: Peppa is admiring herself in the mirror.",
+		"cn": "旁白：佩奇正在镜子前欣赏自己。"
+	},
+	{
+		"en": "Peppa Pig: Mirror, mirror on the wall, who’s the fairest of them all?",
+		"cn": "小猪佩奇：魔镜魔镜，谁是世界上最美的？"
+	},
+	{
+		"en": "Peppa Pig: (as the mirror) You are, Peppa.",
+		"cn": "小猪佩奇：（学魔镜）是你，佩奇。"
+	},
+	{ "en": "Candy Cat: Hello, Peppa.", "cn": "糖果猫：你好，佩奇。" },
+	{
+		"en": "Peppa Pig: Hello. I’m a little fairy princess.",
+		"cn": "小猪佩奇：你好，我是小仙女。"
+	},
+	{
+		"en": "Candy Cat: I’m a witch. And I’ve got a magic wand.",
+		"cn": "糖果猫：我是女巫，我有魔法棒。"
+	},
+	{
+		"en": "Peppa Pig: I’ve got a magic wand too.",
+		"cn": "小猪佩奇：我也有魔法棒。"
+	},
+	{
+		"en": "Candy Cat: I can turn you into a frog.",
+		"cn": "糖果猫：我能把你变成青蛙。"
+	},
+	{
+		"en": "Peppa Pig: And I’ll turn you into a frog.",
+		"cn": "小猪佩奇：我也能把你变成青蛙。"
+	},
+	{ "en": "George: Dinosaur. Grrr.", "cn": "乔治：恐龙。嗷。" },
+	{
+		"en": "Narrator: Oh, dear. George is scared of his own reflection.",
+		"cn": "旁白：哎呀，乔治被自己的倒影吓到了。"
+	},
+	{
+		"en": "Mummy Pig: Oh, silly George. Look, it’s you in the mirror.",
+		"cn": "猪妈妈：傻乔治，你看，镜子里的是你。"
+	},
+	{ "en": "George: Grrr.", "cn": "乔治：嗷。" },
+	{
+		"en": "Mummy Pig: Children, it’s time to decide who has the best fancy dress costume.",
+		"cn": "猪妈妈：孩子们，是时候选出谁的服装最好看了。"
+	},
+	{ "en": "Daddy Pig: We need a judge.", "cn": "猪爸爸：我们需要一个评委。" },
+	{ "en": "The Children: Me, me!", "cn": "孩子们：我来，我来！" },
+	{
+		"en": "Daddy Pig: As it’s Peppa’s party, maybe she should be the judge.",
+		"cn": "猪爸爸：既然是佩奇的派对，也许她应该当评委。"
+	},
+	{
+		"en": "Peppa Pig: I’m the judge, I’m the judge.",
+		"cn": "小猪佩奇：我是评委，我是评委。"
+	},
+	{
+		"en": "Peppa Pig: Daddy, what is a judge?",
+		"cn": "小猪佩奇：爸爸，评委是什么？"
+	},
+	{
+		"en": "Daddy Pig: The judge decides who has the best costume.",
+		"cn": "猪爸爸：评委决定谁的服装最好。"
+	},
+	{ "en": "Peppa Pig: Oh, goody!", "cn": "小猪佩奇：太好了！" },
+	{
+		"en": "Narrator: Peppa is going to choose who has the best costume.",
+		"cn": "旁白：佩奇要选出谁的服装最好。"
+	},
+	{
+		"en": "Peppa Pig: Suzy, can I see your costume, please?",
+		"cn": "小猪佩奇：苏茜，我能看看你的服装吗？"
+	},
+	{
+		"en": "Suzy Sheep: I’m nurse Suzy. I make people better.",
+		"cn": "苏茜羊：我是护士苏茜，我让人生病好起来。"
+	},
+	{
+		"en": "Peppa Pig: Very good, nurse Suzy.",
+		"cn": "小猪佩奇：很好，护士苏茜。"
+	},
+	{ "en": "Peppa Pig: Now Danny.", "cn": "小猪佩奇：现在轮到丹尼了。" },
+	{
+		"en": "Danny Dog: I’m a pirate. Shiver me timbers.",
+		"cn": "丹尼狗：我是海盗。哇哈哈。"
+	},
+	{ "en": "Peppa Pig: Now Candy.", "cn": "小猪佩奇：现在轮到糖果猫。" },
+	{
+		"en": "Candy Cat: I’m a witch. I can turn you into a frog.",
+		"cn": "糖果猫：我是女巫，我能把你变成青蛙。"
+	},
+	{
+		"en": "Peppa Pig: Well, I’m a fairy princess, and I can turn you into a frog.",
+		"cn": "小猪佩奇：我是小仙女，我也能把你变成青蛙。"
+	},
+	{ "en": "Mummy Pig: Children, children.", "cn": "猪妈妈：孩子们，孩子们。" },
+	{ "en": "Peppa Pig: Sorry, Mummy.", "cn": "小猪佩奇：对不起，妈妈。" },
+	{ "en": "Mummy Pig: Who’s next?", "cn": "猪妈妈：下一个是谁？" },
+	{ "en": "Pedro Pony: I’m a clown.", "cn": "佩德罗小马：我是小丑。" },
+	{ "en": "Peppa Pig: That’s funny.", "cn": "小猪佩奇：真有趣。" },
+	{ "en": "Peppa Pig: And Rebecca.", "cn": "小猪佩奇：还有丽贝卡。" },
+	{ "en": "Rebecca Rabbit: I’m a carrot.", "cn": "丽贝卡兔：我是胡萝卜。" },
+	{ "en": "Peppa Pig: Lovely.", "cn": "小猪佩奇：真可爱。" },
+	{
+		"en": "Peppa Pig: And my little brother George is a scary dinosaur.",
+		"cn": "小猪佩奇：我弟弟乔治是只可怕的恐龙。"
+	},
+	{ "en": "George: Grrr.", "cn": "乔治：嗷。" },
+	{
+		"en": "Peppa Pig: Everyone’s costume is very good.",
+		"cn": "小猪佩奇：大家的服装都很棒。"
+	},
+	{ "en": "The Children: Hurrah!", "cn": "孩子们：好耶！" },
+	{
+		"en": "Mummy Pig: Now you say who the winner is.",
+		"cn": "猪妈妈：现在你要宣布谁是赢家。"
+	},
+	{
+		"en": "Peppa Pig: Oh, yes. Ahem. And the winner is...me!",
+		"cn": "小猪佩奇：哦，对了。咳咳，获胜者是……我！"
+	},
+	{
+		"en": "Mummy Pig: Peppa, you can’t pick yourself. You’re the judge.",
+		"cn": "猪妈妈：佩奇，你不能选自己，你是评委。"
+	},
+	{ "en": "Peppa Pig: Oh, can’t I?", "cn": "小猪佩奇：哦，不行吗？" },
+	{
+		"en": "Mummy Pig: You have to pick another winner.",
+		"cn": "猪妈妈：你得选另一个赢家。"
+	},
+	{
+		"en": "Peppa Pig: Okay. The carrot wins.",
+		"cn": "小猪佩奇：好吧，胡萝卜赢了。"
+	},
+	{ "en": "The Children: Hurrah!", "cn": "孩子们：好耶！" },
+	{ "en": "Rebecca Rabbit: Thank you.", "cn": "丽贝卡兔：谢谢。" },
+	{
+		"en": "Narrator: Peppa loves fancy dress parties.",
+		"cn": "旁白：佩奇喜欢化妆舞会。"
+	},
+	{
+		"en": "Narrator: Everyone loves fancy dress parties.",
+		"cn": "旁白：大家都喜欢化妆舞会。"
+	}
+]

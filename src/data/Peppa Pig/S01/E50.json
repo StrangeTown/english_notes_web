@@ -1,143 +1,230 @@
-Narrator: Granny Pig and Grandpa Pig are taking Peppa and George out for a day on the river.
-
-Grandpa Pig: Welcome aboard, me hearties!
-
-Granny Pig: Peppa, George, let's put your life jackets on.
-
-Narrator: When Peppa and George are on Grandpa Pig's boat, they must wear life jackets.
-
-Grandpa Pig: On this boat, I'm the captain.
-
-Granny Pig: Aye aye, captain!
-
-Peppa Pig: Aye aye, captain!
-
-Grandpa Pig: When captain Grandpa tells you all to do something, you must do it.
-
-Granny Pig: Unless it's something silly.
-
-Grandpa Pig: Captain Grandpa never says anything silly.
-
-Granny Pig: Of course not, Captain Grandpa.
-
-Grandpa Pig: George! Raise the flag!
-
-Grandpa Pig: Peppa! Ring the bell!
-
-Peppa Pig: Aye aye, Captain!
-
-Grandpa Pig: Granny Pig! Take the wheel!
-
-Granny Pig: Aye aye, Captain!
-
-Grandpa Pig: Full sail!
-
-Peppa Pig: Full sail!
-
-Granny Pig: Maybe you should go a little slower, Grandpa Pig.
-
-Grandpa Pig: Good idea, Granny Pig. I don't want to use up all my petrol.
-
-Peppa Pig: Grandpa, I liked it when we went fast.
-
-Grandpa Pig: Don't worry, Peppa. We'll go fast later!
-
-Peppa Pig: Look! There's another boat!
-
-Narrator: Here's Granddad Dog. He's taking Danny Dog out for a day on the river.
-
-Grandpa Pig: Ahoy there, Granddad Dog!
-
-Granddad Dog: Ahoy there, Grandpa Pig!
-
-Peppa Pig: Hello, Danny!
-
-Danny Dog: Hello, Peppa!
-
-Narrator: Granddad Dog is Grandpa Pig's very best friend.
-
-Grandpa Pig: I'm surprised your boat is still afloat, Granddad Dog. It must be almost as old as you are.
-
-Granddad Dog: This old boat can go faster than your rusty bucket any day, Grandpa Pig.
-
-Grandpa Pig: All right, you old sea dog. Race you.
-
-Granddad Dog: Prepare to lose, water hog.
-
-Granny Pig: You two are acting like little children.
-
-Grandpa Pig: Granddad Dog called me a water hog.
-
-Peppa Pig: You called him a sea dog first, Grandpa. You should say sorry.
-
-Grandpa Pig: Only if he says sorry first.
-
-Danny Dog: Granddad, say sorry to Grandpa Pig. He is your best friend.
-
-Granddad Dog: No. He's a water hog and my boat is faster than his.
-
-Grandpa Pig: All right, sea dog. Let's race to the next bridge.
-
-Granddad Dog: On the count of three.
-
-Grandpa Pig: One... two...
-
-Granddad Dog: Go!
-
-Grandpa Pig: You started too soon.
-
-Granddad Dog: Catch me if you can, water hog!
-
-Grandpa Pig: Sea dog!
-
-Grandpa Pig: Is that as fast as you can go?
-
-Grandpa Pig: Can't catch me!
-
-Grandpa Pig: I win!
-
-Narrator: Oh, dear. Grandpa Pig's boat has run out of petrol.
-
-Granny Pig: Very clever, Captain Grandpa.
-
-Grandpa Pig: Maybe I did go a bit too fast.
-
-Granny Pig: How will we get home?
-
-Peppa Pig: Look, there's Granddad Dog.
-
-Granny Pig: Granddad Dog can tow us home.
-
-Grandpa Pig: I'm not being towed by that sea dog.
-
-Granddad Dog: I haven't offered to tow the water hog.
-
-Granny Pig: Will you two ever grow up?
-
-Peppa Pig: Grandpa, say sorry to Granddad Dog.
-
-Grandpa Pig: I'm sorry I called you a sea dog.
-
-Danny Dog: Granddad, say sorry to Grandpa Pig.
-
-Granddad Dog: I'm sorry I called you a water hog.
-
-Granny Pig: That's nice. Granddad Dog, would you be so kind as to tow us home?
-
-Granddad Dog: It would be my pleasure, madam.
-
-Granddad Dog: Catch this, Captain!
-
-Grandpa Pig: Aye aye, skipper!
-
-Narrator: Granddad Dog is Grandpa Pig's very best friend. Granddad Dog is towing Grandpa Pig's boat home.
-
-Grandpa Pig: The main thing is I won the race.
-
-Granny Pig: Grandpa Pig.
-
-Peppa Pig: Naughty Grandpa Pig.
-
-Grandpa Pig: Peppa. Ring the bell.
-
-Peppa Pig: Aye aye, captain Grandpa.
+[
+	{
+		"en": "Narrator: Granny Pig and Grandpa Pig are taking Peppa and George out for a day on the river.",
+		"cn": "旁白：奶奶猪和爷爷猪带佩奇和乔治去河上玩一天。"
+	},
+	{
+		"en": "Grandpa Pig: Welcome aboard, me hearties!",
+		"cn": "爷爷猪：欢迎登船，伙计们！"
+	},
+	{
+		"en": "Granny Pig: Peppa, George, let's put your life jackets on.",
+		"cn": "奶奶猪：佩奇，乔治，来穿上你们的救生衣。"
+	},
+	{
+		"en": "Narrator: When Peppa and George are on Grandpa Pig's boat, they must wear life jackets.",
+		"cn": "旁白：佩奇和乔治在爷爷猪的船上时，必须穿救生衣。"
+	},
+	{
+		"en": "Grandpa Pig: On this boat, I'm the captain.",
+		"cn": "爷爷猪：在这艘船上，我是船长。"
+	},
+	{ "en": "Granny Pig: Aye aye, captain!", "cn": "奶奶猪：遵命，船长！" },
+	{ "en": "Peppa Pig: Aye aye, captain!", "cn": "佩奇：遵命，船长！" },
+	{
+		"en": "Grandpa Pig: When captain Grandpa tells you all to do something, you must do it.",
+		"cn": "爷爷猪：当船长爷爷让你们做什么时，你们必须照做。"
+	},
+	{
+		"en": "Granny Pig: Unless it's something silly.",
+		"cn": "奶奶猪：除非是傻事。"
+	},
+	{
+		"en": "Grandpa Pig: Captain Grandpa never says anything silly.",
+		"cn": "爷爷猪：船长爷爷从不说傻话。"
+	},
+	{
+		"en": "Granny Pig: Of course not, Captain Grandpa.",
+		"cn": "奶奶猪：当然不会，船长爷爷。"
+	},
+	{
+		"en": "Grandpa Pig: George! Raise the flag!",
+		"cn": "爷爷猪：乔治，升旗！"
+	},
+	{ "en": "Grandpa Pig: Peppa! Ring the bell!", "cn": "爷爷猪：佩奇，敲铃！" },
+	{ "en": "Peppa Pig: Aye aye, Captain!", "cn": "佩奇：遵命，船长！" },
+	{
+		"en": "Grandpa Pig: Granny Pig! Take the wheel!",
+		"cn": "爷爷猪：奶奶猪，掌舵！"
+	},
+	{ "en": "Granny Pig: Aye aye, Captain!", "cn": "奶奶猪：遵命，船长！" },
+	{ "en": "Grandpa Pig: Full sail!", "cn": "爷爷猪：扬帆！" },
+	{ "en": "Peppa Pig: Full sail!", "cn": "佩奇：扬帆！" },
+	{
+		"en": "Granny Pig: Maybe you should go a little slower, Grandpa Pig.",
+		"cn": "奶奶猪：爷爷猪，你是不是该慢点？"
+	},
+	{
+		"en": "Grandpa Pig: Good idea, Granny Pig. I don't want to use up all my petrol.",
+		"cn": "爷爷猪：好主意，奶奶猪。我不想把油全用光。"
+	},
+	{
+		"en": "Peppa Pig: Grandpa, I liked it when we went fast.",
+		"cn": "佩奇：爷爷，我喜欢刚才快的时候。"
+	},
+	{
+		"en": "Grandpa Pig: Don't worry, Peppa. We'll go fast later!",
+		"cn": "爷爷猪：别担心，佩奇，待会儿我们还会快起来！"
+	},
+	{
+		"en": "Peppa Pig: Look! There's another boat!",
+		"cn": "佩奇：看！有另一艘船！"
+	},
+	{
+		"en": "Narrator: Here's Granddad Dog. He's taking Danny Dog out for a day on the river.",
+		"cn": "旁白：狗爷爷来了，他带着丹尼狗去河上玩一天。"
+	},
+	{
+		"en": "Grandpa Pig: Ahoy there, Granddad Dog!",
+		"cn": "爷爷猪：狗爷爷，嗨！"
+	},
+	{
+		"en": "Granddad Dog: Ahoy there, Grandpa Pig!",
+		"cn": "狗爷爷：爷爷猪，嗨！"
+	},
+	{ "en": "Peppa Pig: Hello, Danny!", "cn": "佩奇：你好，丹尼！" },
+	{ "en": "Danny Dog: Hello, Peppa!", "cn": "丹尼狗：你好，佩奇！" },
+	{
+		"en": "Narrator: Granddad Dog is Grandpa Pig's very best friend.",
+		"cn": "旁白：狗爷爷是爷爷猪最好的朋友。"
+	},
+	{
+		"en": "Grandpa Pig: I'm surprised your boat is still afloat, Granddad Dog. It must be almost as old as you are.",
+		"cn": "爷爷猪：我很惊讶你的船还没沉，狗爷爷。它肯定和你一样老了。"
+	},
+	{
+		"en": "Granddad Dog: This old boat can go faster than your rusty bucket any day, Grandpa Pig.",
+		"cn": "狗爷爷：这艘旧船随时都能比你的破桶快，爷爷猪。"
+	},
+	{
+		"en": "Grandpa Pig: All right, you old sea dog. Race you.",
+		"cn": "爷爷猪：好吧，你这老海狗。来比赛吧。"
+	},
+	{
+		"en": "Granddad Dog: Prepare to lose, water hog.",
+		"cn": "狗爷爷：准备输吧，水猪。"
+	},
+	{
+		"en": "Granny Pig: You two are acting like little children.",
+		"cn": "奶奶猪：你们俩像小孩子一样。"
+	},
+	{
+		"en": "Grandpa Pig: Granddad Dog called me a water hog.",
+		"cn": "爷爷猪：狗爷爷叫我水猪。"
+	},
+	{
+		"en": "Peppa Pig: You called him a sea dog first, Grandpa. You should say sorry.",
+		"cn": "佩奇：爷爷，是你先叫他海狗的。你应该道歉。"
+	},
+	{
+		"en": "Grandpa Pig: Only if he says sorry first.",
+		"cn": "爷爷猪：除非他先道歉。"
+	},
+	{
+		"en": "Danny Dog: Granddad, say sorry to Grandpa Pig. He is your best friend.",
+		"cn": "丹尼狗：爷爷，向爷爷猪道歉吧，他是你最好的朋友。"
+	},
+	{
+		"en": "Granddad Dog: No. He's a water hog and my boat is faster than his.",
+		"cn": "狗爷爷：不，他是水猪，我的船比他的快。"
+	},
+	{
+		"en": "Grandpa Pig: All right, sea dog. Let's race to the next bridge.",
+		"cn": "爷爷猪：好吧，海狗，我们比到下一个桥。"
+	},
+	{
+		"en": "Granddad Dog: On the count of three.",
+		"cn": "狗爷爷：数到三开始。"
+	},
+	{ "en": "Grandpa Pig: One... two...", "cn": "爷爷猪：一……二……" },
+	{ "en": "Granddad Dog: Go!", "cn": "狗爷爷：开始！" },
+	{ "en": "Grandpa Pig: You started too soon.", "cn": "爷爷猪：你抢跑了。" },
+	{
+		"en": "Granddad Dog: Catch me if you can, water hog!",
+		"cn": "狗爷爷：有本事来追我呀，水猪！"
+	},
+	{ "en": "Grandpa Pig: Sea dog!", "cn": "爷爷猪：海狗！" },
+	{
+		"en": "Grandpa Pig: Is that as fast as you can go?",
+		"cn": "爷爷猪：你就这点速度吗？"
+	},
+	{ "en": "Grandpa Pig: Can't catch me!", "cn": "爷爷猪：你追不上我！" },
+	{ "en": "Grandpa Pig: I win!", "cn": "爷爷猪：我赢了！" },
+	{
+		"en": "Narrator: Oh, dear. Grandpa Pig's boat has run out of petrol.",
+		"cn": "旁白：哦，糟糕。爷爷猪的船没油了。"
+	},
+	{
+		"en": "Granny Pig: Very clever, Captain Grandpa.",
+		"cn": "奶奶猪：真聪明，船长爷爷。"
+	},
+	{
+		"en": "Grandpa Pig: Maybe I did go a bit too fast.",
+		"cn": "爷爷猪：也许我刚才开得太快了。"
+	},
+	{
+		"en": "Granny Pig: How will we get home?",
+		"cn": "奶奶猪：那我们怎么回家？"
+	},
+	{
+		"en": "Peppa Pig: Look, there's Granddad Dog.",
+		"cn": "佩奇：看，狗爷爷来了。"
+	},
+	{
+		"en": "Granny Pig: Granddad Dog can tow us home.",
+		"cn": "奶奶猪：狗爷爷可以拖我们回家。"
+	},
+	{
+		"en": "Grandpa Pig: I'm not being towed by that sea dog.",
+		"cn": "爷爷猪：我才不要被那只海狗拖回去。"
+	},
+	{
+		"en": "Granddad Dog: I haven't offered to tow the water hog.",
+		"cn": "狗爷爷：我还没说要拖那只水猪呢。"
+	},
+	{
+		"en": "Granny Pig: Will you two ever grow up?",
+		"cn": "奶奶猪：你们俩什么时候才能长大？"
+	},
+	{
+		"en": "Peppa Pig: Grandpa, say sorry to Granddad Dog.",
+		"cn": "佩奇：爷爷，向狗爷爷道歉吧。"
+	},
+	{
+		"en": "Grandpa Pig: I'm sorry I called you a sea dog.",
+		"cn": "爷爷猪：对不起，我叫你海狗。"
+	},
+	{
+		"en": "Danny Dog: Granddad, say sorry to Grandpa Pig.",
+		"cn": "丹尼狗：爷爷，向爷爷猪道歉。"
+	},
+	{
+		"en": "Granddad Dog: I'm sorry I called you a water hog.",
+		"cn": "狗爷爷：对不起，我叫你水猪。"
+	},
+	{
+		"en": "Granny Pig: That's nice. Granddad Dog, would you be so kind as to tow us home?",
+		"cn": "奶奶猪：太好了。狗爷爷，你能拖我们回家吗？"
+	},
+	{
+		"en": "Granddad Dog: It would be my pleasure, madam.",
+		"cn": "狗爷爷：很乐意，女士。"
+	},
+	{ "en": "Granddad Dog: Catch this, Captain!", "cn": "狗爷爷：接住，船长！" },
+	{ "en": "Grandpa Pig: Aye aye, skipper!", "cn": "爷爷猪：遵命，大副！" },
+	{
+		"en": "Narrator: Granddad Dog is Grandpa Pig's very best friend. Granddad Dog is towing Grandpa Pig's boat home.",
+		"cn": "旁白：狗爷爷是爷爷猪最好的朋友。狗爷爷正在拖着爷爷猪的船回家。"
+	},
+	{
+		"en": "Grandpa Pig: The main thing is I won the race.",
+		"cn": "爷爷猪：最重要的是我赢了比赛。"
+	},
+	{ "en": "Granny Pig: Grandpa Pig.", "cn": "奶奶猪：爷爷猪。" },
+	{ "en": "Peppa Pig: Naughty Grandpa Pig.", "cn": "佩奇：调皮的爷爷猪。" },
+	{ "en": "Grandpa Pig: Peppa. Ring the bell.", "cn": "爷爷猪：佩奇，敲铃。" },
+	{
+		"en": "Peppa Pig: Aye aye, captain Grandpa.",
+		"cn": "佩奇：遵命，船长爷爷。"
+	}
+]

@@ -1,153 +1,241 @@
-Narrator: Peppa and her family are visiting Uncle Pig and Auntie Pig and Cousin Chloé.
-
-Daddy Pig: I expect Uncle Pig will fall asleep after lunch like he always does.
-
-Mummy Pig: Daddy Pig, you shouldn’t say such things about your own brother, especially in front of the children.
-
-Daddy Pig: But it’s true. Uncle Pig always eats too much lunch and falls asleep, snoring loudly like this.
-
-Daddy Pig: Uh, Peppa, George, forget what I just said about Uncle Pig.
-
-Peppa Pig: OK, Daddy.
-
-Narrator: Peppa and her family have arrived at Uncle Pig and Auntie Pig’s house.
-
-Peppa Pig: Hello, Uncle Pig and Auntie Pig.
-
-Auntie Pig: Hello.
-
-Uncle Pig: Hello, everyone.
-
-Daddy Pig: Hello, big brother.
-
-Narrator: Uncle Pig is Daddy Pig’s brother.
-
-Narrator: Chloé Pig is Peppa and George’s cousin.
-
-Peppa Pig: Hello, Chloé.
-
-Chloé Pig: Hello, Peppa. Hello, George. I want to show you something.
-
-Peppa Pig: Wait for us.
-
-Chloé Pig: This is my new puppet theatre. My daddy made it for me.
-
-Peppa Pig: Wow!
-
-Chloé Pig: I’ve made two puppets already. This one is called Chloé.
-
-Chloé Pig: (as puppet Chloé): Hello, I am Chloé Pig.
-
-Chloé Pig: And this one is my daddy.
-
-Peppa Pig: Uncle Pig.
-
-Chloé Pig: (as puppet Uncle Pig) Hello, Peppa. I am Uncle Pig.
-
-Peppa Pig: Chloé, can me and George make puppets too?
-
-Chloé Pig: Yes.
-
-Narrator: Chloé paints the puppet's eyes.
-
-Peppa Pig: Can I do the mouth?
-
-Chloé Pig: OK.
-
-Peppa Pig: (as puppet Peppa Pig) My name is Peppa.
-
-Chloé Pig: George, what puppet would you like to make?
-
-George: Dinosaur.
-
-Chloé Pig: A dinosaur?
-
-Peppa Pig: George always says dinosaur for everything.
-
-Chloé Pig: OK, a scary dinosaur puppet.
-
-Narrator: Chloé is making George a dinosaur puppet.
-
-Chloé Pig: It needs pointy teeth. There, a scary dinosaur.
-
-George: Grrr.
-
-Auntie Pig: Lunchtime, everyone.
-
-Chloé Pig: Coming.
-
-Chloé Pig: After lunch we’ll do a puppet show.
-
-Peppa Pig: Hurrah!
-
-Narrator: Auntie Pig has made spaghetti for lunch.
-
-Daddy Pig: This spaghetti is delicious.
-
-Uncle Pig: Best spaghetti ever.
-
-Mummy Pig: You can tell you two are brothers.
-
-Auntie Pig: Alike in every way.
-
-Daddy Pig: What do you mean?
-
-Uncle Pig: We are completely different.
-
-Chloé Pig: Peppa, George and I are going to do a puppet show.
-
-Auntie Pig: Fantastic! Call us when you’re ready.
-
-Peppa Pig: See you later.
-
-Daddy Pig: A puppet show? That sounds fun. Have I got time for some more spaghetti?
-
-Uncle Pig: Could I have some more too?
-
-Narrator: The puppet show is about to begin.
-
-Chloé Pig: (as puppet Chloé) Hello, my name is Chloé.
-
-Peppa Pig: (as puppet Peppa) And I am Peppa.
-
-George: (as puppet dinosaur) Grrr.
-
-Peppa Pig: (as puppet Peppa) It’s a dinosaur!
-
-Chloé Pig: (as puppet Chloé) Scary dinosaur. Eek!
-
-Auntie Pig: I say, that’s very good.
-
-Daddy Pig: Bravo!
-
-Chloé Pig: (as puppet Uncle Pig) I am Uncle Pig.
-
-Peppa Pig: (as puppet Peppa) Hello, Uncle Pig.
-
-Chloé Pig: (as puppet Uncle Pig) Hello, Peppa. Ho, ho, ho.
-
-Auntie Pig: It looks just like you.
-
-Uncle Pig: I think they’ve made my tummy a bit big.
-
-Chloé Pig: (as puppet Uncle Pig) Ho, ho, I did enjoy my lunch.
-
-Peppa Pig: (as puppet Peppa) Uncle Pig, are you going to fall asleep and snore like you always do?
-
-Chloé Pig: (as puppet Uncle Pig) What do you mean?
-
-Peppa Pig: (as puppet Peppa) Daddy says you always fall asleep and snore loudly like this.
-
-Chloé Pig: (as puppet Uncle Pig) Ho, ho, your daddy’s right. I do snore like this.
-
-Mummy Pig: Daddy Pig, you shouldn’t have said those things about Uncle Pig.
-
-Auntie Pig: I don’t think Daddy Pig or Uncle Pig can hear you.
-
-Narrator: Daddy Pig and Uncle Pig have fallen asleep.
-
-Mummy Pig: You can tell they’re brothers.
-
-Uncle Pig: What happened?
-
-Daddy Pig: Has the puppet show started yet?
+[
+	{
+		"en": "Narrator: Peppa and her family are visiting Uncle Pig and Auntie Pig and Cousin Chloé.",
+		"cn": "旁白：佩奇一家正在拜访猪叔叔、猪阿姨和表姐克洛伊。"
+	},
+	{
+		"en": "Daddy Pig: I expect Uncle Pig will fall asleep after lunch like he always does.",
+		"cn": "猪爸爸：我猜猪叔叔午饭后又会像往常一样睡着。"
+	},
+	{
+		"en": "Mummy Pig: Daddy Pig, you shouldn’t say such things about your own brother, especially in front of the children.",
+		"cn": "猪妈妈：猪爸爸，你不该在孩子们面前说你哥哥的坏话。"
+	},
+	{
+		"en": "Daddy Pig: But it’s true. Uncle Pig always eats too much lunch and falls asleep, snoring loudly like this.",
+		"cn": "猪爸爸：可这是真的。猪叔叔总是吃太多午饭，然后睡着，还打呼噜，就像这样。"
+	},
+	{
+		"en": "Daddy Pig: Uh, Peppa, George, forget what I just said about Uncle Pig.",
+		"cn": "猪爸爸：呃，佩奇，乔治，把我刚才说猪叔叔的话忘了吧。"
+	},
+	{ "en": "Peppa Pig: OK, Daddy.", "cn": "小猪佩奇：好的，爸爸。" },
+	{
+		"en": "Narrator: Peppa and her family have arrived at Uncle Pig and Auntie Pig’s house.",
+		"cn": "旁白：佩奇一家到达了猪叔叔和猪阿姨家。"
+	},
+	{
+		"en": "Peppa Pig: Hello, Uncle Pig and Auntie Pig.",
+		"cn": "小猪佩奇：你好，猪叔叔，猪阿姨。"
+	},
+	{ "en": "Auntie Pig: Hello.", "cn": "猪阿姨：你好。" },
+	{ "en": "Uncle Pig: Hello, everyone.", "cn": "猪叔叔：大家好。" },
+	{ "en": "Daddy Pig: Hello, big brother.", "cn": "猪爸爸：你好，哥哥。" },
+	{
+		"en": "Narrator: Uncle Pig is Daddy Pig’s brother.",
+		"cn": "旁白：猪叔叔是猪爸爸的哥哥。"
+	},
+	{
+		"en": "Narrator: Chloé Pig is Peppa and George’s cousin.",
+		"cn": "旁白：克洛伊是佩奇和乔治的表姐。"
+	},
+	{ "en": "Peppa Pig: Hello, Chloé.", "cn": "小猪佩奇：你好，克洛伊。" },
+	{
+		"en": "Chloé Pig: Hello, Peppa. Hello, George. I want to show you something.",
+		"cn": "克洛伊：你好，佩奇。你好，乔治。我想给你们看点东西。"
+	},
+	{ "en": "Peppa Pig: Wait for us.", "cn": "小猪佩奇：等等我们。" },
+	{
+		"en": "Chloé Pig: This is my new puppet theatre. My daddy made it for me.",
+		"cn": "克洛伊：这是我的新木偶剧场，是我爸爸给我做的。"
+	},
+	{ "en": "Peppa Pig: Wow!", "cn": "小猪佩奇：哇！" },
+	{
+		"en": "Chloé Pig: I’ve made two puppets already. This one is called Chloé.",
+		"cn": "克洛伊：我已经做了两个木偶，这个叫克洛伊。"
+	},
+	{
+		"en": "Chloé Pig: (as puppet Chloé): Hello, I am Chloé Pig.",
+		"cn": "克洛伊（扮木偶）：你好，我是克洛伊猪。"
+	},
+	{
+		"en": "Chloé Pig: And this one is my daddy.",
+		"cn": "克洛伊：这个是我爸爸。"
+	},
+	{ "en": "Peppa Pig: Uncle Pig.", "cn": "小猪佩奇：猪叔叔。" },
+	{
+		"en": "Chloé Pig: (as puppet Uncle Pig) Hello, Peppa. I am Uncle Pig.",
+		"cn": "克洛伊（扮木偶）：你好，佩奇，我是猪叔叔。"
+	},
+	{
+		"en": "Peppa Pig: Chloé, can me and George make puppets too?",
+		"cn": "小猪佩奇：克洛伊，我和乔治也能做木偶吗？"
+	},
+	{ "en": "Chloé Pig: Yes.", "cn": "克洛伊：可以。" },
+	{
+		"en": "Narrator: Chloé paints the puppet's eyes.",
+		"cn": "旁白：克洛伊在给木偶画眼睛。"
+	},
+	{ "en": "Peppa Pig: Can I do the mouth?", "cn": "小猪佩奇：我能画嘴巴吗？" },
+	{ "en": "Chloé Pig: OK.", "cn": "克洛伊：可以。" },
+	{
+		"en": "Peppa Pig: (as puppet Peppa Pig) My name is Peppa.",
+		"cn": "小猪佩奇（扮木偶）：我叫佩奇。"
+	},
+	{
+		"en": "Chloé Pig: George, what puppet would you like to make?",
+		"cn": "克洛伊：乔治，你想做什么木偶？"
+	},
+	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
+	{ "en": "Chloé Pig: A dinosaur?", "cn": "克洛伊：恐龙？" },
+	{
+		"en": "Peppa Pig: George always says dinosaur for everything.",
+		"cn": "小猪佩奇：乔治什么都说恐龙。"
+	},
+	{
+		"en": "Chloé Pig: OK, a scary dinosaur puppet.",
+		"cn": "克洛伊：好吧，一个可怕的恐龙木偶。"
+	},
+	{
+		"en": "Narrator: Chloé is making George a dinosaur puppet.",
+		"cn": "旁白：克洛伊正在给乔治做恐龙木偶。"
+	},
+	{
+		"en": "Chloé Pig: It needs pointy teeth. There, a scary dinosaur.",
+		"cn": "克洛伊：要有尖牙。好了，一个可怕的恐龙。"
+	},
+	{ "en": "George: Grrr.", "cn": "乔治：嗷。" },
+	{ "en": "Auntie Pig: Lunchtime, everyone.", "cn": "猪阿姨：大家吃午饭啦。" },
+	{ "en": "Chloé Pig: Coming.", "cn": "克洛伊：来了。" },
+	{
+		"en": "Chloé Pig: After lunch we’ll do a puppet show.",
+		"cn": "克洛伊：午饭后我们来表演木偶剧。"
+	},
+	{ "en": "Peppa Pig: Hurrah!", "cn": "小猪佩奇：万岁！" },
+	{
+		"en": "Narrator: Auntie Pig has made spaghetti for lunch.",
+		"cn": "旁白：猪阿姨做了意大利面当午饭。"
+	},
+	{
+		"en": "Daddy Pig: This spaghetti is delicious.",
+		"cn": "猪爸爸：这意大利面真好吃。"
+	},
+	{
+		"en": "Uncle Pig: Best spaghetti ever.",
+		"cn": "猪叔叔：这是我吃过最好吃的意大利面。"
+	},
+	{
+		"en": "Mummy Pig: You can tell you two are brothers.",
+		"cn": "猪妈妈：一看你们俩就是兄弟。"
+	},
+	{ "en": "Auntie Pig: Alike in every way.", "cn": "猪阿姨：各方面都很像。" },
+	{ "en": "Daddy Pig: What do you mean?", "cn": "猪爸爸：什么意思？" },
+	{
+		"en": "Uncle Pig: We are completely different.",
+		"cn": "猪叔叔：我们完全不一样。"
+	},
+	{
+		"en": "Chloé Pig: Peppa, George and I are going to do a puppet show.",
+		"cn": "克洛伊：佩奇、乔治和我要表演木偶剧。"
+	},
+	{
+		"en": "Auntie Pig: Fantastic! Call us when you’re ready.",
+		"cn": "猪阿姨：太棒了，准备好就叫我们。"
+	},
+	{ "en": "Peppa Pig: See you later.", "cn": "小猪佩奇：待会见。" },
+	{
+		"en": "Daddy Pig: A puppet show? That sounds fun. Have I got time for some more spaghetti?",
+		"cn": "猪爸爸：木偶剧？听起来很有趣。我还有时间再吃点意大利面吗？"
+	},
+	{
+		"en": "Uncle Pig: Could I have some more too?",
+		"cn": "猪叔叔：我也能再来点吗？"
+	},
+	{
+		"en": "Narrator: The puppet show is about to begin.",
+		"cn": "旁白：木偶剧马上要开始了。"
+	},
+	{
+		"en": "Chloé Pig: (as puppet Chloé) Hello, my name is Chloé.",
+		"cn": "克洛伊（扮木偶）：你好，我叫克洛伊。"
+	},
+	{
+		"en": "Peppa Pig: (as puppet Peppa) And I am Peppa.",
+		"cn": "小猪佩奇（扮木偶）：我是佩奇。"
+	},
+	{ "en": "George: (as puppet dinosaur) Grrr.", "cn": "乔治（扮木偶）：嗷。" },
+	{
+		"en": "Peppa Pig: (as puppet Peppa) It’s a dinosaur!",
+		"cn": "小猪佩奇（扮木偶）：是恐龙！"
+	},
+	{
+		"en": "Chloé Pig: (as puppet Chloé) Scary dinosaur. Eek!",
+		"cn": "克洛伊（扮木偶）：可怕的恐龙。哎呀！"
+	},
+	{
+		"en": "Auntie Pig: I say, that’s very good.",
+		"cn": "猪阿姨：我说，这真棒。"
+	},
+	{ "en": "Daddy Pig: Bravo!", "cn": "猪爸爸：太棒了！" },
+	{
+		"en": "Chloé Pig: (as puppet Uncle Pig) I am Uncle Pig.",
+		"cn": "克洛伊（扮木偶）：我是猪叔叔。"
+	},
+	{
+		"en": "Peppa Pig: (as puppet Peppa) Hello, Uncle Pig.",
+		"cn": "小猪佩奇（扮木偶）：你好，猪叔叔。"
+	},
+	{
+		"en": "Chloé Pig: (as puppet Uncle Pig) Hello, Peppa. Ho, ho, ho.",
+		"cn": "克洛伊（扮木偶）：你好，佩奇。呵呵呵。"
+	},
+	{
+		"en": "Auntie Pig: It looks just like you.",
+		"cn": "猪阿姨：看起来和你一模一样。"
+	},
+	{
+		"en": "Uncle Pig: I think they’ve made my tummy a bit big.",
+		"cn": "猪叔叔：我觉得他们把我的肚子画大了。"
+	},
+	{
+		"en": "Chloé Pig: (as puppet Uncle Pig) Ho, ho, I did enjoy my lunch.",
+		"cn": "克洛伊（扮木偶）：呵呵，我很喜欢午饭。"
+	},
+	{
+		"en": "Peppa Pig: (as puppet Peppa) Uncle Pig, are you going to fall asleep and snore like you always do?",
+		"cn": "小猪佩奇（扮木偶）：猪叔叔，你是不是又要像平时那样睡着打呼噜？"
+	},
+	{
+		"en": "Chloé Pig: (as puppet Uncle Pig) What do you mean?",
+		"cn": "克洛伊（扮木偶）：什么意思？"
+	},
+	{
+		"en": "Peppa Pig: (as puppet Peppa) Daddy says you always fall asleep and snore loudly like this.",
+		"cn": "小猪佩奇（扮木偶）：爸爸说你总是睡着，还打很大的呼噜。"
+	},
+	{
+		"en": "Chloé Pig: (as puppet Uncle Pig) Ho, ho, your daddy’s right. I do snore like this.",
+		"cn": "克洛伊（扮木偶）：呵呵，你爸爸说得对，我就是这样打呼噜的。"
+	},
+	{
+		"en": "Mummy Pig: Daddy Pig, you shouldn’t have said those things about Uncle Pig.",
+		"cn": "猪妈妈：猪爸爸，你不该说猪叔叔的坏话。"
+	},
+	{
+		"en": "Auntie Pig: I don’t think Daddy Pig or Uncle Pig can hear you.",
+		"cn": "猪阿姨：我觉得猪爸爸和猪叔叔都听不到你说话了。"
+	},
+	{
+		"en": "Narrator: Daddy Pig and Uncle Pig have fallen asleep.",
+		"cn": "旁白：猪爸爸和猪叔叔都睡着了。"
+	},
+	{
+		"en": "Mummy Pig: You can tell they’re brothers.",
+		"cn": "猪妈妈：一看就知道他们是兄弟。"
+	},
+	{ "en": "Uncle Pig: What happened?", "cn": "猪叔叔：发生什么了？" },
+	{
+		"en": "Daddy Pig: Has the puppet show started yet?",
+		"cn": "猪爸爸：木偶剧开始了吗？"
+	}
+]

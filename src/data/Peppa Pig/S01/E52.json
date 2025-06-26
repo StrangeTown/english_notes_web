@@ -1,111 +1,160 @@
-Narrator: Peppa's playgroup are going to put on a play.
-
-Madame Gazelle: The Little Red Riding Hood.
-
-All: Hurrah!
-
-Narrator: All the children have parts in the play. They have to practice at home. Peppa is going to be Little Red Riding Hood. Mummy Pig has made her costume. Daddy Pig is helping Peppa practice.
-
-Daddy Pig: Okay, Peppa, what do you say?
-
-Peppa Pig: I'm Little Red Riding Hood.
-
-Daddy Pig: Very good. Then what?
-
-Peppa Pig: Um...
-
-Daddy Pig: I'm going to visit my grandma.
-
-Peppa Pig: I'm going to visit my grandma.
-
-Daddy Pig: Bravo, Peppa!
-
-Narrator: Danny Dog is going to play the Big Bad Wolf. Granddad Dog and Mummy Dog are helping him practice.
-
-Danny Dog: I'm the Big Bad Wolf.
-
-Mummy Dog: Try not to laugh, Danny.
-
-Granddad Dog: You should be a bit scarier. Try it like this, Danny. I'm the Big Bad Wolf! I'm going to eat you all up! You see?
-
-Danny Dog: Yes, that was really scary.
-
-Narrator: Pedro Pony is going to play the Hunter. He will rescue Peppa from the Big Bad Wolf.
-
-Pedro Pony: Um... I'm the Hunter and...
-
-Narrator: Pedro is a bit shy.
-
-Mummy Pony: You say: “I'm going to chase you away, you Big Bad Wolf!”
-
-Pedro Pony: Go away, naughty wolf.
-
-Mummy Pony: Very good, Pedro.
-
-Narrator: Rebecca Rabbit is going to be the Grandma.
-
-Rebecca Rabbit: What do I say, Mummy?
-
-Mummy Rabbit: Let's see. At the start of the play you get locked in a cupboard by the Big Bad Wolf. Then right at the end of the play you are rescued by the Hunter. And you say: "Thank you."
-
-Rebecca Rabbit: Thank you.
-
-Mummy Rabbit: Very good, Rebecca.
-
-Narrator: Everyone has come to see the school play.
-
-Madame Gazelle: Ladies and gentlemen, welcome to our play, “The Little Red Riding Hood.” First, let us meet the actors.
-
-Madame Gazelle: Please, please! For the sake of the actors, no photography, please.
-
-Madame Gazelle: And now our play begins!
-
-Madame Gazelle: Grandma is at home. But who is this visitor?
-
-Danny Dog: I'm the Big Bad Wolf.
-
-Granddad Dog: Well done, Danny!
-
-Danny Dog: Um...
-
-Narrator: Oh dear, Danny has forgotten what he says next.
-
-Madame Gazelle: Grandma, you must go in the cupboard.
-
-Danny Dog: Go in the cupboard.
-
-Madame Gazelle: The Big Bad Wolf is pretending to be Grandma.
-
-Peppa Pig: I am Little Red Riding Hood. I'm going to visit my grandma.
-
-Daddy Pig: Bravo, Peppa!
-
-Peppa Pig: Daddy, you must not take photos!
-
-Daddy Pig: Oops! Sorry, Peppa. Carry on!
-
-Peppa Pig: I'm going to visit my grandma. Oh. You don't look like my grandma. What big eyes you have. What big teeth you have! You are not Grandma, you are the Big Bad Wolf! Help! Oh, help!
-
-Madame Gazelle: But look who is here! Just in time. Pedro the Hunter.
-
-Peppa Pig: Help! Oh, help!
-
-Madame Gazelle: Just in time! Pedro the Hunter!
-
-Narrator: Pedro is a bit shy.
-
-Madame Gazelle: Pedro, would you like me to come on with you?
-
-Pedro Pony: Yes, please.
-
-Pedro Pony: You are a very naughty wolf. I've saved you, Grandma.
-
-All: Hurrah!
-
-Rebecca Rabbit: Thank you.
-
-Mummy Rabbit: Bravo!
-
-All: Bravo!
-
-Peppa Pig: Pedro, you were very good. You were almost as good as me.
+[
+	{
+		"en": "Narrator: Peppa's playgroup are going to put on a play.",
+		"cn": "旁白：佩奇的幼儿园要上演一场话剧。"
+	},
+	{
+		"en": "Madame Gazelle: The Little Red Riding Hood.",
+		"cn": "羚羊老师：小红帽。"
+	},
+	{ "en": "All: Hurrah!", "cn": "大家：万岁！" },
+	{
+		"en": "Narrator: All the children have parts in the play. They have to practice at home. Peppa is going to be Little Red Riding Hood. Mummy Pig has made her costume. Daddy Pig is helping Peppa practice.",
+		"cn": "旁白：所有小朋友都有角色。他们要在家练习。佩奇要扮演小红帽，猪妈妈给她做了服装，猪爸爸帮她练习。"
+	},
+	{
+		"en": "Daddy Pig: Okay, Peppa, what do you say?",
+		"cn": "猪爸爸：好了，佩奇，你要说什么？"
+	},
+	{
+		"en": "Peppa Pig: I'm Little Red Riding Hood.",
+		"cn": "佩奇：我是小红帽。"
+	},
+	{ "en": "Daddy Pig: Very good. Then what?", "cn": "猪爸爸：很好，然后呢？" },
+	{ "en": "Peppa Pig: Um...", "cn": "佩奇：嗯……" },
+	{
+		"en": "Daddy Pig: I'm going to visit my grandma.",
+		"cn": "猪爸爸：我要去看外婆。"
+	},
+	{
+		"en": "Peppa Pig: I'm going to visit my grandma.",
+		"cn": "佩奇：我要去看外婆。"
+	},
+	{ "en": "Daddy Pig: Bravo, Peppa!", "cn": "猪爸爸：太棒了，佩奇！" },
+	{
+		"en": "Narrator: Danny Dog is going to play the Big Bad Wolf. Granddad Dog and Mummy Dog are helping him practice.",
+		"cn": "旁白：丹尼狗要扮演大灰狼。狗爷爷和狗妈妈在帮他练习。"
+	},
+	{ "en": "Danny Dog: I'm the Big Bad Wolf.", "cn": "丹尼狗：我是大灰狼。" },
+	{
+		"en": "Mummy Dog: Try not to laugh, Danny.",
+		"cn": "狗妈妈：丹尼，尽量别笑。"
+	},
+	{
+		"en": "Granddad Dog: You should be a bit scarier. Try it like this, Danny. I'm the Big Bad Wolf! I'm going to eat you all up! You see?",
+		"cn": "狗爷爷：你要吓人一点。像这样，丹尼：我是大灰狼！我要把你们全吃掉！明白了吗？"
+	},
+	{
+		"en": "Danny Dog: Yes, that was really scary.",
+		"cn": "丹尼狗：明白了，真的很吓人。"
+	},
+	{
+		"en": "Narrator: Pedro Pony is going to play the Hunter. He will rescue Peppa from the Big Bad Wolf.",
+		"cn": "旁白：小马佩德罗要扮演猎人，他会救佩奇脱离大灰狼。"
+	},
+	{
+		"en": "Pedro Pony: Um... I'm the Hunter and...",
+		"cn": "佩德罗：嗯……我是猎人，然后……"
+	},
+	{ "en": "Narrator: Pedro is a bit shy.", "cn": "旁白：佩德罗有点害羞。" },
+	{
+		"en": "Mummy Pony: You say: “I'm going to chase you away, you Big Bad Wolf!”",
+		"cn": "小马妈妈：你要说：‘我要把你赶走，大灰狼！’"
+	},
+	{ "en": "Pedro Pony: Go away, naughty wolf.", "cn": "佩德罗：走开，坏狼。" },
+	{ "en": "Mummy Pony: Very good, Pedro.", "cn": "小马妈妈：很好，佩德罗。" },
+	{
+		"en": "Narrator: Rebecca Rabbit is going to be the Grandma.",
+		"cn": "旁白：小兔瑞贝卡要扮演外婆。"
+	},
+	{
+		"en": "Rebecca Rabbit: What do I say, Mummy?",
+		"cn": "瑞贝卡：妈妈，我要说什么？"
+	},
+	{
+		"en": "Mummy Rabbit: Let's see. At the start of the play you get locked in a cupboard by the Big Bad Wolf. Then right at the end of the play you are rescued by the Hunter. And you say: 'Thank you.'",
+		"cn": "兔妈妈：你一开始被大灰狼关进橱柜，最后被猎人救出来，然后你说：‘谢谢你。’"
+	},
+	{ "en": "Rebecca Rabbit: Thank you.", "cn": "瑞贝卡：谢谢你。" },
+	{ "en": "Mummy Rabbit: Very good, Rebecca.", "cn": "兔妈妈：很好，瑞贝卡。" },
+	{
+		"en": "Narrator: Everyone has come to see the school play.",
+		"cn": "旁白：大家都来看学校的话剧了。"
+	},
+	{
+		"en": "Madame Gazelle: Ladies and gentlemen, welcome to our play, “The Little Red Riding Hood.” First, let us meet the actors.",
+		"cn": "羚羊老师：女士们先生们，欢迎观看我们的《小红帽》。首先，让我们认识一下演员们。"
+	},
+	{
+		"en": "Madame Gazelle: Please, please! For the sake of the actors, no photography, please.",
+		"cn": "羚羊老师：请大家不要拍照，为了演员们。"
+	},
+	{
+		"en": "Madame Gazelle: And now our play begins!",
+		"cn": "羚羊老师：现在我们的表演开始！"
+	},
+	{
+		"en": "Madame Gazelle: Grandma is at home. But who is this visitor?",
+		"cn": "羚羊老师：外婆在家，可是谁来了？"
+	},
+	{ "en": "Danny Dog: I'm the Big Bad Wolf.", "cn": "丹尼狗：我是大灰狼。" },
+	{ "en": "Granddad Dog: Well done, Danny!", "cn": "狗爷爷：干得好，丹尼！" },
+	{ "en": "Danny Dog: Um...", "cn": "丹尼狗：嗯……" },
+	{
+		"en": "Narrator: Oh dear, Danny has forgotten what he says next.",
+		"cn": "旁白：糟糕，丹尼忘词了。"
+	},
+	{
+		"en": "Madame Gazelle: Grandma, you must go in the cupboard.",
+		"cn": "羚羊老师：外婆，你要进橱柜。"
+	},
+	{ "en": "Danny Dog: Go in the cupboard.", "cn": "丹尼狗：进橱柜。" },
+	{
+		"en": "Madame Gazelle: The Big Bad Wolf is pretending to be Grandma.",
+		"cn": "羚羊老师：大灰狼假扮成外婆。"
+	},
+	{
+		"en": "Peppa Pig: I am Little Red Riding Hood. I'm going to visit my grandma.",
+		"cn": "佩奇：我是小红帽，我要去看外婆。"
+	},
+	{ "en": "Daddy Pig: Bravo, Peppa!", "cn": "猪爸爸：太棒了，佩奇！" },
+	{
+		"en": "Peppa Pig: Daddy, you must not take photos!",
+		"cn": "佩奇：爸爸，你不能拍照！"
+	},
+	{
+		"en": "Daddy Pig: Oops! Sorry, Peppa. Carry on!",
+		"cn": "猪爸爸：哎呀，对不起，佩奇。继续吧！"
+	},
+	{
+		"en": "Peppa Pig: I'm going to visit my grandma. Oh. You don't look like my grandma. What big eyes you have. What big teeth you have! You are not Grandma, you are the Big Bad Wolf! Help! Oh, help!",
+		"cn": "佩奇：我要去看外婆。哦，你不像我的外婆。你的眼睛好大，你的牙齿好大！你不是外婆，你是大灰狼！救命啊！"
+	},
+	{
+		"en": "Madame Gazelle: But look who is here! Just in time. Pedro the Hunter.",
+		"cn": "羚羊老师：但你们看谁来了！正好赶上，猎人佩德罗。"
+	},
+	{ "en": "Peppa Pig: Help! Oh, help!", "cn": "佩奇：救命啊！" },
+	{
+		"en": "Madame Gazelle: Just in time! Pedro the Hunter!",
+		"cn": "羚羊老师：正好赶上！猎人佩德罗！"
+	},
+	{ "en": "Narrator: Pedro is a bit shy.", "cn": "旁白：佩德罗有点害羞。" },
+	{
+		"en": "Madame Gazelle: Pedro, would you like me to come on with you?",
+		"cn": "羚羊老师：佩德罗，你要我陪你一起上台吗？"
+	},
+	{ "en": "Pedro Pony: Yes, please.", "cn": "佩德罗：要，谢谢。" },
+	{
+		"en": "Pedro Pony: You are a very naughty wolf. I've saved you, Grandma.",
+		"cn": "佩德罗：你是只调皮的狼。我救了你，外婆。"
+	},
+	{ "en": "All: Hurrah!", "cn": "大家：万岁！" },
+	{ "en": "Rebecca Rabbit: Thank you.", "cn": "瑞贝卡：谢谢你。" },
+	{ "en": "Mummy Rabbit: Bravo!", "cn": "兔妈妈：太棒了！" },
+	{ "en": "All: Bravo!", "cn": "大家：太棒了！" },
+	{
+		"en": "Peppa Pig: Pedro, you were very good. You were almost as good as me.",
+		"cn": "佩奇：佩德罗，你演得很好，几乎和我一样棒。"
+	}
+]

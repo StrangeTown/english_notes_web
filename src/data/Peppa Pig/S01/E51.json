@@ -1,121 +1,192 @@
-Narrator: Mr Zebra, the postman, is delivering a parcel to Peppa's house.
-
-Mr Zebra: Parcel for you, Mr Pig.
-
-Daddy Pig: Thank you, Mr Zebra. Goodbye.
-
-Daddy Pig: Look. I just got a parcel in the post. Can anyone guess what's inside?
-
-George: Dinosaur.
-
-Peppa Pig: Oh, George. You always say "dinosaur" for everything.
-
-Daddy Pig: The parcel is far too small to have a dinosaur inside.
-
-Peppa Pig: Hmm... I think it's a... a new toy.
-
-Daddy Pig: You're very close.
-
-Mummy Pig: I know what it is. Your new camera. A new toy for Daddy Pig.
-
-Daddy Pig: That's right! It's a movie camera. We can make movies with it and watch them on our television.
-
-Peppa Pig: Can I use it first, Daddy?
-
-Daddy Pig: It's a bit too difficult for children to use. Even I need to read the instructions. Hmm... It's a bit harder than I thought.
-
-Peppa Pig: Suzy Sheep's mummy has a movie camera. She switches it on like this.
-
-Daddy Pig: Oh. Well done, Peppa.
-
-Camera: Thank you for purchasing the Movie 3000. I am eager and ready to shoot your first movie.
-
-Mummy Pig: Is there a way to turn that voice off?
-
-Daddy Pig: I'm not sure.
-
-Camera: Thank you for purchasing the Movie 3000.
-
-Peppa Pig: On Suzy's camera, you just press this button to stop it talking.
-
-Camera: Thank you for purchasing...
-
-Peppa Pig: Now it won't talk anymore.
-
-Mummy Pig: Well done, Peppa.
-
-Daddy Pig: What shall I film first?
-
-Peppa Pig: Film me!
-
-Daddy Pig: OK, Peppa.
-
-Peppa Pig: Hello. I'm Peppa Pig.
-
-Daddy Pig: Come on, everyone.
-
-Peppa Pig: (on camera) Hello. I'm Peppa Pig.
-
-Peppa Pig: Again! Again!
-
-Daddy Pig: OK.
-
-Peppa Pig: (on camera) Hello! I'm Peppa Pig.
-
-Peppa Pig: Again!
-
-Peppa Pig: (on camera) Hello. I'm Peppa Pig.
-
-Peppa Pig: Again! Again!
-
-Daddy Pig: Maybe we should film something new.
-
-Mummy Pig: I know! Daddy Pig must leave the room and we'll make a movie to show him.
-
-Peppa Pig: This way!
-
-Narrator: Daddy Pig has to wait in the kitchen while Mummy Pig, Peppa and George make a secret movie.
-
-Mummy Pig: No peeking, Daddy Pig. We all have to do something. George, do you want to go first?
-
-Daddy Pig: Are you ready? Can I come in and see the movie?
-
-Mummy Pig: Finished! You can come in now! George has made a movie and so has Peppa.
-
-Daddy Pig: Let's see George's movie first.
-
-George: (on camera) Dinosaur! Grrrrr!
-
-Peppa Pig: George is pretending to be a dinosaur.
-
-George: (on camera) Grrr!
-
-Daddy Pig: That's a very scary dinosaur.
-
-Narrator: Oh dear, George is frightened.
-
-Mummy Pig: Don't be frightened, George. That's not a real dinosaur on TV. It's you.
-
-George: Grrrrr! Dinosaur!
-
-Mummy Pig: Now, let's see Peppa's movie.
-
-Peppa Pig: (on camera) Ho, ho, ho.
-
-Daddy Pig: Who is that meant to be?
-
-Peppa Pig: (on camera) I am Daddy Pig! Ho, ho, ho.
-
-Daddy Pig: I see.
-
-Peppa Pig: (on camera) My tummy is very big because I eat a lot of cookies.
-
-Daddy Pig: My tummy is not big! But it is true that I like cookies.
-
-Peppa Pig: And the more you eat, the bigger your tummy gets!
-
-Daddy Pig: OK, what's next?
-
-Peppa Pig: This is my sweet little brother George. This is Mummy Pig. This is me.
-
-Daddy Pig: And this is the real Daddy Pig.
+[
+	{
+		"en": "Narrator: Mr Zebra, the postman, is delivering a parcel to Peppa's house.",
+		"cn": "旁白：斑马先生邮递员正在给佩奇家送包裹。"
+	},
+	{
+		"en": "Mr Zebra: Parcel for you, Mr Pig.",
+		"cn": "斑马先生：猪先生，你的包裹。"
+	},
+	{
+		"en": "Daddy Pig: Thank you, Mr Zebra. Goodbye.",
+		"cn": "猪爸爸：谢谢你，斑马先生。再见。"
+	},
+	{
+		"en": "Daddy Pig: Look. I just got a parcel in the post. Can anyone guess what's inside?",
+		"cn": "猪爸爸：看，我刚收到一个包裹。谁能猜猜里面是什么？"
+	},
+	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
+	{
+		"en": "Peppa Pig: Oh, George. You always say 'dinosaur' for everything.",
+		"cn": "佩奇：哦，乔治，你什么都说是恐龙。"
+	},
+	{
+		"en": "Daddy Pig: The parcel is far too small to have a dinosaur inside.",
+		"cn": "猪爸爸：这个包裹太小了，装不下恐龙。"
+	},
+	{
+		"en": "Peppa Pig: Hmm... I think it's a... a new toy.",
+		"cn": "佩奇：嗯……我觉得是……一个新玩具。"
+	},
+	{ "en": "Daddy Pig: You're very close.", "cn": "猪爸爸：你猜得很接近了。" },
+	{
+		"en": "Mummy Pig: I know what it is. Your new camera. A new toy for Daddy Pig.",
+		"cn": "猪妈妈：我知道是什么了。你的新相机。是猪爸爸的新玩具。"
+	},
+	{
+		"en": "Daddy Pig: That's right! It's a movie camera. We can make movies with it and watch them on our television.",
+		"cn": "猪爸爸：没错！是摄像机。我们可以用它拍电影，然后在电视上看。"
+	},
+	{
+		"en": "Peppa Pig: Can I use it first, Daddy?",
+		"cn": "佩奇：爸爸，我能先用吗？"
+	},
+	{
+		"en": "Daddy Pig: It's a bit too difficult for children to use. Even I need to read the instructions. Hmm... It's a bit harder than I thought.",
+		"cn": "猪爸爸：这个对小朋友来说有点难。连我都得看看说明书。嗯……比我想的难。"
+	},
+	{
+		"en": "Peppa Pig: Suzy Sheep's mummy has a movie camera. She switches it on like this.",
+		"cn": "佩奇：苏茜羊的妈妈有摄像机。她是这样打开的。"
+	},
+	{
+		"en": "Daddy Pig: Oh. Well done, Peppa.",
+		"cn": "猪爸爸：哦，干得好，佩奇。"
+	},
+	{
+		"en": "Camera: Thank you for purchasing the Movie 3000. I am eager and ready to shoot your first movie.",
+		"cn": "摄像机：感谢您购买Movie 3000。我已准备好拍摄您的第一部电影。"
+	},
+	{
+		"en": "Mummy Pig: Is there a way to turn that voice off?",
+		"cn": "猪妈妈：有办法关掉那个声音吗？"
+	},
+	{ "en": "Daddy Pig: I'm not sure.", "cn": "猪爸爸：我不确定。" },
+	{
+		"en": "Camera: Thank you for purchasing the Movie 3000.",
+		"cn": "摄像机：感谢您购买Movie 3000。"
+	},
+	{
+		"en": "Peppa Pig: On Suzy's camera, you just press this button to stop it talking.",
+		"cn": "佩奇：苏茜的摄像机只要按这个按钮就不说话了。"
+	},
+	{ "en": "Camera: Thank you for purchasing...", "cn": "摄像机：感谢您购买……" },
+	{
+		"en": "Peppa Pig: Now it won't talk anymore.",
+		"cn": "佩奇：现在它不会再说话了。"
+	},
+	{ "en": "Mummy Pig: Well done, Peppa.", "cn": "猪妈妈：干得好，佩奇。" },
+	{
+		"en": "Daddy Pig: What shall I film first?",
+		"cn": "猪爸爸：我先拍什么好呢？"
+	},
+	{ "en": "Peppa Pig: Film me!", "cn": "佩奇：拍我！" },
+	{ "en": "Daddy Pig: OK, Peppa.", "cn": "猪爸爸：好的，佩奇。" },
+	{
+		"en": "Peppa Pig: Hello. I'm Peppa Pig.",
+		"cn": "佩奇：大家好，我是佩奇猪。"
+	},
+	{ "en": "Daddy Pig: Come on, everyone.", "cn": "猪爸爸：大家快来。" },
+	{
+		"en": "Peppa Pig: (on camera) Hello. I'm Peppa Pig.",
+		"cn": "佩奇（在摄像机里）：大家好，我是佩奇猪。"
+	},
+	{ "en": "Peppa Pig: Again! Again!", "cn": "佩奇：再来一次！再来一次！" },
+	{ "en": "Daddy Pig: OK.", "cn": "猪爸爸：好。" },
+	{
+		"en": "Peppa Pig: (on camera) Hello! I'm Peppa Pig.",
+		"cn": "佩奇（在摄像机里）：大家好！我是佩奇猪。"
+	},
+	{ "en": "Peppa Pig: Again!", "cn": "佩奇：再来一次！" },
+	{
+		"en": "Peppa Pig: (on camera) Hello. I'm Peppa Pig.",
+		"cn": "佩奇（在摄像机里）：大家好，我是佩奇猪。"
+	},
+	{ "en": "Peppa Pig: Again! Again!", "cn": "佩奇：再来一次！再来一次！" },
+	{
+		"en": "Daddy Pig: Maybe we should film something new.",
+		"cn": "猪爸爸：也许我们该拍点新东西了。"
+	},
+	{
+		"en": "Mummy Pig: I know! Daddy Pig must leave the room and we'll make a movie to show him.",
+		"cn": "猪妈妈：我有主意了！猪爸爸要离开房间，我们来拍一部电影给他看。"
+	},
+	{ "en": "Peppa Pig: This way!", "cn": "佩奇：这边！" },
+	{
+		"en": "Narrator: Daddy Pig has to wait in the kitchen while Mummy Pig, Peppa and George make a secret movie.",
+		"cn": "旁白：猪爸爸要在厨房等着，猪妈妈、佩奇和乔治要拍一部秘密电影。"
+	},
+	{
+		"en": "Mummy Pig: No peeking, Daddy Pig. We all have to do something. George, do you want to go first?",
+		"cn": "猪妈妈：猪爸爸，不许偷看。我们每个人都要表演。乔治，你想先来吗？"
+	},
+	{
+		"en": "Daddy Pig: Are you ready? Can I come in and see the movie?",
+		"cn": "猪爸爸：你们准备好了吗？我能进来看电影了吗？"
+	},
+	{
+		"en": "Mummy Pig: Finished! You can come in now! George has made a movie and so has Peppa.",
+		"cn": "猪妈妈：好了！你可以进来了！乔治拍了一部电影，佩奇也拍了。"
+	},
+	{
+		"en": "Daddy Pig: Let's see George's movie first.",
+		"cn": "猪爸爸：我们先看乔治的电影。"
+	},
+	{
+		"en": "George: (on camera) Dinosaur! Grrrrr!",
+		"cn": "乔治（在摄像机里）：恐龙！嗷呜！"
+	},
+	{
+		"en": "Peppa Pig: George is pretending to be a dinosaur.",
+		"cn": "佩奇：乔治在假装恐龙。"
+	},
+	{ "en": "George: (on camera) Grrr!", "cn": "乔治（在摄像机里）：嗷呜！" },
+	{
+		"en": "Daddy Pig: That's a very scary dinosaur.",
+		"cn": "猪爸爸：那是一只很吓人的恐龙。"
+	},
+	{
+		"en": "Narrator: Oh dear, George is frightened.",
+		"cn": "旁白：哦，糟糕，乔治被吓到了。"
+	},
+	{
+		"en": "Mummy Pig: Don't be frightened, George. That's not a real dinosaur on TV. It's you.",
+		"cn": "猪妈妈：别害怕，乔治。电视上不是恐龙，是你自己。"
+	},
+	{ "en": "George: Grrrrr! Dinosaur!", "cn": "乔治：嗷呜！恐龙！" },
+	{
+		"en": "Mummy Pig: Now, let's see Peppa's movie.",
+		"cn": "猪妈妈：现在我们来看佩奇的电影。"
+	},
+	{
+		"en": "Peppa Pig: (on camera) Ho, ho, ho.",
+		"cn": "佩奇（在摄像机里）：哼哼哼。"
+	},
+	{ "en": "Daddy Pig: Who is that meant to be?", "cn": "猪爸爸：那是谁啊？" },
+	{
+		"en": "Peppa Pig: (on camera) I am Daddy Pig! Ho, ho, ho.",
+		"cn": "佩奇（在摄像机里）：我是猪爸爸！哼哼哼。"
+	},
+	{ "en": "Daddy Pig: I see.", "cn": "猪爸爸：我明白了。" },
+	{
+		"en": "Peppa Pig: (on camera) My tummy is very big because I eat a lot of cookies.",
+		"cn": "佩奇（在摄像机里）：我的肚子很大，因为我吃了很多饼干。"
+	},
+	{
+		"en": "Daddy Pig: My tummy is not big! But it is true that I like cookies.",
+		"cn": "猪爸爸：我的肚子不大！不过我确实喜欢吃饼干。"
+	},
+	{
+		"en": "Peppa Pig: And the more you eat, the bigger your tummy gets!",
+		"cn": "佩奇：你吃得越多，肚子就越大！"
+	},
+	{ "en": "Daddy Pig: OK, what's next?", "cn": "猪爸爸：好吧，接下来是什么？" },
+	{
+		"en": "Peppa Pig: This is my sweet little brother George. This is Mummy Pig. This is me.",
+		"cn": "佩奇：这是我可爱的弟弟乔治。这是猪妈妈。这是我。"
+	},
+	{
+		"en": "Daddy Pig: And this is the real Daddy Pig.",
+		"cn": "猪爸爸：这才是真正的猪爸爸。"
+	}
+]

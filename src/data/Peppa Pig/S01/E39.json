@@ -1,127 +1,189 @@
-Narrator: Peppa and George are visiting Granny Pig and Grandpa Pig.
-
-Peppa Pig: Granny Pig!
-
-George: Dankie ‘ig!
-
-Granny Pig: Hello, my little ones. Before you come in the house you must take off your muddy boots.
-
-Peppa Pig: Yes, Granny.
-
-Granny Pig: Peppa, George, look what I’ve made. Little curtains.
-
-Peppa and George: Oo-oo.
-
-Peppa Pig: What are the little curtains for, Granny?
-
-Granny Pig: It’s a surprise. Do you want to see what Grandpa Pig has made for you in the garden?
-
-Peppa Pig: Yes, please.
-
-Peppa Pig: Grandpa Pig!
-
-George: Papa ‘ig!
-
-Grandpa Pig: Hello, Peppa, George. Look what I’ve made for you. A tree house.
-
-Peppa Pig: A tree house? For George and me?
-
-Granny Pig: And the little curtains are for your tree house.
-
-Peppa Pig: Hurrah!
-
-Narrator: Peppa and George love their tree house.
-
-Peppa Pig: Thank you, Granny Pig. Thank you, Grandpa Pig.
-
-Grandpa Pig: Who wants to go inside first?
-
-Peppa Pig: Me, me!
-
-Grandpa Pig: In you go then.
-
-Peppa Pig: Before I go in my tree house I must take off my muddy boots.
-
-Peppa Pig: I’m in my tree house.
-
-Peppa Pig: I’m in my tree house.
-
-Daddy Pig: George, would you like to go in the tree house, too?
-
-Peppa Pig: Yes, who is it?
-
-Daddy Pig: A young pig named George would like to pay a visit. Can he come in?
-
-Peppa Pig: As long as he takes off his muddy boots.
-
-Daddy Pig: George, take your boots off. Then you can visit Peppa in the tree house.
-
-Peppa Pig: Who is it?
-
-Peppa Pig: George?
-
-Peppa Pig: Yes, who is it?
-
-Mummy Pig: It’s Mummy Pig. Have you room for any more visitors?
-
-Peppa Pig: Mmm? You have to say the secret words. Then you can come into our house.
-
-Mummy Pig: I see. And what are the secret words?
-
-Peppa Pig: I have to whisper them to you. The secret words are: “Daddy’s big tummy.”
-
-Mummy Pig: I see.
-
-Peppa Pig: Say the secret words.
-
-Mummy Pig: Daddy’s big tummy.
-
-Peppa Pig: That’s right! Daddy’s big tummy!
-
-Daddy Pig: I think those are silly secret words.
-
-Peppa Pig: Mummy, before you come in our house you must take off your boots.
-
-Mummy Pig: Of course.
-
-Peppa Pig: There’s room for Daddy, too.
-
-Peppa Pig: Say the secret words, Daddy.
-
-Daddy Pig: Can I have different secret words, please?
-
-Mummy Pig, Peppa Pig and George: No.
-
-Daddy Pig: Oh, all right.
-
-Daddy Pig: Daddy’s big tummy.
-
-Peppa Pig: That’s right. You can come in now, Daddy. Take your boots off.
-
-Daddy Pig: I don’t think I can fit through the door.
-
-Peppa Pig: That’s because your tummy’s too big.
-
-Grandpa Pig: I know. Daddy Pig can climb in through the top.
-
-Narrator: Peppa, George, Mummy Pig and Daddy Pig are all in the tree house.
-
-Peppa Pig: Granny, I love our tree house. I don’t want to ever come out.
-
-Granny Pig: That’s nice, Peppa. But are you sure you don’t want to visit me in my house?
-
-Peppa Pig: No, thank you, Granny.
-
-Granny Pig: In that case Grandpa Pig and I will just have to eat my homemade cookies all by ourselves.
-
-Peppa Pig: Cookies!
-
-Peppa Pig: Granny Pig!
-
-Granny Pig: Here are my homemade cookies. But if you want to come in you have to say the secret words.
-
-Peppa Pig: That’s easy. Daddy’s big tummy!
-
-Granny Pig: That’s right.
-
-Daddy Pig: Well I still think that those are very silly secret words.
+[
+	{
+		"en": "Narrator: Peppa and George are visiting Granny Pig and Grandpa Pig.",
+		"cn": "旁白：佩奇和乔治去看望猪奶奶和猪爷爷。"
+	},
+	{ "en": "Peppa Pig: Granny Pig!", "cn": "小猪佩奇：奶奶！" },
+	{ "en": "George: Dankie ‘ig!", "cn": "乔治：奶奶！" },
+	{
+		"en": "Granny Pig: Hello, my little ones. Before you come in the house you must take off your muddy boots.",
+		"cn": "猪奶奶：你们好，宝贝们。进屋前要脱掉你们的泥靴哦。"
+	},
+	{ "en": "Peppa Pig: Yes, Granny.", "cn": "小猪佩奇：好的，奶奶。" },
+	{
+		"en": "Granny Pig: Peppa, George, look what I’ve made. Little curtains.",
+		"cn": "猪奶奶：佩奇，乔治，看看我做了什么。小窗帘。"
+	},
+	{ "en": "Peppa and George: Oo-oo.", "cn": "佩奇和乔治：哦——" },
+	{
+		"en": "Peppa Pig: What are the little curtains for, Granny?",
+		"cn": "小猪佩奇：奶奶，这些小窗帘是做什么的？"
+	},
+	{
+		"en": "Granny Pig: It’s a surprise. Do you want to see what Grandpa Pig has made for you in the garden?",
+		"cn": "猪奶奶：是个惊喜。你们想看看爷爷在花园里为你们做了什么吗？"
+	},
+	{ "en": "Peppa Pig: Yes, please.", "cn": "小猪佩奇：想！" },
+	{ "en": "Peppa Pig: Grandpa Pig!", "cn": "小猪佩奇：爷爷！" },
+	{ "en": "George: Papa ‘ig!", "cn": "乔治：爷爷！" },
+	{
+		"en": "Grandpa Pig: Hello, Peppa, George. Look what I’ve made for you. A tree house.",
+		"cn": "猪爷爷：你好，佩奇，乔治。看看我为你们做了什么。一个树屋。"
+	},
+	{
+		"en": "Peppa Pig: A tree house? For George and me?",
+		"cn": "小猪佩奇：树屋？给我和乔治的吗？"
+	},
+	{
+		"en": "Granny Pig: And the little curtains are for your tree house.",
+		"cn": "猪奶奶：这些小窗帘就是给你们树屋用的。"
+	},
+	{ "en": "Peppa Pig: Hurrah!", "cn": "小猪佩奇：万岁！" },
+	{
+		"en": "Narrator: Peppa and George love their tree house.",
+		"cn": "旁白：佩奇和乔治喜欢他们的树屋。"
+	},
+	{
+		"en": "Peppa Pig: Thank you, Granny Pig. Thank you, Grandpa Pig.",
+		"cn": "小猪佩奇：谢谢奶奶，谢谢爷爷。"
+	},
+	{
+		"en": "Grandpa Pig: Who wants to go inside first?",
+		"cn": "猪爷爷：谁想先进去？"
+	},
+	{ "en": "Peppa Pig: Me, me!", "cn": "小猪佩奇：我，我！" },
+	{ "en": "Grandpa Pig: In you go then.", "cn": "猪爷爷：那你进去吧。" },
+	{
+		"en": "Peppa Pig: Before I go in my tree house I must take off my muddy boots.",
+		"cn": "小猪佩奇：进树屋前我要脱掉我的泥靴。"
+	},
+	{
+		"en": "Peppa Pig: I’m in my tree house.",
+		"cn": "小猪佩奇：我在我的树屋里。"
+	},
+	{
+		"en": "Peppa Pig: I’m in my tree house.",
+		"cn": "小猪佩奇：我在我的树屋里。"
+	},
+	{
+		"en": "Daddy Pig: George, would you like to go in the tree house, too?",
+		"cn": "猪爸爸：乔治，你也想进树屋吗？"
+	},
+	{ "en": "Peppa Pig: Yes, who is it?", "cn": "小猪佩奇：谁呀？" },
+	{
+		"en": "Daddy Pig: A young pig named George would like to pay a visit. Can he come in?",
+		"cn": "猪爸爸：有个叫乔治的小猪想来拜访，可以进来吗？"
+	},
+	{
+		"en": "Peppa Pig: As long as he takes off his muddy boots.",
+		"cn": "小猪佩奇：只要他脱掉泥靴就可以。"
+	},
+	{
+		"en": "Daddy Pig: George, take your boots off. Then you can visit Peppa in the tree house.",
+		"cn": "猪爸爸：乔治，脱掉你的靴子，你就可以去树屋找佩奇了。"
+	},
+	{ "en": "Peppa Pig: Who is it?", "cn": "小猪佩奇：谁呀？" },
+	{ "en": "Peppa Pig: George?", "cn": "小猪佩奇：乔治？" },
+	{ "en": "Peppa Pig: Yes, who is it?", "cn": "小猪佩奇：谁呀？" },
+	{
+		"en": "Mummy Pig: It’s Mummy Pig. Have you room for any more visitors?",
+		"cn": "猪妈妈：是妈妈。还有地方再进来一个人吗？"
+	},
+	{
+		"en": "Peppa Pig: Mmm? You have to say the secret words. Then you can come into our house.",
+		"cn": "小猪佩奇：嗯？你得说暗号才能进来。"
+	},
+	{
+		"en": "Mummy Pig: I see. And what are the secret words?",
+		"cn": "猪妈妈：我明白了。暗号是什么？"
+	},
+	{
+		"en": "Peppa Pig: I have to whisper them to you. The secret words are: “Daddy’s big tummy.”",
+		"cn": "小猪佩奇：我得悄悄告诉你。暗号是：‘爸爸的大肚子’。"
+	},
+	{ "en": "Mummy Pig: I see.", "cn": "猪妈妈：我知道了。" },
+	{ "en": "Peppa Pig: Say the secret words.", "cn": "小猪佩奇：说暗号。" },
+	{ "en": "Mummy Pig: Daddy’s big tummy.", "cn": "猪妈妈：爸爸的大肚子。" },
+	{
+		"en": "Peppa Pig: That’s right! Daddy’s big tummy!",
+		"cn": "小猪佩奇：对！爸爸的大肚子！"
+	},
+	{
+		"en": "Daddy Pig: I think those are silly secret words.",
+		"cn": "猪爸爸：我觉得这个暗号太傻了。"
+	},
+	{
+		"en": "Peppa Pig: Mummy, before you come in our house you must take off your boots.",
+		"cn": "小猪佩奇：妈妈，进屋前你要脱掉靴子。"
+	},
+	{ "en": "Mummy Pig: Of course.", "cn": "猪妈妈：当然。" },
+	{
+		"en": "Peppa Pig: There’s room for Daddy, too.",
+		"cn": "小猪佩奇：还有爸爸的位置。"
+	},
+	{
+		"en": "Peppa Pig: Say the secret words, Daddy.",
+		"cn": "小猪佩奇：爸爸，说暗号。"
+	},
+	{
+		"en": "Daddy Pig: Can I have different secret words, please?",
+		"cn": "猪爸爸：我能不能换个暗号？"
+	},
+	{
+		"en": "Mummy Pig, Peppa Pig and George: No.",
+		"cn": "猪妈妈、佩奇和乔治：不行。"
+	},
+	{ "en": "Daddy Pig: Oh, all right.", "cn": "猪爸爸：好吧。" },
+	{ "en": "Daddy Pig: Daddy’s big tummy.", "cn": "猪爸爸：爸爸的大肚子。" },
+	{
+		"en": "Peppa Pig: That’s right. You can come in now, Daddy. Take your boots off.",
+		"cn": "小猪佩奇：对了，爸爸，你现在可以进来了，记得脱靴子。"
+	},
+	{
+		"en": "Daddy Pig: I don’t think I can fit through the door.",
+		"cn": "猪爸爸：我觉得我进不去门。"
+	},
+	{
+		"en": "Peppa Pig: That’s because your tummy’s too big.",
+		"cn": "小猪佩奇：那是因为你的肚子太大了。"
+	},
+	{
+		"en": "Grandpa Pig: I know. Daddy Pig can climb in through the top.",
+		"cn": "猪爷爷：我有办法，爸爸可以从上面爬进来。"
+	},
+	{
+		"en": "Narrator: Peppa, George, Mummy Pig and Daddy Pig are all in the tree house.",
+		"cn": "旁白：佩奇、乔治、猪妈妈和猪爸爸都在树屋里。"
+	},
+	{
+		"en": "Peppa Pig: Granny, I love our tree house. I don’t want to ever come out.",
+		"cn": "小猪佩奇：奶奶，我喜欢我们的树屋，我不想出来。"
+	},
+	{
+		"en": "Granny Pig: That’s nice, Peppa. But are you sure you don’t want to visit me in my house?",
+		"cn": "猪奶奶：真好，佩奇。但你确定不来我家看看吗？"
+	},
+	{
+		"en": "Peppa Pig: No, thank you, Granny.",
+		"cn": "小猪佩奇：不用了，谢谢奶奶。"
+	},
+	{
+		"en": "Granny Pig: In that case Grandpa Pig and I will just have to eat my homemade cookies all by ourselves.",
+		"cn": "猪奶奶：那爷爷和我只好自己吃我做的饼干了。"
+	},
+	{ "en": "Peppa Pig: Cookies!", "cn": "小猪佩奇：饼干！" },
+	{ "en": "Peppa Pig: Granny Pig!", "cn": "小猪佩奇：奶奶！" },
+	{
+		"en": "Granny Pig: Here are my homemade cookies. But if you want to come in you have to say the secret words.",
+		"cn": "猪奶奶：这是我做的饼干，但想进来要说暗号。"
+	},
+	{
+		"en": "Peppa Pig: That’s easy. Daddy’s big tummy!",
+		"cn": "小猪佩奇：这很简单，爸爸的大肚子！"
+	},
+	{ "en": "Granny Pig: That’s right.", "cn": "猪奶奶：对了。" },
+	{
+		"en": "Daddy Pig: Well I still think that those are very silly secret words.",
+		"cn": "猪爸爸：不过我还是觉得这个暗号很傻。"
+	}
+]

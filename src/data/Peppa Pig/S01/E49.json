@@ -1,121 +1,174 @@
-Narrator: Daddy Pig is taking the family for a drive in the country.
-
-Daddy Pig: Come on. Is everybody ready?
-
-Peppa Pig: Ready.
-
-Mummy Pig: Yes, Daddy Pig. We’re ready. But the car isn’t ready. Look how messy it is.
-
-Daddy Pig: Oh, it’s not too bad. You should see how messy it is inside.
-
-Mummy Pig: Naughty, messy Daddy.
-
-Peppa Pig: Naughty, messy Daddy.
-
-Mummy Pig: Look at all this rubbish. Newspapers.
-
-Daddy Pig: They’re mine.
-
-Mummy Pig: Sweets.
-
-Peppa Pig: They’re mine.
-
-Mummy Pig: Mr Dinosaur.
-
-George: Dinosaur, grrr.
-
-Mummy Pig: We must clean the car before we go for a drive.
-
-Daddy Pig: Oh, right you are, Mummy Pig.
-
-Peppa Pig: Mummy, can we help to clean the car?
-
-Mummy Pig: Yes, if you want to.
-
-Peppa Pig: Hurrah!
-
-Narrator: Daddy Pig has some warm, soapy water to wash the car.
-
-Narrator: Daddy Pig is washing the roof.
-
-Narrator: Mummy Pig is washing the bonnet.
-
-Narrator: Peppa is washing the doors.
-
-Narrator: George wants to wash the windows, but he is too little.
-
-Mummy Pig: Poor George. Let me help you.
-
-Narrator: Oh, dear. George has dropped his sponge in a muddy puddle.
-
-Peppa Pig: George, you’re making the car all muddy again.
-
-Peppa Pig: I will wash the mud off.
-
-Daddy Pig: Peppa, don’t use the...muddy water.
-
-Narrator: Oh, dear. Peppa has thrown the muddy water all over the car.
-
-Peppa Pig: Oh.
-
-Daddy Pig: Never mind. We can use the garden hose to clean it off.
-
-Peppa Pig: Yes, yes. Can I hold the hose?
-
-Narrator: Peppa holds the hose, and Daddy Pig turns on the water.
-
-Peppa Pig: Where’s the water?
-
-Mummy Pig: Peppa, stop!
-
-Peppa Pig: Sorry, Mummy.
-
-Peppa Pig: Oh.
-
-Mummy Pig: Daddy Pig, please turn off the water.
-
-Daddy Pig: Oh. No need to panic.
-
-Narrator: Oh, dear. Everyone is wet.
-
-Daddy Pig: At least the car has been washed.
-
-Mummy Pig: We’ve all been washed.
-
-Daddy Pig: You go and dry yourselves while I polish the car.
-
-Peppa Pig: See you later.
-
-Daddy Pig: See you later.
-
-Narrator: Daddy Pig is polishing the car so well he can see his face in it.
-
-Narrator: What a funny face.
-
-Narrator: Oh, more funny faces. It’s Peppa and George.
-
-Narrator: And Mummy Pig.
-
-Mummy Pig: What a lovely, shiny car.
-
-Daddy Pig: Yes, I am a bit of an expert at these things.
-
-Mummy Pig: Come on, I’ll drive today.
-
-Daddy Pig: Is everybody ready?
-
-Mummy Pig and Peppa Pig: Ready.
-
-Daddy Pig: Then let’s go.
-
-Mummy Pig: I hope we will all keep this car clean today.
-
-Peppa Pig: Yes, Mummy Pig.
-
-Daddy Pig: Yes, Mummy Pig.
-
-Peppa Pig: Mummy, now you’ve made the car all muddy again.
-
-Daddy Pig: Naughty Mummy.
-
-Peppa Pig: Naughty, messy Mummy
+[
+	{
+		"en": "Narrator: Daddy Pig is taking the family for a drive in the country.",
+		"cn": "旁白：猪爸爸要带全家去乡下兜风。"
+	},
+	{
+		"en": "Daddy Pig: Come on. Is everybody ready?",
+		"cn": "猪爸爸：快点，大家都准备好了吗？"
+	},
+	{ "en": "Peppa Pig: Ready.", "cn": "佩奇：准备好了。" },
+	{
+		"en": "Mummy Pig: Yes, Daddy Pig. We’re ready. But the car isn’t ready. Look how messy it is.",
+		"cn": "猪妈妈：准备好了，猪爸爸。但车还没准备好，你看多脏啊。"
+	},
+	{
+		"en": "Daddy Pig: Oh, it’s not too bad. You should see how messy it is inside.",
+		"cn": "猪爸爸：哦，还不算太糟。你应该看看里面有多乱。"
+	},
+	{
+		"en": "Mummy Pig: Naughty, messy Daddy.",
+		"cn": "猪妈妈：调皮又邋遢的爸爸。"
+	},
+	{
+		"en": "Peppa Pig: Naughty, messy Daddy.",
+		"cn": "佩奇：调皮又邋遢的爸爸。"
+	},
+	{
+		"en": "Mummy Pig: Look at all this rubbish. Newspapers.",
+		"cn": "猪妈妈：看看这些垃圾。报纸。"
+	},
+	{ "en": "Daddy Pig: They’re mine.", "cn": "猪爸爸：那是我的。" },
+	{ "en": "Mummy Pig: Sweets.", "cn": "猪妈妈：糖果。" },
+	{ "en": "Peppa Pig: They’re mine.", "cn": "佩奇：那是我的。" },
+	{ "en": "Mummy Pig: Mr Dinosaur.", "cn": "猪妈妈：恐龙先生。" },
+	{ "en": "George: Dinosaur, grrr.", "cn": "乔治：恐龙，嗷呜。" },
+	{
+		"en": "Mummy Pig: We must clean the car before we go for a drive.",
+		"cn": "猪妈妈：我们得把车洗干净再出发。"
+	},
+	{
+		"en": "Daddy Pig: Oh, right you are, Mummy Pig.",
+		"cn": "猪爸爸：好吧，听你的，猪妈妈。"
+	},
+	{
+		"en": "Peppa Pig: Mummy, can we help to clean the car?",
+		"cn": "佩奇：妈妈，我们能帮忙洗车吗？"
+	},
+	{
+		"en": "Mummy Pig: Yes, if you want to.",
+		"cn": "猪妈妈：可以啊，如果你们愿意的话。"
+	},
+	{ "en": "Peppa Pig: Hurrah!", "cn": "佩奇：万岁！" },
+	{
+		"en": "Narrator: Daddy Pig has some warm, soapy water to wash the car.",
+		"cn": "旁白：猪爸爸准备了温热的肥皂水来洗车。"
+	},
+	{
+		"en": "Narrator: Daddy Pig is washing the roof.",
+		"cn": "旁白：猪爸爸在洗车顶。"
+	},
+	{
+		"en": "Narrator: Mummy Pig is washing the bonnet.",
+		"cn": "旁白：猪妈妈在洗引擎盖。"
+	},
+	{
+		"en": "Narrator: Peppa is washing the doors.",
+		"cn": "旁白：佩奇在洗车门。"
+	},
+	{
+		"en": "Narrator: George wants to wash the windows, but he is too little.",
+		"cn": "旁白：乔治想洗车窗，但他太小了。"
+	},
+	{
+		"en": "Mummy Pig: Poor George. Let me help you.",
+		"cn": "猪妈妈：可怜的乔治，让我来帮你。"
+	},
+	{
+		"en": "Narrator: Oh, dear. George has dropped his sponge in a muddy puddle.",
+		"cn": "旁白：哦，糟糕。乔治把海绵掉进泥坑里了。"
+	},
+	{
+		"en": "Peppa Pig: George, you’re making the car all muddy again.",
+		"cn": "佩奇：乔治，你又把车弄脏了。"
+	},
+	{ "en": "Peppa Pig: I will wash the mud off.", "cn": "佩奇：我来把泥洗掉。" },
+	{
+		"en": "Daddy Pig: Peppa, don’t use the...muddy water.",
+		"cn": "猪爸爸：佩奇，别用……脏水。"
+	},
+	{
+		"en": "Narrator: Oh, dear. Peppa has thrown the muddy water all over the car.",
+		"cn": "旁白：哦，糟糕。佩奇把脏水泼到了车上。"
+	},
+	{ "en": "Peppa Pig: Oh.", "cn": "佩奇：哦。" },
+	{
+		"en": "Daddy Pig: Never mind. We can use the garden hose to clean it off.",
+		"cn": "猪爸爸：没关系，我们可以用水管冲干净。"
+	},
+	{
+		"en": "Peppa Pig: Yes, yes. Can I hold the hose?",
+		"cn": "佩奇：好呀好呀，我能拿水管吗？"
+	},
+	{
+		"en": "Narrator: Peppa holds the hose, and Daddy Pig turns on the water.",
+		"cn": "旁白：佩奇拿着水管，猪爸爸打开水龙头。"
+	},
+	{ "en": "Peppa Pig: Where’s the water?", "cn": "佩奇：水呢？" },
+	{ "en": "Mummy Pig: Peppa, stop!", "cn": "猪妈妈：佩奇，停下！" },
+	{ "en": "Peppa Pig: Sorry, Mummy.", "cn": "佩奇：对不起，妈妈。" },
+	{ "en": "Peppa Pig: Oh.", "cn": "佩奇：哦。" },
+	{
+		"en": "Mummy Pig: Daddy Pig, please turn off the water.",
+		"cn": "猪妈妈：猪爸爸，请把水关掉。"
+	},
+	{ "en": "Daddy Pig: Oh. No need to panic.", "cn": "猪爸爸：哦，别慌。" },
+	{
+		"en": "Narrator: Oh, dear. Everyone is wet.",
+		"cn": "旁白：哦，糟糕。大家都湿了。"
+	},
+	{
+		"en": "Daddy Pig: At least the car has been washed.",
+		"cn": "猪爸爸：至少车洗干净了。"
+	},
+	{
+		"en": "Mummy Pig: We’ve all been washed.",
+		"cn": "猪妈妈：我们也都被洗了。"
+	},
+	{
+		"en": "Daddy Pig: You go and dry yourselves while I polish the car.",
+		"cn": "猪爸爸：你们去擦干身体，我来擦亮汽车。"
+	},
+	{ "en": "Peppa Pig: See you later.", "cn": "佩奇：待会儿见。" },
+	{ "en": "Daddy Pig: See you later.", "cn": "猪爸爸：待会儿见。" },
+	{
+		"en": "Narrator: Daddy Pig is polishing the car so well he can see his face in it.",
+		"cn": "旁白：猪爸爸把车擦得锃亮，都能照出自己的脸了。"
+	},
+	{ "en": "Narrator: What a funny face.", "cn": "旁白：多有趣的脸啊。" },
+	{
+		"en": "Narrator: Oh, more funny faces. It’s Peppa and George.",
+		"cn": "旁白：哦，还有更多有趣的脸，是佩奇和乔治。"
+	},
+	{ "en": "Narrator: And Mummy Pig.", "cn": "旁白：还有猪妈妈。" },
+	{
+		"en": "Mummy Pig: What a lovely, shiny car.",
+		"cn": "猪妈妈：多漂亮、锃亮的车啊。"
+	},
+	{
+		"en": "Daddy Pig: Yes, I am a bit of an expert at these things.",
+		"cn": "猪爸爸：是啊，这些我很在行。"
+	},
+	{
+		"en": "Mummy Pig: Come on, I’ll drive today.",
+		"cn": "猪妈妈：来吧，今天我来开车。"
+	},
+	{
+		"en": "Daddy Pig: Is everybody ready?",
+		"cn": "猪爸爸：大家都准备好了吗？"
+	},
+	{ "en": "Mummy Pig and Peppa Pig: Ready.", "cn": "猪妈妈和佩奇：准备好了。" },
+	{ "en": "Daddy Pig: Then let’s go.", "cn": "猪爸爸：那我们出发吧。" },
+	{
+		"en": "Mummy Pig: I hope we will all keep this car clean today.",
+		"cn": "猪妈妈：我希望今天大家都能保持车干净。"
+	},
+	{ "en": "Peppa Pig: Yes, Mummy Pig.", "cn": "佩奇：好的，猪妈妈。" },
+	{ "en": "Daddy Pig: Yes, Mummy Pig.", "cn": "猪爸爸：好的，猪妈妈。" },
+	{
+		"en": "Peppa Pig: Mummy, now you’ve made the car all muddy again.",
+		"cn": "佩奇：妈妈，现在你又把车弄脏了。"
+	},
+	{ "en": "Daddy Pig: Naughty Mummy.", "cn": "猪爸爸：调皮的妈妈。" },
+	{ "en": "Peppa Pig: Naughty, messy Mummy", "cn": "佩奇：调皮又邋遢的妈妈。" }
+]

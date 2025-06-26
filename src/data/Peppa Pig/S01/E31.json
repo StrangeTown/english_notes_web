@@ -1,135 +1,226 @@
-Narrator: Mummy Pig has made a special box for Peppa.
-
-Mummy Pig: Peppa, this box is just for you.
-
-Peppa Pig: Thank you, Mummy.
-
-Mummy Pig: It’s a secret box for you to keep secret things in.
-
-Peppa Pig: What things can I put in it, Mummy?
-
-Mummy Pig: Only you can decide that, Peppa. It’s your secret box.
-
-Peppa Pig: I know what I can put in it.
-
-Mummy Pig: Good, but don’t tell me.
-
-Peppa Pig: I won’t tell you or George or Daddy. It’s a secret.
-
-Peppa Pig: George, this is my secret box. It’s empty. I have to find some things to put inside.
-
-Narrator: George wants to help Peppa.
-
-Peppa Pig: No, George. Only I must know what’s in the box.
-
-Peppa Pig: You have to wait outside while I choose.
-
-Narrator: Peppa is going to choose some secret things to put in the box.
-
-Peppa Pig: Now my secret box is full.
-
-Peppa Pig: George, you must not look inside.
-
-Narrator: George would like to know what is inside Peppa’s secret box.
-
-Peppa Pig: If you like you can try to guess.
-
-George: Dinosaur.
-
-Narrator: George thinks Peppa has put a dinosaur in the box.
-
-Peppa Pig: Oh, George, you always say dinosaur for everything.
-
-Peppa Pig: Anyway, a dinosaur is too big to fit in the box.
-
-Narrator: George cannot guess what is in Peppa’s secret box.
-
-Narrator: Daddy Pig is cleaning a picture.
-
-Peppa Pig: Daddy, this is my secret box. Mummy made it for me.
-
-Daddy Pig: It’s very nice, Peppa. What’s inside?
-
-Peppa Pig: It’s a secret. George tried to guess but he didn’t get it right.
-
-Daddy Pig: Can I have a try?
-
-Peppa Pig: Yes.
-
-Daddy Pig: Hmm, have you put my glasses inside?
-
-Peppa Pig: No. Your glasses are on your head.
-
-Daddy Pig: So they are.
-
-Peppa Pig: Silly Daddy. You must have a proper guess.
-
-Daddy Pig: OK. Have you put Mummy’s shoes in the box?
-
-Peppa Pig: Nope. And that’s all your guesses used up.
-
-Narrator: Peppa likes secrets.
-
-Peppa Pig: Mummy, no one knows what’s in my box.
-
-Peppa Pig: Oh, what has George got?
-
-Mummy Pig: I made a box for George too, and he’s filled it with secret things. And only George knows what’s inside.
-
-Peppa Pig: Oh.
-
-Narrator: Peppa would like to know what is inside George’s box.
-
-Peppa Pig: It’s George’s toy dinosaur, of course.
-
-George: No.
-
-Narrator: George’s toy dinosaur is not in George’s box.
-
-Peppa Pig: It’s too difficult! I’ll never guess.
-
-Narrator: Peppa does not like secrets as much as she used to.
-
-Mummy Pig: Maybe if you show George one thing from your box, then he could show you one thing from his.
-
-Peppa Pig: OK. But we must do it at the same time.
-
-Daddy Pig: That’s a good idea. On the count of three you each show what’s in your boxes. Ready?
-
-Peppa Pig: Yes.
-
-Daddy Pig: One, two, three!
-
-Narrator: George has a drum.
-
-Narrator: And Peppa has a trumpet.
-
-Mummy Pig: Lovely!
-
-Daddy Pig: Yes, it sounds very nice.
-
-Daddy Pig: Do you have any more secret things?
-
-Narrator: George has a custard doughnut.
-
-Peppa Pig: Oh.
-
-Narrator: Peppa’s box is empty.
-
-Peppa Pig: I’ve got nothing else.
-
-Mummy Pig: Luckily, I have. Come on, tuck in.
-
-Narrator: George, Peppa, Mummy Pig and Daddy Pig all like custard doughnuts.
-
-Daddy Pig: I don’t have a special box. But I know a very good place to hide my custard doughnut. Can you guess where?
-
-Peppa Pig: Hmm, are you going to hide it in the fridge?
-
-Daddy Pig: No, somewhere much more special. My tummy.
-
-Daddy Pig: Mmm, delicious.
-
-Peppa Pig: I’m going to hide mine in my tummy.
-
-Mummy Pig: Me too.
+[
+	{
+		"en": "Narrator: Mummy Pig has made a special box for Peppa.",
+		"cn": "旁白：猪妈妈为佩奇做了一个特别的盒子。"
+	},
+	{
+		"en": "Mummy Pig: Peppa, this box is just for you.",
+		"cn": "猪妈妈：佩奇，这个盒子是专门给你的。"
+	},
+	{ "en": "Peppa Pig: Thank you, Mummy.", "cn": "小猪佩奇：谢谢你，妈妈。" },
+	{
+		"en": "Mummy Pig: It’s a secret box for you to keep secret things in.",
+		"cn": "猪妈妈：这是一个秘密盒子，你可以把秘密的东西放进去。"
+	},
+	{
+		"en": "Peppa Pig: What things can I put in it, Mummy?",
+		"cn": "小猪佩奇：妈妈，我可以放什么东西进去？"
+	},
+	{
+		"en": "Mummy Pig: Only you can decide that, Peppa. It’s your secret box.",
+		"cn": "猪妈妈：只有你能决定，佩奇。这是你的秘密盒子。"
+	},
+	{
+		"en": "Peppa Pig: I know what I can put in it.",
+		"cn": "小猪佩奇：我知道可以放什么了。"
+	},
+	{
+		"en": "Mummy Pig: Good, but don’t tell me.",
+		"cn": "猪妈妈：很好，但不要告诉我。"
+	},
+	{
+		"en": "Peppa Pig: I won’t tell you or George or Daddy. It’s a secret.",
+		"cn": "小猪佩奇：我不会告诉你，也不会告诉乔治和爸爸。这是个秘密。"
+	},
+	{
+		"en": "Peppa Pig: George, this is my secret box. It’s empty. I have to find some things to put inside.",
+		"cn": "小猪佩奇：乔治，这是我的秘密盒子。它是空的，我要找些东西放进去。"
+	},
+	{
+		"en": "Narrator: George wants to help Peppa.",
+		"cn": "旁白：乔治想帮佩奇。"
+	},
+	{
+		"en": "Peppa Pig: No, George. Only I must know what’s in the box.",
+		"cn": "小猪佩奇：不行，乔治，只有我能知道盒子里有什么。"
+	},
+	{
+		"en": "Peppa Pig: You have to wait outside while I choose.",
+		"cn": "小猪佩奇：你要在外面等着，我来挑选。"
+	},
+	{
+		"en": "Narrator: Peppa is going to choose some secret things to put in the box.",
+		"cn": "旁白：佩奇要挑选一些秘密的东西放进盒子里。"
+	},
+	{
+		"en": "Peppa Pig: Now my secret box is full.",
+		"cn": "小猪佩奇：现在我的秘密盒子满了。"
+	},
+	{
+		"en": "Peppa Pig: George, you must not look inside.",
+		"cn": "小猪佩奇：乔治，你不能看里面。"
+	},
+	{
+		"en": "Narrator: George would like to know what is inside Peppa’s secret box.",
+		"cn": "旁白：乔治很想知道佩奇的秘密盒子里有什么。"
+	},
+	{
+		"en": "Peppa Pig: If you like you can try to guess.",
+		"cn": "小猪佩奇：你可以猜猜看。"
+	},
+	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
+	{
+		"en": "Narrator: George thinks Peppa has put a dinosaur in the box.",
+		"cn": "旁白：乔治以为佩奇把恐龙放进了盒子。"
+	},
+	{
+		"en": "Peppa Pig: Oh, George, you always say dinosaur for everything.",
+		"cn": "小猪佩奇：哦，乔治，你总是说恐龙。"
+	},
+	{
+		"en": "Peppa Pig: Anyway, a dinosaur is too big to fit in the box.",
+		"cn": "小猪佩奇：而且恐龙太大了，放不进去。"
+	},
+	{
+		"en": "Narrator: George cannot guess what is in Peppa’s secret box.",
+		"cn": "旁白：乔治猜不到佩奇的秘密盒子里是什么。"
+	},
+	{
+		"en": "Narrator: Daddy Pig is cleaning a picture.",
+		"cn": "旁白：猪爸爸正在擦一幅画。"
+	},
+	{
+		"en": "Peppa Pig: Daddy, this is my secret box. Mummy made it for me.",
+		"cn": "小猪佩奇：爸爸，这是我的秘密盒子，妈妈给我做的。"
+	},
+	{
+		"en": "Daddy Pig: It’s very nice, Peppa. What’s inside?",
+		"cn": "猪爸爸：很漂亮，佩奇。里面有什么？"
+	},
+	{
+		"en": "Peppa Pig: It’s a secret. George tried to guess but he didn’t get it right.",
+		"cn": "小猪佩奇：是个秘密。乔治猜了，但没猜对。"
+	},
+	{ "en": "Daddy Pig: Can I have a try?", "cn": "猪爸爸：我可以猜猜吗？" },
+	{ "en": "Peppa Pig: Yes.", "cn": "小猪佩奇：可以。" },
+	{
+		"en": "Daddy Pig: Hmm, have you put my glasses inside?",
+		"cn": "猪爸爸：嗯，你把我的眼镜放进去了吗？"
+	},
+	{
+		"en": "Peppa Pig: No. Your glasses are on your head.",
+		"cn": "小猪佩奇：没有，你的眼镜在你头上。"
+	},
+	{ "en": "Daddy Pig: So they are.", "cn": "猪爸爸：还真是。" },
+	{
+		"en": "Peppa Pig: Silly Daddy. You must have a proper guess.",
+		"cn": "小猪佩奇：傻爸爸，你要认真猜。"
+	},
+	{
+		"en": "Daddy Pig: OK. Have you put Mummy’s shoes in the box?",
+		"cn": "猪爸爸：好吧，你把妈妈的鞋子放进去了？"
+	},
+	{
+		"en": "Peppa Pig: Nope. And that’s all your guesses used up.",
+		"cn": "小猪佩奇：没有，你的机会用完了。"
+	},
+	{ "en": "Narrator: Peppa likes secrets.", "cn": "旁白：佩奇喜欢秘密。" },
+	{
+		"en": "Peppa Pig: Mummy, no one knows what’s in my box.",
+		"cn": "小猪佩奇：妈妈，没有人知道我盒子里有什么。"
+	},
+	{
+		"en": "Peppa Pig: Oh, what has George got?",
+		"cn": "小猪佩奇：哦，乔治盒子里有什么？"
+	},
+	{
+		"en": "Mummy Pig: I made a box for George too, and he’s filled it with secret things. And only George knows what’s inside.",
+		"cn": "猪妈妈：我也给乔治做了一个盒子，他也放了秘密的东西，只有他自己知道。"
+	},
+	{ "en": "Peppa Pig: Oh.", "cn": "小猪佩奇：哦。" },
+	{
+		"en": "Narrator: Peppa would like to know what is inside George’s box.",
+		"cn": "旁白：佩奇很想知道乔治盒子里有什么。"
+	},
+	{
+		"en": "Peppa Pig: It’s George’s toy dinosaur, of course.",
+		"cn": "小猪佩奇：肯定是乔治的恐龙玩具。"
+	},
+	{ "en": "George: No.", "cn": "乔治：不是。" },
+	{
+		"en": "Narrator: George’s toy dinosaur is not in George’s box.",
+		"cn": "旁白：乔治的恐龙玩具并不在盒子里。"
+	},
+	{
+		"en": "Peppa Pig: It’s too difficult! I’ll never guess.",
+		"cn": "小猪佩奇：太难了！我永远猜不到。"
+	},
+	{
+		"en": "Narrator: Peppa does not like secrets as much as she used to.",
+		"cn": "旁白：佩奇不像以前那么喜欢秘密了。"
+	},
+	{
+		"en": "Mummy Pig: Maybe if you show George one thing from your box, then he could show you one thing from his.",
+		"cn": "猪妈妈：也许你给乔治看一样你的东西，他也会给你看一样他的。"
+	},
+	{
+		"en": "Peppa Pig: OK. But we must do it at the same time.",
+		"cn": "小猪佩奇：好吧，但我们要同时做。"
+	},
+	{
+		"en": "Daddy Pig: That’s a good idea. On the count of three you each show what’s in your boxes. Ready?",
+		"cn": "猪爸爸：好主意。数到三你们一起把盒子里的东西拿出来。准备好了吗？"
+	},
+	{ "en": "Peppa Pig: Yes.", "cn": "小猪佩奇：好了。" },
+	{ "en": "Daddy Pig: One, two, three!", "cn": "猪爸爸：一、二、三！" },
+	{ "en": "Narrator: George has a drum.", "cn": "旁白：乔治有一个小鼓。" },
+	{
+		"en": "Narrator: And Peppa has a trumpet.",
+		"cn": "旁白：佩奇有一只小喇叭。"
+	},
+	{ "en": "Mummy Pig: Lovely!", "cn": "猪妈妈：真棒！" },
+	{
+		"en": "Daddy Pig: Yes, it sounds very nice.",
+		"cn": "猪爸爸：是的，声音很好听。"
+	},
+	{
+		"en": "Daddy Pig: Do you have any more secret things?",
+		"cn": "猪爸爸：你们还有别的秘密东西吗？"
+	},
+	{
+		"en": "Narrator: George has a custard doughnut.",
+		"cn": "旁白：乔治有一个奶黄甜甜圈。"
+	},
+	{ "en": "Peppa Pig: Oh.", "cn": "小猪佩奇：哦。" },
+	{ "en": "Narrator: Peppa’s box is empty.", "cn": "旁白：佩奇的盒子空了。" },
+	{
+		"en": "Peppa Pig: I’ve got nothing else.",
+		"cn": "小猪佩奇：我没有别的了。"
+	},
+	{
+		"en": "Mummy Pig: Luckily, I have. Come on, tuck in.",
+		"cn": "猪妈妈：幸好我有。大家快来吃吧。"
+	},
+	{
+		"en": "Narrator: George, Peppa, Mummy Pig and Daddy Pig all like custard doughnuts.",
+		"cn": "旁白：乔治、佩奇、猪妈妈和猪爸爸都喜欢奶黄甜甜圈。"
+	},
+	{
+		"en": "Daddy Pig: I don’t have a special box. But I know a very good place to hide my custard doughnut. Can you guess where?",
+		"cn": "猪爸爸：我没有特别的盒子，但我知道一个藏奶黄甜甜圈的好地方。你们猜猜是哪？"
+	},
+	{
+		"en": "Peppa Pig: Hmm, are you going to hide it in the fridge?",
+		"cn": "小猪佩奇：嗯，你要藏在冰箱里吗？"
+	},
+	{
+		"en": "Daddy Pig: No, somewhere much more special. My tummy.",
+		"cn": "猪爸爸：不，是更特别的地方——我的肚子里。"
+	},
+	{ "en": "Daddy Pig: Mmm, delicious.", "cn": "猪爸爸：嗯，真好吃。" },
+	{
+		"en": "Peppa Pig: I’m going to hide mine in my tummy.",
+		"cn": "小猪佩奇：我要把我的也藏在肚子里。"
+	},
+	{ "en": "Mummy Pig: Me too.", "cn": "猪妈妈：我也是。" }
+]

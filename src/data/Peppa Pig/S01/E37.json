@@ -1,125 +1,182 @@
-Narrator: Peppa and George have come to Granny Pig and Grandpa Pig’s house for lunch.
-
-Peppa Pig: Granny Pig!
-
-George: Ganky ‘ig!
-
-Granny Pig: Hello, my little ones. Would you like to pick some vegetables from the garden for lunch?
-
-Peppa Pig: Yes, please.
-
-Peppa Pig: Grandpa Pig!
-
-George: Papa ‘ig!
-
-Grandpa Pig: Hello, Peppa, George.
-
-Narrator: This is Grandpa Pig’s vegetable garden. He has grown all these vegetables himself.
-
-George: Grr.
-
-Grandpa Pig: What’s this?
-
-George: Dinosaur.
-
-Grandpa Pig: A dinosaur?
-
-Grandpa Pig: Let’s choose some vegetables for lunch.
-
-Grandpa Pig: Peppa, do you like tomatoes?
-
-Peppa Pig: Yes, Grandpa Pig.
-
-Grandpa Pig: George, do you like tomatoes?
-
-George: No.
-
-Peppa Pig: George does not like tomatoes.
-
-Grandpa Pig: Oh, dear.
-
-Grandpa Pig: Do you both like lettuce?
-
-Peppa Pig: Yes, Grandpa Pig.
-
-George: No.
-
-Peppa Pig: George does not like lettuce.
-
-Grandpa Pig: Oh, dear. I must have something that George likes.
-
-Grandpa Pig: Do you like cucumber?
-
-George: Yuck!
-
-Narrator: George does not like cucumbers. And he does not like lettuce. And he does not like tomatoes.
-
-Grandpa Pig: Well, George, what vegetable do you like?
-
-George: Chocolate cake.
-
-Peppa Pig: Silly George. Chocolate cake isn’t a vegetable.
-
-Grandpa Pig: Maybe George will like the vegetables when they’re made into a lovely salad.
-
-Granny Pig: Oh, lovely fresh tomatoes, lettuce and cucumber.
-
-Granny Pig: First, we have to wash them.
-
-Narrator: Peppa and George help Granny Pig wash the vegetables.
-
-Granny Pig: Maybe that’s enough washing.
-
-Narrator: Granny Pig has made the tomatoes, lettuce and cucumber into a salad.
-
-Granny Pig: Grandpa Pig, can you call everyone to lunch?
-
-Grandpa Pig: Lunch!
-
-Narrator: Granny Pig has made pizza for lunch.
-
-Granny Pig: And here’s some salad made with Grandpa’s tomatoes, lettuce and cucumber.
-
-Grandpa Pig: Tuck in, everyone.
-
-Narrator: George has eaten his pizza, but George does not like the tomatoes, or the lettuce, or the cucumber.
-
-Granny Pig: Oh, dear, George. Don’t you like the salad?
-
-George: No.
-
-Mummy Pig: George, just try a little bit of this lovely tomato.
-
-George: Yuck!
-
-Granny Pig: George, this is cucumber. Grandpa Pig grew it in his garden.
-
-Daddy Pig: Try a piece of lettuce, George. It’s yummy.
-
-Grandpa Pig: Oh, now, now, George. Look what I’m doing.
-
-Grandpa Pig: Now it’s a dinosaur.
-
-George: Dinosaur, grr.
-
-Narrator: George loves dinosaurs. George is eating the tomatoes, lettuce and cucumber.
-
-Mummy Pig: Well done, George.
-
-Granny Pig: Would you like some more, George?
-
-George: Full.
-
-Grandpa Pig: George, are you too full to eat any more tomatoes, lettuce or cucumber?
-
-Narrator: George is too full to eat any more.
-
-Mummy Pig: George, are you too full to eat anything more?
-
-Narrator: George is too full to eat anything more.
-
-Granny Pig: Oh, well. Then you won’t want any of this chocolate cake.
-
-George: Chocolate cake!
-
-Grandpa Pig: My word! George seems to have got his appetite back.
+[
+	{
+		"en": "Narrator: Peppa and George have come to Granny Pig and Grandpa Pig’s house for lunch.",
+		"cn": "旁白：佩奇和乔治来奶奶和爷爷家吃午饭。"
+	},
+	{ "en": "Peppa Pig: Granny Pig!", "cn": "小猪佩奇：奶奶！" },
+	{ "en": "George: Ganky ‘ig!", "cn": "乔治：奶奶！" },
+	{
+		"en": "Granny Pig: Hello, my little ones. Would you like to pick some vegetables from the garden for lunch?",
+		"cn": "猪奶奶：你们好，宝贝们。想去花园里摘点蔬菜做午饭吗？"
+	},
+	{ "en": "Peppa Pig: Yes, please.", "cn": "小猪佩奇：想！" },
+	{ "en": "Peppa Pig: Grandpa Pig!", "cn": "小猪佩奇：爷爷！" },
+	{ "en": "George: Papa ‘ig!", "cn": "乔治：爷爷！" },
+	{
+		"en": "Grandpa Pig: Hello, Peppa, George.",
+		"cn": "猪爷爷：你好，佩奇，乔治。"
+	},
+	{
+		"en": "Narrator: This is Grandpa Pig’s vegetable garden. He has grown all these vegetables himself.",
+		"cn": "旁白：这是猪爷爷的菜园，这些蔬菜都是他自己种的。"
+	},
+	{ "en": "George: Grr.", "cn": "乔治：嗷。" },
+	{ "en": "Grandpa Pig: What’s this?", "cn": "猪爷爷：这是什么？" },
+	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
+	{ "en": "Grandpa Pig: A dinosaur?", "cn": "猪爷爷：恐龙？" },
+	{
+		"en": "Grandpa Pig: Let’s choose some vegetables for lunch.",
+		"cn": "猪爷爷：我们来挑点蔬菜做午饭吧。"
+	},
+	{
+		"en": "Grandpa Pig: Peppa, do you like tomatoes?",
+		"cn": "猪爷爷：佩奇，你喜欢西红柿吗？"
+	},
+	{ "en": "Peppa Pig: Yes, Grandpa Pig.", "cn": "小猪佩奇：喜欢，爷爷。" },
+	{
+		"en": "Grandpa Pig: George, do you like tomatoes?",
+		"cn": "猪爷爷：乔治，你喜欢西红柿吗？"
+	},
+	{ "en": "George: No.", "cn": "乔治：不喜欢。" },
+	{
+		"en": "Peppa Pig: George does not like tomatoes.",
+		"cn": "小猪佩奇：乔治不喜欢西红柿。"
+	},
+	{ "en": "Grandpa Pig: Oh, dear.", "cn": "猪爷爷：哎呀。" },
+	{
+		"en": "Grandpa Pig: Do you both like lettuce?",
+		"cn": "猪爷爷：你们都喜欢生菜吗？"
+	},
+	{ "en": "Peppa Pig: Yes, Grandpa Pig.", "cn": "小猪佩奇：喜欢，爷爷。" },
+	{ "en": "George: No.", "cn": "乔治：不喜欢。" },
+	{
+		"en": "Peppa Pig: George does not like lettuce.",
+		"cn": "小猪佩奇：乔治不喜欢生菜。"
+	},
+	{
+		"en": "Grandpa Pig: Oh, dear. I must have something that George likes.",
+		"cn": "猪爷爷：哎呀，我得找点乔治喜欢的。"
+	},
+	{
+		"en": "Grandpa Pig: Do you like cucumber?",
+		"cn": "猪爷爷：你喜欢黄瓜吗？"
+	},
+	{ "en": "George: Yuck!", "cn": "乔治：呃！" },
+	{
+		"en": "Narrator: George does not like cucumbers. And he does not like lettuce. And he does not like tomatoes.",
+		"cn": "旁白：乔治不喜欢黄瓜，也不喜欢生菜，也不喜欢西红柿。"
+	},
+	{
+		"en": "Grandpa Pig: Well, George, what vegetable do you like?",
+		"cn": "猪爷爷：那乔治，你喜欢什么蔬菜？"
+	},
+	{ "en": "George: Chocolate cake.", "cn": "乔治：巧克力蛋糕。" },
+	{
+		"en": "Peppa Pig: Silly George. Chocolate cake isn’t a vegetable.",
+		"cn": "小猪佩奇：傻乔治，巧克力蛋糕不是蔬菜。"
+	},
+	{
+		"en": "Grandpa Pig: Maybe George will like the vegetables when they’re made into a lovely salad.",
+		"cn": "猪爷爷：也许做成沙拉乔治就会喜欢了。"
+	},
+	{
+		"en": "Granny Pig: Oh, lovely fresh tomatoes, lettuce and cucumber.",
+		"cn": "猪奶奶：哦，新鲜的西红柿、生菜和黄瓜。"
+	},
+	{
+		"en": "Granny Pig: First, we have to wash them.",
+		"cn": "猪奶奶：首先我们要把它们洗干净。"
+	},
+	{
+		"en": "Narrator: Peppa and George help Granny Pig wash the vegetables.",
+		"cn": "旁白：佩奇和乔治帮奶奶洗蔬菜。"
+	},
+	{
+		"en": "Granny Pig: Maybe that’s enough washing.",
+		"cn": "猪奶奶：洗得差不多了。"
+	},
+	{
+		"en": "Narrator: Granny Pig has made the tomatoes, lettuce and cucumber into a salad.",
+		"cn": "旁白：奶奶把西红柿、生菜和黄瓜做成了沙拉。"
+	},
+	{
+		"en": "Granny Pig: Grandpa Pig, can you call everyone to lunch?",
+		"cn": "猪奶奶：猪爷爷，你能叫大家来吃饭吗？"
+	},
+	{ "en": "Grandpa Pig: Lunch!", "cn": "猪爷爷：吃饭啦！" },
+	{
+		"en": "Narrator: Granny Pig has made pizza for lunch.",
+		"cn": "旁白：奶奶做了披萨当午饭。"
+	},
+	{
+		"en": "Granny Pig: And here’s some salad made with Grandpa’s tomatoes, lettuce and cucumber.",
+		"cn": "猪奶奶：还有用爷爷种的蔬菜做的沙拉。"
+	},
+	{ "en": "Grandpa Pig: Tuck in, everyone.", "cn": "猪爷爷：大家快吃吧。" },
+	{
+		"en": "Narrator: George has eaten his pizza, but George does not like the tomatoes, or the lettuce, or the cucumber.",
+		"cn": "旁白：乔治吃完了披萨，但他不喜欢西红柿、生菜和黄瓜。"
+	},
+	{
+		"en": "Granny Pig: Oh, dear, George. Don’t you like the salad?",
+		"cn": "猪奶奶：哎呀，乔治，你不喜欢沙拉吗？"
+	},
+	{ "en": "George: No.", "cn": "乔治：不喜欢。" },
+	{
+		"en": "Mummy Pig: George, just try a little bit of this lovely tomato.",
+		"cn": "猪妈妈：乔治，尝一点这个好吃的西红柿吧。"
+	},
+	{ "en": "George: Yuck!", "cn": "乔治：呃！" },
+	{
+		"en": "Granny Pig: George, this is cucumber. Grandpa Pig grew it in his garden.",
+		"cn": "猪奶奶：乔治，这是黄瓜，是爷爷种的。"
+	},
+	{
+		"en": "Daddy Pig: Try a piece of lettuce, George. It’s yummy.",
+		"cn": "猪爸爸：乔治，尝一口生菜，很好吃的。"
+	},
+	{
+		"en": "Grandpa Pig: Oh, now, now, George. Look what I’m doing.",
+		"cn": "猪爷爷：乔治，看爷爷怎么做。"
+	},
+	{
+		"en": "Grandpa Pig: Now it’s a dinosaur.",
+		"cn": "猪爷爷：现在它变成恐龙了。"
+	},
+	{ "en": "George: Dinosaur, grr.", "cn": "乔治：恐龙，嗷。" },
+	{
+		"en": "Narrator: George loves dinosaurs. George is eating the tomatoes, lettuce and cucumber.",
+		"cn": "旁白：乔治喜欢恐龙，他开始吃西红柿、生菜和黄瓜了。"
+	},
+	{ "en": "Mummy Pig: Well done, George.", "cn": "猪妈妈：干得好，乔治。" },
+	{
+		"en": "Granny Pig: Would you like some more, George?",
+		"cn": "猪奶奶：乔治，还要吃点吗？"
+	},
+	{ "en": "George: Full.", "cn": "乔治：饱了。" },
+	{
+		"en": "Grandpa Pig: George, are you too full to eat any more tomatoes, lettuce or cucumber?",
+		"cn": "猪爷爷：乔治，你吃饱了，不想再吃西红柿、生菜和黄瓜了吗？"
+	},
+	{
+		"en": "Narrator: George is too full to eat any more.",
+		"cn": "旁白：乔治吃饱了，吃不下了。"
+	},
+	{
+		"en": "Mummy Pig: George, are you too full to eat anything more?",
+		"cn": "猪妈妈：乔治，你真的什么都吃不下了吗？"
+	},
+	{
+		"en": "Narrator: George is too full to eat anything more.",
+		"cn": "旁白：乔治真的什么都吃不下了。"
+	},
+	{
+		"en": "Granny Pig: Oh, well. Then you won’t want any of this chocolate cake.",
+		"cn": "猪奶奶：那你肯定不想吃巧克力蛋糕了。"
+	},
+	{ "en": "George: Chocolate cake!", "cn": "乔治：巧克力蛋糕！" },
+	{
+		"en": "Grandpa Pig: My word! George seems to have got his appetite back.",
+		"cn": "猪爷爷：哎呀，乔治的胃口又回来了。"
+	}
+]

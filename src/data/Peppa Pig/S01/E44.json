@@ -1,153 +1,202 @@
-Narrator: Peppa and George are at the playground with their friends.
-
-Narrator: Candy Cat and Pedro Pony are on the climbing frame.
-
-Suzy Sheep: Whee!
-
-Narrator: Suzy Sheep, Danny Dog and Rebecca Rabbit are playing on the slide.
-
-Danny Dog: Whee!
-
-Rebecca Rabbit: Whee!
-
-Suzy Sheep: Whee!
-
-Danny Dog: Whee!
-
-Rebecca Rabbit: Whee!
-
-Narrator: Peppa is playing on the swing.
-
-Peppa Pig: Mummy, Mummy, push me please.
-
-Mummy Pig: Are you ready?
-
-Peppa Pig: Yes, I want to go really high.
-
-Peppa Pig: Whee!
-
-Peppa Pig: Higher, Mummy.
-
-Peppa Pig: Whee!
-
-Narrator: George wants to play on the swing.
-
-Peppa Pig: Now it’s your turn, George.
-
-Mummy Pig: Hold tight.
-
-Peppa Pig: I want to push George.
-
-Mummy Pig: Push George gently, Peppa.
-
-Peppa Pig: Yes, Mummy.
-
-Peppa Pig: Hold tight, George.
-
-Peppa Pig: Whee!
-
-Narrator: Oh, dear. Peppa has pushed George too high.
-
-Narrator: George does not like being up high.
-
-Mummy Pig: Peppa, you know George is a bit scared of heights.
-
-Peppa Pig: Sorry, George.
-
-Peppa Pig: Let’s play on the climbing frame.
-
-Peppa Pig: Hello, Suzy. Hello, Danny.
-
-Suzy Sheep and Danny Dog: Hello, Peppa.
-
-Suzy Sheep: Whee!
-
-Danny Dog: Whee!
-
-Peppa Pig: You are doing it all wrong. This is the proper way to swing across.
-
-Peppa Pig: Stand back.
-
-Peppa Pig: Ready, steady, go!
-
-Peppa Pig: Whee!
-
-Peppa Pig: Look at me. I’m flying like a bird.
-
-Peppa Pig: Oh, I can’t get out.
-
-Narrator: Peppa is stuck in the tyre.
-
-Peppa Pig: It’s not funny.
-
-Daddy Pig: Well it does look a bit funny.
-
-Daddy Pig: We’ll have to pull you out.
-
-Narrator: Peppa’s friends are helping to free her.
-
-Peppa’s friends: Hurrah!
-
-Peppa Pig: Thank you, everyone.
-
-Daddy Pig: George, do you want to play on the climbing frame?
-
-Narrator: The climbing frame is quite high. George does not like being up high.
-
-Daddy Pig: Sorry, George. Let’s play on the slide.
-
-Peppa Pig: Yes, the slide.
-
-Narrator: Peppa loves the slide.
-
-Narrator: Everyone loves the slide.
-
-Peppa Pig: Mummy, Daddy, look at me.
-
-Peppa Pig: Ready, steady, go.
-
-Peppa Pig: Whee!
-
-Suzy Sheep: Whee!
-
-Danny Dog: Whee!
-
-Candy Cat: Whee!
-
-Rebecca Rabbit: Whee!
-
-Pedro Pony: Whee!
-
-Narrator: George wants to play on the slide.
-
-Daddy Pig: Are you sure, George? It is a bit high.
-
-Daddy Pig: All right. I’ll help you up the steps.
-
-Narrator: Oh, dear. It is a bit too high for George.
-
-Daddy Pig: Don’t worry, George. I’ll slide down with you.
-
-Peppa Pig: Daddy, you’re too big to go down the slide.
-
-Daddy Pig: Don’t be silly, Peppa. I’m not too big.
-
-Daddy Pig: Stand back. Ready, steady, go.
-
-Narrator: Daddy Pig is stuck.
-
-Daddy Pig: It’s not funny.
-
-Peppa Pig: It looks very funny, Daddy.
-
-Daddy Pig: Hmmm. I suppose it is a bit funny.
-
-Peppa Pig: We’ll have to push you down.
-
-Peppa Pig: Whee!
-
-Peppa Pig: Daddy’s tummy is just like a bouncy castle.
-
-Narrator: George loves bouncing on Daddy’s tummy.
-
-Narrator: George isn’t afraid of heights anymore.
+[
+	{
+		"en": "Narrator: Peppa and George are at the playground with their friends.",
+		"cn": "旁白：佩奇和乔治和朋友们在游乐场。"
+	},
+	{
+		"en": "Narrator: Candy Cat and Pedro Pony are on the climbing frame.",
+		"cn": "旁白：糖果猫和佩德罗小马在爬架上。"
+	},
+	{ "en": "Suzy Sheep: Whee!", "cn": "苏茜羊：咻——！" },
+	{
+		"en": "Narrator: Suzy Sheep, Danny Dog and Rebecca Rabbit are playing on the slide.",
+		"cn": "旁白：苏茜羊、丹尼狗和丽贝卡兔在玩滑梯。"
+	},
+	{ "en": "Danny Dog: Whee!", "cn": "丹尼狗：咻——！" },
+	{ "en": "Rebecca Rabbit: Whee!", "cn": "丽贝卡兔：咻——！" },
+	{ "en": "Suzy Sheep: Whee!", "cn": "苏茜羊：咻——！" },
+	{ "en": "Danny Dog: Whee!", "cn": "丹尼狗：咻——！" },
+	{ "en": "Rebecca Rabbit: Whee!", "cn": "丽贝卡兔：咻——！" },
+	{
+		"en": "Narrator: Peppa is playing on the swing.",
+		"cn": "旁白：佩奇在荡秋千。"
+	},
+	{
+		"en": "Peppa Pig: Mummy, Mummy, push me please.",
+		"cn": "小猪佩奇：妈妈，妈妈，推我一下。"
+	},
+	{ "en": "Mummy Pig: Are you ready?", "cn": "猪妈妈：准备好了吗？" },
+	{
+		"en": "Peppa Pig: Yes, I want to go really high.",
+		"cn": "小猪佩奇：好了，我想荡得很高。"
+	},
+	{ "en": "Peppa Pig: Whee!", "cn": "小猪佩奇：咻——！" },
+	{ "en": "Peppa Pig: Higher, Mummy.", "cn": "小猪佩奇：再高一点，妈妈。" },
+	{ "en": "Peppa Pig: Whee!", "cn": "小猪佩奇：咻——！" },
+	{
+		"en": "Narrator: George wants to play on the swing.",
+		"cn": "旁白：乔治也想玩秋千。"
+	},
+	{
+		"en": "Peppa Pig: Now it’s your turn, George.",
+		"cn": "小猪佩奇：现在轮到你了，乔治。"
+	},
+	{ "en": "Mummy Pig: Hold tight.", "cn": "猪妈妈：抓紧了。" },
+	{ "en": "Peppa Pig: I want to push George.", "cn": "小猪佩奇：我想推乔治。" },
+	{
+		"en": "Mummy Pig: Push George gently, Peppa.",
+		"cn": "猪妈妈：佩奇，轻轻地推乔治。"
+	},
+	{ "en": "Peppa Pig: Yes, Mummy.", "cn": "小猪佩奇：好的，妈妈。" },
+	{ "en": "Peppa Pig: Hold tight, George.", "cn": "小猪佩奇：抓紧了，乔治。" },
+	{ "en": "Peppa Pig: Whee!", "cn": "小猪佩奇：咻——！" },
+	{
+		"en": "Narrator: Oh, dear. Peppa has pushed George too high.",
+		"cn": "旁白：哎呀，佩奇把乔治推得太高了。"
+	},
+	{
+		"en": "Narrator: George does not like being up high.",
+		"cn": "旁白：乔治不喜欢在高处。"
+	},
+	{
+		"en": "Mummy Pig: Peppa, you know George is a bit scared of heights.",
+		"cn": "猪妈妈：佩奇，你知道乔治有点怕高。"
+	},
+	{ "en": "Peppa Pig: Sorry, George.", "cn": "小猪佩奇：对不起，乔治。" },
+	{
+		"en": "Peppa Pig: Let’s play on the climbing frame.",
+		"cn": "小猪佩奇：我们去玩爬架吧。"
+	},
+	{
+		"en": "Peppa Pig: Hello, Suzy. Hello, Danny.",
+		"cn": "小猪佩奇：你好，苏茜。你好，丹尼。"
+	},
+	{
+		"en": "Suzy Sheep and Danny Dog: Hello, Peppa.",
+		"cn": "苏茜羊和丹尼狗：你好，佩奇。"
+	},
+	{ "en": "Suzy Sheep: Whee!", "cn": "苏茜羊：咻——！" },
+	{ "en": "Danny Dog: Whee!", "cn": "丹尼狗：咻——！" },
+	{
+		"en": "Peppa Pig: You are doing it all wrong. This is the proper way to swing across.",
+		"cn": "小猪佩奇：你们做错了，应该这样荡过去。"
+	},
+	{ "en": "Peppa Pig: Stand back.", "cn": "小猪佩奇：让开点。" },
+	{ "en": "Peppa Pig: Ready, steady, go!", "cn": "小猪佩奇：准备，预备，走！" },
+	{ "en": "Peppa Pig: Whee!", "cn": "小猪佩奇：咻——！" },
+	{
+		"en": "Peppa Pig: Look at me. I’m flying like a bird.",
+		"cn": "小猪佩奇：看我，我像小鸟一样飞起来了。"
+	},
+	{
+		"en": "Peppa Pig: Oh, I can’t get out.",
+		"cn": "小猪佩奇：哦，我出不来了。"
+	},
+	{
+		"en": "Narrator: Peppa is stuck in the tyre.",
+		"cn": "旁白：佩奇卡在轮胎里了。"
+	},
+	{ "en": "Peppa Pig: It’s not funny.", "cn": "小猪佩奇：不好笑。" },
+	{
+		"en": "Daddy Pig: Well it does look a bit funny.",
+		"cn": "猪爸爸：不过看起来确实有点好笑。"
+	},
+	{
+		"en": "Daddy Pig: We’ll have to pull you out.",
+		"cn": "猪爸爸：我们得把你拉出来。"
+	},
+	{
+		"en": "Narrator: Peppa’s friends are helping to free her.",
+		"cn": "旁白：佩奇的朋友们在帮她脱困。"
+	},
+	{ "en": "Peppa’s friends: Hurrah!", "cn": "佩奇的朋友们：万岁！" },
+	{ "en": "Peppa Pig: Thank you, everyone.", "cn": "小猪佩奇：谢谢大家。" },
+	{
+		"en": "Daddy Pig: George, do you want to play on the climbing frame?",
+		"cn": "猪爸爸：乔治，你想玩爬架吗？"
+	},
+	{
+		"en": "Narrator: The climbing frame is quite high. George does not like being up high.",
+		"cn": "旁白：爬架很高，乔治不喜欢在高处。"
+	},
+	{
+		"en": "Daddy Pig: Sorry, George. Let’s play on the slide.",
+		"cn": "猪爸爸：对不起，乔治，我们去玩滑梯吧。"
+	},
+	{ "en": "Peppa Pig: Yes, the slide.", "cn": "小猪佩奇：好啊，滑梯。" },
+	{ "en": "Narrator: Peppa loves the slide.", "cn": "旁白：佩奇喜欢滑梯。" },
+	{
+		"en": "Narrator: Everyone loves the slide.",
+		"cn": "旁白：大家都喜欢滑梯。"
+	},
+	{
+		"en": "Peppa Pig: Mummy, Daddy, look at me.",
+		"cn": "小猪佩奇：妈妈，爸爸，看我。"
+	},
+	{ "en": "Peppa Pig: Ready, steady, go.", "cn": "小猪佩奇：准备，预备，走。" },
+	{ "en": "Peppa Pig: Whee!", "cn": "小猪佩奇：咻——！" },
+	{ "en": "Suzy Sheep: Whee!", "cn": "苏茜羊：咻——！" },
+	{ "en": "Danny Dog: Whee!", "cn": "丹尼狗：咻——！" },
+	{ "en": "Candy Cat: Whee!", "cn": "糖果猫：咻——！" },
+	{ "en": "Rebecca Rabbit: Whee!", "cn": "丽贝卡兔：咻——！" },
+	{ "en": "Pedro Pony: Whee!", "cn": "佩德罗小马：咻——！" },
+	{
+		"en": "Narrator: George wants to play on the slide.",
+		"cn": "旁白：乔治也想玩滑梯。"
+	},
+	{
+		"en": "Daddy Pig: Are you sure, George? It is a bit high.",
+		"cn": "猪爸爸：你确定吗，乔治？有点高哦。"
+	},
+	{
+		"en": "Daddy Pig: All right. I’ll help you up the steps.",
+		"cn": "猪爸爸：好吧，我帮你上台阶。"
+	},
+	{
+		"en": "Narrator: Oh, dear. It is a bit too high for George.",
+		"cn": "旁白：哎呀，对乔治来说还是有点高。"
+	},
+	{
+		"en": "Daddy Pig: Don’t worry, George. I’ll slide down with you.",
+		"cn": "猪爸爸：别担心，乔治，我和你一起滑下去。"
+	},
+	{
+		"en": "Peppa Pig: Daddy, you’re too big to go down the slide.",
+		"cn": "小猪佩奇：爸爸，你太大了，不能滑滑梯。"
+	},
+	{
+		"en": "Daddy Pig: Don’t be silly, Peppa. I’m not too big.",
+		"cn": "猪爸爸：别傻了，佩奇，我不大。"
+	},
+	{
+		"en": "Daddy Pig: Stand back. Ready, steady, go.",
+		"cn": "猪爸爸：让开，准备，预备，走。"
+	},
+	{ "en": "Narrator: Daddy Pig is stuck.", "cn": "旁白：猪爸爸卡住了。" },
+	{ "en": "Daddy Pig: It’s not funny.", "cn": "猪爸爸：不好笑。" },
+	{
+		"en": "Peppa Pig: It looks very funny, Daddy.",
+		"cn": "小猪佩奇：爸爸，看起来真的很好笑。"
+	},
+	{
+		"en": "Daddy Pig: Hmmm. I suppose it is a bit funny.",
+		"cn": "猪爸爸：嗯，我觉得确实有点好笑。"
+	},
+	{
+		"en": "Peppa Pig: We’ll have to push you down.",
+		"cn": "小猪佩奇：我们得把你推下去。"
+	},
+	{ "en": "Peppa Pig: Whee!", "cn": "小猪佩奇：咻——！" },
+	{
+		"en": "Peppa Pig: Daddy’s tummy is just like a bouncy castle.",
+		"cn": "小猪佩奇：爸爸的肚子就像弹跳城堡。"
+	},
+	{
+		"en": "Narrator: George loves bouncing on Daddy’s tummy.",
+		"cn": "旁白：乔治喜欢在爸爸肚子上跳。"
+	},
+	{
+		"en": "Narrator: George isn’t afraid of heights anymore.",
+		"cn": "旁白：乔治再也不怕高了。"
+	}
+]

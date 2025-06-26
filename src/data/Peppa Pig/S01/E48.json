@@ -1,121 +1,177 @@
-Narrator: Peppa and her family are going to the beach. Peppa and George love going to the beach.
-
-Mummy Pig: What a lot of stuff. We must be careful not to forget anything when we go.
-
-Peppa Pig: Sunshade, beach bag, towels, buckets and spades, and a spotty ball.
-
-Mummy Pig: Good. Now before you start playing, you need some sun cream on.
-
-Narrator: The sun is very hot so Peppa and George have to have sun cream on.
-
-Daddy Pig: Let’s try out this spotty ball.
-
-Daddy Pig: It seems to work.
-
-Narrator: What a great spotty ball.
-
-Peppa Pig: George, you throw the ball and I will catch it.
-
-Peppa Pig: George, catch.
-
-Narrator: Oh, dear. George is too little to catch the ball.
-
-Daddy Pig: Never mind, George. Would you and Peppa like to have a paddle in the sea?
-
-Peppa Pig: Yes, please, Daddy.
-
-Daddy Pig: Let’s put your water wings on.
-
-Daddy Pig: There we go. You look very smart in your water wings, George.
-
-Peppa Pig: My turn, my turn.
-
-Daddy Pig: Good. Now we can play in the water.
-
-Peppa Pig: Hurrah!
-
-Mummy Pig: Is the water cold?
-
-Daddy Pig: It’s lovely and warm.
-
-Daddy Pig: Steady on.
-
-Mummy Pig: You started it, Daddy Pig.
-
-Daddy Pig: Maybe that’s enough splashing.
-
-Peppa Pig and George: Whee!
-
-Peppa Pig: Daddy, I love being at the beach.
-
-Narrator: Peppa and George love the beach. Everyone loves the beach.
-
-Mummy Pig: Peppa, George, would you like to play with your buckets and spades?
-
-Peppa Pig: Yes, please, Mummy.
-
-Peppa Pig: Daddy, Daddy! Can we bury you in the sand?
-
-Daddy Pig: Uh, well...
-
-Peppa Pig: Please, Daddy.
-
-Daddy Pig: Oh, all right.
-
-Peppa Pig: Yippee!
-
-Narrator: Peppa and George are burying Daddy Pig in the sand.
-
-Daddy Pig: Steady on.
-
-Mummy Pig: There.
-
-Peppa Pig: Now you can’t escape.
-
-Daddy Pig: My head is getting a bit hot. Can I have my straw hat?
-
-Peppa Pig: Well, if you say please.
-
-Daddy Pig: Please can I have my straw hat?
-
-Peppa Pig: Yes, you may, Daddy.
-
-Daddy Pig: That’s nice. Maybe I’ll just have a little sleep.
-
-Peppa Pig: George, let’s make sand castles.
-
-Narrator: Peppa and George are making sand castles.
-
-Peppa Pig: First we put sand in the buckets like this.
-
-Peppa Pig: We turn the buckets upside down and tap them.
-
-Peppa Pig: And lift the bucket up. Hey presto!
-
-Narrator: A sand castle.
-
-George: Hey presto!
-
-Narrator: Another sand castle.
-
-Mummy Pig: Peppa, George, home time! Don’t leave any stuff behind.
-
-Mummy Pig: Let’s check that we haven’t forgotten anything.
-
-Peppa Pig: Towels, beach bag, sunshade, and a spotty ball. That’s everything.
-
-Mummy Pig: I’m sure we’ve forgotten something.
-
-Peppa Pig: Hmm?
-
-Mummy Pig: Of course. We forgot the hat.
-
-Peppa Pig: Daddy! We forgot Daddy!
-
-Mummy Pig: Yes, we forgot Daddy Pig.
-
-Daddy Pig: What?
-
-Peppa Pig: Daddy, we almost left you behind. But George remembered you.
-
-Daddy Pig: Well, I’m glad George remembered me.
+[
+	{
+		"en": "Narrator: Peppa and her family are going to the beach. Peppa and George love going to the beach.",
+		"cn": "旁白：佩奇和她的家人要去海滩。佩奇和乔治都很喜欢去海滩。"
+	},
+	{
+		"en": "Mummy Pig: What a lot of stuff. We must be careful not to forget anything when we go.",
+		"cn": "猪妈妈：东西真多。我们去的时候一定要小心，别落下什么。"
+	},
+	{
+		"en": "Peppa Pig: Sunshade, beach bag, towels, buckets and spades, and a spotty ball.",
+		"cn": "佩奇：遮阳伞、沙滩包、毛巾、桶和铲子，还有一个带点点的球。"
+	},
+	{
+		"en": "Mummy Pig: Good. Now before you start playing, you need some sun cream on.",
+		"cn": "猪妈妈：很好。现在在你们玩之前，要先涂防晒霜。"
+	},
+	{
+		"en": "Narrator: The sun is very hot so Peppa and George have to have sun cream on.",
+		"cn": "旁白：太阳很晒，所以佩奇和乔治必须涂防晒霜。"
+	},
+	{
+		"en": "Daddy Pig: Let’s try out this spotty ball.",
+		"cn": "猪爸爸：我们来试试这个带点点的球。"
+	},
+	{ "en": "Daddy Pig: It seems to work.", "cn": "猪爸爸：看起来很好用。" },
+	{
+		"en": "Narrator: What a great spotty ball.",
+		"cn": "旁白：多棒的点点球啊。"
+	},
+	{
+		"en": "Peppa Pig: George, you throw the ball and I will catch it.",
+		"cn": "佩奇：乔治，你扔球，我来接。"
+	},
+	{ "en": "Peppa Pig: George, catch.", "cn": "佩奇：乔治，接住。" },
+	{
+		"en": "Narrator: Oh, dear. George is too little to catch the ball.",
+		"cn": "旁白：哦，糟糕。乔治太小了，接不到球。"
+	},
+	{
+		"en": "Daddy Pig: Never mind, George. Would you and Peppa like to have a paddle in the sea?",
+		"cn": "猪爸爸：没关系，乔治。你和佩奇想去海里玩水吗？"
+	},
+	{ "en": "Peppa Pig: Yes, please, Daddy.", "cn": "佩奇：好的，爸爸。" },
+	{
+		"en": "Daddy Pig: Let’s put your water wings on.",
+		"cn": "猪爸爸：我们来给你们戴上水袖。"
+	},
+	{
+		"en": "Daddy Pig: There we go. You look very smart in your water wings, George.",
+		"cn": "猪爸爸：好了。乔治，你戴着水袖看起来很帅。"
+	},
+	{ "en": "Peppa Pig: My turn, my turn.", "cn": "佩奇：轮到我了，轮到我了。" },
+	{
+		"en": "Daddy Pig: Good. Now we can play in the water.",
+		"cn": "猪爸爸：好了，现在我们可以下水玩了。"
+	},
+	{ "en": "Peppa Pig: Hurrah!", "cn": "佩奇：万岁！" },
+	{ "en": "Mummy Pig: Is the water cold?", "cn": "猪妈妈：水凉吗？" },
+	{
+		"en": "Daddy Pig: It’s lovely and warm.",
+		"cn": "猪爸爸：水很温暖，很舒服。"
+	},
+	{ "en": "Daddy Pig: Steady on.", "cn": "猪爸爸：慢点。" },
+	{
+		"en": "Mummy Pig: You started it, Daddy Pig.",
+		"cn": "猪妈妈：是你先开始的，猪爸爸。"
+	},
+	{
+		"en": "Daddy Pig: Maybe that’s enough splashing.",
+		"cn": "猪爸爸：也许该停止泼水了。"
+	},
+	{ "en": "Peppa Pig and George: Whee!", "cn": "佩奇和乔治：咿呀！" },
+	{
+		"en": "Peppa Pig: Daddy, I love being at the beach.",
+		"cn": "佩奇：爸爸，我喜欢在海滩上。"
+	},
+	{
+		"en": "Narrator: Peppa and George love the beach. Everyone loves the beach.",
+		"cn": "旁白：佩奇和乔治喜欢海滩，大家都喜欢海滩。"
+	},
+	{
+		"en": "Mummy Pig: Peppa, George, would you like to play with your buckets and spades?",
+		"cn": "猪妈妈：佩奇，乔治，你们想用桶和铲子玩吗？"
+	},
+	{ "en": "Peppa Pig: Yes, please, Mummy.", "cn": "佩奇：好的，妈妈。" },
+	{
+		"en": "Peppa Pig: Daddy, Daddy! Can we bury you in the sand?",
+		"cn": "佩奇：爸爸，爸爸！我们能把你埋在沙子里吗？"
+	},
+	{ "en": "Daddy Pig: Uh, well...", "cn": "猪爸爸：呃，这个……" },
+	{ "en": "Peppa Pig: Please, Daddy.", "cn": "佩奇：求你了，爸爸。" },
+	{ "en": "Daddy Pig: Oh, all right.", "cn": "猪爸爸：好吧。" },
+	{ "en": "Peppa Pig: Yippee!", "cn": "佩奇：耶！" },
+	{
+		"en": "Narrator: Peppa and George are burying Daddy Pig in the sand.",
+		"cn": "旁白：佩奇和乔治正在把猪爸爸埋在沙子里。"
+	},
+	{ "en": "Daddy Pig: Steady on.", "cn": "猪爸爸：慢点。" },
+	{ "en": "Mummy Pig: There.", "cn": "猪妈妈：好了。" },
+	{ "en": "Peppa Pig: Now you can’t escape.", "cn": "佩奇：现在你逃不掉了。" },
+	{
+		"en": "Daddy Pig: My head is getting a bit hot. Can I have my straw hat?",
+		"cn": "猪爸爸：我的头有点热，可以给我草帽吗？"
+	},
+	{ "en": "Peppa Pig: Well, if you say please.", "cn": "佩奇：你要说请才行。" },
+	{
+		"en": "Daddy Pig: Please can I have my straw hat?",
+		"cn": "猪爸爸：请给我草帽好吗？"
+	},
+	{ "en": "Peppa Pig: Yes, you may, Daddy.", "cn": "佩奇：可以，爸爸。" },
+	{
+		"en": "Daddy Pig: That’s nice. Maybe I’ll just have a little sleep.",
+		"cn": "猪爸爸：真舒服，也许我可以小睡一会儿。"
+	},
+	{
+		"en": "Peppa Pig: George, let’s make sand castles.",
+		"cn": "佩奇：乔治，我们来堆沙堡吧。"
+	},
+	{
+		"en": "Narrator: Peppa and George are making sand castles.",
+		"cn": "旁白：佩奇和乔治正在堆沙堡。"
+	},
+	{
+		"en": "Peppa Pig: First we put sand in the buckets like this.",
+		"cn": "佩奇：首先我们把沙子装进桶里，像这样。"
+	},
+	{
+		"en": "Peppa Pig: We turn the buckets upside down and tap them.",
+		"cn": "佩奇：我们把桶倒过来敲一敲。"
+	},
+	{
+		"en": "Peppa Pig: And lift the bucket up. Hey presto!",
+		"cn": "佩奇：然后把桶拿起来。变出来了！"
+	},
+	{ "en": "Narrator: A sand castle.", "cn": "旁白：一个沙堡。" },
+	{ "en": "George: Hey presto!", "cn": "乔治：变出来了！" },
+	{ "en": "Narrator: Another sand castle.", "cn": "旁白：又一个沙堡。" },
+	{
+		"en": "Mummy Pig: Peppa, George, home time! Don’t leave any stuff behind.",
+		"cn": "猪妈妈：佩奇，乔治，回家啦！别落下东西。"
+	},
+	{
+		"en": "Mummy Pig: Let’s check that we haven’t forgotten anything.",
+		"cn": "猪妈妈：我们检查一下有没有忘带什么。"
+	},
+	{
+		"en": "Peppa Pig: Towels, beach bag, sunshade, and a spotty ball. That’s everything.",
+		"cn": "佩奇：毛巾、沙滩包、遮阳伞，还有点点球，都带了。"
+	},
+	{
+		"en": "Mummy Pig: I’m sure we’ve forgotten something.",
+		"cn": "猪妈妈：我觉得我们肯定忘了什么。"
+	},
+	{ "en": "Peppa Pig: Hmm?", "cn": "佩奇：嗯？" },
+	{
+		"en": "Mummy Pig: Of course. We forgot the hat.",
+		"cn": "猪妈妈：对了，我们忘了帽子。"
+	},
+	{
+		"en": "Peppa Pig: Daddy! We forgot Daddy!",
+		"cn": "佩奇：爸爸！我们把爸爸忘了！"
+	},
+	{
+		"en": "Mummy Pig: Yes, we forgot Daddy Pig.",
+		"cn": "猪妈妈：是的，我们把猪爸爸忘了。"
+	},
+	{ "en": "Daddy Pig: What?", "cn": "猪爸爸：什么？" },
+	{
+		"en": "Peppa Pig: Daddy, we almost left you behind. But George remembered you.",
+		"cn": "佩奇：爸爸，我们差点把你落下了，不过乔治记得你。"
+	},
+	{
+		"en": "Daddy Pig: Well, I’m glad George remembered me.",
+		"cn": "猪爸爸：幸好乔治记得我。"
+	}
+]

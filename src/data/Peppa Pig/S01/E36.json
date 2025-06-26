@@ -1,135 +1,226 @@
-Narrator: Peppa is playing with her doll’s house. George is playing too.
-
-Narrator: Peppa is making a tea party for the doll family.
-
-Peppa Pig: Here, George. I’m the mummy and daddy. You can be the children.
-
-Peppa Pig: (as mummy doll) Children, it’s nearly tea time, so you must wash your hands.
-
-Narrator: George is putting the dolls to bed.
-
-George: Night-night.
-
-Peppa Pig: George, why are you putting the children to bed? They’re having a tea party.
-
-Narrator: George likes putting the dolls to bed.
-
-Peppa Pig: (as mummy doll) Children, come downstairs right now, or you won’t get any cake.
-
-Narrator: George isn’t listening. He’s too busy putting the dolls to bed.
-
-Peppa Pig: George, if you want to play with my doll’s house, you have to help with the tea party.
-
-Peppa Pig: Here, George. You can fill the teapot with water.
-
-Peppa Pig: (as mummy doll) Children, come downstairs right now.
-
-Peppa Pig: (as the children dolls) Mummy, we’re coming.
-
-Narrator: George is going to fill the teapot with water.
-
-George: Oo.
-
-Narrator: George has found a spider in the sink.
-
-Narrator: George wants the spider to be his friend.
-
-George: Oh.
-
-Narrator: George likes the spider.
-
-Narrator: The spider likes George.
-
-Narrator: Peppa loves playing tea parties.
-
-Peppa Pig: (as mummy doll) Where are all the chocolate biscuits, Daddy? We had lots yesterday.
-
-Peppa Pig: (as daddy doll) Oh, I’m sorry, Mummy. I must have eaten them all. Ho, ho, ho.
-
-Peppa Pig: (as mummy doll) Naughty Daddy.
-
-Narrator: George is putting the spider to bed.
-
-George: Night-night.
-
-Peppa Pig: George, what are you doing?
-
-Peppa Pig: You have to help me with the tea party.
-
-Peppa Pig: Help! Help!
-
-Peppa Pig: Daddy, there’s a spider in my bedroom.
-
-Daddy Pig: Don’t worry, Peppa.
-
-Peppa Pig: Please, Daddy. Take it away.
-
-Daddy Pig: No need to panic.
-
-Daddy Pig: Hello, George. Have you seen the spider?
-
-Peppa Pig: It’s too scary. Take it away.
-
-Daddy Pig: There’s no need to be afraid, Peppa. Spiders are very very small and they can’t hurt you. But don’t worry. Daddy will take it out of the bedroom.
-
-Daddy Pig: Whoa! He’s quite big, isn’t he?
-
-Daddy Pig: Um, I’ll just fetch Mummy Pig.
-
-Daddy Pig: Mummy Pig!
-
-Peppa Pig: Hello, Mr Skinnylegs.
-
-Narrator: Peppa feels a little bit braver.
-
-Peppa Pig: He likes being in my doll’s house.
-
-Mummy Pig: Hello, children. I hear you found a little spider. I’ll take him out of the bedroom so you two can play.
-
-Peppa Pig: Mummy, his name is Mr Skinnylegs.
-
-Mummy Pig: Mr Skinnylegs is big, isn’t he?
-
-Narrator: Peppa and George like the spider.
-
-George: Night-night.
-
-Narrator: George is putting the spider to bed.
-
-Peppa Pig: No, George. He wants some tea. He doesn’t want to be in bed.
-
-Peppa Pig: Are you hungry, Mr Skinnylegs? Would you like some cake?
-
-Narrator: Peppa isn’t afraid of the spider anymore.
-
-Peppa Pig: Mummy, Daddy, sit down. We are all going to have tea with Mr Skinnylegs.
-
-Peppa Pig: Who wants tea?
-
-Mummy Pig: Me, please.
-
-Daddy Pig: Me, please.
-
-Daddy Pig: Delicious.
-
-Narrator: Peppa loves playing tea parties.
-
-Peppa Pig: Here’s your tea, Mr Skinnylegs.
-
-Peppa Pig: What’s that? You want to say hello to my daddy?
-
-Peppa Pig: (as Mr Skinnylegs) Hello, Mr Daddy Pig.
-
-Daddy Pig: That’s all right, Peppa. Let Mr Skinnylegs drink his tea.
-
-Peppa Pig: You’re not scared, are you, Daddy?
-
-Daddy Pig: No, of course not.
-
-Daddy Pig: Whoa! Not so close.
-
-Daddy Pig: Whoa!
-
-Narrator: Peppa likes Mr Skinnylegs.
-
-Narrator: Everyone likes Mr Skinnylegs.
+[
+	{
+		"en": "Narrator: Peppa is playing with her doll’s house. George is playing too.",
+		"cn": "旁白：佩奇正在玩她的洋娃娃屋，乔治也在玩。"
+	},
+	{
+		"en": "Narrator: Peppa is making a tea party for the doll family.",
+		"cn": "旁白：佩奇正在为洋娃娃一家举办茶会。"
+	},
+	{
+		"en": "Peppa Pig: Here, George. I’m the mummy and daddy. You can be the children.",
+		"cn": "小猪佩奇：乔治，我来当爸爸妈妈，你来当孩子。"
+	},
+	{
+		"en": "Peppa Pig: (as mummy doll) Children, it’s nearly tea time, so you must wash your hands.",
+		"cn": "小猪佩奇：（学妈妈娃娃）孩子们，快到喝茶时间了，你们要洗手。"
+	},
+	{
+		"en": "Narrator: George is putting the dolls to bed.",
+		"cn": "旁白：乔治正在把娃娃们放到床上。"
+	},
+	{ "en": "George: Night-night.", "cn": "乔治：晚安。" },
+	{
+		"en": "Peppa Pig: George, why are you putting the children to bed? They’re having a tea party.",
+		"cn": "小猪佩奇：乔治，你为什么把孩子们哄睡觉？他们要参加茶会呢。"
+	},
+	{
+		"en": "Narrator: George likes putting the dolls to bed.",
+		"cn": "旁白：乔治喜欢哄娃娃们睡觉。"
+	},
+	{
+		"en": "Peppa Pig: (as mummy doll) Children, come downstairs right now, or you won’t get any cake.",
+		"cn": "小猪佩奇：（学妈妈娃娃）孩子们，快下来，不然就没有蛋糕了。"
+	},
+	{
+		"en": "Narrator: George isn’t listening. He’s too busy putting the dolls to bed.",
+		"cn": "旁白：乔治没听见，他正忙着哄娃娃们睡觉。"
+	},
+	{
+		"en": "Peppa Pig: George, if you want to play with my doll’s house, you have to help with the tea party.",
+		"cn": "小猪佩奇：乔治，你要玩我的娃娃屋，就要帮忙办茶会。"
+	},
+	{
+		"en": "Peppa Pig: Here, George. You can fill the teapot with water.",
+		"cn": "小猪佩奇：乔治，你来给茶壶加水。"
+	},
+	{
+		"en": "Peppa Pig: (as mummy doll) Children, come downstairs right now.",
+		"cn": "小猪佩奇：（学妈妈娃娃）孩子们，快下来。"
+	},
+	{
+		"en": "Peppa Pig: (as the children dolls) Mummy, we’re coming.",
+		"cn": "小猪佩奇：（学孩子娃娃）妈妈，我们来了。"
+	},
+	{
+		"en": "Narrator: George is going to fill the teapot with water.",
+		"cn": "旁白：乔治要去给茶壶加水。"
+	},
+	{ "en": "George: Oo.", "cn": "乔治：哦。" },
+	{
+		"en": "Narrator: George has found a spider in the sink.",
+		"cn": "旁白：乔治在水池里发现了一只蜘蛛。"
+	},
+	{
+		"en": "Narrator: George wants the spider to be his friend.",
+		"cn": "旁白：乔治想和蜘蛛做朋友。"
+	},
+	{ "en": "George: Oh.", "cn": "乔治：哦。" },
+	{
+		"en": "Narrator: George likes the spider.",
+		"cn": "旁白：乔治喜欢这只蜘蛛。"
+	},
+	{
+		"en": "Narrator: The spider likes George.",
+		"cn": "旁白：蜘蛛也喜欢乔治。"
+	},
+	{
+		"en": "Narrator: Peppa loves playing tea parties.",
+		"cn": "旁白：佩奇喜欢玩茶会游戏。"
+	},
+	{
+		"en": "Peppa Pig: (as mummy doll) Where are all the chocolate biscuits, Daddy? We had lots yesterday.",
+		"cn": "小猪佩奇：（学妈妈娃娃）爸爸，巧克力饼干都去哪了？昨天还有好多呢。"
+	},
+	{
+		"en": "Peppa Pig: (as daddy doll) Oh, I’m sorry, Mummy. I must have eaten them all. Ho, ho, ho.",
+		"cn": "小猪佩奇：（学爸爸娃娃）对不起，妈妈，我肯定全吃光了。呵呵呵。"
+	},
+	{
+		"en": "Peppa Pig: (as mummy doll) Naughty Daddy.",
+		"cn": "小猪佩奇：（学妈妈娃娃）调皮的爸爸。"
+	},
+	{
+		"en": "Narrator: George is putting the spider to bed.",
+		"cn": "旁白：乔治把蜘蛛哄上床。"
+	},
+	{ "en": "George: Night-night.", "cn": "乔治：晚安。" },
+	{
+		"en": "Peppa Pig: George, what are you doing?",
+		"cn": "小猪佩奇：乔治，你在干什么？"
+	},
+	{
+		"en": "Peppa Pig: You have to help me with the tea party.",
+		"cn": "小猪佩奇：你要帮我办茶会。"
+	},
+	{ "en": "Peppa Pig: Help! Help!", "cn": "小猪佩奇：救命！救命！" },
+	{
+		"en": "Peppa Pig: Daddy, there’s a spider in my bedroom.",
+		"cn": "小猪佩奇：爸爸，我房间里有只蜘蛛。"
+	},
+	{ "en": "Daddy Pig: Don’t worry, Peppa.", "cn": "猪爸爸：别担心，佩奇。" },
+	{
+		"en": "Peppa Pig: Please, Daddy. Take it away.",
+		"cn": "小猪佩奇：求你了，爸爸，把它拿走。"
+	},
+	{ "en": "Daddy Pig: No need to panic.", "cn": "猪爸爸：不用慌。" },
+	{
+		"en": "Daddy Pig: Hello, George. Have you seen the spider?",
+		"cn": "猪爸爸：你好，乔治，你看到蜘蛛了吗？"
+	},
+	{
+		"en": "Peppa Pig: It’s too scary. Take it away.",
+		"cn": "小猪佩奇：太吓人了，把它拿走。"
+	},
+	{
+		"en": "Daddy Pig: There’s no need to be afraid, Peppa. Spiders are very very small and they can’t hurt you. But don’t worry. Daddy will take it out of the bedroom.",
+		"cn": "猪爸爸：不用怕，佩奇，蜘蛛很小，不会伤害你。别担心，爸爸会把它拿出去。"
+	},
+	{
+		"en": "Daddy Pig: Whoa! He’s quite big, isn’t he?",
+		"cn": "猪爸爸：哇，它还挺大的，对吧？"
+	},
+	{
+		"en": "Daddy Pig: Um, I’ll just fetch Mummy Pig.",
+		"cn": "猪爸爸：呃，我去叫猪妈妈来。"
+	},
+	{ "en": "Daddy Pig: Mummy Pig!", "cn": "猪爸爸：猪妈妈！" },
+	{
+		"en": "Peppa Pig: Hello, Mr Skinnylegs.",
+		"cn": "小猪佩奇：你好，细腿先生。"
+	},
+	{
+		"en": "Narrator: Peppa feels a little bit braver.",
+		"cn": "旁白：佩奇变得勇敢了一点。"
+	},
+	{
+		"en": "Peppa Pig: He likes being in my doll’s house.",
+		"cn": "小猪佩奇：他喜欢待在我的娃娃屋里。"
+	},
+	{
+		"en": "Mummy Pig: Hello, children. I hear you found a little spider. I’ll take him out of the bedroom so you two can play.",
+		"cn": "猪妈妈：孩子们，我听说你们发现了一只小蜘蛛。我把它拿出去，你们就能玩了。"
+	},
+	{
+		"en": "Peppa Pig: Mummy, his name is Mr Skinnylegs.",
+		"cn": "小猪佩奇：妈妈，他叫细腿先生。"
+	},
+	{
+		"en": "Mummy Pig: Mr Skinnylegs is big, isn’t he?",
+		"cn": "猪妈妈：细腿先生挺大的，对吧？"
+	},
+	{
+		"en": "Narrator: Peppa and George like the spider.",
+		"cn": "旁白：佩奇和乔治喜欢这只蜘蛛。"
+	},
+	{ "en": "George: Night-night.", "cn": "乔治：晚安。" },
+	{
+		"en": "Narrator: George is putting the spider to bed.",
+		"cn": "旁白：乔治又把蜘蛛哄上床。"
+	},
+	{
+		"en": "Peppa Pig: No, George. He wants some tea. He doesn’t want to be in bed.",
+		"cn": "小猪佩奇：不，乔治，他想喝茶，不想睡觉。"
+	},
+	{
+		"en": "Peppa Pig: Are you hungry, Mr Skinnylegs? Would you like some cake?",
+		"cn": "小猪佩奇：细腿先生，你饿了吗？想吃蛋糕吗？"
+	},
+	{
+		"en": "Narrator: Peppa isn’t afraid of the spider anymore.",
+		"cn": "旁白：佩奇不再害怕蜘蛛了。"
+	},
+	{
+		"en": "Peppa Pig: Mummy, Daddy, sit down. We are all going to have tea with Mr Skinnylegs.",
+		"cn": "小猪佩奇：妈妈，爸爸，坐下吧，我们要和细腿先生一起喝茶。"
+	},
+	{ "en": "Peppa Pig: Who wants tea?", "cn": "小猪佩奇：谁要喝茶？" },
+	{ "en": "Mummy Pig: Me, please.", "cn": "猪妈妈：我要。" },
+	{ "en": "Daddy Pig: Me, please.", "cn": "猪爸爸：我也要。" },
+	{ "en": "Daddy Pig: Delicious.", "cn": "猪爸爸：真好喝。" },
+	{
+		"en": "Narrator: Peppa loves playing tea parties.",
+		"cn": "旁白：佩奇喜欢玩茶会游戏。"
+	},
+	{
+		"en": "Peppa Pig: Here’s your tea, Mr Skinnylegs.",
+		"cn": "小猪佩奇：细腿先生，这是你的茶。"
+	},
+	{
+		"en": "Peppa Pig: What’s that? You want to say hello to my daddy?",
+		"cn": "小猪佩奇：什么？你想和我爸爸打招呼？"
+	},
+	{
+		"en": "Peppa Pig: (as Mr Skinnylegs) Hello, Mr Daddy Pig.",
+		"cn": "小猪佩奇：（学细腿先生）你好，猪爸爸。"
+	},
+	{
+		"en": "Daddy Pig: That’s all right, Peppa. Let Mr Skinnylegs drink his tea.",
+		"cn": "猪爸爸：没关系，佩奇，让细腿先生喝茶吧。"
+	},
+	{
+		"en": "Peppa Pig: You’re not scared, are you, Daddy?",
+		"cn": "小猪佩奇：爸爸，你不害怕吧？"
+	},
+	{ "en": "Daddy Pig: No, of course not.", "cn": "猪爸爸：当然不怕。" },
+	{ "en": "Daddy Pig: Whoa! Not so close.", "cn": "猪爸爸：哇，别靠那么近。" },
+	{ "en": "Daddy Pig: Whoa!", "cn": "猪爸爸：哇！" },
+	{
+		"en": "Narrator: Peppa likes Mr Skinnylegs.",
+		"cn": "旁白：佩奇喜欢细腿先生。"
+	},
+	{
+		"en": "Narrator: Everyone likes Mr Skinnylegs.",
+		"cn": "旁白：大家都喜欢细腿先生。"
+	}
+]

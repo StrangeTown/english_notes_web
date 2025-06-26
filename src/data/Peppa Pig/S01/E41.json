@@ -1,161 +1,227 @@
-Narrator: Peppa and George are going shopping.
-
-Narrator: Peppa and George like shopping.
-
-Narrator: George loves sitting in the trolley.
-
-Narrator: So does Peppa.
-
-Peppa Pig: Daddy, can I sit in the trolley, too?
-
-Daddy Pig: You’re too big for the trolley, Peppa.
-
-Peppa Pig: Oh.
-
-Daddy Pig: But you can help with the shopping.
-
-Peppa Pig: Oh, goody!
-
-Mummy Pig: We’ve got four things on the list.
-
-Daddy Pig: Tomatoes, spaghetti, onions and fruit.
-
-Peppa Pig: I’ll find it all.
-
-Peppa Pig: This way.
-
-Narrator: Peppa and George love shopping.
-
-Mummy Pig: Peppa, first we need tomatoes.
-
-Peppa Pig: Hmm. I can see them, I can see them.
-
-Peppa Pig: Here are the tomatoes, Mummy.
-
-Mummy Pig: Well done, Peppa.
-
-Peppa Pig: One, two, three, four.
-
-Mummy Pig: Now, put them in the trolley.
-
-Peppa Pig: I found the tomatoes.
-
-Daddy Pig: Well done, Peppa. Tomatoes. That’s one thing off the list. What’s next on the list?
-
-Peppa Pig: Spaghetti.
-
-George: Pighetti.
-
-Daddy Pig: That’s right, George. But it’s called “spaghetti.”
-
-George: Pighetti.
-
-Narrator: Spaghetti is Peppa and George’s favourite food.
-
-Daddy Pig: I wonder where the spaghetti is.
-
-Peppa Pig: I can see it. This way.
-
-Peppa Pig: Spaghetti. Look, Mummy. Here’s the spaghetti.
-
-Mummy Pig: Well done, Peppa. Let’s put the spaghetti in the trolley.
-
-Peppa Pig: Yes, Mummy.
-
-George: Pighetti.
-
-Peppa Pig: George, it’s called “spa-ghet-ti.”
-
-George: Pi-ghet-ti.
-
-Daddy Pig: What’s next on the list, Peppa?
-
-Peppa Pig: Crisps.
-
-Daddy Pig: Crisps are not on the list.
-
-Mummy Pig: We have plenty of crisps at home, Peppa.
-
-Daddy Pig: Have another guess.
-
-Peppa Pig: Hmm. I just can’t remember.
-
-Mummy Pig: Can you remember, George?
-
-George: Dinosaur.
-
-Mummy Pig: Dinosaur?
-
-Peppa Pig: George, there aren’t any dinosaurs in the supermarket.
-
-Daddy Pig: No, George. The next thing on the list is onions.
-
-Peppa Pig: Onions! I remember now.
-
-Peppa Pig: Here they are.
-
-Mummy Pig: Well done.
-
-Peppa Pig: One, two, three, four.
-
-Peppa Pig: Onions!
-
-Daddy Pig: Very good. That’s nearly everything on our list.
-
-Mummy Pig: There’s one last thing on the list.
-
-Narrator: A plant? Is that on the list?
-
-Daddy Pig: No, George. The last thing on the list is fruit.
-
-George: Oh.
-
-Mummy Pig: Never mind, George. You can choose the fruit.
-
-Mummy Pig: Where is the fruit?
-
-Peppa Pig: Over there.
-
-Narrator: There are apples, and oranges, and bananas, and a very big melon.
-
-Mummy Pig: What fruit shall we have, George? Apples?
-
-Daddy Pig: Oranges?
-
-Peppa Pig: Bananas?
-
-Peppa Pig: A melon!
-
-Narrator: This is the checkout where all the food is paid for.
-
-Miss Rabbit: Tomatoes, spaghetti, onions, melon, chocolate cake.
-
-Mummy Pig, Peppa Pig, and George: Chocolate cake?
-
-Narrator: Chocolate cake? Is that on the list?
-
-Mummy Pig: Peppa, did you put the chocolate cake in the trolley?
-
-Peppa Pig: No, Mummy.
-
-Mummy Pig: George, did you put the chocolate cake in the trolley?
-
-George: No.
-
-Mummy Pig: Well I didn’t put it in.
-
-Peppa Pig: Then who did?
-
-Daddy Pig: Uh, I thought it might be nice for pudding.
-
-Mummy Pig: Daddy Pig!
-
-Peppa Pig: Naughty Daddy.
-
-Daddy Pig: Sorry. It just looked so delicious.
-
-Mummy Pig: It does look rather yummy. Oh, let’s pretend it was on the list.
-
-George: Chocolate cake!
-
-Daddy Pig: Hurrah!
+[
+	{
+		"en": "Narrator: Peppa and George are going shopping.",
+		"cn": "旁白：佩奇和乔治要去购物。"
+	},
+	{
+		"en": "Narrator: Peppa and George like shopping.",
+		"cn": "旁白：佩奇和乔治喜欢购物。"
+	},
+	{
+		"en": "Narrator: George loves sitting in the trolley.",
+		"cn": "旁白：乔治喜欢坐在购物车里。"
+	},
+	{ "en": "Narrator: So does Peppa.", "cn": "旁白：佩奇也喜欢。" },
+	{
+		"en": "Peppa Pig: Daddy, can I sit in the trolley, too?",
+		"cn": "小猪佩奇：爸爸，我也能坐购物车吗？"
+	},
+	{
+		"en": "Daddy Pig: You’re too big for the trolley, Peppa.",
+		"cn": "猪爸爸：佩奇，你太大了，不能坐购物车。"
+	},
+	{ "en": "Peppa Pig: Oh.", "cn": "小猪佩奇：哦。" },
+	{
+		"en": "Daddy Pig: But you can help with the shopping.",
+		"cn": "猪爸爸：但你可以帮忙购物。"
+	},
+	{ "en": "Peppa Pig: Oh, goody!", "cn": "小猪佩奇：太好了！" },
+	{
+		"en": "Mummy Pig: We’ve got four things on the list.",
+		"cn": "猪妈妈：我们清单上有四样东西。"
+	},
+	{
+		"en": "Daddy Pig: Tomatoes, spaghetti, onions and fruit.",
+		"cn": "猪爸爸：西红柿、意大利面、洋葱和水果。"
+	},
+	{ "en": "Peppa Pig: I’ll find it all.", "cn": "小猪佩奇：我会全部找到的。" },
+	{ "en": "Peppa Pig: This way.", "cn": "小猪佩奇：这边走。" },
+	{
+		"en": "Narrator: Peppa and George love shopping.",
+		"cn": "旁白：佩奇和乔治喜欢购物。"
+	},
+	{
+		"en": "Mummy Pig: Peppa, first we need tomatoes.",
+		"cn": "猪妈妈：佩奇，首先我们需要西红柿。"
+	},
+	{
+		"en": "Peppa Pig: Hmm. I can see them, I can see them.",
+		"cn": "小猪佩奇：嗯，我看见了，我看见了。"
+	},
+	{
+		"en": "Peppa Pig: Here are the tomatoes, Mummy.",
+		"cn": "小猪佩奇：妈妈，这里有西红柿。"
+	},
+	{ "en": "Mummy Pig: Well done, Peppa.", "cn": "猪妈妈：做得好，佩奇。" },
+	{
+		"en": "Peppa Pig: One, two, three, four.",
+		"cn": "小猪佩奇：一，二，三，四。"
+	},
+	{
+		"en": "Mummy Pig: Now, put them in the trolley.",
+		"cn": "猪妈妈：现在把它们放进购物车。"
+	},
+	{
+		"en": "Peppa Pig: I found the tomatoes.",
+		"cn": "小猪佩奇：我找到西红柿了。"
+	},
+	{
+		"en": "Daddy Pig: Well done, Peppa. Tomatoes. That’s one thing off the list. What’s next on the list?",
+		"cn": "猪爸爸：做得好，佩奇。西红柿，清单上划掉一项。下一个是什么？"
+	},
+	{ "en": "Peppa Pig: Spaghetti.", "cn": "小猪佩奇：意大利面。" },
+	{ "en": "George: Pighetti.", "cn": "乔治：意大利面。" },
+	{
+		"en": "Daddy Pig: That’s right, George. But it’s called “spaghetti.”",
+		"cn": "猪爸爸：对，乔治，但它叫‘意大利面’。"
+	},
+	{ "en": "George: Pighetti.", "cn": "乔治：意大利面。" },
+	{
+		"en": "Narrator: Spaghetti is Peppa and George’s favourite food.",
+		"cn": "旁白：意大利面是佩奇和乔治最喜欢的食物。"
+	},
+	{
+		"en": "Daddy Pig: I wonder where the spaghetti is.",
+		"cn": "猪爸爸：我想知道意大利面在哪里。"
+	},
+	{
+		"en": "Peppa Pig: I can see it. This way.",
+		"cn": "小猪佩奇：我看见了，这边走。"
+	},
+	{
+		"en": "Peppa Pig: Spaghetti. Look, Mummy. Here’s the spaghetti.",
+		"cn": "小猪佩奇：意大利面。妈妈，这里有意大利面。"
+	},
+	{
+		"en": "Mummy Pig: Well done, Peppa. Let’s put the spaghetti in the trolley.",
+		"cn": "猪妈妈：做得好，佩奇。把意大利面放进购物车。"
+	},
+	{ "en": "Peppa Pig: Yes, Mummy.", "cn": "小猪佩奇：好的，妈妈。" },
+	{ "en": "George: Pighetti.", "cn": "乔治：意大利面。" },
+	{
+		"en": "Peppa Pig: George, it’s called “spa-ghet-ti.”",
+		"cn": "小猪佩奇：乔治，它叫‘意大利面’。"
+	},
+	{ "en": "George: Pi-ghet-ti.", "cn": "乔治：意大利面。" },
+	{
+		"en": "Daddy Pig: What’s next on the list, Peppa?",
+		"cn": "猪爸爸：清单上下一个是什么，佩奇？"
+	},
+	{ "en": "Peppa Pig: Crisps.", "cn": "小猪佩奇：薯片。" },
+	{
+		"en": "Daddy Pig: Crisps are not on the list.",
+		"cn": "猪爸爸：薯片不在清单上。"
+	},
+	{
+		"en": "Mummy Pig: We have plenty of crisps at home, Peppa.",
+		"cn": "猪妈妈：家里有很多薯片，佩奇。"
+	},
+	{ "en": "Daddy Pig: Have another guess.", "cn": "猪爸爸：再猜猜。" },
+	{
+		"en": "Peppa Pig: Hmm. I just can’t remember.",
+		"cn": "小猪佩奇：嗯，我就是想不起来。"
+	},
+	{
+		"en": "Mummy Pig: Can you remember, George?",
+		"cn": "猪妈妈：乔治，你记得吗？"
+	},
+	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
+	{ "en": "Mummy Pig: Dinosaur?", "cn": "猪妈妈：恐龙？" },
+	{
+		"en": "Peppa Pig: George, there aren’t any dinosaurs in the supermarket.",
+		"cn": "小猪佩奇：乔治，超市里没有恐龙。"
+	},
+	{
+		"en": "Daddy Pig: No, George. The next thing on the list is onions.",
+		"cn": "猪爸爸：不是，乔治，下一个是洋葱。"
+	},
+	{
+		"en": "Peppa Pig: Onions! I remember now.",
+		"cn": "小猪佩奇：洋葱！我想起来了。"
+	},
+	{ "en": "Peppa Pig: Here they are.", "cn": "小猪佩奇：在这里。" },
+	{ "en": "Mummy Pig: Well done.", "cn": "猪妈妈：做得好。" },
+	{
+		"en": "Peppa Pig: One, two, three, four.",
+		"cn": "小猪佩奇：一，二，三，四。"
+	},
+	{ "en": "Peppa Pig: Onions!", "cn": "小猪佩奇：洋葱！" },
+	{
+		"en": "Daddy Pig: Very good. That’s nearly everything on our list.",
+		"cn": "猪爸爸：很好，清单上的东西快齐了。"
+	},
+	{
+		"en": "Mummy Pig: There’s one last thing on the list.",
+		"cn": "猪妈妈：清单上还有最后一样。"
+	},
+	{
+		"en": "Narrator: A plant? Is that on the list?",
+		"cn": "旁白：一株植物？清单上有吗？"
+	},
+	{
+		"en": "Daddy Pig: No, George. The last thing on the list is fruit.",
+		"cn": "猪爸爸：不是，乔治，最后一样是水果。"
+	},
+	{ "en": "George: Oh.", "cn": "乔治：哦。" },
+	{
+		"en": "Mummy Pig: Never mind, George. You can choose the fruit.",
+		"cn": "猪妈妈：没关系，乔治，你可以选水果。"
+	},
+	{ "en": "Mummy Pig: Where is the fruit?", "cn": "猪妈妈：水果在哪里？" },
+	{ "en": "Peppa Pig: Over there.", "cn": "小猪佩奇：在那边。" },
+	{
+		"en": "Narrator: There are apples, and oranges, and bananas, and a very big melon.",
+		"cn": "旁白：有苹果、橙子、香蕉，还有一个很大的瓜。"
+	},
+	{
+		"en": "Mummy Pig: What fruit shall we have, George? Apples?",
+		"cn": "猪妈妈：我们吃什么水果，乔治？苹果吗？"
+	},
+	{ "en": "Daddy Pig: Oranges?", "cn": "猪爸爸：橙子？" },
+	{ "en": "Peppa Pig: Bananas?", "cn": "小猪佩奇：香蕉？" },
+	{ "en": "Peppa Pig: A melon!", "cn": "小猪佩奇：一个瓜！" },
+	{
+		"en": "Narrator: This is the checkout where all the food is paid for.",
+		"cn": "旁白：这里是结账台，所有食物都要在这里付款。"
+	},
+	{
+		"en": "Miss Rabbit: Tomatoes, spaghetti, onions, melon, chocolate cake.",
+		"cn": "兔小姐：西红柿、意大利面、洋葱、瓜、巧克力蛋糕。"
+	},
+	{
+		"en": "Mummy Pig, Peppa Pig, and George: Chocolate cake?",
+		"cn": "猪妈妈、小猪佩奇和乔治：巧克力蛋糕？"
+	},
+	{
+		"en": "Narrator: Chocolate cake? Is that on the list?",
+		"cn": "旁白：巧克力蛋糕？清单上有吗？"
+	},
+	{
+		"en": "Mummy Pig: Peppa, did you put the chocolate cake in the trolley?",
+		"cn": "猪妈妈：佩奇，是你把巧克力蛋糕放进购物车的吗？"
+	},
+	{ "en": "Peppa Pig: No, Mummy.", "cn": "小猪佩奇：不是，妈妈。" },
+	{
+		"en": "Mummy Pig: George, did you put the chocolate cake in the trolley?",
+		"cn": "猪妈妈：乔治，是你放的吗？"
+	},
+	{ "en": "George: No.", "cn": "乔治：不是。" },
+	{ "en": "Mummy Pig: Well I didn’t put it in.", "cn": "猪妈妈：我也没放。" },
+	{ "en": "Peppa Pig: Then who did?", "cn": "小猪佩奇：那是谁放的？" },
+	{
+		"en": "Daddy Pig: Uh, I thought it might be nice for pudding.",
+		"cn": "猪爸爸：呃，我觉得当甜点不错。"
+	},
+	{ "en": "Mummy Pig: Daddy Pig!", "cn": "猪妈妈：猪爸爸！" },
+	{ "en": "Peppa Pig: Naughty Daddy.", "cn": "小猪佩奇：调皮的爸爸。" },
+	{
+		"en": "Daddy Pig: Sorry. It just looked so delicious.",
+		"cn": "猪爸爸：对不起，它看起来太好吃了。"
+	},
+	{
+		"en": "Mummy Pig: It does look rather yummy. Oh, let’s pretend it was on the list.",
+		"cn": "猪妈妈：确实很美味。哦，我们就假装它在清单上吧。"
+	},
+	{ "en": "George: Chocolate cake!", "cn": "乔治：巧克力蛋糕！" },
+	{ "en": "Daddy Pig: Hurrah!", "cn": "猪爸爸：万岁！" }
+]

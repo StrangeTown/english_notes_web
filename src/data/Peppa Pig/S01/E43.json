@@ -1,143 +1,209 @@
-Narrator: It is Peppa’s birthday. It is very early in the morning.
-
-Peppa Pig: It’s my birthday.
-
-Peppa Pig: George, wake up. It’s my birthday.
-
-Peppa Pig: I’m going to have a party, and Daddy is doing a magic show.
-
-Peppa Pig: Quick, George. Let’s wake Mummy and Daddy up.
-
-Narrator: Mummy Pig and Daddy Pig are still fast asleep.
-
-Peppa Pig: Wake up, it’s my birthday!
-
-Peppa Pig: Wake up!
-
-Mummy Pig: What time is it?
-
-Peppa Pig: It’s very late.
-
-Daddy Pig: It’s five o’clock in the morning.
-
-Peppa Pig: Yes, the whole day is going.
-
-Mummy Pig: Okay, let’s get your birthday started.
-
-Peppa Pig: Yippee!
-
-Narrator: Mummy Pig, Daddy Pig and George are giving Peppa her birthday present.
-
-Mummy Pig and Daddy Pig: Happy birthday, Peppa.
-
-Peppa Pig: Oo, what is it?
-
-Peppa Pig: A doll’s dress. I can put it on Teddy.
-
-Peppa Pig: Thank you, everyone.
-
-Daddy Pig: You’re welcome, Peppa. I didn’t know Teddy was a girl teddy.
-
-Peppa Pig: Oh, Daddy, of course Teddy is a girl.
-
-Peppa Pig: (as Teddy) I love my new dress. Thank you, everyone.
-
-Peppa Pig: You’re welcome, Teddy. Don’t get it dirty.
-
-Mummy Pig: Do you know what’s happening next, Peppa?
-
-Peppa Pig: Yes, my friends are coming for my birthday party, and Daddy is doing a magic show.
-
-Daddy Pig: No one will know the magician is your daddy. You’ll introduce me as The Amazing Mysterio.
-
-Peppa Pig: The Mazy Mistio.
-
-Daddy Pig: Yes, The Amazing Mysterio.
-
-Mummy Pig: Daddy’s been practising his magic tricks all week.
-
-Peppa Pig: My friends are here! Yippee!
-
-Narrator: Here are Peppa’s friends, Candy Cat, Suzy Sheep, Danny Dog, Rebecca Rabbit, and Pedro Pony
-
-Peppa Pig: Hello, everyone.
-
-Candy Cat, Suzy Sheep, Danny Dog, Rebecca Rabbit, Pedro Pony: Happy birthday, Peppa.
-
-Mummy Pig: Come on, children. The party’s starting.
-
-The Children: Hurrah!
-
-Narrator: Daddy Pig is going to do a magic show.
-
-Daddy Pig: Peppa, remember what you have to say?
-
-Daddy Pig: Ladies and gentlemen, introducing The Amazing Mysterio.
-
-Peppa Pig: Okay, Daddy.
-
-Peppa Pig: Ladies and gentlemen, uh, it’s Magic Daddy.
-
-The Children: Hurrah!
-
-Daddy Pig: For my first trick...Abracadabra.
-
-Peppa Pig: Wow, it’s Teddy!
-
-Daddy Pig: For my next trick I need a helper from the audience.
-
-The Children: Me, me, me, me!
-
-Daddy Pig: I just need one.
-
-Daddy Pig: Young lady, you put your hand up first. Can you tell the audience your name?
-
-Suzy Sheep: Suzy Sheep.
-
-Daddy Pig: Okay, Suzy. Here are three balls, a red one, a blue one, and a yellow one.
-
-Suzy Sheep: Okay.
-
-Daddy Pig: You have to secretly choose one while my back is turned.
-
-Suzy Sheep: Okay.
-
-Daddy Pig: Have you chosen one?
-
-Suzy Sheep: Yes.
-
-Daddy Pig: Abracadabra, you chose yellow.
-
-Suzy Sheep: No.
-
-Daddy Pig: Abracadabra...blue.
-
-Suzy Sheep: No.
-
-Daddy Pig: Abracadabra...red.
-
-Suzy Sheep: Yes! It is red.
-
-The Children: Hurrah!
-
-Peppa Pig: Silly Magic Daddy. You said all three colours.
-
-Daddy Pig: Shush, Peppa. Don’t tell anyone.
-
-Daddy Pig: Would you like one more trick?
-
-The Children: Yes, please.
-
-Daddy Pig: Close your eyes. No looking. Say the magic words, “Abracadabra.”
-
-The Children: Abracadabra.
-
-Daddy Pig: Open your eyes.
-
-Peppa Pig: Hurrah! My banana birthday cake.
-
-Mummy Pig: Blow the candles out, Peppa.
-
-Candy Cat, Suzy Sheep, Danny Dog, Rebecca Rabbit, Pedro Pony: Hurrah! Happy birthday, Peppa.
-
-Peppa Pig: Thank you, everyone. This is my best birthday ever.
+[
+	{
+		"en": "Narrator: It is Peppa’s birthday. It is very early in the morning.",
+		"cn": "旁白：今天是佩奇的生日。现在还很早。"
+	},
+	{ "en": "Peppa Pig: It’s my birthday.", "cn": "小猪佩奇：今天是我的生日。" },
+	{
+		"en": "Peppa Pig: George, wake up. It’s my birthday.",
+		"cn": "小猪佩奇：乔治，快醒醒，今天是我的生日。"
+	},
+	{
+		"en": "Peppa Pig: I’m going to have a party, and Daddy is doing a magic show.",
+		"cn": "小猪佩奇：我要开派对，爸爸要表演魔术。"
+	},
+	{
+		"en": "Peppa Pig: Quick, George. Let’s wake Mummy and Daddy up.",
+		"cn": "小猪佩奇：快点，乔治，我们去叫醒妈妈和爸爸。"
+	},
+	{
+		"en": "Narrator: Mummy Pig and Daddy Pig are still fast asleep.",
+		"cn": "旁白：猪妈妈和猪爸爸还在熟睡。"
+	},
+	{
+		"en": "Peppa Pig: Wake up, it’s my birthday!",
+		"cn": "小猪佩奇：快醒醒，是我的生日！"
+	},
+	{ "en": "Peppa Pig: Wake up!", "cn": "小猪佩奇：快醒醒！" },
+	{ "en": "Mummy Pig: What time is it?", "cn": "猪妈妈：现在几点了？" },
+	{ "en": "Peppa Pig: It’s very late.", "cn": "小猪佩奇：很晚了。" },
+	{
+		"en": "Daddy Pig: It’s five o’clock in the morning.",
+		"cn": "猪爸爸：现在才早上五点。"
+	},
+	{
+		"en": "Peppa Pig: Yes, the whole day is going.",
+		"cn": "小猪佩奇：是啊，一天都快过去了。"
+	},
+	{
+		"en": "Mummy Pig: Okay, let’s get your birthday started.",
+		"cn": "猪妈妈：好吧，我们开始你的生日吧。"
+	},
+	{ "en": "Peppa Pig: Yippee!", "cn": "小猪佩奇：耶！" },
+	{
+		"en": "Narrator: Mummy Pig, Daddy Pig and George are giving Peppa her birthday present.",
+		"cn": "旁白：猪妈妈、猪爸爸和乔治正在给佩奇送生日礼物。"
+	},
+	{
+		"en": "Mummy Pig and Daddy Pig: Happy birthday, Peppa.",
+		"cn": "猪妈妈和猪爸爸：生日快乐，佩奇。"
+	},
+	{ "en": "Peppa Pig: Oo, what is it?", "cn": "小猪佩奇：哦，这是什么？" },
+	{
+		"en": "Peppa Pig: A doll’s dress. I can put it on Teddy.",
+		"cn": "小猪佩奇：是个娃娃裙，我可以给泰迪穿上。"
+	},
+	{ "en": "Peppa Pig: Thank you, everyone.", "cn": "小猪佩奇：谢谢大家。" },
+	{
+		"en": "Daddy Pig: You’re welcome, Peppa. I didn’t know Teddy was a girl teddy.",
+		"cn": "猪爸爸：不客气，佩奇。我还不知道泰迪是女孩呢。"
+	},
+	{
+		"en": "Peppa Pig: Oh, Daddy, of course Teddy is a girl.",
+		"cn": "小猪佩奇：哦，爸爸，泰迪当然是女孩。"
+	},
+	{
+		"en": "Peppa Pig: (as Teddy) I love my new dress. Thank you, everyone.",
+		"cn": "小猪佩奇（扮泰迪）：我喜欢我的新裙子，谢谢大家。"
+	},
+	{
+		"en": "Peppa Pig: You’re welcome, Teddy. Don’t get it dirty.",
+		"cn": "小猪佩奇：不客气，泰迪，别弄脏了。"
+	},
+	{
+		"en": "Mummy Pig: Do you know what’s happening next, Peppa?",
+		"cn": "猪妈妈：佩奇，你知道接下来要做什么吗？"
+	},
+	{
+		"en": "Peppa Pig: Yes, my friends are coming for my birthday party, and Daddy is doing a magic show.",
+		"cn": "小猪佩奇：知道，我的朋友们要来参加我的生日派对，爸爸要表演魔术。"
+	},
+	{
+		"en": "Daddy Pig: No one will know the magician is your daddy. You’ll introduce me as The Amazing Mysterio.",
+		"cn": "猪爸爸：没人会知道魔术师是你爸爸，你要介绍我为‘神奇的神秘先生’。"
+	},
+	{ "en": "Peppa Pig: The Mazy Mistio.", "cn": "小猪佩奇：神奇的神秘先生。" },
+	{
+		"en": "Daddy Pig: Yes, The Amazing Mysterio.",
+		"cn": "猪爸爸：对，神奇的神秘先生。"
+	},
+	{
+		"en": "Mummy Pig: Daddy’s been practising his magic tricks all week.",
+		"cn": "猪妈妈：爸爸一周都在练魔术。"
+	},
+	{
+		"en": "Peppa Pig: My friends are here! Yippee!",
+		"cn": "小猪佩奇：我的朋友们来了！耶！"
+	},
+	{
+		"en": "Narrator: Here are Peppa’s friends, Candy Cat, Suzy Sheep, Danny Dog, Rebecca Rabbit, and Pedro Pony",
+		"cn": "旁白：佩奇的朋友们来了，有糖果猫、苏茜羊、丹尼狗、丽贝卡兔和佩德罗小马。"
+	},
+	{ "en": "Peppa Pig: Hello, everyone.", "cn": "小猪佩奇：大家好。" },
+	{
+		"en": "Candy Cat, Suzy Sheep, Danny Dog, Rebecca Rabbit, Pedro Pony: Happy birthday, Peppa.",
+		"cn": "糖果猫、苏茜羊、丹尼狗、丽贝卡兔、佩德罗小马：生日快乐，佩奇。"
+	},
+	{
+		"en": "Mummy Pig: Come on, children. The party’s starting.",
+		"cn": "猪妈妈：孩子们，快来，派对开始了。"
+	},
+	{ "en": "The Children: Hurrah!", "cn": "孩子们：万岁！" },
+	{
+		"en": "Narrator: Daddy Pig is going to do a magic show.",
+		"cn": "旁白：猪爸爸要表演魔术了。"
+	},
+	{
+		"en": "Daddy Pig: Peppa, remember what you have to say?",
+		"cn": "猪爸爸：佩奇，记得你要说什么吗？"
+	},
+	{
+		"en": "Daddy Pig: Ladies and gentlemen, introducing The Amazing Mysterio.",
+		"cn": "猪爸爸：女士们先生们，欢迎神奇的神秘先生。"
+	},
+	{ "en": "Peppa Pig: Okay, Daddy.", "cn": "小猪佩奇：好的，爸爸。" },
+	{
+		"en": "Peppa Pig: Ladies and gentlemen, uh, it’s Magic Daddy.",
+		"cn": "小猪佩奇：女士们先生们，呃，是魔术爸爸。"
+	},
+	{ "en": "The Children: Hurrah!", "cn": "孩子们：万岁！" },
+	{
+		"en": "Daddy Pig: For my first trick...Abracadabra.",
+		"cn": "猪爸爸：我的第一个魔术……阿布拉卡达布拉。"
+	},
+	{ "en": "Peppa Pig: Wow, it’s Teddy!", "cn": "小猪佩奇：哇，是泰迪！" },
+	{
+		"en": "Daddy Pig: For my next trick I need a helper from the audience.",
+		"cn": "猪爸爸：下一个魔术我需要一位观众帮忙。"
+	},
+	{ "en": "The Children: Me, me, me, me!", "cn": "孩子们：我，我，我！" },
+	{ "en": "Daddy Pig: I just need one.", "cn": "猪爸爸：我只需要一个。" },
+	{
+		"en": "Daddy Pig: Young lady, you put your hand up first. Can you tell the audience your name?",
+		"cn": "猪爸爸：小姑娘，你先举手了，能告诉大家你的名字吗？"
+	},
+	{ "en": "Suzy Sheep: Suzy Sheep.", "cn": "苏茜羊：苏茜羊。" },
+	{
+		"en": "Daddy Pig: Okay, Suzy. Here are three balls, a red one, a blue one, and a yellow one.",
+		"cn": "猪爸爸：好的，苏茜。这有三个球，一个红的，一个蓝的，一个黄的。"
+	},
+	{ "en": "Suzy Sheep: Okay.", "cn": "苏茜羊：好的。" },
+	{
+		"en": "Daddy Pig: You have to secretly choose one while my back is turned.",
+		"cn": "猪爸爸：你要在我转身时偷偷选一个。"
+	},
+	{ "en": "Suzy Sheep: Okay.", "cn": "苏茜羊：好的。" },
+	{ "en": "Daddy Pig: Have you chosen one?", "cn": "猪爸爸：你选好了吗？" },
+	{ "en": "Suzy Sheep: Yes.", "cn": "苏茜羊：选好了。" },
+	{
+		"en": "Daddy Pig: Abracadabra, you chose yellow.",
+		"cn": "猪爸爸：阿布拉卡达布拉，你选的是黄色。"
+	},
+	{ "en": "Suzy Sheep: No.", "cn": "苏茜羊：不是。" },
+	{
+		"en": "Daddy Pig: Abracadabra...blue.",
+		"cn": "猪爸爸：阿布拉卡达布拉……蓝色。"
+	},
+	{ "en": "Suzy Sheep: No.", "cn": "苏茜羊：不是。" },
+	{
+		"en": "Daddy Pig: Abracadabra...red.",
+		"cn": "猪爸爸：阿布拉卡达布拉……红色。"
+	},
+	{ "en": "Suzy Sheep: Yes! It is red.", "cn": "苏茜羊：对！是红色。" },
+	{ "en": "The Children: Hurrah!", "cn": "孩子们：万岁！" },
+	{
+		"en": "Peppa Pig: Silly Magic Daddy. You said all three colours.",
+		"cn": "小猪佩奇：傻爸爸，你把三种颜色都说了。"
+	},
+	{
+		"en": "Daddy Pig: Shush, Peppa. Don’t tell anyone.",
+		"cn": "猪爸爸：嘘，佩奇，别告诉别人。"
+	},
+	{
+		"en": "Daddy Pig: Would you like one more trick?",
+		"cn": "猪爸爸：你们还想看一个魔术吗？"
+	},
+	{ "en": "The Children: Yes, please.", "cn": "孩子们：想！" },
+	{
+		"en": "Daddy Pig: Close your eyes. No looking. Say the magic words, “Abracadabra.”",
+		"cn": "猪爸爸：闭上眼睛，不许偷看，说魔法咒语‘阿布拉卡达布拉’。"
+	},
+	{ "en": "The Children: Abracadabra.", "cn": "孩子们：阿布拉卡达布拉。" },
+	{ "en": "Daddy Pig: Open your eyes.", "cn": "猪爸爸：睁开眼睛。" },
+	{
+		"en": "Peppa Pig: Hurrah! My banana birthday cake.",
+		"cn": "小猪佩奇：万岁！我的香蕉生日蛋糕。"
+	},
+	{
+		"en": "Mummy Pig: Blow the candles out, Peppa.",
+		"cn": "猪妈妈：佩奇，吹灭蜡烛吧。"
+	},
+	{
+		"en": "Candy Cat, Suzy Sheep, Danny Dog, Rebecca Rabbit, Pedro Pony: Hurrah! Happy birthday, Peppa.",
+		"cn": "糖果猫、苏茜羊、丹尼狗、丽贝卡兔、佩德罗小马：万岁！生日快乐，佩奇。"
+	},
+	{
+		"en": "Peppa Pig: Thank you, everyone. This is my best birthday ever.",
+		"cn": "小猪佩奇：谢谢大家，这是我最棒的生日。"
+	}
+]

@@ -1,131 +1,212 @@
-Narrator: The sun is shining. It is a very hot day.
-
-Mummy Pig: What a lovely hot day.
-
-Narrator: Peppa and George are wearing their boots. They’re going to jump in muddy puddles.
-
-Peppa Pig: I love muddy puddles.
-
-Peppa Pig: Oh.
-
-Narrator: Oh, dear. The sun is so hot that the puddles have dried up.
-
-Peppa Pig: Mummy, Daddy, the puddles are all dry. We can’t jump in them.
-
-Mummy Pig: Never mind, Peppa. It’s so sunny you can play in the paddling pool instead.
-
-Peppa Pig: Yes, the paddling pool!
-
-Mummy Pig: First, you have to change into your swimming costumes.
-
-Peppa Pig: Yes, Mummy.
-
-Narrator: Peppa and George are wearing their swimming costumes. Mummy Pig is wearing her swimming costume. And Daddy Pig is wearing his swimming costume.
-
-Mummy Pig: Because it’s so hot, you need sun cream.
-
-Peppa Pig: Yuck! It’s all oily and yucky.
-
-George: Yuck.
-
-Daddy Pig: What a fuss about nothing.
-
-Mummy Pig: Yes, we all need sun cream today.
-
-Daddy Pig: Oh.
-
-Daddy Pig: Come on, George. Let’s get some air into this paddling pool.
-
-Narrator: Daddy Pig is pumping up the paddling pool.
-
-Daddy Pig: Easy as pie.
-
-Narrator: Peppa holds the hose, and Mummy Pig turns on the water.
-
-Peppa Pig: Where’s the water?
-
-Narrator: Peppa and George love their paddling pool.
-
-Miss Rabbit: Ice cream! Ice cream!
-
-Peppa Pig: Miss Rabbit, the ice cream lady!
-
-Miss Rabbit: Ice cream!
-
-Narrator: On very hot days Miss Rabbit sells ice cream.
-
-Peppa Pig: Mummy, Daddy, can George and I have an ice cream please?
-
-Mummy Pig: Oh well, I suppose it is an especially hot day.
-
-Peppa Pig: Hurrah!
-
-Daddy Pig: Please can I have one as well?
-
-Narrator: Everyone likes ice cream.
-
-Miss Rabbit: Hello Mummy Pig, Peppa and George.
-
-Mummy Pig: Hello, Miss Rabbit.
-
-Miss Rabbit: What ice creams would you like?
-
-Peppa Pig: Can I have a cone please, Miss Rabbit?
-
-Miss Rabbit: Of course you may, Peppa.
-
-Peppa Pig: Thank you.
-
-Mummy Pig: The same for me and one for Daddy Pig, please.
-
-Miss Rabbit: And what would young Mr George like?
-
-George: Dinosaur.
-
-Miss Rabbit: A dinosaur?
-
-Peppa Pig: Silly George. He always says dinosaur for everything.
-
-Miss Rabbit: Well, it just so happens that I do have a dinosaur shaped ice lolly.
-
-George: Dinosaur, grrr.
-
-Mummy Pig: George, you should eat your ice lolly before it melts.
-
-George: Dinosaur.
-
-Narrator: George loves his dinosaur ice lolly so much he doesn’t want to eat it.
-
-Mummy Pig: Thank you, Miss Rabbit.
-
-Miss Rabbit: Enjoy the weather.
-
-Mummy Pig: George, I really think you should eat your ice lolly before it melts and...falls on the ground.
-
-Narrator: Oh, dear. George’s dinosaur ice lolly has melted and fallen on the ground.
-
-Mummy Pig: Never mind, George. You can share Daddy’s ice cream. I’m sure he won’t mind.
-
-Narrator: It is so warm Daddy Pig has fallen asleep.
-
-Mummy Pig: Daddy Pig does look hot.
-
-Peppa Pig: Let’s tip water on Daddy to cool him down.
-
-Mummy Pig: Good idea, Peppa.
-
-Daddy Pig: What happened?
-
-Mummy Pig: You were all red and hot, Daddy Pig.
-
-Peppa Pig: So we tipped water on you.
-
-Daddy Pig: Oh, I see. Thank you, Peppa.
-
-Peppa Pig: Look! The puddles are back.
-
-Peppa Pig: Quick, George! Let’s get our boots.
-
-Narrator: Peppa and George are wearing their boots.
-
-Narrator: Peppa and George love the hot day, but most of all they love jumping up and down in puddles. 
+[
+	{
+		"en": "Narrator: The sun is shining. It is a very hot day.",
+		"cn": "旁白：阳光明媚，今天非常热。"
+	},
+	{
+		"en": "Mummy Pig: What a lovely hot day.",
+		"cn": "猪妈妈：多么美好又炎热的一天啊。"
+	},
+	{
+		"en": "Narrator: Peppa and George are wearing their boots. They’re going to jump in muddy puddles.",
+		"cn": "旁白：佩奇和乔治穿上了靴子，他们要去跳泥坑。"
+	},
+	{ "en": "Peppa Pig: I love muddy puddles.", "cn": "小猪佩奇：我喜欢泥坑。" },
+	{ "en": "Peppa Pig: Oh.", "cn": "小猪佩奇：哦。" },
+	{
+		"en": "Narrator: Oh, dear. The sun is so hot that the puddles have dried up.",
+		"cn": "旁白：哎呀，太阳太大，泥坑都干了。"
+	},
+	{
+		"en": "Peppa Pig: Mummy, Daddy, the puddles are all dry. We can’t jump in them.",
+		"cn": "小猪佩奇：妈妈，爸爸，泥坑都干了，我们不能跳了。"
+	},
+	{
+		"en": "Mummy Pig: Never mind, Peppa. It’s so sunny you can play in the paddling pool instead.",
+		"cn": "猪妈妈：没关系，佩奇，天气这么好，你们可以玩充气泳池。"
+	},
+	{
+		"en": "Peppa Pig: Yes, the paddling pool!",
+		"cn": "小猪佩奇：好啊，玩泳池！"
+	},
+	{
+		"en": "Mummy Pig: First, you have to change into your swimming costumes.",
+		"cn": "猪妈妈：首先，你们要换上泳衣。"
+	},
+	{ "en": "Peppa Pig: Yes, Mummy.", "cn": "小猪佩奇：好的，妈妈。" },
+	{
+		"en": "Narrator: Peppa and George are wearing their swimming costumes. Mummy Pig is wearing her swimming costume. And Daddy Pig is wearing his swimming costume.",
+		"cn": "旁白：佩奇和乔治穿上了泳衣，猪妈妈和猪爸爸也都穿上了泳衣。"
+	},
+	{
+		"en": "Mummy Pig: Because it’s so hot, you need sun cream.",
+		"cn": "猪妈妈：因为天气很热，你们需要擦防晒霜。"
+	},
+	{
+		"en": "Peppa Pig: Yuck! It’s all oily and yucky.",
+		"cn": "小猪佩奇：呃，好油腻，好难受。"
+	},
+	{ "en": "George: Yuck.", "cn": "乔治：呃。" },
+	{
+		"en": "Daddy Pig: What a fuss about nothing.",
+		"cn": "猪爸爸：真是小题大做。"
+	},
+	{
+		"en": "Mummy Pig: Yes, we all need sun cream today.",
+		"cn": "猪妈妈：是的，今天大家都要擦防晒霜。"
+	},
+	{ "en": "Daddy Pig: Oh.", "cn": "猪爸爸：哦。" },
+	{
+		"en": "Daddy Pig: Come on, George. Let’s get some air into this paddling pool.",
+		"cn": "猪爸爸：来吧，乔治，我们给泳池打点气。"
+	},
+	{
+		"en": "Narrator: Daddy Pig is pumping up the paddling pool.",
+		"cn": "旁白：猪爸爸正在给泳池打气。"
+	},
+	{ "en": "Daddy Pig: Easy as pie.", "cn": "猪爸爸：小菜一碟。" },
+	{
+		"en": "Narrator: Peppa holds the hose, and Mummy Pig turns on the water.",
+		"cn": "旁白：佩奇拿着水管，猪妈妈打开水龙头。"
+	},
+	{ "en": "Peppa Pig: Where’s the water?", "cn": "小猪佩奇：水呢？" },
+	{
+		"en": "Narrator: Peppa and George love their paddling pool.",
+		"cn": "旁白：佩奇和乔治喜欢他们的泳池。"
+	},
+	{
+		"en": "Miss Rabbit: Ice cream! Ice cream!",
+		"cn": "兔小姐：冰淇淋！冰淇淋！"
+	},
+	{
+		"en": "Peppa Pig: Miss Rabbit, the ice cream lady!",
+		"cn": "小猪佩奇：兔小姐，卖冰淇淋的来了！"
+	},
+	{ "en": "Miss Rabbit: Ice cream!", "cn": "兔小姐：冰淇淋！" },
+	{
+		"en": "Narrator: On very hot days Miss Rabbit sells ice cream.",
+		"cn": "旁白：天气很热的时候，兔小姐会卖冰淇淋。"
+	},
+	{
+		"en": "Peppa Pig: Mummy, Daddy, can George and I have an ice cream please?",
+		"cn": "小猪佩奇：妈妈，爸爸，我和乔治能吃冰淇淋吗？"
+	},
+	{
+		"en": "Mummy Pig: Oh well, I suppose it is an especially hot day.",
+		"cn": "猪妈妈：好吧，今天确实特别热。"
+	},
+	{ "en": "Peppa Pig: Hurrah!", "cn": "小猪佩奇：好耶！" },
+	{
+		"en": "Daddy Pig: Please can I have one as well?",
+		"cn": "猪爸爸：我也能来一个吗？"
+	},
+	{
+		"en": "Narrator: Everyone likes ice cream.",
+		"cn": "旁白：大家都喜欢冰淇淋。"
+	},
+	{
+		"en": "Miss Rabbit: Hello Mummy Pig, Peppa and George.",
+		"cn": "兔小姐：你好，猪妈妈，佩奇和乔治。"
+	},
+	{ "en": "Mummy Pig: Hello, Miss Rabbit.", "cn": "猪妈妈：你好，兔小姐。" },
+	{
+		"en": "Miss Rabbit: What ice creams would you like?",
+		"cn": "兔小姐：你们想要什么口味的冰淇淋？"
+	},
+	{
+		"en": "Peppa Pig: Can I have a cone please, Miss Rabbit?",
+		"cn": "小猪佩奇：兔小姐，我要一个甜筒。"
+	},
+	{
+		"en": "Miss Rabbit: Of course you may, Peppa.",
+		"cn": "兔小姐：当然可以，佩奇。"
+	},
+	{ "en": "Peppa Pig: Thank you.", "cn": "小猪佩奇：谢谢你。" },
+	{
+		"en": "Mummy Pig: The same for me and one for Daddy Pig, please.",
+		"cn": "猪妈妈：我和猪爸爸也要一样的，谢谢。"
+	},
+	{
+		"en": "Miss Rabbit: And what would young Mr George like?",
+		"cn": "兔小姐：小乔治想要什么？"
+	},
+	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
+	{ "en": "Miss Rabbit: A dinosaur?", "cn": "兔小姐：恐龙？" },
+	{
+		"en": "Peppa Pig: Silly George. He always says dinosaur for everything.",
+		"cn": "小猪佩奇：傻乔治，他什么都说恐龙。"
+	},
+	{
+		"en": "Miss Rabbit: Well, it just so happens that I do have a dinosaur shaped ice lolly.",
+		"cn": "兔小姐：正好我有一个恐龙形状的冰棍。"
+	},
+	{ "en": "George: Dinosaur, grrr.", "cn": "乔治：恐龙，嗷。" },
+	{
+		"en": "Mummy Pig: George, you should eat your ice lolly before it melts.",
+		"cn": "猪妈妈：乔治，你要趁冰棍没化赶快吃。"
+	},
+	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
+	{
+		"en": "Narrator: George loves his dinosaur ice lolly so much he doesn’t want to eat it.",
+		"cn": "旁白：乔治太喜欢他的恐龙冰棍了，都舍不得吃。"
+	},
+	{
+		"en": "Mummy Pig: Thank you, Miss Rabbit.",
+		"cn": "猪妈妈：谢谢你，兔小姐。"
+	},
+	{ "en": "Miss Rabbit: Enjoy the weather.", "cn": "兔小姐：祝你们玩得开心。" },
+	{
+		"en": "Mummy Pig: George, I really think you should eat your ice lolly before it melts and...falls on the ground.",
+		"cn": "猪妈妈：乔治，我真的觉得你要趁冰棍没化掉前吃掉，不然会掉地上的。"
+	},
+	{
+		"en": "Narrator: Oh, dear. George’s dinosaur ice lolly has melted and fallen on the ground.",
+		"cn": "旁白：哎呀，乔治的恐龙冰棍化了，掉在地上了。"
+	},
+	{
+		"en": "Mummy Pig: Never mind, George. You can share Daddy’s ice cream. I’m sure he won’t mind.",
+		"cn": "猪妈妈：没关系，乔治，你可以和爸爸一起吃冰淇淋，他不会介意的。"
+	},
+	{
+		"en": "Narrator: It is so warm Daddy Pig has fallen asleep.",
+		"cn": "旁白：天气太热，猪爸爸睡着了。"
+	},
+	{
+		"en": "Mummy Pig: Daddy Pig does look hot.",
+		"cn": "猪妈妈：猪爸爸看起来很热。"
+	},
+	{
+		"en": "Peppa Pig: Let’s tip water on Daddy to cool him down.",
+		"cn": "小猪佩奇：我们给爸爸泼点水降温吧。"
+	},
+	{ "en": "Mummy Pig: Good idea, Peppa.", "cn": "猪妈妈：好主意，佩奇。" },
+	{ "en": "Daddy Pig: What happened?", "cn": "猪爸爸：怎么了？" },
+	{
+		"en": "Mummy Pig: You were all red and hot, Daddy Pig.",
+		"cn": "猪妈妈：你全身都红了，很热，猪爸爸。"
+	},
+	{
+		"en": "Peppa Pig: So we tipped water on you.",
+		"cn": "小猪佩奇：所以我们给你泼了水。"
+	},
+	{
+		"en": "Daddy Pig: Oh, I see. Thank you, Peppa.",
+		"cn": "猪爸爸：哦，原来如此，谢谢你，佩奇。"
+	},
+	{
+		"en": "Peppa Pig: Look! The puddles are back.",
+		"cn": "小猪佩奇：看！泥坑又回来了。"
+	},
+	{
+		"en": "Peppa Pig: Quick, George! Let’s get our boots.",
+		"cn": "小猪佩奇：快，乔治，我们去拿靴子。"
+	},
+	{
+		"en": "Narrator: Peppa and George are wearing their boots.",
+		"cn": "旁白：佩奇和乔治穿上了靴子。"
+	},
+	{
+		"en": "Narrator: Peppa and George love the hot day, but most of all they love jumping up and down in puddles.",
+		"cn": "旁白：佩奇和乔治喜欢炎热的天气，但他们最喜欢的还是在泥坑里跳来跳去。"
+	}
+]

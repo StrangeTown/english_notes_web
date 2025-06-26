@@ -1,149 +1,236 @@
-Narrator: Mummy Pig is watching a keep fit programme on television.
-
-Potato on TV: ...three and four and, come on now, that’s right. Bend it, stretch it, bend it, stretch it...
-
-Daddy Pig: I love watching telly.
-
-Daddy Pig: What’s this, Mummy Pig?
-
-Mummy Pig: It’s a programme about doing exercises to keep fit.
-
-Daddy Pig: Thank goodness I don’t have to exercise. I’m naturally fit.
-
-Peppa Pig: You don’t look very fit, Daddy. Your tummy is a bit big.
-
-Daddy Pig: I’m very fit. I’ll show you. What shall I do first?
-
-Peppa Pig: Touch your toes like this.
-
-Daddy Pig: Easy.
-
-Peppa Pig: Daddy, stop pretending that you can’t touch your toes.
-
-Daddy Pig: Er, I’m not pretending, Peppa.
-
-Narrator: Daddy Pig really cannot touch his toes.
-
-Peppa Pig: Oh dear, Daddy. That’s not very good.
-
-Daddy Pig: Hmm? Maybe I should do a bit of exercise.
-
-Peppa Pig: Yes, Daddy.
-
-Daddy Pig: And I will start...tomorrow.
-
-Mummy Pig: Daddy Pig, you have to start exercising now.
-
-Daddy Pig: Oh.
-
-Peppa Pig: Don’t worry, Daddy. I will help you.
-
-Daddy Pig: Oh, all right.
-
-Daddy Pig: Peppa, you’re in charge of getting me fit. What shall I do first?
-
-Peppa Pig: First you must do some press-ups.
-
-Daddy Pig: Easy.
-
-Peppa Pig: One. Two.
-
-Daddy Pig: There.
-
-Peppa Pig: Very good, Daddy. Now I want you to do one hundred.
-
-Daddy Pig: One hundred?
-
-Peppa Pig: Yes.
-
-Mummy Pig: Come on, children. Help me make lunch.
-
-Daddy Pig: I’ll help as well.
-
-Peppa Pig: No, Daddy. You’ve got one hundred press-ups to do.
-
-Daddy Pig: Oh. One, two...
-
-Narrator: Mummy Pig, Peppa and George are in the kitchen making lunch.
-
-Daddy Pig: Six...
-
-Narrator: Daddy Pig is still doing his press-ups.
-
-Daddy Pig: Eight...
-
-Peppa Pig: Daddy is doing very well.
-
-Daddy Pig: Ten...
-
-Mummy Pig: Yes. I do hope he’s not overdoing it.
-
-Peppa Pig: I’ll go and see.
-
-Daddy Pig: Thirteen, fourteen, fifteen, sixteen, seventeen.
-
-Peppa Pig: Daddy Pig! You’re cheating!You should be doing press-ups.
-
-Daddy Pig: Oh, er, there was something interesting on the TV.
-
-Peppa Pig: Naughty Daddy.
-
-Mummy Pig: Maybe Daddy will have more success with my old exercise bike.
-
-Daddy Pig: Ah ha. This looks like fun. I’ll be able to cycle and watch TV at the same time.
-
-Daddy Pig: That’s impossible. This bike is too noisy. I can’t hear the TV.
-
-Mummy Pig: You’ve got to get fit somehow.
-
-Peppa Pig: I know! You can use my bicycle!
-
-Mummy Pig: Yes, and then you’ll get some fresh air as well.
-
-Narrator: Daddy Pig is going to ride on Peppa’s little bicycle.
-
-Peppa Pig: Daddy, these are the pedals, these are the brakes, and this is the bell.
-
-Daddy Pig: Yes, yes, thank you, Peppa. I know. Bye-bye.
-
-Daddy Pig: Easy as pie.
-
-Narrator: Getting fit is quite hard work.
-
-Daddy Pig: Now I can get fit without having to pedal.
-
-Narrator: Daddy Pig is going very fast.
-
-Daddy Pig: Oh. Maybe I’d better slow down.
-
-Daddy Pig: The brakes aren’t strong enough!
-
-Narrator: Daddy Pig has been gone for a long time.
-
-Peppa Pig: Mummy, where can Daddy be?
-
-Mummy Pig: Don’t worry, Peppa. Daddy must be really enjoying himself to be away for so long.
-
-Peppa Pig: Daddy! Where have you been?
-
-Daddy Pig: I whizzed all the way down the hill. Then I had to push the bike all the way back up again.
-
-Mummy Pig: Oh, poor Daddy Pig.
-
-Daddy Pig: Well at least I’ve done my exercise.
-
-Mummy Pig: Yes, for today.
-
-Daddy Pig: What do you mean?
-
-Mummy Pig: You have to do some more exercise tomorrow.
-
-Daddy Pig: What?
-
-Peppa Pig: Daddy, to get fit you have to exercise every day.
-
-Daddy Pig: Oh no.
-
-Peppa Pig: But don’t worry, Daddy. I’ll make sure you do it.
-
-Daddy Pig: Yes, I know you will.
+[
+	{
+		"en": "Narrator: Mummy Pig is watching a keep fit programme on television.",
+		"cn": "旁白：猪妈妈正在电视上看健身节目。"
+	},
+	{
+		"en": "Potato on TV: ...three and four and, come on now, that’s right. Bend it, stretch it, bend it, stretch it...",
+		"cn": "电视里的土豆：……三，四，加油，对了。弯腰，伸展，弯腰，伸展……"
+	},
+	{ "en": "Daddy Pig: I love watching telly.", "cn": "猪爸爸：我喜欢看电视。" },
+	{
+		"en": "Daddy Pig: What’s this, Mummy Pig?",
+		"cn": "猪爸爸：这是什么，猪妈妈？"
+	},
+	{
+		"en": "Mummy Pig: It’s a programme about doing exercises to keep fit.",
+		"cn": "猪妈妈：这是一个锻炼身体的节目。"
+	},
+	{
+		"en": "Daddy Pig: Thank goodness I don’t have to exercise. I’m naturally fit.",
+		"cn": "猪爸爸：幸好我不用锻炼，我天生就很健康。"
+	},
+	{
+		"en": "Peppa Pig: You don’t look very fit, Daddy. Your tummy is a bit big.",
+		"cn": "小猪佩奇：爸爸，你看起来不太健康，你的肚子有点大。"
+	},
+	{
+		"en": "Daddy Pig: I’m very fit. I’ll show you. What shall I do first?",
+		"cn": "猪爸爸：我很健康，我给你们看看。我先做什么？"
+	},
+	{
+		"en": "Peppa Pig: Touch your toes like this.",
+		"cn": "小猪佩奇：像这样摸到你的脚趾。"
+	},
+	{ "en": "Daddy Pig: Easy.", "cn": "猪爸爸：简单。" },
+	{
+		"en": "Peppa Pig: Daddy, stop pretending that you can’t touch your toes.",
+		"cn": "小猪佩奇：爸爸，别假装你摸不到脚趾。"
+	},
+	{
+		"en": "Daddy Pig: Er, I’m not pretending, Peppa.",
+		"cn": "猪爸爸：呃，我没假装，佩奇。"
+	},
+	{
+		"en": "Narrator: Daddy Pig really cannot touch his toes.",
+		"cn": "旁白：猪爸爸真的摸不到自己的脚趾。"
+	},
+	{
+		"en": "Peppa Pig: Oh dear, Daddy. That’s not very good.",
+		"cn": "小猪佩奇：哎呀，爸爸，这可不太好。"
+	},
+	{
+		"en": "Daddy Pig: Hmm? Maybe I should do a bit of exercise.",
+		"cn": "猪爸爸：嗯？也许我该锻炼一下了。"
+	},
+	{ "en": "Peppa Pig: Yes, Daddy.", "cn": "小猪佩奇：是的，爸爸。" },
+	{
+		"en": "Daddy Pig: And I will start...tomorrow.",
+		"cn": "猪爸爸：我会开始的……明天。"
+	},
+	{
+		"en": "Mummy Pig: Daddy Pig, you have to start exercising now.",
+		"cn": "猪妈妈：猪爸爸，你现在就要开始锻炼。"
+	},
+	{ "en": "Daddy Pig: Oh.", "cn": "猪爸爸：哦。" },
+	{
+		"en": "Peppa Pig: Don’t worry, Daddy. I will help you.",
+		"cn": "小猪佩奇：别担心，爸爸，我会帮你的。"
+	},
+	{ "en": "Daddy Pig: Oh, all right.", "cn": "猪爸爸：好吧。" },
+	{
+		"en": "Daddy Pig: Peppa, you’re in charge of getting me fit. What shall I do first?",
+		"cn": "猪爸爸：佩奇，你负责让我健康，我先做什么？"
+	},
+	{
+		"en": "Peppa Pig: First you must do some press-ups.",
+		"cn": "小猪佩奇：首先你要做俯卧撑。"
+	},
+	{ "en": "Daddy Pig: Easy.", "cn": "猪爸爸：简单。" },
+	{ "en": "Peppa Pig: One. Two.", "cn": "小猪佩奇：一，二。" },
+	{ "en": "Daddy Pig: There.", "cn": "猪爸爸：好了。" },
+	{
+		"en": "Peppa Pig: Very good, Daddy. Now I want you to do one hundred.",
+		"cn": "小猪佩奇：很好，爸爸。现在我要你做一百个。"
+	},
+	{ "en": "Daddy Pig: One hundred?", "cn": "猪爸爸：一百个？" },
+	{ "en": "Peppa Pig: Yes.", "cn": "小猪佩奇：对。" },
+	{
+		"en": "Mummy Pig: Come on, children. Help me make lunch.",
+		"cn": "猪妈妈：来吧，孩子们，帮我做午饭。"
+	},
+	{ "en": "Daddy Pig: I’ll help as well.", "cn": "猪爸爸：我也来帮忙。" },
+	{
+		"en": "Peppa Pig: No, Daddy. You’ve got one hundred press-ups to do.",
+		"cn": "小猪佩奇：不行，爸爸，你要做一百个俯卧撑。"
+	},
+	{ "en": "Daddy Pig: Oh. One, two...", "cn": "猪爸爸：哦。一，二……" },
+	{
+		"en": "Narrator: Mummy Pig, Peppa and George are in the kitchen making lunch.",
+		"cn": "旁白：猪妈妈、佩奇和乔治在厨房做午饭。"
+	},
+	{ "en": "Daddy Pig: Six...", "cn": "猪爸爸：六……" },
+	{
+		"en": "Narrator: Daddy Pig is still doing his press-ups.",
+		"cn": "旁白：猪爸爸还在做俯卧撑。"
+	},
+	{ "en": "Daddy Pig: Eight...", "cn": "猪爸爸：八……" },
+	{
+		"en": "Peppa Pig: Daddy is doing very well.",
+		"cn": "小猪佩奇：爸爸做得很好。"
+	},
+	{ "en": "Daddy Pig: Ten...", "cn": "猪爸爸：十……" },
+	{
+		"en": "Mummy Pig: Yes. I do hope he’s not overdoing it.",
+		"cn": "猪妈妈：是啊，我希望他不要做得太多。"
+	},
+	{ "en": "Peppa Pig: I’ll go and see.", "cn": "小猪佩奇：我去看看。" },
+	{
+		"en": "Daddy Pig: Thirteen, fourteen, fifteen, sixteen, seventeen.",
+		"cn": "猪爸爸：十三，十四，十五，十六，十七。"
+	},
+	{
+		"en": "Peppa Pig: Daddy Pig! You’re cheating!You should be doing press-ups.",
+		"cn": "小猪佩奇：猪爸爸！你在作弊！你应该做俯卧撑。"
+	},
+	{
+		"en": "Daddy Pig: Oh, er, there was something interesting on the TV.",
+		"cn": "猪爸爸：哦，呃，电视上有有趣的东西。"
+	},
+	{ "en": "Peppa Pig: Naughty Daddy.", "cn": "小猪佩奇：调皮的爸爸。" },
+	{
+		"en": "Mummy Pig: Maybe Daddy will have more success with my old exercise bike.",
+		"cn": "猪妈妈：也许爸爸用我的旧健身车会更成功。"
+	},
+	{
+		"en": "Daddy Pig: Ah ha. This looks like fun. I’ll be able to cycle and watch TV at the same time.",
+		"cn": "猪爸爸：啊哈，这看起来很有趣。我可以一边骑车一边看电视。"
+	},
+	{
+		"en": "Daddy Pig: That’s impossible. This bike is too noisy. I can’t hear the TV.",
+		"cn": "猪爸爸：不行，这辆车太吵了，我听不到电视。"
+	},
+	{
+		"en": "Mummy Pig: You’ve got to get fit somehow.",
+		"cn": "猪妈妈：你总得想办法锻炼。"
+	},
+	{
+		"en": "Peppa Pig: I know! You can use my bicycle!",
+		"cn": "小猪佩奇：我知道！你可以用我的自行车！"
+	},
+	{
+		"en": "Mummy Pig: Yes, and then you’ll get some fresh air as well.",
+		"cn": "猪妈妈：对，这样你还能呼吸新鲜空气。"
+	},
+	{
+		"en": "Narrator: Daddy Pig is going to ride on Peppa’s little bicycle.",
+		"cn": "旁白：猪爸爸要骑佩奇的小自行车了。"
+	},
+	{
+		"en": "Peppa Pig: Daddy, these are the pedals, these are the brakes, and this is the bell.",
+		"cn": "小猪佩奇：爸爸，这是脚踏板，这是刹车，这是铃铛。"
+	},
+	{
+		"en": "Daddy Pig: Yes, yes, thank you, Peppa. I know. Bye-bye.",
+		"cn": "猪爸爸：好好，谢谢你，佩奇。我知道了，拜拜。"
+	},
+	{ "en": "Daddy Pig: Easy as pie.", "cn": "猪爸爸：小菜一碟。" },
+	{
+		"en": "Narrator: Getting fit is quite hard work.",
+		"cn": "旁白：锻炼身体其实很辛苦。"
+	},
+	{
+		"en": "Daddy Pig: Now I can get fit without having to pedal.",
+		"cn": "猪爸爸：现在我不用踩踏板也能锻炼了。"
+	},
+	{
+		"en": "Narrator: Daddy Pig is going very fast.",
+		"cn": "旁白：猪爸爸骑得很快。"
+	},
+	{
+		"en": "Daddy Pig: Oh. Maybe I’d better slow down.",
+		"cn": "猪爸爸：哦，也许我该慢点。"
+	},
+	{
+		"en": "Daddy Pig: The brakes aren’t strong enough!",
+		"cn": "猪爸爸：刹车不够灵！"
+	},
+	{
+		"en": "Narrator: Daddy Pig has been gone for a long time.",
+		"cn": "旁白：猪爸爸出去了很久。"
+	},
+	{
+		"en": "Peppa Pig: Mummy, where can Daddy be?",
+		"cn": "小猪佩奇：妈妈，爸爸去哪儿了？"
+	},
+	{
+		"en": "Mummy Pig: Don’t worry, Peppa. Daddy must be really enjoying himself to be away for so long.",
+		"cn": "猪妈妈：别担心，佩奇，爸爸一定玩得很开心才会这么久不回来。"
+	},
+	{
+		"en": "Peppa Pig: Daddy! Where have you been?",
+		"cn": "小猪佩奇：爸爸！你去哪儿了？"
+	},
+	{
+		"en": "Daddy Pig: I whizzed all the way down the hill. Then I had to push the bike all the way back up again.",
+		"cn": "猪爸爸：我一路冲下山，然后又把自行车推上来。"
+	},
+	{
+		"en": "Mummy Pig: Oh, poor Daddy Pig.",
+		"cn": "猪妈妈：哎呀，可怜的猪爸爸。"
+	},
+	{
+		"en": "Daddy Pig: Well at least I’ve done my exercise.",
+		"cn": "猪爸爸：至少我锻炼了。"
+	},
+	{ "en": "Mummy Pig: Yes, for today.", "cn": "猪妈妈：是的，今天算锻炼了。" },
+	{ "en": "Daddy Pig: What do you mean?", "cn": "猪爸爸：什么意思？" },
+	{
+		"en": "Mummy Pig: You have to do some more exercise tomorrow.",
+		"cn": "猪妈妈：你明天还要锻炼。"
+	},
+	{ "en": "Daddy Pig: What?", "cn": "猪爸爸：什么？" },
+	{
+		"en": "Peppa Pig: Daddy, to get fit you have to exercise every day.",
+		"cn": "小猪佩奇：爸爸，要健康就要每天锻炼。"
+	},
+	{ "en": "Daddy Pig: Oh no.", "cn": "猪爸爸：哦不。" },
+	{
+		"en": "Peppa Pig: But don’t worry, Daddy. I’ll make sure you do it.",
+		"cn": "小猪佩奇：别担心，爸爸，我会监督你的。"
+	},
+	{
+		"en": "Daddy Pig: Yes, I know you will.",
+		"cn": "猪爸爸：是的，我知道你会的。"
+	}
+]
