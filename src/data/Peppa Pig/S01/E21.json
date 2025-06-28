@@ -1,30 +1,90 @@
 [
 	{
 		"en": "Narrator: Mummy Pig and Daddy Pig have been tidying the house.",
-		"cn": "旁白：猪妈妈和猪爸爸一直在整理房子。"
+		"cn": "旁白：猪妈妈和猪爸爸一直在整理房子。",
+		"points": [
+			{
+				"en": "tidying the house",
+				"cn": "整理房子"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Mummy Pig and I found this old box in the attic.",
-		"cn": "猪爸爸：猪妈妈和我在阁楼上发现了这个旧箱子。"
+		"cn": "猪爸爸：猪妈妈和我在阁楼上发现了这个旧箱子。",
+		"sentence": {
+			"en": "Daddy Pig and I found this old box in the attic.",
+			"cn": "猪爸爸和我在阁楼上发现了这个旧箱子。",
+			"examples": [
+				{
+					"en": "Daddy Pig and I found this old book in the car.",
+					"cn": "猪爸爸和我在车里发现了这本旧书"
+				},
+				{
+					"en": "Daddy Pig and I found this old toy in the basement.",
+					"cn": "猪爸爸和我在地下室发现了这个旧玩具"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig and George: Ooo!", "cn": "小猪佩奇和乔治：哦！" },
 	{
 		"en": "Daddy Pig: Can anyone guess what’s inside?",
-		"cn": "猪爸爸：有人能猜到里面是什么吗？"
+		"cn": "猪爸爸：有人能猜到里面是什么吗？",
+		"sentence": {
+			"en": "Can anyone guess what’s inside?",
+			"cn": "有人能猜到里面是什么吗？",
+			"examples": [
+				{
+					"en": "Can anyone guess what’s in the box?",
+					"cn": "有人能猜到箱子里有什么吗？"
+				},
+				{
+					"en": "Can anyone guess what’s under the bed?",
+					"cn": "有人能猜到床下有什么吗？"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Hmmm? Nope.", "cn": "小猪佩奇：嗯？不知道。" },
 	{
 		"en": "Mummy Pig: It’s full of musical instruments.",
-		"cn": "猪妈妈：里面全是乐器。"
+		"cn": "猪妈妈：里面全是乐器。",
+		"points": [
+			{
+				"en": "musical instruments",
+				"cn": "乐器"
+			}
+		]
 	},
 	{ "en": "Peppa Pig and George: Wow!", "cn": "小猪佩奇和乔治：哇！" },
 	{
 		"en": "Daddy Pig: They are a bit old and dusty.",
-		"cn": "猪爸爸：它们有点旧，还有灰尘。"
+		"cn": "猪爸爸：它们有点旧，还有灰尘。",
+		"points": [
+			{
+				"en": "old and dusty",
+				"cn": "旧的和有灰尘的"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: This is the violin I used to play when I was little.",
-		"cn": "猪妈妈：这是我小时候拉的小提琴。"
+		"cn": "猪妈妈：这是我小时候拉的小提琴。",
+		"sentence": {
+			"en": "This is the violin I used to play when I was little.",
+			"cn": "这是我小时候拉的小提琴。",
+			"examples": [
+				{
+					"en": "This is the guitar I used to play when I was young.",
+					"cn": "这是我年轻时弹的吉他。"
+				},
+				{
+					"en": "This is the piano I used to play when I was a child.",
+					"cn": "这是我小时候弹的钢琴。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Mummy, can you play your violin?",
@@ -32,7 +92,21 @@
 	},
 	{
 		"en": "Mummy Pig: I haven’t played it for a long time.",
-		"cn": "猪妈妈：我很久没拉了。"
+		"cn": "猪妈妈：我很久没拉了。",
+		"sentence": {
+			"en": "I haven’t played it for a long time.",
+			"cn": "我很久没拉了。",
+			"examples": [
+				{
+					"en": "I haven’t played the piano for a long time.",
+					"cn": "我很久没弹钢琴了。"
+				},
+				{
+					"en": "I haven’t kicked a football for a long time.",
+					"cn": "我很久没踢足球了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Please, Mummy. Please play it.",
@@ -40,20 +114,66 @@
 	},
 	{
 		"en": "Mummy Pig: I hope I haven’t forgotten how.",
-		"cn": "猪妈妈：希望我没忘记怎么拉。"
+		"cn": "猪妈妈：希望我没忘记怎么拉。",
+		"sentence": {
+			"en": "I hope I haven’t forgotten how.",
+			"cn": "我希望我没忘记怎么拉。",
+			"examples": [
+				{
+					"en": "I hope I haven’t forgotten how to ride a bike.",
+					"cn": "我希望我没忘记怎么骑自行车。"
+				},
+				{
+					"en": "I hope I haven’t forgotten how to cook this dish.",
+					"cn": "我希望我没忘记怎么做这道菜。"
+				}
+			]
+		}
 	},
-	{ "en": "Daddy Pig: Bravo!", "cn": "猪爸爸：太棒了！" },
+	{
+		"en": "Daddy Pig: Bravo!",
+		"cn": "猪爸爸：太棒了！",
+		"points": [
+			{
+				"en": "Bravo!",
+				"cn": "太棒了！"
+			}
+		]
+	},
 	{ "en": "Peppa Pig: Hurrah!", "cn": "小猪佩奇：万岁！" },
 	{
 		"en": "Peppa Pig: Mummy, can I play the violin?",
 		"cn": "小猪佩奇：妈妈，我可以拉小提琴吗？"
 	},
-	{ "en": "Mummy Pig: Hold it like this.", "cn": "猪妈妈：这样拿着。" },
+	{
+		"en": "Mummy Pig: Hold it like this.",
+		"cn": "猪妈妈：这样拿着。",
+		"points": [
+			{
+				"en": "Hold it like this",
+				"cn": "这样拿着"
+			}
+		]
+	},
 	{ "en": "Peppa Pig: Yes, Mummy.", "cn": "小猪佩奇：好的，妈妈。" },
 	{ "en": "Daddy Pig and Mummy Pig: Oh!", "cn": "猪爸爸和猪妈妈：哦！" },
 	{
 		"en": "Narrator: Oh, dear. I do not think it is meant to sound like that.",
-		"cn": "旁白：哎呀，应该不是这个声音。"
+		"cn": "旁白：哎呀，应该不是这个声音。",
+		"sentence": {
+			"en": "I do not think it is meant to sound like that.",
+			"cn": "我觉得应该不是这个声音。",
+			"examples": [
+				{
+					"en": "I do not think it is meant to look like that.",
+					"cn": "我觉得应该不是这个样子。"
+				},
+				{
+					"en": "I do not think it is meant to taste like that.",
+					"cn": "我觉得应该不是这个味道。"
+				}
+			]
+		}
 	},
 	{ "en": "Narrator: George wants to try.", "cn": "旁白：乔治也想试试。" },
 	{
@@ -66,15 +186,57 @@
 	},
 	{
 		"en": "Narrator: That does not sound quite right either.",
-		"cn": "旁白：这个声音也不太对。"
+		"cn": "旁白：这个声音也不太对。",
+		"sentence": {
+			"en": "That does not sound quite right either.",
+			"cn": "这个声音也不太对。",
+			"examples": [
+				{
+					"en": "That does not look quite right either.",
+					"cn": "这个样子也不太对。"
+				},
+				{
+					"en": "That does not taste quite right either.",
+					"cn": "这个味道也不太对。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: The violin is too hard to play.",
-		"cn": "小猪佩奇：小提琴太难拉了。"
+		"cn": "小猪佩奇：小提琴太难拉了。",
+		"sentence": {
+			"en": "The violin is too hard to play.",
+			"cn": "小提琴太难拉了。",
+			"examples": [
+				{
+					"en": "The guitar is too hard to play.",
+					"cn": "吉他太难弹了。"
+				},
+				{
+					"en": "The yo-yo is too hard to play.",
+					"cn": "悠悠球太难玩了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Peppa, maybe you’d do better with this tin drum.",
-		"cn": "猪爸爸：佩奇，也许你玩这个小鼓会更好。"
+		"cn": "猪爸爸：佩奇，也许你玩这个小鼓会更好。",
+		"sentence": {
+			"en": "Peppa, maybe you’d do better with this tin drum.",
+			"cn": "佩奇，也许你玩这个小鼓会更好。",
+			"examples": [
+				{
+					"en": "Peppa, maybe you’d do better with this toy car.",
+					"cn": "佩奇，也许你玩这个玩具车会更好。"
+				},
+				{
+					"en": "Peppa, maybe you’d do better with this puzzle.",
+					"cn": "佩奇，也许你玩这个拼图会更好。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Thank you, Daddy.", "cn": "小猪佩奇：谢谢你，爸爸。" },
 	{
@@ -84,19 +246,59 @@
 	{ "en": "Mummy Pig: Lovely.", "cn": "猪妈妈：真好听。" },
 	{
 		"en": "Daddy Pig: Yes, it sounds very nice.",
-		"cn": "猪爸爸：是的，声音很好听。"
+		"cn": "猪爸爸：是的，声音很好听。",
+		"points": [
+			{
+				"en": "sounds very nice",
+				"cn": "声音很好听"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: This is Daddy Pig’s old accordion.",
-		"cn": "猪妈妈：这是猪爸爸以前的手风琴。"
+		"cn": "猪妈妈：这是猪爸爸以前的手风琴。",
+		"points": [
+			{
+				"en": "Daddy Pig’s old accordion",
+				"cn": "猪爸爸以前的手风琴"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: I used to play this to Mummy Pig when we first met.",
-		"cn": "猪爸爸：我和猪妈妈刚认识时经常给她弹这个。"
+		"cn": "猪爸爸：我和猪妈妈刚认识时经常给她弹这个。",
+		"sentence": {
+			"en": "I used to play this to Mummy Pig when we first met.",
+			"cn": "我和猪妈妈刚认识时经常给她弹这个。",
+			"examples": [
+				{
+					"en": "I used to play this song to Mummy Pig when we first met.",
+					"cn": "我和猪妈妈刚认识时经常给她唱这首歌。"
+				},
+				{
+					"en": "I used to play this game with Mummy Pig when we first met.",
+					"cn": "我和猪妈妈刚认识时经常和她玩这个游戏。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Oh, Daddy Pig. You remember this tune.",
-		"cn": "猪妈妈：哦，猪爸爸，你还记得这首曲子。"
+		"cn": "猪妈妈：哦，猪爸爸，你还记得这首曲子。",
+		"sentence": {
+			"en": "You remember this tune.",
+			"cn": "你还记得这首曲子。",
+			"examples": [
+				{
+					"en": "You remember this song.",
+					"cn": "你还记得这首歌。"
+				},
+				{
+					"en": "You remember this story.",
+					"cn": "你还记得这个故事。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: George wants to play the accordion too.",
@@ -104,35 +306,140 @@
 	},
 	{
 		"en": "Daddy Pig: Are you sure, George? The accordion is quite difficult.",
-		"cn": "猪爸爸：你确定吗，乔治？手风琴很难弹的。"
+		"cn": "猪爸爸：你确定吗，乔治？手风琴很难弹的。",
+		"sentence": {
+			"en": "The accordion is quite difficult.",
+			"cn": "手风琴很难弹。",
+			"examples": [
+				{
+					"en": "The ukelele is quite difficult.",
+					"cn": "尤克里里很难弹。"
+				},
+				{
+					"en": "The piano is quite difficult.",
+					"cn": "钢琴很难弹。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: George, the “accrodion” is almost as difficult to play as my drum.",
-		"cn": "小猪佩奇：乔治，手风琴和我的鼓一样难弹。"
+		"cn": "小猪佩奇：乔治，手风琴和我的鼓一样难弹。",
+		"points": [
+			{
+				"en": "almost as difficult to play as my drum",
+				"cn": "和我的鼓一样难弹"
+			}
+		]
 	},
 	{ "en": "Daddy Pig: Okay, George.", "cn": "猪爸爸：好吧，乔治。" },
 	{
 		"en": "Narrator: Maybe George is a bit too little to play the accordion.",
-		"cn": "旁白：也许乔治还太小，弹不了手风琴。"
+		"cn": "旁白：也许乔治还太小，弹不了手风琴。",
+		"sentence": {
+			"en": "Maybe George is a bit too little to play the accordion.",
+			"cn": "也许乔治还太小，弹不了手风琴。",
+			"examples": [
+				{
+					"en": "Maybe Peppa is a bit too little to ride a bike.",
+					"cn": "也许佩奇还太小，骑不了自行车。"
+				},
+				{
+					"en": "Maybe Suzy is a bit too little to play football.",
+					"cn": "也许苏茜还太小，踢不了足球。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Daddy, what other instruments are in the box?",
-		"cn": "小猪佩奇：爸爸，箱子里还有什么乐器？"
+		"cn": "小猪佩奇：爸爸，箱子里还有什么乐器？",
+		"sentence": {
+			"en": "Daddy, what other instruments are in the box?",
+			"cn": "爸爸，箱子里还有什么乐器？",
+			"examples": [
+				{
+					"en": "Daddy, what other toys are in the box?",
+					"cn": "爸爸，箱子里还有什么玩具？"
+				},
+				{
+					"en": "Daddy, what other books are on the shelf?",
+					"cn": "爸爸，架子上还有什么书？"
+				}
+			]
+		}
 	},
-	{ "en": "Daddy Pig: Just this horn.", "cn": "猪爸爸：只有这个号了。" },
-	{ "en": "Peppa Pig: Can I try?", "cn": "小猪佩奇：我可以试试吗？" },
+	{
+		"en": "Daddy Pig: Just this horn.",
+		"cn": "猪爸爸：只有这个号了。"
+	},
+	{
+		"en": "Peppa Pig: Can I try?",
+		"cn": "小猪佩奇：我可以试试吗？",
+		"sentence": {
+			"en": "Can I try?",
+			"cn": "我可以试试吗？",
+			"examples": [
+				{
+					"en": "Can I try the drum?",
+					"cn": "我可以试试鼓吗？"
+				},
+				{
+					"en": "Can I try the guitar?",
+					"cn": "我可以试试吉他吗？"
+				}
+			]
+		}
+	},
 	{
 		"en": "Daddy Pig: You have to blow it very hard.",
-		"cn": "猪爸爸：你要用力吹。"
+		"cn": "猪爸爸：你要用力吹。",
+		"points": [
+			{
+				"en": "blow it very hard",
+				"cn": "用力吹"
+			}
+		]
 	},
 	{
 		"en": "Narrator: That does not sound right.",
 		"cn": "旁白：这个声音不对。"
 	},
-	{ "en": "Peppa Pig: It’s impossible.", "cn": "小猪佩奇：太难了。" },
+	{
+		"en": "Peppa Pig: It’s impossible.",
+		"cn": "小猪佩奇：太难了。",
+		"sentence": {
+			"en": "It’s impossible.",
+			"cn": "太难了。",
+			"examples": [
+				{
+					"en": "It’s impossible to climb that mountain.",
+					"cn": "爬那座山是不可能的。"
+				},
+				{
+					"en": "It’s impossible to finish this puzzle.",
+					"cn": "完成这个拼图是不可能的。"
+				}
+			]
+		}
+	},
 	{
 		"en": "Mummy Pig: I think I used to be able to play it.",
-		"cn": "猪妈妈：我记得我以前会吹。"
+		"cn": "猪妈妈：我记得我以前会吹。",
+		"sentence": {
+			"en": "I used to be able to play it.",
+			"cn": "我以前会吹。",
+			"examples": [
+				{
+					"en": "I used to be able to ride a bike.",
+					"cn": "我以前会骑自行车。"
+				},
+				{
+					"en": "I used to be able to swim.",
+					"cn": "我以前会游泳。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: That really does not sound right.",
@@ -140,7 +447,13 @@
 	},
 	{
 		"en": "Daddy Pig: Maybe it just needs someone big and strong like me.",
-		"cn": "猪爸爸：也许需要像我这样强壮的人来吹。"
+		"cn": "猪爸爸：也许需要像我这样强壮的人来吹。",
+		"points": [
+			{
+				"en": "big and strong like me",
+				"cn": "像我这样强壮的人"
+			}
+		]
 	},
 	{
 		"en": "Narrator: That does not sound right either.",
@@ -152,11 +465,31 @@
 	},
 	{
 		"en": "Mummy Pig: Never mind, Daddy Pig. Just stick to the accordion. You play it beautifully.",
-		"cn": "猪妈妈：没关系，猪爸爸。还是弹手风琴吧，你弹得很棒。"
+		"cn": "猪妈妈：没关系，猪爸爸。还是弹手风琴吧，你弹得很棒。",
+		"points": [
+			{
+				"en": "stick to the accordion",
+				"cn": "还是弹手风琴吧"
+			},
+			{
+				"en": "play it beautifully",
+				"cn": "弹得很棒"
+			},
+			{
+				"en": "Never mind",
+				"cn": "没关系"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Well, I do play it quite nicely, even if I say so myself.",
-		"cn": "猪爸爸：嗯，我弹得确实不错，自己都这么觉得。"
+		"cn": "猪爸爸：嗯，我弹得确实不错，自己都这么觉得。",
+		"points": [
+			{
+				"en": "even if I say so myself",
+				"cn": "自己都这么觉得"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: And I’ll play my violin.",
@@ -176,9 +509,32 @@
 		"en": "Narrator: But what instrument will George play?",
 		"cn": "旁白：那乔治会玩什么乐器呢？"
 	},
-	{ "en": "Narrator: George is blowing the horn.", "cn": "旁白：乔治在吹号。" },
+	{
+		"en": "Narrator: George is blowing the horn.",
+		"cn": "旁白：乔治在吹号。",
+		"points": [
+			{
+				"en": "blowing the horn",
+				"cn": "吹号"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: Mummy couldn’t play the horn. And Daddy couldn’t play it. And even I couldn’t play it. But George can play it.",
-		"cn": "小猪佩奇：妈妈不会吹号，爸爸也不会，连我都不会，但乔治会。"
+		"cn": "小猪佩奇：妈妈不会吹号，爸爸也不会，连我都不会，但乔治会。",
+		"sentence": {
+			"en": "And even I couldn’t play it.",
+			"cn": "连我都不会。",
+			"examples": [
+				{
+					"en": "And even I couldn’t ride a bike.",
+					"cn": "连我都不会骑自行车。"
+				},
+				{
+					"en": "And even I couldn’t walk on my hands.",
+					"cn": "连我都不会倒立走路。"
+				}
+			]
+		}
 	}
 ]

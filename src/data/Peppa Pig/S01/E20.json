@@ -1,7 +1,17 @@
 [
 	{
 		"en": "Narrator: Today is the day of the school fete. Peppa loves coming to the fete. Here are Peppa's friends: Candy Cat, Suzy Sheep, Danny Dog, Rebecca Rabbit, and Pedro Pony.",
-		"cn": "旁白：今天是学校游园会的日子。佩奇很喜欢来游园会。佩奇的朋友们有：糖果猫、苏茜羊、丹尼狗、丽贝卡兔和佩德罗小马。"
+		"cn": "旁白：今天是学校游园会的日子。佩奇很喜欢来游园会。佩奇的朋友们有：糖果猫、苏茜羊、丹尼狗、丽贝卡兔和佩德罗小马。",
+		"points": [
+			{
+				"en": "school fete",
+				"cn": "学校游园会"
+			},
+			{
+				"en": "coming to the fete",
+				"cn": "来游园会"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Hello, everyone.", "cn": "小猪佩奇：大家好。" },
 	{
@@ -14,24 +24,69 @@
 	},
 	{
 		"en": "Peppa Pig: Me too. What do you like best?",
-		"cn": "小猪佩奇：我也是。你最喜欢什么？"
+		"cn": "小猪佩奇：我也是。你最喜欢什么？",
+		"points": [
+			{
+				"en": "What do you like best?",
+				"cn": "你最喜欢什么？"
+			}
+		]
 	},
-	{ "en": "Suzy Sheep: The face painting.", "cn": "苏茜羊：画脸。" },
+	{
+		"en": "Suzy Sheep: The face painting.",
+		"cn": "苏茜羊：画脸。",
+		"points": [
+			{
+				"en": "face painting",
+				"cn": "画脸"
+			}
+		]
+	},
 	{
 		"en": "Pedro Pony: I like the balloons.",
 		"cn": "佩德罗小马：我喜欢气球。"
 	},
 	{
 		"en": "Danny Dog: I like the bouncy castle the best.",
-		"cn": "丹尼狗：我最喜欢充气城堡。"
+		"cn": "丹尼狗：我最喜欢充气城堡。",
+		"points": [
+			{
+				"en": "bouncy castle",
+				"cn": "充气城堡"
+			}
+		]
 	},
-	{ "en": "Peppa Pig: I like everything.", "cn": "小猪佩奇：我都喜欢。" },
+	{
+		"en": "Peppa Pig: I like everything.",
+		"cn": "小猪佩奇：我都喜欢。",
+		"points": [
+			{
+				"en": "I like everything",
+				"cn": "我都喜欢"
+			}
+		]
+	},
 	{
 		"en": "Daddy Pig: A very good choice, Peppa.",
-		"cn": "猪爸爸：佩奇，这个选择很好。"
+		"cn": "猪爸爸：佩奇，这个选择很好。",
+		"points": [
+			{
+				"en": "A very good choice",
+				"cn": "一个很好的选择"
+			}
+		]
 	},
 	{ "en": "Danny Dog: See you later, Peppa.", "cn": "丹尼狗：待会见，佩奇。" },
-	{ "en": "Peppa Pig: See you later.", "cn": "小猪佩奇：待会见。" },
+	{
+		"en": "Peppa Pig: See you later.",
+		"cn": "小猪佩奇：待会见。",
+		"points": [
+			{
+				"en": "See you later",
+				"cn": "待会见"
+			}
+		]
+	},
 	{
 		"en": "Daddy Pig: George, what do you like best?",
 		"cn": "猪爸爸：乔治，你最喜欢什么？"
@@ -39,29 +94,110 @@
 	{ "en": "George: Dinosaur, grrr.", "cn": "乔治：恐龙，嗷呜。" },
 	{
 		"en": "Mummy Pig: Oh, dear. There aren’t any dinosaurs at the fete, George.",
-		"cn": "猪妈妈：哎呀，乔治，游园会没有恐龙。"
+		"cn": "猪妈妈：哎呀，乔治，游园会没有恐龙。",
+		"sentence": {
+			"en": "There aren’t any dinosaurs at the fete",
+			"cn": "游园会没有恐龙。",
+			"examples": [
+				{
+					"en": "There aren’t any cars in the zoo.",
+					"cn": "动物园里没有汽车。"
+				},
+				{
+					"en": "There aren’t any pandas in the museum.",
+					"cn": "博物馆里没有熊猫。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Maybe we can get you a dinosaur balloon.",
-		"cn": "猪爸爸：也许我们可以给你买个恐龙气球。"
+		"cn": "猪爸爸：也许我们可以给你买个恐龙气球。",
+		"sentence": {
+			"en": "Maybe we can get you a dinosaur balloon.",
+			"cn": "也许我们可以给你买个恐龙气球。",
+			"examples": [
+				{
+					"en": "Maybe we can get you a jelly sandwich.",
+					"cn": "也许我们可以给你买个果冻三明治"
+				},
+				{
+					"en": "Maybe we can get you an ice cream.",
+					"cn": "也许我们可以给你买个冰淇淋。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Are you sure they have dinosaur balloons, Daddy Pig?",
-		"cn": "猪妈妈：你确定有恐龙气球吗，猪爸爸？"
+		"cn": "猪妈妈：你确定有恐龙气球吗，猪爸爸？",
+		"sentence": {
+			"en": "Are you sure they have dinosaur balloons",
+			"cn": "你确定有恐龙气球吗？",
+			"examples": [
+				{
+					"en": "Are you sure they have ice cream?",
+					"cn": "你确定有冰淇淋吗？"
+				},
+				{
+					"en": "Are you sure they have bubble tea?",
+					"cn": "你确定有奶茶吗？"
+				}
+			]
+		}
 	},
-	{ "en": "Daddy Pig: I’m certain of it.", "cn": "猪爸爸：我很确定。" },
+	{
+		"en": "Daddy Pig: I’m certain of it.",
+		"cn": "猪爸爸：我很确定。",
+		"points": [
+			{
+				"en": "I’m certain of it",
+				"cn": "我很确定"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: Can George and I get our faces painted first?",
-		"cn": "小猪佩奇：乔治和我可以先画脸吗？"
+		"cn": "小猪佩奇：乔治和我可以先画脸吗？",
+		"sentence": {
+			"en": "Can George and I get our faces painted first?",
+			"cn": "乔治和我可以先画脸吗？",
+			"examples": [
+				{
+					"en": "Can George and I have ice cream first?",
+					"cn": "乔治和我可以先吃冰淇淋吗？"
+				},
+				{
+					"en": "Can George and I jump on the bouncy castle first?",
+					"cn": "乔治和我可以先跳充气城堡吗？"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: Of course.", "cn": "猪爸爸：当然可以。" },
 	{
 		"en": "Narrator: Miss Rabbit has painted Peppa’s friends as tigers.",
-		"cn": "旁白：兔小姐把佩奇的朋友们都画成了老虎。"
+		"cn": "旁白：兔小姐把佩奇的朋友们都画成了老虎。",
+		"points": [
+			{
+				"en": "painted Peppa’s friends as tigers",
+				"cn": "把佩奇的朋友们画成了老虎"
+			}
+		]
 	},
 	{
 		"en": "Miss Rabbit: There you are, Suzy. Now you look like a tiger.",
-		"cn": "兔小姐：好了，苏茜。你现在像只老虎了。"
+		"cn": "兔小姐：好了，苏茜。你现在像只老虎了。",
+		"points": [
+			{
+				"en": "There you are",
+				"cn": "好了"
+			},
+			{
+				"en": "you look like a tiger",
+				"cn": "你像只老虎了"
+			}
+		]
 	},
 	{
 		"en": "Suzy Sheep: Thank you, Miss Rabbit.",
@@ -69,16 +205,50 @@
 	},
 	{
 		"en": "Peppa Pig: Wow! I like your face, Suzy. Are you a pussy cat?",
-		"cn": "小猪佩奇：哇，我喜欢你的脸，苏茜。你是只小猫吗？"
+		"cn": "小猪佩奇：哇，我喜欢你的脸，苏茜。你是只小猫吗？",
+		"points": [
+			{
+				"en": "Are you a pussy cat?",
+				"cn": "你是只小猫吗？"
+			}
+		]
 	},
 	{ "en": "Suzy Sheep: No. I’m a tiger.", "cn": "苏茜羊：不是，我是老虎。" },
 	{
 		"en": "Miss Rabbit: Peppa, would you like your face painted?",
-		"cn": "兔小姐：佩奇，你想画脸吗？"
+		"cn": "兔小姐：佩奇，你想画脸吗？",
+		"sentence": {
+			"en": "Peppa, would you like your face painted?",
+			"cn": "佩奇，你想画脸吗？",
+			"examples": [
+				{
+					"en": "Peppa, would you like your nails painted?",
+					"cn": "佩奇，你想涂指甲油吗？"
+				},
+				{
+					"en": "Peppa, would you like your hair done?",
+					"cn": "佩奇，你想做头发吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Yes, please. Can I be...an elephant?",
-		"cn": "小猪佩奇：想！我可以画成大象吗？"
+		"cn": "小猪佩奇：想！我可以画成大象吗？",
+		"sentence": {
+			"en": "Can I be...an elephant?",
+			"cn": "我可以画成大象吗？",
+			"examples": [
+				{
+					"en": "Can I be a princess?",
+					"cn": "我可以画成公主吗？"
+				},
+				{
+					"en": "Can I be a pirate?",
+					"cn": "我可以画成海盗吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Miss Rabbit: Oh, dear. I don’t know how to do elephants. I can do tigers.",
@@ -92,56 +262,193 @@
 	{ "en": "Peppa Pig: I’m a tiger.", "cn": "小猪佩奇：我是老虎。" },
 	{
 		"en": "Miss Rabbit: George, what would you like to be?",
-		"cn": "兔小姐：乔治，你想画成什么？"
+		"cn": "兔小姐：乔治，你想画成什么？",
+		"points": [
+			{
+				"en": "What would you like to be?",
+				"cn": "你想画成什么？"
+			}
+		]
 	},
 	{ "en": "George: Dinosaur, grrr.", "cn": "乔治：恐龙，嗷呜。" },
 	{
 		"en": "Miss Rabbit: A dinosaur? How about a tiger instead? I’m good at tigers.",
-		"cn": "兔小姐：恐龙？不如画老虎吧，我擅长画老虎。"
+		"cn": "兔小姐：恐龙？不如画老虎吧，我擅长画老虎。",
+		"sentence": {
+			"en": "How about a tiger instead?",
+			"cn": "不如画老虎吧？",
+			"examples": [
+				{
+					"en": "How about a monkey instead?",
+					"cn": "不如画猴子吧？"
+				},
+				{
+					"en": "How about a lion instead?",
+					"cn": "不如画狮子吧？"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: I’m a tiger.", "cn": "小猪佩奇：我是老虎。" },
 	{ "en": "Danny Dog: So am I, woof-woof.", "cn": "丹尼狗：我也是，汪汪。" },
 	{
 		"en": "Candy Cat: Tigers don’t say “woof-woof.”",
-		"cn": "糖果猫：老虎不会汪汪叫。"
+		"cn": "糖果猫：老虎不会汪汪叫。",
+		"sentence": {
+			"en": "Tigers don’t say “woof-woof.”",
+			"cn": "老虎不会汪汪叫。",
+			"examples": [
+				{
+					"en": "Dogs don’t say “meow.”",
+					"cn": "狗不会喵喵叫。"
+				},
+				{
+					"en": "Cats don’t say “moo.”",
+					"cn": "猫不会哞哞叫。"
+				}
+			]
+		}
 	},
-	{ "en": "Danny Dog: How do you know?", "cn": "丹尼狗：你怎么知道？" },
+	{
+		"en": "Danny Dog: How do you know?",
+		"cn": "丹尼狗：你怎么知道？",
+		"points": [
+			{
+				"en": "How do you know?",
+				"cn": "你怎么知道？"
+			}
+		]
+	},
 	{
 		"en": "Candy Cat: Because tigers are big cats, and I’m a cat.",
-		"cn": "糖果猫：因为老虎是大猫，我是猫。"
+		"cn": "糖果猫：因为老虎是大猫，我是猫。",
+		"points": [
+			{
+				"en": "tigers are big cats",
+				"cn": "老虎是大猫"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Candy, please can you teach us how to be tigers?",
-		"cn": "小猪佩奇：糖果猫，你能教我们怎么当老虎吗？"
+		"cn": "小猪佩奇：糖果猫，你能教我们怎么当老虎吗？",
+		"sentence": {
+			"en": "please can you teach us how to be tigers?",
+			"cn": "你能教我们怎么当老虎吗？",
+			"examples": [
+				{
+					"en": "please can you teach us how to be pirates?",
+					"cn": "你能教我们怎么当海盗吗？"
+				},
+				{
+					"en": "please can you teach us how to be astronauts?",
+					"cn": "你能教我们怎么当宇航员吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Candy Cat: OK. Tigers creep very very slowly. And then they jump.",
-		"cn": "糖果猫：好的。老虎走路很慢很慢，然后突然跳起来。"
+		"cn": "糖果猫：好的。老虎走路很慢很慢，然后突然跳起来。",
+		"points": [
+			{
+				"en": "creep very very slowly",
+				"cn": "走路很慢很慢"
+			},
+			{
+				"en": "And then they jump",
+				"cn": "然后突然跳起来"
+			}
+		]
 	},
 	{
 		"en": "Candy Cat: Tigers like to lick themselves clean.",
-		"cn": "糖果猫：老虎喜欢舔自己。"
+		"cn": "糖果猫：老虎喜欢舔自己。",
+		"points": [
+			{
+				"en": "lick themselves clean",
+				"cn": "舔自己"
+			}
+		]
 	},
 	{
 		"en": "Candy Cat: But best of all, when tigers are happy they purr.",
-		"cn": "糖果猫：最棒的是，老虎高兴时会呼噜呼噜叫。"
+		"cn": "糖果猫：最棒的是，老虎高兴时会呼噜呼噜叫。",
+		"sentence": {
+			"en": "when tigers are happy they purr.",
+			"cn": "老虎高兴时会呼噜呼噜叫。",
+			"examples": [
+				{
+					"en": "when cats are happy they purr.",
+					"cn": "猫高兴时会呼噜呼噜叫。"
+				},
+				{
+					"en": "when dogs are happy they wag their tails.",
+					"cn": "狗高兴时会摇尾巴。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Hello, children. My goodness, you’re all tigers.",
-		"cn": "猪妈妈：孩子们，你们全是老虎啊。"
+		"cn": "猪妈妈：孩子们，你们全是老虎啊。",
+		"points": [
+			{
+				"en": "you’re all tigers",
+				"cn": "你们全是老虎"
+			},
+			{
+				"en": "My goodness",
+				"cn": "天哪"
+			}
+		]
 	},
 	{
 		"en": "Candy Cat: And I’m teaching them to be proper tigers.",
-		"cn": "糖果猫：我正在教他们怎么当真正的老虎。"
+		"cn": "糖果猫：我正在教他们怎么当真正的老虎。",
+		"points": [
+			{
+				"en": "to be proper tigers",
+				"cn": "当真正的老虎"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: What do you little tigers want to do next?",
-		"cn": "猪妈妈：小老虎们，接下来想做什么？"
+		"cn": "猪妈妈：小老虎们，接下来想做什么？",
+		"sentence": {
+			"en": "What do you little tigers want to do next?",
+			"cn": "小老虎们，接下来想做什么？",
+			"examples": [
+				{
+					"en": "What do you little pirates want to do next?",
+					"cn": "小海盗们，接下来想做什么？"
+				},
+				{
+					"en": "What do you little astronauts want to do next?",
+					"cn": "小宇航员们，接下来想做什么？"
+				}
+			]
+		}
 	},
 	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
 	{
 		"en": "Daddy Pig: That’s right. We have to find George a dinosaur balloon.",
-		"cn": "猪爸爸：对，我们要给乔治找个恐龙气球。"
+		"cn": "猪爸爸：对，我们要给乔治找个恐龙气球。",
+		"sentence": {
+			"en": "We have to find George a dinosaur balloon.",
+			"cn": "我们要给乔治找个恐龙气球。",
+			"examples": [
+				{
+					"en": "We have to find Peppa a princess dress.",
+					"cn": "我们要给佩奇找个公主裙。"
+				},
+				{
+					"en": "We have to find Danny a pirate hat.",
+					"cn": "我们要给丹尼找个海盗帽。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Let’s get you all balloons.",
@@ -150,15 +457,57 @@
 	{ "en": "The Children: Hurrah!", "cn": "孩子们：万岁！" },
 	{
 		"en": "Mummy Pig: Hello, Madame Gazelle. We’d like some balloons, please.",
-		"cn": "猪妈妈：你好，Gazelle夫人。我们想要一些气球。"
+		"cn": "猪妈妈：你好，Gazelle夫人。我们想要一些气球。",
+		"sentence": {
+			"en": "We’d like some balloons, please.",
+			"cn": "我们想要一些气球。",
+			"examples": [
+				{
+					"en": "We’d like some toys, please.",
+					"cn": "我们想要一些玩具。"
+				},
+				{
+					"en": "We’d like some sandwiches, please.",
+					"cn": "我们想要一些三明治。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Madame Gazelle: Certainly. I’ve got lots of different ones.",
-		"cn": "Gazelle夫人：当然。我有很多不同的气球。"
+		"cn": "Gazelle夫人：当然。我有很多不同的气球。",
+		"sentence": {
+			"en": "I’ve got lots of different ones.",
+			"cn": "我有很多不同的气球。",
+			"examples": [
+				{
+					"en": "I’ve got lots of different fruits.",
+					"cn": "我有很多不同的水果。"
+				},
+				{
+					"en": "I’ve got lots of different desserts.",
+					"cn": "我有很多不同的甜点。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Can I have an elephant balloon, please?",
-		"cn": "小猪佩奇：我可以要一个大象气球吗？"
+		"cn": "小猪佩奇：我可以要一个大象气球吗？",
+		"sentence": {
+			"en": "Can I have an elephant balloon, please?",
+			"cn": "我可以要一个大象气球吗？",
+			"examples": [
+				{
+					"en": "Can I have a unicorn balloon, please?",
+					"cn": "我可以要一个独角兽气球吗？"
+				},
+				{
+					"en": "Can I have a new teddy bear, please?",
+					"cn": "我可以要一个新的泰迪熊吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Madame Gazelle: Here you are, Peppa.",
@@ -179,40 +528,121 @@
 	},
 	{
 		"en": "Madame Gazelle: Yes, I’ve got all those.",
-		"cn": "Gazelle夫人：好的，我都有。"
+		"cn": "Gazelle夫人：好的，我都有。",
+		"points": [
+			{
+				"en": "I’ve got all those",
+				"cn": "我都有"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Most important of all, we need a dinosaur balloon for George.",
-		"cn": "猪爸爸：最重要的是，我们需要一个恐龙气球给乔治。"
+		"cn": "猪爸爸：最重要的是，我们需要一个恐龙气球给乔治。",
+		"points": [
+			{
+				"en": "we need a dinosaur balloon for George",
+				"cn": "我们需要一个恐龙气球给乔治"
+			},
+			{
+				"en": "Most important of all",
+				"cn": "最重要的是"
+			}
+		]
 	},
 	{
 		"en": "Madame Gazelle: Oh, dear. I do not seem to have any dinosaur balloons.",
-		"cn": "Gazelle夫人：哦，亲爱的。我似乎没有恐龙气球。"
+		"cn": "Gazelle夫人：哦，亲爱的。我似乎没有恐龙气球。",
+		"sentence": {
+			"en": "I do not seem to have any dinosaur balloons.",
+			"cn": "我似乎没有恐龙气球。",
+			"examples": [
+				{
+					"en": "I do not seem to have any ice cream.",
+					"cn": "我似乎没有冰淇淋。"
+				},
+				{
+					"en": "I do not seem to have any toys.",
+					"cn": "我似乎没有玩具。"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: Oh.", "cn": "猪爸爸：哦。" },
 	{
 		"en": "Daddy Pig: Don’t worry, George. I’ve got an idea.",
-		"cn": "猪爸爸：别担心，乔治。我有个主意。"
+		"cn": "猪爸爸：别担心，乔治。我有个主意。",
+		"points": [
+			{
+				"en": "I’ve got an idea",
+				"cn": "我有个主意"
+			},
+			{
+				"en": "Don’t worry",
+				"cn": "别担心"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Could we have two of the long balloons, please?",
-		"cn": "猪爸爸：请给我们两个长气球。"
+		"cn": "猪爸爸：请给我们两个长气球。",
+		"points": [
+			{
+				"en": "two of the long balloons",
+				"cn": "两个长气球。"
+			}
+		]
 	},
-	{ "en": "Daddy Pig: Watch this, everybody.", "cn": "猪爸爸：大家看看这个。" },
+	{ 
+		"en": "Daddy Pig: Watch this, everybody.", 
+		"cn": "猪爸爸：大家看看这个。",
+		"points": [
+			{
+				"en": "Watch this, everybody",
+				"cn": "大家看看这个"
+			}
+		]
+	},
 	{
 		"en": "Narrator: What is Daddy Pig doing with the balloons?",
-		"cn": "旁白：猪爸爸在气球上做什么呢？"
+		"cn": "旁白：猪爸爸在气球上做什么呢？",
+		"sentence": {
+			"en": "What is Daddy Pig doing with the balloons?",
+			"cn": "猪爸爸在气球上做什么呢？",
+			"examples": [
+				{
+					"en": "What is Mummy Pig doing with the cake?",
+					"cn": "猪妈妈在蛋糕上做什么呢？"
+				},
+				{
+					"en": "What is Peppa Pig doing with the crayons?",
+					"cn": "佩奇在蜡笔上做什么呢？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: There. Can anyone guess what it is?",
-		"cn": "猪爸爸：好了。谁能猜出这是什么？"
+		"cn": "猪爸爸：好了。谁能猜出这是什么？",
+		"points": [
+			{
+				"en": "Can anyone guess what it is?",
+				"cn": "谁能猜出这是什么？"
+			}
+		]
 	},
 	{ "en": "Suzy Sheep: Is it a kangaroo?", "cn": "苏茜羊：这是袋鼠吗？" },
 	{ "en": "Daddy Pig: No, it’s a...", "cn": "猪爸爸：不，这是一个..." },
 	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
 	{
 		"en": "Daddy Pig:That’s right, a dinosaur.",
-		"cn": "猪爸爸：没错，是恐龙。"
+		"cn": "猪爸爸：没错，是恐龙。",
+		"points": [
+			{
+				"en": "That’s right",
+				"cn": "没错"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Daddy Pig has made a balloon dinosaur.",
@@ -225,7 +655,13 @@
 	},
 	{
 		"en": "Narrator: Peppa loves bouncing on the bouncy castle.",
-		"cn": "旁白：佩奇喜欢在充气城堡上跳。"
+		"cn": "旁白：佩奇喜欢在充气城堡上跳。",
+		"points": [
+			{
+				"en": "bouncing on the bouncy castle",
+				"cn": "在充气城堡上跳"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Everyone loves bouncing on the bouncy castle.",
@@ -233,6 +669,20 @@
 	},
 	{
 		"en": "Peppa Pig: This is the best school fete ever.",
-		"cn": "小猪佩奇：这是有史以来最棒的学校游园会。"
+		"cn": "小猪佩奇：这是有史以来最棒的学校游园会。",
+		"sentence": {
+			"en": "This is the best school fete ever.",
+			"cn": "这是有史以来最棒的学校游园会。",
+			"examples": [
+				{
+					"en": "This is the best birthday party ever.",
+					"cn": "这是有史以来最棒的生日派对。"
+				},
+				{
+					"en": "This is the best picnic ever.",
+					"cn": "这是有史以来最棒的野餐。"
+				}
+			]
+		}
 	}
 ]

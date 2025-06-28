@@ -1,11 +1,39 @@
 [
 	{
 		"en": "Narrator: Peppa and George have been playing in the garden.",
-		"cn": "旁白：佩奇和乔治一直在花园里玩。"
+		"cn": "旁白：佩奇和乔治一直在花园里玩。",
+		"sentence": {
+			"en": "Peppa and George have been playing in the garden.",
+			"cn": "佩奇和乔治一直在花园里玩。",
+			"examples": [
+				{
+					"en": "Peppa and George have been playing in the park.",
+					"cn": "佩奇和乔治一直在公园里玩。"
+				},
+				{
+					"en": "Peppa and George have been playing with their toys.",
+					"cn": "佩奇和乔治一直在玩他们的玩具。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Peppa, where are your shoes?",
-		"cn": "猪爸爸：佩奇，你的鞋子呢？"
+		"cn": "猪爸爸：佩奇，你的鞋子呢？",
+		"sentence": {
+			"en": "Peppa, where are your shoes?",
+			"cn": "佩奇，你的鞋子呢？",
+			"examples": [
+				{
+					"en": "Peppa, where is your hat?",
+					"cn": "佩奇，你的帽子呢？"
+				},
+				{
+					"en": "Peppa, where is your bag?",
+					"cn": "佩奇，你的包呢？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Oh, I’ve lost them.",
@@ -13,46 +41,153 @@
 	},
 	{
 		"en": "Mummy Pig: Well, I’m sure we can find them. Maybe we should try the garden.",
-		"cn": "猪妈妈：我相信我们能找到，也许该去花园找找。"
+		"cn": "猪妈妈：我相信我们能找到，也许该去花园找找。",
+		"sentence": {
+			"en": "Maybe we should try the garden.",
+			"cn": "也许该去花园找找。",
+			"examples": [
+				{
+					"en": "Maybe we should try the park.",
+					"cn": "也许该去公园找找。"
+				},
+				{
+					"en": "Maybe we should try the shop.",
+					"cn": "也许该去商店找找。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Yes.", "cn": "小猪佩奇：好。" },
 	{
 		"en": "Narrator: Everyone is looking for Peppa’s shoes. Mummy Pig is looking in the flower bed. Peppa’s shoes are not there.",
-		"cn": "旁白：大家都在找佩奇的鞋子。猪妈妈在花坛里找，没找到。"
+		"cn": "旁白：大家都在找佩奇的鞋子。猪妈妈在花坛里找，没找到。",
+		"points": [
+			{
+				"en": "looking in the flower bed",
+				"cn": "在花坛里找"
+			}
+		]
 	},
 	{ "en": "Mummy Pig: Oh.", "cn": "猪妈妈：哦。" },
 	{
 		"en": "Narrator: Daddy Pig is looking in the wheelbarrow. Peppa’s shoes are not there.",
-		"cn": "旁白：猪爸爸在手推车里找，也没找到。"
+		"cn": "旁白：猪爸爸在手推车里找，也没找到。",
+		"points": [
+			{
+				"en": "looking in the wheelbarrow",
+				"cn": "在手推车里找"
+			}
+		]
 	},
 	{ "en": "Daddy Pig: Oh.", "cn": "猪爸爸：哦。" },
 	{
 		"en": "Narrator: Peppa and George look in the flowerpots. Peppa’s shoes are not there either.",
-		"cn": "旁白：佩奇和乔治在花盆里找，也没找到。"
+		"cn": "旁白：佩奇和乔治在花盆里找，也没找到。",
+		"points": [
+			{
+				"en": "look in the flowerpots",
+				"cn": "在花盆里找"
+			}
+		]
 	},
 	{ "en": "George: Oh.", "cn": "乔治：哦。" },
 	{ "en": "Peppa Pig: Oh.", "cn": "小猪佩奇：哦。" },
 	{
 		"en": "Daddy Pig: We’ve looked everywhere, but we can’t find Peppa’s shoes.",
-		"cn": "猪爸爸：我们到处都找了，还是找不到佩奇的鞋子。"
+		"cn": "猪爸爸：我们到处都找了，还是找不到佩奇的鞋子。",
+		"points": [
+			{
+				"en": "We’ve looked everywhere",
+				"cn": "我们到处都找了"
+			}
+		]
 	},
-	{ "en": "Narrator: Peppa’s shoes are lost.", "cn": "旁白：佩奇的鞋子丢了。" },
+	{
+		"en": "Narrator: Peppa’s shoes are lost.",
+		"cn": "旁白：佩奇的鞋子丢了。",
+		"sentence": {
+			"en": "Peppa’s shoes are lost.",
+			"cn": "佩奇的鞋子丢了。",
+			"examples": [
+				{
+					"en": "Peppa’s hat is lost.",
+					"cn": "佩奇的帽子丢了。"
+				},
+				{
+					"en": "Peppa’s teddy is lost.",
+					"cn": "佩奇的泰迪熊丢了。"
+				}
+			]
+		}
+	},
 	{
 		"en": "Peppa Pig: Now I haven’t got any shoes to wear.",
-		"cn": "小猪佩奇：现在我没有鞋子穿了。"
+		"cn": "小猪佩奇：现在我没有鞋子穿了。",
+		"sentence": {
+			"en": "Now I haven’t got any shoes to wear.",
+			"cn": "现在我没有鞋子穿了。",
+			"examples": [
+				{
+					"en": "Now I haven’t got any toys to play with.",
+					"cn": "现在我没有玩具可以玩了。"
+				},
+				{
+					"en": "Now I haven’t got any books to read.",
+					"cn": "现在我没有书可以读了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Poor Peppa. Your shoes were getting a bit old. We’ll buy you a new pair.",
-		"cn": "猪妈妈：可怜的佩奇，你的鞋子也旧了，我们给你买新鞋吧。"
+		"cn": "猪妈妈：可怜的佩奇，你的鞋子也旧了，我们给你买新鞋吧。",
+		"points": [
+			{
+				"en": "were getting a bit old",
+				"cn": "旧了"
+			},
+			{
+				"en": "buy you a new pair",
+				"cn": "给你买新鞋"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Can my new shoes be red, Mummy?",
-		"cn": "小猪佩奇：妈妈，我的新鞋可以是红色的吗？"
+		"cn": "小猪佩奇：妈妈，我的新鞋可以是红色的吗？",
+		"sentence": {
+			"en": "Can my new shoes be red, Mummy?",
+			"cn": "妈妈，我的新鞋可以是红色的吗？",
+			"examples": [
+				{
+					"en": "Can my new dress be blue, Mummy?",
+					"cn": "妈妈，我的新裙子可以是蓝色的吗？"
+				},
+				{
+					"en": "Can my new toy be green, Mummy?",
+					"cn": "妈妈，我的新玩具可以是绿色的吗？"
+				}
+			]
+		}
 	},
 	{ "en": "Mummy Pig: Of course they can.", "cn": "猪妈妈：当然可以。" },
 	{
 		"en": "Peppa Pig: George, I’m going to have new red shoes.",
-		"cn": "小猪佩奇：乔治，我要有新红鞋啦。"
+		"cn": "小猪佩奇：乔治，我要有新红鞋啦。",
+		"sentence": {
+			"en": "I’m going to have new red shoes.",
+			"cn": "我要有新红鞋啦。",
+			"examples": [
+				{
+					"en": "I’m going to have a new bike.",
+					"cn": "我要有一辆新自行车。"
+				},
+				{
+					"en": "I’m going to have a new dress.",
+					"cn": "我要有一件新裙子。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Mummy Pig and Peppa are at Miss Rabbit’s shoe shop.",
@@ -62,33 +197,104 @@
 	{ "en": "Miss Rabbit: Hello, Mummy Pig.", "cn": "兔小姐：你好，猪妈妈。" },
 	{
 		"en": "Mummy Pig: We would like to buy some new shoes for Peppa, please.",
-		"cn": "猪妈妈：我们想给佩奇买双新鞋。"
+		"cn": "猪妈妈：我们想给佩奇买双新鞋。",
+		"sentence": {
+			"en": "We would like to buy some new shoes for Peppa, please.",
+			"cn": "我们想给佩奇买双新鞋。",
+			"examples": [
+				{
+					"en": "We would like to buy some new toys for George, please.",
+					"cn": "我们想给乔治买些新玩具。"
+				},
+				{
+					"en": "We would like to buy some new clothes for Mummy, please.",
+					"cn": "我们想给妈妈买些新衣服。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Red shoes.", "cn": "小猪佩奇：红鞋子。" },
 	{
 		"en": "Miss Rabbit: Oh, I’m sure we can find you lovely new shoes, Peppa.",
-		"cn": "兔小姐：我一定能帮你找到漂亮的新鞋，佩奇。"
+		"cn": "兔小姐：我一定能帮你找到漂亮的新鞋，佩奇。",
+		"sentence": {
+			"en": "I’m sure we can find you lovely new shoes, Peppa.",
+			"cn": "我一定能帮你找到漂亮的新鞋，佩奇。",
+			"examples": [
+				{
+					"en": "I’m sure we can find you a nice dress, Suzy.",
+					"cn": "我一定能帮你找到一件漂亮的裙子，苏茜。"
+				},
+				{
+					"en": "I’m sure we can find you a good book, Danny.",
+					"cn": "我一定能帮你找到一本好书，丹尼。"
+				}
+			]
+		}
 	},
-	{ "en": "Peppa Pig: Red ones. Please.", "cn": "小猪佩奇：要红色的，谢谢。" },
+	{
+		"en": "Peppa Pig: Red ones. Please.",
+		"cn": "小猪佩奇：要红色的，谢谢。",
+		"points": [
+			{
+				"en": "Red ones. Please.",
+				"cn": "要红色的，谢谢。"
+			}
+		]
+	},
 	{ "en": "Miss Rabbit: Of course. Red ones.", "cn": "兔小姐：当然，红色的。" },
 	{ "en": "Peppa Pig: Wow! New red shoes!", "cn": "小猪佩奇：哇！新红鞋！" },
 	{
 		"en": "Narrator: George and Daddy Pig are playing draughts.",
-		"cn": "旁白：乔治和猪爸爸在下跳棋。"
+		"cn": "旁白：乔治和猪爸爸在下跳棋。",
+		"points": [
+			{
+				"en": "playing draughts",
+				"cn": "在下跳棋"
+			}
+		]
 	},
-	{ "en": "Daddy Pig: Oh, well done, George.", "cn": "猪爸爸：乔治，做得好。" },
+	{
+		"en": "Daddy Pig: Oh, well done, George.",
+		"cn": "猪爸爸：乔治，做得好。",
+		"points": [
+			{
+				"en": "well done",
+				"cn": "做得好"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: Daddy, Daddy, look at my new shoes. They’re red!",
-		"cn": "小猪佩奇：爸爸，爸爸，看我的新鞋，是红色的！"
+		"cn": "小猪佩奇：爸爸，爸爸，看我的新鞋，是红色的！",
+		"points": [
+			{
+				"en": "look at my new shoes",
+				"cn": "看我的新鞋"
+			}
+		]
 	},
-	{ "en": "Daddy Pig: I say. They are red.", "cn": "猪爸爸：哇，真是红色的。" },
+	{
+		"en": "Daddy Pig: I say. They are red.",
+		"cn": "猪爸爸：哇，真是红色的。"
+	},
 	{
 		"en": "Peppa Pig: Mummy, do you like my new shoes?",
 		"cn": "小猪佩奇：妈妈，你喜欢我的新鞋吗？"
 	},
 	{
 		"en": "Mummy Pig: Yes, Peppa. They make you look very smart.",
-		"cn": "猪妈妈：喜欢，佩奇。你穿上很漂亮。"
+		"cn": "猪妈妈：喜欢，佩奇。你穿上很漂亮。",
+		"sentence": {
+			"en": "They make you look very smart.",
+			"cn": "你穿上很漂亮。",
+			"examples": [
+				{
+					"en": "They make you look very tall.",
+					"cn": "你穿上看起来很高。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: George, do you like my new shoes?",
@@ -100,15 +306,49 @@
 	},
 	{
 		"en": "Peppa Pig: I like my new shoes so much, I don’t want to ever take them off.",
-		"cn": "小猪佩奇：我太喜欢新鞋了，一点都不想脱下来。"
+		"cn": "小猪佩奇：我太喜欢新鞋了，一点都不想脱下来。",
+		"sentence": {
+			"en": "I don’t want to ever take them off.",
+			"cn": "我一点都不想脱下来。",
+			"examples": [
+				{
+					"en": "I don’t want to ever take my hat off.",
+					"cn": "我一点都不想脱下我的帽子。"
+				},
+				{
+					"en": "I don’t want to ever take my jacket off.",
+					"cn": "我一点都不想脱下我的夹克。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: It is bathtime. Peppa wants to keep her new shoes on, even for her bath.",
-		"cn": "旁白：到了洗澡时间，佩奇连洗澡都不想脱新鞋。"
+		"cn": "旁白：到了洗澡时间，佩奇连洗澡都不想脱新鞋。",
+		"points": [
+			{
+				"en": "keep her new shoes on",
+				"cn": "不脱新鞋"
+			},
+			{
+				"en": "even for her bath",
+				"cn": "连洗澡都不脱"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Peppa is in her pajamas. She still has her new shoes on.",
-		"cn": "旁白：佩奇穿着睡衣，脚上还是新鞋。"
+		"cn": "旁白：佩奇穿着睡衣，脚上还是新鞋。",
+		"points": [
+			{
+				"en": "still has her new shoes on",
+				"cn": "脚上还是新鞋"
+			},
+			{
+				"en": "in her pajamas",
+				"cn": "穿着睡衣"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Peppa even wants to wear her new shoes in bed.",
@@ -116,7 +356,21 @@
 	},
 	{
 		"en": "Mummy Pig: Peppa, are you sure you don’t want to take your shoes off?",
-		"cn": "猪妈妈：佩奇，你真的不想脱鞋吗？"
+		"cn": "猪妈妈：佩奇，你真的不想脱鞋吗？",
+		"sentence": {
+			"en": "Are you sure you don’t want to take your shoes off?",
+			"cn": "你真的不想脱鞋吗？",
+			"examples": [
+				{
+					"en": "Are you sure you don’t want to take your coat off?",
+					"cn": "你真的不想脱下外套吗？"
+				},
+				{
+					"en": "Are you sure you don’t want to take your hat off?",
+					"cn": "你真的不想脱下帽子吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: I don’t want to ever take my new shoes off, Mummy.",
@@ -132,19 +386,47 @@
 	},
 	{
 		"en": "Daddy Pig: Good-night, my little piggies.",
-		"cn": "猪爸爸：晚安，我的小猪们。"
+		"cn": "猪爸爸：晚安，我的小猪们。",
+		"points": [
+			{
+				"en": "my little piggies",
+				"cn": "我小猪们"
+			}
+		]
 	},
 	{
 		"en": "Narrator: It has been raining all night, and now the garden is very wet. Mummy Pig is wearing her boots. Daddy Pig is wearing his boots. George is wearing his boots. Peppa is still wearing her new red shoes.",
-		"cn": "旁白：下了一夜的雨，花园很湿。猪妈妈穿着靴子，猪爸爸穿着靴子，乔治穿着靴子，佩奇还穿着新红鞋。"
+		"cn": "旁白：下了一夜的雨，花园很湿。猪妈妈穿着靴子，猪爸爸穿着靴子，乔治穿着靴子，佩奇还穿着新红鞋。",
+		"points": [
+			{
+				"en": "wearing her boots",
+				"cn": "穿着靴子"
+			},
+			{
+				"en": "still wearing her new red shoes",
+				"cn": "还穿着新红鞋"
+			}
+		]
 	},
 	{
 		"en": "Narrator: George is going to play in the wet grass.",
-		"cn": "旁白：乔治要去湿草地上玩。"
+		"cn": "旁白：乔治要去湿草地上玩。",
+		"points": [
+			{
+				"en": "play in the wet grass",
+				"cn": "在湿草地上玩"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Oh, dear. Peppa loves playing in the wet grass, but she doesn’t want to get her new shoes wet.",
-		"cn": "旁白：糟糕，佩奇喜欢在湿草地上玩，但她不想弄湿新鞋。"
+		"cn": "旁白：糟糕，佩奇喜欢在湿草地上玩，但她不想弄湿新鞋。",
+		"points": [
+			{
+				"en": "doesn’t want to get her new shoes wet",
+				"cn": "不想弄湿新鞋"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: I can’t play in the wet grass, George.",
@@ -160,10 +442,25 @@
 		"en": "Narrator: Mummy and Daddy love jumping up and down in muddy puddles. Everyone likes jumping in muddy puddles.",
 		"cn": "旁白：猪妈妈和猪爸爸喜欢跳泥坑，大家都喜欢跳泥坑。"
 	},
-	{ "en": "Narrator: Where is Peppa going?", "cn": "旁白：佩奇去哪了？" },
+	{ 
+		"en": "Narrator: Where is Peppa going?", 
+		"cn": "旁白：佩奇去哪了？",
+		"points": [
+			{
+				"en": "Where is Peppa going?",
+				"cn": "佩奇去哪了？"
+			}
+		]
+	},
 	{
 		"en": "Narrator: Peppa is putting on her boots.",
-		"cn": "旁白：佩奇正在穿靴子。"
+		"cn": "旁白：佩奇正在穿靴子。",
+		"points": [
+			{
+				"en": "putting on her boots",
+				"cn": "穿靴子"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: If you jump in muddy puddles, you must wear your boots.",

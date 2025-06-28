@@ -1,7 +1,13 @@
 [
 	{
 		"en": "Narrator: Mummy Pig and Daddy Pig are going out for the evening. Granny Pig and Grandpa Pig are going to babysit.",
-		"cn": "旁白：猪妈妈和猪爸爸晚上要外出。猪奶奶和猪爷爷来照看孩子。"
+		"cn": "旁白：猪妈妈和猪爸爸晚上要外出。猪奶奶和猪爷爷来照看孩子。",
+		"points": [
+			{
+				"en": "going out for the evening",
+				"cn": "晚上要外出"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Granny Pig! Grandpa Pig!",
@@ -10,12 +16,24 @@
 	{ "en": "George: Gannie ‘ig! ‘Papa ‘ig!", "cn": "乔治：奶奶！爷爷！" },
 	{
 		"en": "Granny Pig: Hello, my little ones.",
-		"cn": "猪奶奶：你们好，小宝贝们。"
+		"cn": "猪奶奶：你们好，小宝贝们。",
+		"points": [
+			{
+				"en": "my little ones",
+				"cn": "小宝贝们"
+			}
+		]
 	},
 	{ "en": "Grandpa Pig: Hello.", "cn": "猪爷爷：你好。" },
 	{
 		"en": "Mummy Pig: Peppa, George, into your beds, quick.",
-		"cn": "猪妈妈：佩奇，乔治，快上床。"
+		"cn": "猪妈妈：佩奇，乔治，快上床。",
+		"points": [
+			{
+				"en": "into your beds, quick",
+				"cn": "快上床"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Good-night, my little piggies.",
@@ -23,23 +41,75 @@
 	},
 	{
 		"en": "Mummy Pig: Good-night, sleep tight.",
-		"cn": "猪妈妈：晚安，睡个好觉。"
+		"cn": "猪妈妈：晚安，睡个好觉。",
+		"points": [
+			{
+				"en": "sleep tight",
+				"cn": "睡个好觉"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Good-night, Mummy. Good-night, Daddy.",
 		"cn": "小猪佩奇：晚安，妈妈。晚安，爸爸。"
 	},
 	{ "en": "Granny Pig: What little darlings.", "cn": "猪奶奶：多乖的小宝贝。" },
-	{ "en": "Mummy Pig: Now go to sleep quickly.", "cn": "猪妈妈：现在快睡觉。" },
+	{
+		"en": "Mummy Pig: Now go to sleep quickly.",
+		"cn": "猪妈妈：现在快睡觉。",
+		"points": [
+			{
+				"en": "go to sleep quickly",
+				"cn": "快睡觉"
+			}
+		]
+	},
 	{ "en": "Peppa Pig: Yes, Mummy.", "cn": "小猪佩奇：好的，妈妈。" },
-	{ "en": "Granny Pig: So well-behaved.", "cn": "猪奶奶：真乖。" },
+	{
+		"en": "Granny Pig: So well-behaved.",
+		"cn": "猪奶奶：真乖。",
+		"points": [
+			{
+				"en": "well-behaved",
+				"cn": "乖"
+			}
+		]
+	},
 	{
 		"en": "Narrator: Mummy Pig and Daddy Pig are leaving for their evening out.",
-		"cn": "旁白：猪妈妈和猪爸爸出门了。"
+		"cn": "旁白：猪妈妈和猪爸爸出门了。",
+		"sentence": {
+			"en": "leaving for their evening out",
+			"cn": "出门了",
+			"examples": [
+				{
+					"en": "They are leaving for eating out.",
+					"cn": "他们出去吃饭了。"
+				},
+				{
+					"en": "They are leaving for buying groceries.",
+					"cn": "他们出去买菜了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Granny Pig: Peppa and George are so good. They just fell asleep when Mummy Pig told them to.",
-		"cn": "猪奶奶：佩奇和乔治真乖，猪妈妈一说他们就睡了。"
+		"cn": "猪奶奶：佩奇和乔治真乖，猪妈妈一说他们就睡了。",
+		"sentence": {
+			"en": "just fell asleep when Mummy Pig told them to",
+			"cn": "猪妈妈一说他们就睡了",
+			"examples": [
+				{
+					"en": "He just did what I told him to.",
+					"cn": "我一说他就照做了。"
+				},
+				{
+					"en": "She just washed her hands when I told her to.",
+					"cn": "我一说她就洗手了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Grandpa Pig: This babysitting is easy.",
@@ -47,12 +117,41 @@
 	},
 	{
 		"en": "Peppa Pig: George. George, are you awake?",
-		"cn": "小猪佩奇：乔治，乔治，你醒着吗？"
+		"cn": "小猪佩奇：乔治，乔治，你醒着吗？",
+		"points": [
+			{
+				"en": "are you awake",
+				"cn": "你醒着吗"
+			}
+		]
 	},
-	{ "en": "Narrator: What strange noises.", "cn": "旁白：有什么奇怪的声音。" },
+	{
+		"en": "Narrator: What strange noises.",
+		"cn": "旁白：有什么奇怪的声音。",
+		"points": [
+			{
+				"en": "strange noises",
+				"cn": "奇怪的声音"
+			}
+		]
+	},
 	{
 		"en": "Grandpa Pig: I wonder if we should check upstairs.",
-		"cn": "猪爷爷：我们要不要上楼看看？"
+		"cn": "猪爷爷：我们要不要上楼看看？",
+		"sentence": {
+			"en": "I wonder if we should check upstairs",
+			"cn": "我们要不要上楼看看",
+			"examples": [
+				{
+					"en": "I wonder if we should go to the park.",
+					"cn": "我们要不要去公园？"
+				},
+				{
+					"en": "I wonder if we should call her.",
+					"cn": "我们要不要给她打电话？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Granny Pig: Peppa, George, are you awake?",
@@ -60,23 +159,61 @@
 	},
 	{
 		"en": "Granny Pig: Well, I never. Fast asleep.",
-		"cn": "猪奶奶：哎呀，睡得真香。"
+		"cn": "猪奶奶：哎呀，睡得真香。",
+		"points": [
+			{
+				"en": "Fast asleep",
+				"cn": "睡得真香"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: So, it wasn’t Peppa and George making all that noise.",
-		"cn": "猪爷爷：所以那些声音不是佩奇和乔治发出来的。"
+		"cn": "猪爷爷：所以那些声音不是佩奇和乔治发出来的。",
+		"sentence": {
+			"en": "it wasn’t Peppa and George making all that noise",
+			"cn": "那些声音不是佩奇和乔治发出来的",
+			"examples": [
+				{
+					"en": "It wasn’t me making all that noise.",
+					"cn": "那些声音不是我发出来的。"
+				},
+				{
+					"en": "It wasn’t him making all that noise.",
+					"cn": "那些声音不是他发出来的。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Granny Pig: I can’t hear anything.",
-		"cn": "猪奶奶：我什么都听不到。"
+		"cn": "猪奶奶：我什么都听不到。",
+		"points": [
+			{
+				"en": "I can’t hear anything",
+				"cn": "我什么都听不到"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: I think they really have fallen asleep. Let’s watch some television.",
-		"cn": "猪爷爷：我觉得他们真的睡着了。我们看会儿电视吧。"
+		"cn": "猪爷爷：我觉得他们真的睡着了。我们看会儿电视吧。",
+		"points": [
+			{
+				"en": "Let’s watch some television",
+				"cn": "我们看会儿电视吧"
+			}
+		]
 	},
 	{
 		"en": "TV Programme Host: Gardening. Today we are talking about roses.",
-		"cn": "电视节目主持人：园艺。今天我们讲玫瑰花。"
+		"cn": "电视节目主持人：园艺。今天我们讲玫瑰花。",
+		"points": [
+			{
+				"en": "talking about roses",
+				"cn": "讲玫瑰花"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: Oh, I love gardening programmes.",
@@ -84,20 +221,52 @@
 	},
 	{
 		"en": "TV Programme Host: The kiftsgate is a particularly thorny rose. To prune it, start by lopping off the head, and then snip away the budding shoots.",
-		"cn": "电视节目主持人：基夫斯盖特玫瑰特别多刺。修剪时先剪掉顶部，再剪去新芽。"
+		"cn": "电视节目主持人：基夫斯盖特玫瑰特别多刺。修剪时先剪掉顶部，再剪去新芽。",
+		"points": [
+			{
+				"en": "lop off the head",
+				"cn": "剪掉顶部"
+			},
+			{
+				"en": "snip away the budding shoots",
+				"cn": "剪去新芽"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Granny Pig.", "cn": "小猪佩奇：奶奶。" },
 	{
 		"en": "Granny Pig: Peppa, George. You should be in bed asleep.",
-		"cn": "猪奶奶：佩奇，乔治，你们该睡觉了。"
+		"cn": "猪奶奶：佩奇，乔治，你们该睡觉了。",
+		"points": [
+			{
+				"en": "You should be in bed asleep",
+				"cn": "你们该睡觉了"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: George and I aren’t sleepy at all. Can we watch TV with you?",
-		"cn": "小猪佩奇：乔治和我一点都不困。我们能和你们一起看电视吗？"
+		"cn": "小猪佩奇：乔治和我一点都不困。我们能和你们一起看电视吗？",
+		"points": [
+			{
+				"en": "we aren’t sleepy at all",
+				"cn": "我们一点都不困"
+			}
+		]
 	},
 	{
 		"en": "Granny Pig: Well, I suppose watching a little TV might make you sleepy.",
-		"cn": "猪奶奶：好吧，也许看会儿电视你们就困了。"
+		"cn": "猪奶奶：好吧，也许看会儿电视你们就困了。",
+		"sentence": {
+			"en": "watching a little TV might make you sleepy",
+			"cn": "看会儿电视你们就困了",
+			"examples": [
+				{
+					"en": "Reading a book might make you sleepy.",
+					"cn": "看书可能会让你困。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Hurrah!", "cn": "小猪佩奇：万岁！" },
 	{
@@ -106,52 +275,161 @@
 	},
 	{
 		"en": "Peppa Pig: This programme is very boring.",
-		"cn": "小猪佩奇：这个节目真无聊。"
+		"cn": "小猪佩奇：这个节目真无聊。",
+		"points": [
+			{
+				"en": "This programme is very boring",
+				"cn": "这个节目真无聊"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Grandpa Pig, can we play that game where you throw us up and catch us?",
-		"cn": "小猪佩奇：爷爷，我们能玩你把我们抛起来再接住的游戏吗？"
+		"cn": "小猪佩奇：爷爷，我们能玩你把我们抛起来再接住的游戏吗？",
+		"points": [
+			{
+				"en": "throw us up and catch us",
+				"cn": "把我们抛起来再接住"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: OK, but just one turn each.",
-		"cn": "猪爷爷：可以，但每人只能玩一次。"
+		"cn": "猪爷爷：可以，但每人只能玩一次。",
+		"points": [
+			{
+				"en": "just one turn each",
+				"cn": "每人只能玩一次"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: Whee! You seem heavier than before.",
-		"cn": "猪爷爷：咻！你们好像比以前重了。"
+		"cn": "猪爷爷：咻！你们好像比以前重了。",
+		"sentence": {
+			"en": "You seem heavier than before",
+			"cn": "你们好像比以前重了",
+			"examples": [
+				{
+					"en": "You seem taller than before.",
+					"cn": "你们好像比以前高了。"
+				},
+				{
+					"en": "You seem happier than before.",
+					"cn": "你们好像比以前快乐了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Grandpa Pig: Now it’s George’s turn.",
 		"cn": "猪爷爷：现在轮到乔治了。"
 	},
-	{ "en": "Peppa Pig: My turn.", "cn": "小猪佩奇：轮到我了。" },
+	{
+		"en": "Peppa Pig: My turn.",
+		"cn": "小猪佩奇：轮到我了。",
+		"points": [
+			{
+				"en": "My turn",
+				"cn": "轮到我了"
+			}
+		]
+	},
 	{ "en": "Peppa Pig: Higher, higher!", "cn": "小猪佩奇：再高点，再高点！" },
 	{
 		"en": "Granny Pig: Maybe Grandpa Pig is a bit tired.",
-		"cn": "猪奶奶：也许猪爷爷有点累了。"
+		"cn": "猪奶奶：也许猪爷爷有点累了。",
+		"points": [
+			{
+				"en": "a bit tired",
+				"cn": "有点累了"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: I know. Granny Pig, let’s play catch.",
-		"cn": "小猪佩奇：我知道了。奶奶，我们来玩捉迷藏吧。"
+		"cn": "小猪佩奇：我知道了。奶奶，我们来玩捉迷藏吧。",
+		"points": [
+			{
+				"en": "let’s play catch",
+				"cn": "我们来玩捉迷藏吧"
+			}
+		]
 	},
 	{ "en": "Granny Pig: Uh...", "cn": "猪奶奶：呃……" },
 	{
 		"en": "Peppa Pig: You’re “it.” Catch us if you can.",
-		"cn": "小猪佩奇：你来抓我们吧，看你能不能抓到。"
+		"cn": "小猪佩奇：你来抓我们吧，看你能不能抓到。",
+		"points": [
+			{
+				"en": "You’re “it.”",
+				"cn": "你来抓我们吧"
+			},
+			{
+				"en": "Catch us if you can",
+				"cn": "看你能不能抓到"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Can’t catch me.", "cn": "小猪佩奇：你抓不到我。" },
-	{ "en": "Granny Pig: I’m going to catch you.", "cn": "猪奶奶：我要抓到你。" },
+	{
+		"en": "Granny Pig: I’m going to catch you.",
+		"cn": "猪奶奶：我要抓到你。",
+		"sentence": {
+			"en": "I’m going to catch you",
+			"cn": "我要抓到你",
+			"examples": [
+				{
+					"en": "I’m going to help you.",
+					"cn": "我要帮助你。"
+				},
+				{
+					"en": "I’m going to win.",
+					"cn": "我要赢了。"
+				}
+			]
+		}
+	},
 	{
 		"en": "Narrator: Mummy Pig and Daddy Pig are back home.",
-		"cn": "旁白：猪妈妈和猪爸爸回家了。"
+		"cn": "旁白：猪妈妈和猪爸爸回家了。",
+		"points": [
+			{
+				"en": "are back home",
+				"cn": "回家了"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: I hope our little piggies are asleep.",
 		"cn": "猪妈妈：希望我们的小猪们都睡着了。"
 	},
-	{ "en": "Daddy Pig: Hello. Anyone here?", "cn": "猪爸爸：你好，有人在吗？" },
+	{
+		"en": "Daddy Pig: Hello. Anyone here?",
+		"cn": "猪爸爸：你好，有人在吗？",
+		"points": [
+			{
+				"en": "Anyone here",
+				"cn": "有人在吗"
+			}
+		]
+	},
 	{
 		"en": "Daddy Pig: The little piggies are asleep and so are the big piggies.",
-		"cn": "猪爸爸：小猪们睡着了，大猪们也睡着了。"
+		"cn": "猪爸爸：小猪们睡着了，大猪们也睡着了。",
+		"sentence": {
+			"en": "The little piggies are asleep and so are the big piggies",
+			"cn": "小猪们睡着了，大猪们也睡着了",
+			"examples": [
+				{
+					"en": "The children are asleep and so are the parents.",
+					"cn": "孩子们睡着了，父母们也睡着了。"
+				},
+				{
+					"en": "The dogs are asleep and so are the cats.",
+					"cn": "狗睡着了，猫也睡着了。"
+				}
+			]
+		}
 	}
 ]

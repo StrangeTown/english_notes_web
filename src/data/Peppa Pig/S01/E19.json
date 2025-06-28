@@ -6,7 +6,21 @@
 	{ "en": "Peppa Pig: What’s this?", "cn": "小猪佩奇：这是什么？" },
 	{
 		"en": "Narrator: Peppa has found a box of old clothes.",
-		"cn": "旁白：佩奇发现了一箱旧衣服。"
+		"cn": "旁白：佩奇发现了一箱旧衣服。",
+		"sentence": {
+			"en": "Peppa has found a box of old clothes.",
+			"cn": "佩奇发现了一箱旧衣服。",
+			"examples": [
+				{
+					"en": "Peppa has found a box of photo albums.",
+					"cn": "佩奇发现了一箱相册。"
+				},
+				{
+					"en": "Peppa has found a box of shoes.",
+					"cn": "佩奇发现了一箱鞋子。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Wow! This is Daddy’s hat. And this is Mummy’s dress.",
@@ -14,7 +28,17 @@
 	},
 	{
 		"en": "Peppa Pig: George, let’s dress up and pretend to be Mummy and Daddy.",
-		"cn": "小猪佩奇：乔治，我们来装扮成爸爸妈妈吧。"
+		"cn": "小猪佩奇：乔治，我们来装扮成爸爸妈妈吧。",
+		"points": [
+			{
+				"en": "dress up",
+				"cn": "装扮"
+			},
+			{
+				"en": "pretend to be",
+				"cn": "假装是"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Here’s Daddy’s hat.",
@@ -25,7 +49,16 @@
 		"cn": "小猪佩奇：这是爸爸的外套。"
 	},
 	{ "en": "Peppa Pig: Hello, Daddy Pig.", "cn": "小猪佩奇：你好，猪爸爸。" },
-	{ "en": "Peppa Pig: Now it’s my turn.", "cn": "小猪佩奇：现在轮到我了。" },
+	{ 
+		"en": "Peppa Pig: Now it’s my turn.", 
+		"cn": "小猪佩奇：现在轮到我了。",
+		"points": [
+			{
+				"en": "Now it’s my turn",
+				"cn": "现在轮到我了"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: This is Mummy’s dress.",
 		"cn": "小猪佩奇：这是妈妈的裙子。"
@@ -40,22 +73,75 @@
 	},
 	{
 		"en": "Peppa Pig: I need some shoes too.",
-		"cn": "小猪佩奇：我也需要鞋子。"
+		"cn": "小猪佩奇：我也需要鞋子。",
+		"sentence": {
+			"en": "I need some shoes too.",
+			"cn": "我也需要鞋子。",
+			"examples": [
+				{
+					"en": "I need some help too.",
+					"cn": "我也需要帮助。"
+				},
+				{
+					"en": "I need some food too.",
+					"cn": "我也需要食物。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Now I need to look beautiful, just like Mummy.",
-		"cn": "小猪佩奇：现在我要像妈妈一样漂亮。"
+		"cn": "小猪佩奇：现在我要像妈妈一样漂亮。",
+		"points": [
+			{
+				"en": "look beautiful",
+				"cn": "看起来漂亮"
+			},
+			{
+				"en": "just like",
+				"cn": "就像"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Peppa has found Mummy’s makeup box.",
-		"cn": "旁白：佩奇找到了妈妈的化妆盒。"
+		"cn": "旁白：佩奇找到了妈妈的化妆盒。",
+		"sentence": {
+			"en": "Peppa has found Mummy’s makeup box.",
+			"cn": "佩奇找到了妈妈的化妆盒。",
+			"examples": [
+				{
+					"en": "Peppa has found Mummy’s jewelry box.",
+					"cn": "佩奇找到了妈妈的首饰盒。"
+				},
+				{
+					"en": "Peppa has found Mummy’s handbag.",
+					"cn": "佩奇找到了妈妈的手提包。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Aha!", "cn": "小猪佩奇：啊哈！" },
-	{ "en": "Peppa Pig: First some powder.", "cn": "小猪佩奇：先来点粉。" },
+	{ 
+		"en": "Peppa Pig: First some powder.", 
+		"cn": "小猪佩奇：先来点粉。",
+		"points": [
+			{
+				"en": "First some powder",
+				"cn": "先来点粉"
+			}
+		]
+	},
 	{ "en": "Peppa Pig: Lovely.", "cn": "小猪佩奇：真漂亮。" },
 	{
 		"en": "Peppa Pig: Now for some lipstick.",
-		"cn": "小猪佩奇：现在涂点口红。"
+		"cn": "小猪佩奇：现在涂点口红。",
+		"points": [
+			{
+				"en": "Now for some lipstick",
+				"cn": "现在涂点口红"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: What a pretty Mummy Pig.",
@@ -63,20 +149,59 @@
 	},
 	{
 		"en": "Peppa Pig: Come along, Daddy Pig. It’s time to go to work.",
-		"cn": "小猪佩奇：快点，猪爸爸。该去上班了。"
+		"cn": "小猪佩奇：快点，猪爸爸。该去上班了。",
+		"points": [
+			{
+				"en": "Come along",
+				"cn": "快点"
+			},
+			{
+				"en": "It’s time to go to work",
+				"cn": "该去上班了"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Mummy Pig is working on her computer.",
-		"cn": "旁白：猪妈妈正在用电脑工作。"
+		"cn": "旁白：猪妈妈正在用电脑工作。",
+		"points": [
+			{
+				"en": "working on her computer",
+				"cn": "用电脑工作"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Hello, Peppa. Hello, George.",
 		"cn": "猪妈妈：你好，佩奇。你好，乔治。"
 	},
-	{ "en": "Peppa Pig: I beg your pardon.", "cn": "小猪佩奇：你说什么？" },
+	{ 
+		"en": "Peppa Pig: I beg your pardon.", 
+		"cn": "小猪佩奇：你说什么？",
+		"points": [
+			{
+				"en": "I beg your pardon",
+				"cn": "你说什么？"
+			}
+		]
+	},
 	{
 		"en": "Mummy Pig: Peppa, I was just saying hello.",
-		"cn": "猪妈妈：佩奇，我只是打个招呼。"
+		"cn": "猪妈妈：佩奇，我只是打个招呼。",
+		"sentence": {
+			"en": "I was just saying hello.",
+			"cn": "我只是打个招呼。",
+			"examples": [
+				{
+					"en": "I was just asking for help.",
+					"cn": "我只是问一下需要帮助吗。"
+				},
+				{
+					"en": "I was just looking for you.",
+					"cn": "我只是找你。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: I’m not Peppa Pig. I’m Mummy Pig.",
@@ -84,18 +209,40 @@
 	},
 	{
 		"en": "Mummy Pig: Oh, yes, of course. Hello, Mummy Pig.",
-		"cn": "猪妈妈：哦，对，当然。你好，猪妈妈。"
+		"cn": "猪妈妈：哦，对，当然。你好，猪妈妈。",
+		"points": [
+			{
+				"en": "Oh, yes, of course",
+				"cn": "哦，对，当然"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Hello.", "cn": "小猪佩奇：你好。" },
 	{ "en": "Peppa Pig: And this is Daddy Pig.", "cn": "小猪佩奇：这是猪爸爸。" },
 	{ "en": "Peppa Pig: George.", "cn": "小猪佩奇：乔治。" },
 	{
 		"en": "Mummy Pig: And hello to you too, Daddy Pig.",
-		"cn": "猪妈妈：你好，猪爸爸。"
+		"cn": "猪妈妈：你好，猪爸爸。",
+		"points": [
+			{
+				"en": "hello to you too",
+				"cn": "你好"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Excuse me. I’ve got a lot of work to do.",
-		"cn": "小猪佩奇：不好意思，我有很多工作要做。"
+		"cn": "小猪佩奇：不好意思，我有很多工作要做。",
+		"points": [
+			{
+				"en": "Excuse me",
+				"cn": "不好意思"
+			},
+			{
+				"en": "I’ve got a lot of work to do",
+				"cn": "我有很多工作要做"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Hello. Yes. Do this. Do that. No, thank you. Goodbye.",
@@ -103,16 +250,51 @@
 	},
 	{
 		"en": "Narrator: Peppa is enjoying pretending to be Mummy Pig. But George is getting a bit bored.",
-		"cn": "旁白：佩奇很享受扮演猪妈妈，但乔治有点无聊了。"
+		"cn": "旁白：佩奇很享受扮演猪妈妈，但乔治有点无聊了。",
+		"points": [
+			{
+				"en": "enjoying pretending to be",
+				"cn": "享受扮演"
+			},
+			{
+				"en": "getting a bit bored",
+				"cn": "有点无聊"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Sorry, Daddy Pig. I’m nearly finished.",
-		"cn": "小猪佩奇：对不起，猪爸爸。我快好了。"
+		"cn": "小猪佩奇：对不起，猪爸爸。我快好了。",
+		"points": [
+			{
+				"en": "I’m nearly finished",
+				"cn": "我快好了"
+			}
+		]
 	},
-	{ "en": "Peppa Pig: There, all done.", "cn": "小猪佩奇：好了，全部搞定。" },
+	{ 
+		"en": "Peppa Pig: There, all done.", 
+		"cn": "小猪佩奇：好了，全部搞定。",
+		"points": [
+			{
+				"en": "There, all done",
+				"cn": "好了，全部搞定"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: Come on, Daddy Pig. It’s time you did some work.",
-		"cn": "小猪佩奇：来吧，猪爸爸。该你工作了。"
+		"cn": "小猪佩奇：来吧，猪爸爸。该你工作了。",
+		"points": [
+			{
+				"en": "Come on",
+				"cn": "来吧"
+			},
+			{
+				"en": "It’s time you did some work",
+				"cn": "该你工作了"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Goodbye, Mummy Pig and Daddy Pig.",
@@ -121,7 +303,13 @@
 	{ "en": "Peppa Pig: Goodbye.", "cn": "小猪佩奇：再见。" },
 	{
 		"en": "Narrator: Daddy Pig is digging in the garden.",
-		"cn": "旁白：猪爸爸正在花园里挖土。"
+		"cn": "旁白：猪爸爸正在花园里挖土。",
+		"points": [
+			{
+				"en": "digging in the garden",
+				"cn": "在花园里挖土"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Hello, Peppa. Hello, George.",
@@ -133,35 +321,109 @@
 	},
 	{
 		"en": "Peppa Pig: Daddy Pig is here to do some work.",
-		"cn": "小猪佩奇：猪爸爸来干活了。"
+		"cn": "小猪佩奇：猪爸爸来干活了。",
+		"sentence": {
+			"en": "Daddy Pig is here to do some work.",
+			"cn": "猪爸爸来干活了。",
+			"examples": [
+				{
+					"en": "Daddy Pig is here to help.",
+					"cn": "猪爸爸来帮忙了。"
+				},
+				{
+					"en": "Daddy Pig is here to play.",
+					"cn": "猪爸爸来玩了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: That’s very kind of you, Daddy Pig.",
-		"cn": "猪爸爸：谢谢你，猪爸爸。"
+		"cn": "猪爸爸：谢谢你，猪爸爸。",
+		"points": [
+			{
+				"en": "That’s very kind of you",
+				"cn": "谢谢你"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Now be careful. It’s a very deep hole.",
-		"cn": "猪爸爸：小心点，这是个很深的洞。"
+		"cn": "猪爸爸：小心点，这是个很深的洞。",
+		"points": [
+			{
+				"en": "be careful",
+				"cn": "小心点"
+			},
+			{
+				"en": "a very deep hole",
+				"cn": "很深的洞"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: I hope you are not digging in your best clothes, Daddy Pig.",
-		"cn": "小猪佩奇：猪爸爸，希望你没穿最好的衣服来挖土。"
+		"cn": "小猪佩奇：猪爸爸，希望你没穿最好的衣服来挖土。",
+		"points": [
+			{
+				"en": "digging in your best clothes",
+				"cn": "穿着最好的衣服来挖土"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: I want to make big snorts, too.",
-		"cn": "小猪佩奇：我也想大声哼哼。"
+		"cn": "小猪佩奇：我也想大声哼哼。",
+		"points": [
+			{
+				"en": "make big snorts",
+				"cn": "大声哼哼"
+			}
+		]
 	},
-	{ "en": "Mummy Pig: Ice cream, everyone.", "cn": "猪妈妈：大家吃冰淇淋啦。" },
+	{ 
+		"en": "Mummy Pig: Ice cream, everyone.", 
+		"cn": "猪妈妈：大家吃冰淇淋啦。",
+		"sentence": {
+			"en": "Ice cream, everyone.",
+			"cn": "大家吃冰淇淋啦。",
+			"examples": [
+				{
+					"en": "Ice cream, Peppa.",
+					"cn": "佩奇，吃冰淇淋。"
+				},
+				{
+					"en": "Banana, George.",
+					"cn": "乔治，吃香蕉。"
+				}
+			]
+		}
+	},
 	{ "en": "Peppa Pig: Ice cream?", "cn": "小猪佩奇：冰淇淋？" },
 	{
 		"en": "Mummy Pig: Peppa, George, you must take off those muddy clothes before you eat.",
-		"cn": "猪妈妈：佩奇，乔治，吃之前要把脏衣服脱掉。"
+		"cn": "猪妈妈：佩奇，乔治，吃之前要把脏衣服脱掉。",
+		"points": [
+			{
+				"en": "take off those muddy clothes",
+				"cn": "脱掉脏衣服"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: I’m Mummy Pig and this is Daddy Pig.",
 		"cn": "小猪佩奇：我是猪妈妈，这是猪爸爸。"
 	},
-	{ "en": "Mummy Pig: Are you sure?", "cn": "猪妈妈：你确定吗？" },
+	{ 
+		"en": "Mummy Pig: Are you sure?",
+		"cn": "猪妈妈：你确定吗？",
+		"points": [
+			{
+				"en": "Are you sure?",
+				"cn": "你确定吗？"
+			}
+		]
+	},
 	{ "en": "Peppa Pig: Yes.", "cn": "小猪佩奇：是的。" },
 	{
 		"en": "Mummy Pig: So, where are Peppa and George?",
@@ -170,7 +432,17 @@
 	{ "en": "Peppa Pig: We don’t know.", "cn": "小猪佩奇：我们不知道。" },
 	{
 		"en": "Mummy Pig: Oh, well that’s a shame, because I’ve got their favourite ice cream here. But if we can’t find them, then...",
-		"cn": "猪妈妈：那可真遗憾，因为我这里有他们最喜欢的冰淇淋。如果找不到他们，那……"
+		"cn": "猪妈妈：那可真遗憾，因为我这里有他们最喜欢的冰淇淋。如果找不到他们，那……",
+		"points": [
+			{
+				"en": "that’s a shame",
+				"cn": "那可真遗憾"
+			},
+			{
+				"en": "favourite ice cream",
+				"cn": "最喜欢的冰淇淋"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Here we are.", "cn": "小猪佩奇：我们在这儿。" },
 	{
@@ -179,10 +451,30 @@
 	},
 	{
 		"en": "Peppa Pig: Yes, Mummy. We were just pretending to be you and Daddy.",
-		"cn": "小猪佩奇：是的，妈妈。我们只是在假装是你和爸爸。"
+		"cn": "小猪佩奇：是的，妈妈。我们只是在假装是你和爸爸。",
+		"sentence": {
+			"en": "We were just pretending to be you and Daddy.",
+			"cn": "我们只是在假装是你和爸爸。",
+			"examples": [
+				{
+					"en": "We were just pretending to be superheroes.",
+					"cn": "我们只是在假装是超级英雄。"
+				},
+				{
+					"en": "We were just pretending to be pirates.",
+					"cn": "我们只是在假装是海盗。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: You really had us fooled.",
-		"cn": "猪爸爸：你们真的把我们骗到了。"
+		"cn": "猪爸爸：你们真的把我们骗到了。",
+		"points": [
+			{
+				"en": "had us fooled",
+				"cn": "把我们骗到了"
+			}
+		]
 	}
 ]

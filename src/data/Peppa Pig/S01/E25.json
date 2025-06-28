@@ -3,65 +3,199 @@
 		"en": "Narrator: Peppa and George are having their favourite food—spaghetti.",
 		"cn": "旁白：佩奇和乔治正在吃他们最喜欢的食物——意大利面。"
 	},
-	{ "en": "Daddy Pig: What a lot of noise.", "cn": "猪爸爸：多么吵闹啊。" },
+	{
+		"en": "Daddy Pig: What a lot of noise.",
+		"cn": "猪爸爸：多么吵闹啊。",
+		"sentence": {
+			"en": "What a lot of noise",
+			"cn": "多么吵闹啊",
+			"examples": [
+				{
+					"en": "What a lot of mess.",
+					"cn": "多么乱啊。"
+				},
+				{
+					"en": "What a lot of fun.",
+					"cn": "多么有趣啊。"
+				}
+			]
+		}
+	},
 	{ "en": "Peppa Pig: Finished!", "cn": "小猪佩奇：吃完啦！" },
 	{
 		"en": "Mummy Pig: Now we’ll have a bit of quiet.",
-		"cn": "猪妈妈：现在可以安静一会儿了。"
+		"cn": "猪妈妈：现在可以安静一会儿了。",
+		"points": [
+			{
+				"en": "have a bit of quiet",
+				"cn": "安静一会儿"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: What’s that?", "cn": "小猪佩奇：那是什么？" },
 	{ "en": "Daddy Pig: It’s a tooth.", "cn": "猪爸爸：是一颗牙齿。" },
 	{
 		"en": "Peppa Pig: Where did that come from?",
-		"cn": "小猪佩奇：它从哪来的？"
+		"cn": "小猪佩奇：它从哪来的？",
+		"sentence": {
+			"en": "Where did that come from?",
+			"cn": "它从哪来的？",
+			"examples": [
+				{
+					"en": "Where did that noise come from?",
+					"cn": "那声音从哪来的？"
+				},
+				{
+					"en": "Where did that smell come from?",
+					"cn": "那味道从哪来的？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Peppa, maybe you should look in the mirror.",
-		"cn": "猪妈妈：佩奇，你要不要照照镜子？"
+		"cn": "猪妈妈：佩奇，你要不要照照镜子？",
+		"points": [
+			{
+				"en": "look in the mirror",
+				"cn": "照照镜子"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Oh. It’s my tooth. It’s fallen out.",
-		"cn": "小猪佩奇：哦，是我的牙齿掉了。"
+		"cn": "小猪佩奇：哦，是我的牙齿掉了。",
+		"points": [
+			{
+				"en": "fallen out",
+				"cn": "掉了"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Don’t worry, Peppa. It’s just a milk tooth. They’re meant to fall out.",
-		"cn": "猪妈妈：别担心，佩奇，那只是乳牙，本来就会掉的。"
+		"cn": "猪妈妈：别担心，佩奇，那只是乳牙，本来就会掉的。",
+		"points": [
+			{
+				"en": "just a milk tooth",
+				"cn": "只是乳牙"
+			},
+			{
+				"en": "meant to fall out",
+				"cn": "本来就会掉的"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Will I grow a new one, Mummy?",
-		"cn": "小猪佩奇：妈妈，我还会长新牙吗？"
+		"cn": "小猪佩奇：妈妈，我还会长新牙吗？",
+		"points": [
+			{
+				"en": "grow a new one",
+				"cn": "长新牙"
+			}
+		]
 	},
 	{ "en": "Mummy Pig: Yes, you will, Peppa.", "cn": "猪妈妈：会的，佩奇。" },
 	{
 		"en": "Mummy Pig: It also means the tooth fairy will be paying you a visit.",
-		"cn": "猪妈妈：这也意味着牙仙子会来找你。"
+		"cn": "猪妈妈：这也意味着牙仙子会来找你。",
+		"points": [
+			{
+				"en": "tooth fairy",
+				"cn": "牙仙子"
+			},
+			{
+				"en": "paying you a visit",
+				"cn": "来找你"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Tooth fairy?", "cn": "小猪佩奇：牙仙子？" },
 	{
 		"en": "Mummy Pig: Yes, the tooth fairy. If you put the tooth under your pillow tonight, the tooth fairy will come.",
-		"cn": "猪妈妈：对，牙仙子。你今晚把牙齿放在枕头下，牙仙子就会来。"
+		"cn": "猪妈妈：对，牙仙子。你今晚把牙齿放在枕头下，牙仙子就会来。",
+		"points": [
+			{
+				"en": "put the tooth under your pillow",
+				"cn": "把牙齿放在枕头下"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: The tooth fairy will take the tooth and in its place she will leave a shiny coin.",
-		"cn": "猪妈妈：牙仙子会拿走牙齿，留下一枚亮闪闪的硬币。"
+		"cn": "猪妈妈：牙仙子会拿走牙齿，留下一枚亮闪闪的硬币。",
+		"points": [
+			{
+				"en": "shiny coin",
+				"cn": "亮闪闪的硬币"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: When I grow up I want to be a tooth fairy.",
-		"cn": "小猪佩奇：我长大后想当牙仙子。"
+		"cn": "小猪佩奇：我长大后想当牙仙子。",
+		"sentence": {
+			"en": "When I grow up I want to be a tooth fairy",
+			"cn": "我长大后想当牙仙子",
+			"examples": [
+				{
+					"en": "When I grow up I want to be a doctor.",
+					"cn": "我长大后想当医生。"
+				},
+				{
+					"en": "When I grow up I want to be an astronaut.",
+					"cn": "我长大后想当宇航员。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: And what would you like to be when you grow up, George?",
-		"cn": "猪爸爸：乔治，你长大后想做什么？"
+		"cn": "猪爸爸：乔治，你长大后想做什么？",
+		"points": [
+			{
+				"en": "when you grow up",
+				"cn": "长大后"
+			}
+		]
 	},
-	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
+	{
+		"en": "George: Dinosaur.",
+		"cn": "乔治：恐龙。"
+	},
 	{ "en": "Daddy Pig: A dinosaur.", "cn": "猪爸爸：恐龙。" },
 	{
 		"en": "Peppa Pig: Quick, George. It’s bedtime. We don’t want to miss the tooth fairy.",
-		"cn": "小猪佩奇：快点，乔治。该睡觉了，别错过牙仙子。"
+		"cn": "小猪佩奇：快点，乔治。该睡觉了，别错过牙仙子。",
+		"sentence": {
+			"en": "We don’t want to miss the tooth fairy",
+			"cn": "别错过牙仙子",
+			"examples": [
+				{
+					"en": "We don’t want to miss the bus.",
+					"cn": "别错过公交车。"
+				},
+				{
+					"en": "We don’t want to miss the movie.",
+					"cn": "别错过电影。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Before going to bed, Peppa and George brush their teeth.",
-		"cn": "旁白：睡觉前，佩奇和乔治刷牙。"
+		"cn": "旁白：睡觉前，佩奇和乔治刷牙。",
+		"points": [
+			{
+				"en": "brush their teeth",
+				"cn": "刷牙"
+			},
+			{
+				"en": "going to bed",
+				"cn": "睡觉"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Peppa, what are you doing?",
@@ -69,11 +203,31 @@
 	},
 	{
 		"en": "Peppa Pig: I’m brushing my tooth so it’s nice and clean for the tooth fairy.",
-		"cn": "小猪佩奇：我要把牙齿刷干净，给牙仙子看。"
+		"cn": "小猪佩奇：我要把牙齿刷干净，给牙仙子看。",
+		"points": [
+			{
+				"en": "nice and clean",
+				"cn": "干净"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Peppa cannot wait to get into bed.",
-		"cn": "旁白：佩奇迫不及待想上床。"
+		"cn": "旁白：佩奇迫不及待想上床。",
+		"sentence": {
+			"en": "Peppa cannot wait to get into bed",
+			"cn": "佩奇迫不及待想上床",
+			"examples": [
+				{
+					"en": "I cannot wait to see the movie.",
+					"cn": "我迫不及待想看电影。"
+				},
+				{
+					"en": "I cannot wait to go on holiday.",
+					"cn": "我迫不及待想去度假。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Peppa is putting her tooth under the pillow for the tooth fairy.",
@@ -93,7 +247,17 @@
 	},
 	{
 		"en": "Peppa Pig: George, I’m not going to sleep. Let’s both stay awake all night and see the tooth fairy.",
-		"cn": "小猪佩奇：乔治，我不睡觉，我们一起等牙仙子。"
+		"cn": "小猪佩奇：乔治，我不睡觉，我们一起等牙仙子。",
+		"points": [
+			{
+				"en": "I’m not going to sleep",
+				"cn": "我不睡觉"
+			},
+			{
+				"en": "stay awake all night",
+				"cn": "不睡觉"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: This tooth fairy is very late.",
@@ -101,7 +265,21 @@
 	},
 	{
 		"en": "Narrator: The tooth fairy is taking a long time to arrive.",
-		"cn": "旁白：牙仙子很久都没来。"
+		"cn": "旁白：牙仙子很久都没来。",
+		"sentence": {
+			"en": "taking a long time to arrive",
+			"cn": "很久都没来",
+			"examples": [
+				{
+					"en": "It’s taking a long time to learn English.",
+					"cn": "学英语要花很长时间"
+				},
+				{
+					"en": "The bus is taking a long time to arrive.",
+					"cn": "公交车很久都没来。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Where is that tooth fairy?",
@@ -109,15 +287,33 @@
 	},
 	{
 		"en": "Narrator: What is that noise? Is it the tooth fairy?",
-		"cn": "旁白：那是什么声音？是牙仙子吗？"
+		"cn": "旁白：那是什么声音？是牙仙子吗？",
+		"points": [
+			{
+				"en": "What is that noise?",
+				"cn": "那是什么声音？"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: George? Can you hear something? Oh, George.",
-		"cn": "小猪佩奇：乔治，你听到什么了吗？哦，乔治。"
+		"cn": "小猪佩奇：乔治，你听到什么了吗？哦，乔治。",
+		"points": [
+			{
+				"en": "Can you hear something?",
+				"cn": "你听到什么了吗？"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Oh, the noise is George. He was so tired he has fallen asleep.",
-		"cn": "旁白：原来是乔治太累睡着了。"
+		"cn": "旁白：原来是乔治太累睡着了。",
+		"points": [
+			{
+				"en": "he has fallen asleep",
+				"cn": "他睡着了"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: George is not very good at staying awake. But I am. I’m going to stay awake and see the tooth fairy. I’m not going to sleep.",
@@ -125,19 +321,51 @@
 	},
 	{
 		"en": "Narrator: The tooth fairy has arrived. Peppa is asleep.",
-		"cn": "旁白：牙仙子来了，佩奇却睡着了。"
+		"cn": "旁白：牙仙子来了，佩奇却睡着了。",
+		"sentence": {
+			"en": "The tooth fairy has arrived.",
+			"cn": "牙仙子来了。",
+			"examples": [
+				{
+					"en": "The bus has arrived.",
+					"cn": "公交车来了。"
+				},
+				{
+					"en": "The package has arrived.",
+					"cn": "包裹到了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Tooth Fairy: Hello, Peppa. Would you like this coin in return for your tooth?",
-		"cn": "牙仙子：你好，佩奇。你愿意用牙齿换这枚硬币吗？"
+		"cn": "牙仙子：你好，佩奇。你愿意用牙齿换这枚硬币吗？",
+		"points": [
+			{
+				"en": "in return for your tooth",
+				"cn": "用牙齿换"
+			}
+		]
 	},
 	{
 		"en": "Tooth Fairy: What a nice clean tooth. Thank you, Peppa. Good-night.",
-		"cn": "牙仙子：多干净的牙齿，谢谢你，佩奇。晚安。"
+		"cn": "牙仙子：多干净的牙齿，谢谢你，佩奇。晚安。",
+		"points": [
+			{
+				"en": "What a nice clean tooth",
+				"cn": "多干净的牙齿"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Peppa, George, wake up. It’s morning.",
-		"cn": "猪妈妈：佩奇，乔治，起床啦，天亮了。"
+		"cn": "猪妈妈：佩奇，乔治，起床啦，天亮了。",
+		"points": [
+			{
+				"en": "wake up",
+				"cn": "起床"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: What? I wasn’t asleep.",
@@ -150,19 +378,67 @@
 	{ "en": "Peppa Pig: No.", "cn": "小猪佩奇：没有。" },
 	{
 		"en": "Daddy Pig: Let’s take a look under your pillow.",
-		"cn": "猪爸爸：我们看看枕头下。"
+		"cn": "猪爸爸：我们看看枕头下。",
+		"sentence": {
+			"en": "take a look under your pillow",
+			"cn": "看看枕头下",
+			"examples": [
+				{
+					"en": "take a look under the bed",
+					"cn": "看看床下"
+				},
+				{
+					"en": "take a look in the cupboard",
+					"cn": "看看橱柜里"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Look, Peppa. The tooth fairy has been and she’s left you a coin.",
-		"cn": "猪妈妈：看，佩奇，牙仙子来过，给你留了硬币。"
+		"cn": "猪妈妈：看，佩奇，牙仙子来过，给你留了硬币。",
+		"points": [
+			{
+				"en": "she’s left you a coin",
+				"cn": "给你留了硬币"
+			},
+			{
+				"en": "the tooth fairy has been",
+				"cn": "牙仙子来过"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Hurrah!", "cn": "小猪佩奇：万岁！" },
 	{
 		"en": "Mummy Pig: You fell asleep, didn’t you?",
-		"cn": "猪妈妈：你还是睡着了，对吧？"
+		"cn": "猪妈妈：你还是睡着了，对吧？",
+		"sentence": {
+			"en": "You fell asleep, didn’t you?",
+			"cn": "你还是睡着了，对吧？",
+			"examples": [
+				{
+					"en": "You fell asleep during the movie, didn’t you?",
+					"cn": "你在电影中睡着了，对吧？"
+				},
+				{
+					"en": "You fell asleep in class, didn’t you?",
+					"cn": "你在课堂上睡着了，对吧？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Well, maybe I fell asleep just for a little bit. Next time I will stay awake and I will see the tooth fairy.",
-		"cn": "小猪佩奇：也许我只睡了一小会儿。下次我一定要等到牙仙子。"
+		"cn": "小猪佩奇：也许我只睡了一小会儿。下次我一定要等到牙仙子。",
+		"points": [
+			{
+				"en": "stay awake",
+				"cn": "不睡觉"
+			},
+			{
+				"en": "just for a little bit",
+				"cn": "只睡了一小会儿"
+			}
+		]
 	}
 ]

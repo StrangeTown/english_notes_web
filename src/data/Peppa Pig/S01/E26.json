@@ -1,15 +1,45 @@
 [
 	{
 		"en": "Narrator: Granny Pig and Grandpa Pig are making a treasure hunt for Peppa and George. Granny Pig is drawing the treasure map. Grandpa Pig is burying the treasure in a secret place in the garden.",
-		"cn": "旁白：猪奶奶和猪爷爷正在为佩奇和乔治准备寻宝游戏。猪奶奶在画藏宝图，猪爷爷在花园的秘密地方埋宝藏。"
+		"cn": "旁白：猪奶奶和猪爷爷正在为佩奇和乔治准备寻宝游戏。猪奶奶在画藏宝图，猪爷爷在花园的秘密地方埋宝藏。",
+		"points": [
+			{
+				"en": "making a treasure hunt",
+				"cn": "准备寻宝游戏"
+			},
+			{
+				"en": "drawing the treasure map",
+				"cn": "画藏宝图"
+			},
+			{
+				"en": "burying the treasure",
+				"cn": "埋宝藏"
+			}
+		]
 	},
 	{
 		"en": "Granny Pig: Grandpa Pig, have you finished? Peppa and George will be here soon.",
-		"cn": "猪奶奶：猪爷爷，你弄好了吗？佩奇和乔治快来了。"
+		"cn": "猪奶奶：猪爷爷，你弄好了吗？佩奇和乔治快来了。",
+		"points": [
+			{
+				"en": "have you finished",
+				"cn": "你弄好了吗"
+			},
+			{
+				"en": "will be here soon",
+				"cn": "快来了"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: No need to panic, Granny Pig.",
-		"cn": "猪爷爷：别着急，猪奶奶。"
+		"cn": "猪爷爷：别着急，猪奶奶。",
+		"points": [
+			{
+				"en": "No need to panic",
+				"cn": "别着急"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Peppa and her family are here.",
@@ -19,16 +49,39 @@
 		"en": "Granny Pig: Quick, Grandpa Pig. They’re here.",
 		"cn": "猪奶奶：快点，猪爷爷，他们来了。"
 	},
-	{ "en": "Grandpa Pig: Almost done.", "cn": "猪爷爷：快好了。" },
+	{
+		"en": "Grandpa Pig: Almost done.",
+		"cn": "猪爷爷：快好了。",
+		"points": [
+			{
+				"en": "Almost done",
+				"cn": "快好了"
+			}
+		]
+	},
 	{
 		"en": "Narrator: Grandpa Pig just finished in time.",
-		"cn": "旁白：猪爷爷正好赶在他们到来前完成。"
+		"cn": "旁白：猪爷爷正好赶在他们到来前完成。",
+		"sentence": {
+			"en": "just finished in time",
+			"cn": "正好赶在……前完成",
+			"examples": [
+				{
+					"en": "He just finished in time for the meeting.",
+					"cn": "他正好赶在会议前完成。"
+				},
+				{
+					"en": "She just finished in time for the concert.",
+					"cn": "她正好赶在音乐会前完成。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Granny Pig, we’re here!",
 		"cn": "小猪佩奇：猪奶奶，我们来了！"
 	},
-	{ "en": "George: Grankey ‘ig!", "cn": "乔治：奶奶！" },
+	{ "en": "George: Granny!", "cn": "乔治：奶奶！" },
 	{
 		"en": "Granny Pig: Hello, my little ones.",
 		"cn": "猪奶奶：你们好，小宝贝们。"
@@ -45,7 +98,21 @@
 	},
 	{
 		"en": "Grandpa Pig: Somewhere in the garden is buried treasure.",
-		"cn": "猪爷爷：花园里埋着宝藏。"
+		"cn": "猪爷爷：花园里埋着宝藏。",
+		"sentence": {
+			"en": "Somewhere in the garden is buried treasure.",
+			"cn": "花园里埋着宝藏。",
+			"examples": [
+				{
+					"en": "Somewhere in the house is a hidden gift.",
+					"cn": "房子里有一个隐藏的礼物。"
+				},
+				{
+					"en": "Somewhere in the park is a lost toy.",
+					"cn": "公园里有一个丢失的玩具。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Wow, treasure! Where is it?",
@@ -53,7 +120,13 @@
 	},
 	{
 		"en": "Grandpa Pig: You have to look for it.",
-		"cn": "猪爷爷：你们得自己找。"
+		"cn": "猪爷爷：你们得自己找。",
+		"points": [
+			{
+				"en": "look for it",
+				"cn": "找它"
+			}
+		]
 	},
 	{
 		"en": "Granny Pig: Here’s a treasure map for Peppa.",
@@ -65,27 +138,99 @@
 	},
 	{
 		"en": "Peppa Pig: The map is a bit difficult. Daddy, can you help?",
-		"cn": "小猪佩奇：地图有点难，爸爸你能帮忙吗？"
+		"cn": "小猪佩奇：地图有点难，爸爸你能帮忙吗？",
+		"sentence": {
+			"en": "The map is a bit difficult.",
+			"cn": "地图有点难。",
+			"examples": [
+				{
+					"en": "The puzzle is a bit difficult.",
+					"cn": "这个谜题有点难。"
+				},
+				{
+					"en": "The exam was a bit difficult.",
+					"cn": "考试有点难。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Of course, Peppa. I’m very good with maps. It is a bit difficult.",
-		"cn": "猪爸爸：当然可以，佩奇。我很会看地图。确实有点难。"
+		"cn": "猪爸爸：当然可以，佩奇。我很会看地图。确实有点难。",
+		"points": [
+			{
+				"en": "I’m very good with maps",
+				"cn": "我很会看地图"
+			}
+		]
 	},
 	{
 		"en": "Granny Pig: Daddy Pig, you’re holding the map upside down.",
-		"cn": "猪奶奶：猪爸爸，你把地图拿反了。"
+		"cn": "猪奶奶：猪爸爸，你把地图拿反了。",
+		"points": [
+			{
+				"en": "holding the map upside down",
+				"cn": "把地图拿反了"
+			}
+		]
 	},
-	{ "en": "Daddy Pig: Yes, I thought as much.", "cn": "猪爸爸：我也觉得是。" },
+	{
+		"en": "Daddy Pig: Yes, I thought as much.",
+		"cn": "猪爸爸：我也觉得是。",
+		"points": [
+			{
+				"en": "I thought as much",
+				"cn": "我也觉得是"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: It’s easy! The red cross shows where the treasure is.",
-		"cn": "小猪佩奇：很简单！红叉就是宝藏的位置。"
+		"cn": "小猪佩奇：很简单！红叉就是宝藏的位置。",
+		"sentence": {
+			"en": "The red cross shows where the treasure is.",
+			"cn": "红叉就是宝藏的位置。",
+			"examples": [
+				{
+					"en": "The red arrow shows where the park is.",
+					"cn": "红箭头指示公园的位置。"
+				},
+				{
+					"en": "The blue dot shows where the school is.",
+					"cn": "蓝点指示学校的位置。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: But where in the garden are those two apple trees?",
-		"cn": "猪爸爸：可花园里那两棵苹果树在哪？"
+		"cn": "猪爸爸：可花园里那两棵苹果树在哪？",
+		"sentence": {
+			"en": "where in the garden are those two apple trees",
+			"cn": "花园里那两棵苹果树在哪",
+			"examples": [
+				{
+					"en": "Where in the house is the kitchen?",
+					"cn": "厨房在房子里的哪个位置？"
+				},
+				{
+					"en": "Where in the park is the playground?",
+					"cn": "游乐场在公园里的哪个位置？"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Hmmm, I don’t know.", "cn": "小猪佩奇：嗯，我不知道。" },
-	{ "en": "Granny Pig: Would you like a clue?", "cn": "猪奶奶：要不要提示？" },
+	{
+		"en": "Granny Pig: Would you like a clue?",
+		"cn": "猪奶奶：要不要提示？",
+		"points": [
+			{
+				"en": "Would you like a clue?",
+				"cn": "要不要提示？"
+			}
+		]
+	},
 	{ "en": "Peppa Pig: Yes, please.", "cn": "小猪佩奇：要，谢谢。" },
 	{
 		"en": "Granny Pig: The first clue is in a bottle. But where is the bottle?",
@@ -98,11 +243,31 @@
 	},
 	{
 		"en": "Peppa Pig: Look, everyone! It’s a bottle!",
-		"cn": "小猪佩奇：大家看，是个瓶子！"
+		"cn": "小猪佩奇：大家看，是个瓶子！",
+		"points": [
+			{
+				"en": "Look, everyone!",
+				"cn": "大家看！"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: Well done, Peppa. Let’s see what the message says. Oh, it’s a message from a pirate.",
-		"cn": "猪爷爷：做得好，佩奇。看看纸条写了什么。哦，是海盗的信息。"
+		"cn": "猪爷爷：做得好，佩奇。看看纸条写了什么。哦，是海盗的信息。",
+		"sentence": {
+			"en": "it’s a message from a pirate",
+			"cn": "是海盗的信息",
+			"examples": [
+				{
+					"en": "It’s a letter from a friend.",
+					"cn": "是朋友的信。"
+				},
+				{
+					"en": "It’s a postcard from my holiday.",
+					"cn": "是我假期的明信片。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Mummy, can you read the pirate’s message?",
@@ -110,7 +275,13 @@
 	},
 	{
 		"en": "Mummy Pig: Hmmm, this pirate has very bad handwriting.",
-		"cn": "猪妈妈：嗯，这个海盗字写得真难认。"
+		"cn": "猪妈妈：嗯，这个海盗字写得真难认。",
+		"points": [
+			{
+				"en": "very bad handwriting",
+				"cn": "字写得真难认"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: The pirate’s handwriting is excellent.",
@@ -118,16 +289,50 @@
 	},
 	{
 		"en": "Mummy Pig: No, I can’t make it out at all.",
-		"cn": "猪妈妈：不，我一点都看不懂。"
+		"cn": "猪妈妈：不，我一点都看不懂。",
+		"points": [
+			{
+				"en": "I can’t make it out at all",
+				"cn": "我一点都看不懂"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: The pirate has clearly written: “Follow the arrows.”",
-		"cn": "猪爷爷：海盗明明写着“跟着箭头走”。"
+		"cn": "猪爷爷：海盗明明写着“跟着箭头走”。",
+		"sentence": {
+			"en": "Follow the arrows.",
+			"cn": "跟着箭头走。",
+			"examples": [
+				{
+					"en": "Follow the signs to the park.",
+					"cn": "跟着指示牌去公园。"
+				},
+				{
+					"en": "Follow the path to the river.",
+					"cn": "沿着小路走到河边。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Follow the arrows?", "cn": "小猪佩奇：跟着箭头走？" },
 	{
 		"en": "Narrator: George has found the second clue—sticks in the shape of an arrow.",
-		"cn": "旁白：乔治找到了第二个线索——树枝摆成的箭头。"
+		"cn": "旁白：乔治找到了第二个线索——树枝摆成的箭头。",
+		"sentence": {
+			"en": "sticks in the shape of an arrow",
+			"cn": "树枝摆成的箭头",
+			"examples": [
+				{
+					"en": "Sticks in the shape of a heart.",
+					"cn": "树枝摆成的心形。"
+				},
+				{
+					"en": "Sticks in the shape of a star.",
+					"cn": "树枝摆成的星形。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Look, they point this way.",
@@ -147,24 +352,95 @@
 	},
 	{
 		"en": "Granny Pig: Well done, Peppa. Now you just have to find the treasure chest that it unlocks.",
-		"cn": "猪奶奶：做得好，佩奇。现在你只要找到能用钥匙打开的宝箱。"
+		"cn": "猪奶奶：做得好，佩奇。现在你只要找到能用钥匙打开的宝箱。",
+		"points": [
+			{
+				"en": "the treasure chest that it unlocks",
+				"cn": "能用钥匙打开的宝箱"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: But there aren’t any more clues.",
-		"cn": "小猪佩奇：可没有别的线索了。"
+		"cn": "小猪佩奇：可没有别的线索了。",
+		"sentence": {
+			"en": "there aren’t any more clues",
+			"cn": "没有别的线索了",
+			"examples": [
+				{
+					"en": "There aren’t any more cookies.",
+					"cn": "没有更多的饼干了。"
+				},
+				{
+					"en": "There aren’t any more toys.",
+					"cn": "没有更多的玩具了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Granny Pig: Maybe you should take another look at the map. Look, Peppa. The map has two apple trees on it.",
-		"cn": "猪奶奶：你再看看地图。看，地图上有两棵苹果树。"
+		"cn": "猪奶奶：你再看看地图。看，地图上有两棵苹果树。",
+		"sentence": {
+			"en": "The map has two apple trees on it.",
+			"cn": "地图上有两棵苹果树。",
+			"examples": [
+				{
+					"en": "The map has a river on it.",
+					"cn": "地图上有一条河。"
+				},
+				{
+					"en": "The map has a mountain on it.",
+					"cn": "地图上有一座山。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Here’s an apple tree. And here’s an apple tree. So the treasure must be here.",
-		"cn": "小猪佩奇：这有一棵苹果树，这还有一棵，那宝藏一定在这。"
+		"cn": "小猪佩奇：这有一棵苹果树，这还有一棵，那宝藏一定在这。",
+		"sentence": {
+			"en": "the treasure must be here",
+			"cn": "宝藏一定在这",
+			"examples": [
+				{
+					"en": "The treasure must be in the garden.",
+					"cn": "宝藏一定在花园里。"
+				},
+				{
+					"en": "The treasure must be under the tree.",
+					"cn": "宝藏一定在树下。"
+				}
+			]
+		}
 	},
-	{ "en": "Daddy Pig: Let’s take a look.", "cn": "猪爸爸：我们看看吧。" },
+	{
+		"en": "Daddy Pig: Let’s take a look.",
+		"cn": "猪爸爸：我们看看吧。",
+		"points": [
+			{
+				"en": "Let’s take a look",
+				"cn": "我们看看吧"
+			}
+		]
+	},
 	{
 		"en": "Daddy Pig: Oh, dear. There doesn’t seem to be anything here.",
-		"cn": "猪爸爸：哎呀，这里好像什么都没有。"
+		"cn": "猪爸爸：哎呀，这里好像什么都没有。",
+		"sentence": {
+			"en": "There doesn’t seem to be anything here.",
+			"cn": "这里好像什么都没有。",
+			"examples": [
+				{
+					"en": "There doesn’t seem to be any food left.",
+					"cn": "好像没有剩下任何食物了。"
+				},
+				{
+					"en": "There doesn’t seem to be any toys in the box.",
+					"cn": "盒子里好像没有玩具了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Hang on. There is something here.",
@@ -178,19 +454,67 @@
 	{ "en": "Grandpa Pig: Well done.", "cn": "猪爷爷：做得好。" },
 	{
 		"en": "Peppa Pig: I’ve got the key to open it.",
-		"cn": "小猪佩奇：我有钥匙可以打开它。"
+		"cn": "小猪佩奇：我有钥匙可以打开它。",
+		"sentence": {
+			"en": "I’ve got the key to open it.",
+			"cn": "我有钥匙可以打开它。",
+			"examples": [
+				{
+					"en": "I’ve got the key to the door.",
+					"cn": "我有门的钥匙。"
+				},
+				{
+					"en": "I’ve got the key to the car.",
+					"cn": "我有车的钥匙。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Wow, I can’t believe it! Gold coins! They must be worth a fortune.",
-		"cn": "猪爸爸：哇，真不敢相信！金币！它们一定值很多钱。"
+		"cn": "猪爸爸：哇，真不敢相信！金币！它们一定值很多钱。",
+		"points": [
+			{
+				"en": "I can’t believe it",
+				"cn": "真不敢相信"
+			},
+			{
+				"en": "worth a fortune",
+				"cn": "值很多钱"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: It’s better than that. They’re not gold coins. They’re chocolate coins.",
-		"cn": "猪爷爷：比这更好。它们不是金币，是巧克力币。"
+		"cn": "猪爷爷：比这更好。它们不是金币，是巧克力币。",
+		"points": [
+			{
+				"en": "It's better than that",
+				"cn": "比这更好"
+			},
+			{
+				"en": "chocolate coins",
+				"cn": "巧克力币"
+			}
+		]
 	},
 	{
 		"en": "Granny Pig: And there’s a chocolate coin for everybody.",
-		"cn": "猪奶奶：每人都有一枚巧克力币。"
+		"cn": "猪奶奶：每人都有一枚巧克力币。",
+		"sentence": {
+			"en": "there’s a chocolate coin for everybody",
+			"cn": "每人都有一枚巧克力币",
+			"examples": [
+				{
+					"en": "There’s a gift for everyone.",
+					"cn": "每人都有一份礼物。"
+				},
+				{
+					"en": "There’s a cookie for everyone.",
+					"cn": "每人都有一块饼干。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig, Mummy Pig, Grandpa Pig, Granny Pig, Peppa Pig: Hurrah!",
@@ -206,6 +530,12 @@
 	},
 	{
 		"en": "Peppa Pig: Granny, Grandpa, this is the best treasure hunt ever.",
-		"cn": "小猪佩奇：奶奶，爷爷，这是有史以来最棒的寻宝游戏。"
+		"cn": "小猪佩奇：奶奶，爷爷，这是有史以来最棒的寻宝游戏。",
+		"points": [
+			{
+				"en": "the best treasure hunt ever",
+				"cn": "有史以来最棒的寻宝游戏"
+			}
+		]
 	}
 ]
