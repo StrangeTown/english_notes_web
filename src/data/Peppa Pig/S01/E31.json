@@ -1,24 +1,86 @@
 [
 	{
 		"en": "Narrator: Mummy Pig has made a special box for Peppa.",
-		"cn": "旁白：猪妈妈为佩奇做了一个特别的盒子。"
+		"cn": "旁白：猪妈妈为佩奇做了一个特别的盒子。",
+		"sentence": {
+			"en": "Mummy Pig has made a special box for Peppa.",
+			"cn": "猪妈妈为佩奇做了一个特别的盒子。",
+			"examples": [
+				{
+					"en": "Laura has made a special cake for her birthday.",
+					"cn": "劳拉为她的生日做了一个特别的蛋糕。"
+				},
+				{
+					"en": "Tom has made a special drawing for his mother.",
+					"cn": "汤姆为他的妈妈画了一幅特别的画。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Peppa, this box is just for you.",
-		"cn": "猪妈妈：佩奇，这个盒子是专门给你的。"
+		"cn": "猪妈妈：佩奇，这个盒子是专门给你的。",
+		"sentence": {
+			"en": "Peppa, this box is just for you.",
+			"cn": "佩奇，这个盒子是专门给你的。",
+			"examples": [
+				{
+					"en": "This book is just for you, Lily.",
+					"cn": "这本书是专门给你的，莉莉。"
+				},
+				{
+					"en": "This toy is just for you, Jack.",
+					"cn": "这个玩具是专门给你的，杰克。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Thank you, Mummy.", "cn": "小猪佩奇：谢谢你，妈妈。" },
 	{
 		"en": "Mummy Pig: It’s a secret box for you to keep secret things in.",
-		"cn": "猪妈妈：这是一个秘密盒子，你可以把秘密的东西放进去。"
+		"cn": "猪妈妈：这是一个秘密盒子，你可以把秘密的东西放进去。",
+		"points": [
+			{
+				"en": "secret things",
+				"cn": "秘密的东西"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: What things can I put in it, Mummy?",
-		"cn": "小猪佩奇：妈妈，我可以放什么东西进去？"
+		"cn": "小猪佩奇：妈妈，我可以放什么东西进去？",
+		"sentence": {
+			"en": "What things can I put in it, Mummy?",
+			"cn": "妈妈，我可以放什么东西进去？",
+			"examples": [
+				{
+					"en": "What things can I put in my backpack?",
+					"cn": "我可以把什么东西放进我的背包？"
+				},
+				{
+					"en": "What things can I put in my lunchbox?",
+					"cn": "我可以把什么东西放进我的午餐盒？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Only you can decide that, Peppa. It’s your secret box.",
-		"cn": "猪妈妈：只有你能决定，佩奇。这是你的秘密盒子。"
+		"cn": "猪妈妈：只有你能决定，佩奇。这是你的秘密盒子。",
+		"sentence": {
+			"en": "Only you can decide that, Peppa.",
+			"cn": "只有你能决定，佩奇。",
+			"examples": [
+				{
+					"en": "Only you can decide what to wear today.",
+					"cn": "只有你能决定今天穿什么。"
+				},
+				{
+					"en": "Only you can decide where to go on holiday.",
+					"cn": "只有你能决定去哪里度假。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: I know what I can put in it.",
@@ -26,15 +88,41 @@
 	},
 	{
 		"en": "Mummy Pig: Good, but don’t tell me.",
-		"cn": "猪妈妈：很好，但不要告诉我。"
+		"cn": "猪妈妈：很好，但不要告诉我。",
+		"points": [
+			{
+				"en": "don’t tell me",
+				"cn": "不要告诉我"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: I won’t tell you or George or Daddy. It’s a secret.",
-		"cn": "小猪佩奇：我不会告诉你，也不会告诉乔治和爸爸。这是个秘密。"
+		"cn": "小猪佩奇：我不会告诉你，也不会告诉乔治和爸爸。这是个秘密。",
+		"points": [
+			{
+				"en": "It’s a secret",
+				"cn": "这是个秘密"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: George, this is my secret box. It’s empty. I have to find some things to put inside.",
-		"cn": "小猪佩奇：乔治，这是我的秘密盒子。它是空的，我要找些东西放进去。"
+		"cn": "小猪佩奇：乔治，这是我的秘密盒子。它是空的，我要找些东西放进去。",
+		"sentence": {
+			"en": "I have to find some things to put inside.",
+			"cn": "我得找些东西放进去。",
+			"examples": [
+				{
+					"en": "I have to find my keys before I leave.",
+					"cn": "我得在离开前找到我的钥匙。"
+				},
+				{
+					"en": "I have to find a place to hide this gift.",
+					"cn": "我得找个地方藏这个礼物。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: George wants to help Peppa.",
@@ -42,23 +130,85 @@
 	},
 	{
 		"en": "Peppa Pig: No, George. Only I must know what’s in the box.",
-		"cn": "小猪佩奇：不行，乔治，只有我能知道盒子里有什么。"
+		"cn": "小猪佩奇：不行，乔治，只有我能知道盒子里有什么。",
+		"sentence": {
+			"en": "Only I must know what’s in the box.",
+			"cn": "只有我能知道盒子里有什么。",
+			"examples": [
+				{
+					"en": "Only I must know the secret code.",
+					"cn": "只有我能知道秘密代码。"
+				},
+				{
+					"en": "Only I must know where the treasure is hidden.",
+					"cn": "只有我能知道宝藏藏在哪里。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: You have to wait outside while I choose.",
-		"cn": "小猪佩奇：你要在外面等着，我来挑选。"
+		"cn": "小猪佩奇：你要在外面等着，我来挑选。",
+		"sentence": {
+			"en": "You have to wait outside while I choose.",
+			"cn": "你要在外面等着，我来挑选。",
+			"examples": [
+				{
+					"en": "You have to wait outside while I finish my homework.",
+					"cn": "你要在外面等着，我完成作业。"
+				},
+				{
+					"en": "You have to wait outside while I cook dinner.",
+					"cn": "你要在外面等着，我做晚饭。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Peppa is going to choose some secret things to put in the box.",
-		"cn": "旁白：佩奇要挑选一些秘密的东西放进盒子里。"
+		"cn": "旁白：佩奇要挑选一些秘密的东西放进盒子里。",
+		"points": [
+			{
+				"en": "choose some secret things",
+				"cn": "挑选一些秘密的东西"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Now my secret box is full.",
-		"cn": "小猪佩奇：现在我的秘密盒子满了。"
+		"cn": "小猪佩奇：现在我的秘密盒子满了。",
+		"sentence": {
+			"en": "Now my secret box is full.",
+			"cn": "现在我的秘密盒子满了。",
+			"examples": [
+				{
+					"en": "Now my backpack is full.",
+					"cn": "现在我的背包满了。"
+				},
+				{
+					"en": "Now my jar is full of cookies.",
+					"cn": "现在我的罐子里满是饼干。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: George, you must not look inside.",
-		"cn": "小猪佩奇：乔治，你不能看里面。"
+		"cn": "小猪佩奇：乔治，你不能看里面。",
+		"sentence": {
+			"en": "You must not look inside.",
+			"cn": "你不能看里面。",
+			"examples": [
+				{
+					"en": "You must not look inside the box until it’s time.",
+					"cn": "你不能在时间到之前看盒子里。"
+				},
+				{
+					"en": "You must not look inside the present before your birthday.",
+					"cn": "你不能在生日之前看礼物。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: George would like to know what is inside Peppa’s secret box.",
@@ -66,7 +216,21 @@
 	},
 	{
 		"en": "Peppa Pig: If you like you can try to guess.",
-		"cn": "小猪佩奇：你可以猜猜看。"
+		"cn": "小猪佩奇：你可以猜猜看。",
+		"sentence": {
+			"en": "If you like you can try to guess.",
+			"cn": "如果你愿意，你可以试着猜猜。",
+			"examples": [
+				{
+					"en": "If you like, you can try to solve the puzzle.",
+					"cn": "如果你愿意，你可以试着解这个谜题。"
+				},
+				{
+					"en": "If you like, you can try to answer the question.",
+					"cn": "如果你愿意，你可以试着回答这个问题。"
+				}
+			]
+		}
 	},
 	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
 	{
@@ -75,11 +239,39 @@
 	},
 	{
 		"en": "Peppa Pig: Oh, George, you always say dinosaur for everything.",
-		"cn": "小猪佩奇：哦，乔治，你总是说恐龙。"
+		"cn": "小猪佩奇：哦，乔治，你总是说恐龙。",
+		"sentence": {
+			"en": "You always say dinosaur for everything.",
+			"cn": "你总是说恐龙。",
+			"examples": [
+				{
+					"en": "You always say cat for everything.",
+					"cn": "你总是说猫。"
+				},
+				{
+					"en": "You always say cake for everything.",
+					"cn": "你总是说蛋糕。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Anyway, a dinosaur is too big to fit in the box.",
-		"cn": "小猪佩奇：而且恐龙太大了，放不进去。"
+		"cn": "小猪佩奇：而且恐龙太大了，放不进去。",
+		"sentence": {
+			"en": "a dinosaur is too big to fit in the box.",
+			"cn": "恐龙太大了，放不进去。",
+			"examples": [
+				{
+					"en": "a cat is too big to fit in the bag.",
+					"cn": "猫太大了，放不进包里。"
+				},
+				{
+					"en": "a book is too big to fit on the shelf.",
+					"cn": "书太大了，放不进书架。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: George cannot guess what is in Peppa’s secret box.",
@@ -87,21 +279,62 @@
 	},
 	{
 		"en": "Narrator: Daddy Pig is cleaning a picture.",
-		"cn": "旁白：猪爸爸正在擦一幅画。"
+		"cn": "旁白：猪爸爸正在擦一幅画。",
+		"points": [
+			{
+				"en": "cleaning a picture",
+				"cn": "擦一幅画"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Daddy, this is my secret box. Mummy made it for me.",
-		"cn": "小猪佩奇：爸爸，这是我的秘密盒子，妈妈给我做的。"
+		"cn": "小猪佩奇：爸爸，这是我的秘密盒子，妈妈给我做的。",
+		"sentence": {
+			"en": "Mummy made it for me.",
+			"cn": "妈妈给我做的。",
+			"examples": [
+				{
+					"en": "Daddy made this toy for me.",
+					"cn": "爸爸给我做的玩具。"
+				},
+				{
+					"en": "Grandma made this sweater for me.",
+					"cn": "奶奶给我织的毛衣。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: It’s very nice, Peppa. What’s inside?",
-		"cn": "猪爸爸：很漂亮，佩奇。里面有什么？"
+		"cn": "猪爸爸：很漂亮，佩奇。里面有什么？",
+		"points": [
+			{
+				"en": "What’s inside?",
+				"cn": "里面有什么？"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: It’s a secret. George tried to guess but he didn’t get it right.",
-		"cn": "小猪佩奇：是个秘密。乔治猜了，但没猜对。"
+		"cn": "小猪佩奇：是个秘密。乔治猜了，但没猜对。",
+		"points": [
+			{
+				"en": "didn’t get it right",
+				"cn": "没猜对"
+			}
+		]
 	},
-	{ "en": "Daddy Pig: Can I have a try?", "cn": "猪爸爸：我可以猜猜吗？" },
+	{
+		"en": "Daddy Pig: Can I have a try?",
+		"cn": "猪爸爸：我可以猜猜吗？",
+		"points": [
+			{
+				"en": "Can I have a try?",
+				"cn": "我可以猜猜吗？"
+			}
+		]
+	},
 	{ "en": "Peppa Pig: Yes.", "cn": "小猪佩奇：可以。" },
 	{
 		"en": "Daddy Pig: Hmm, have you put my glasses inside?",
@@ -109,12 +342,41 @@
 	},
 	{
 		"en": "Peppa Pig: No. Your glasses are on your head.",
-		"cn": "小猪佩奇：没有，你的眼镜在你头上。"
+		"cn": "小猪佩奇：没有，你的眼镜在你头上。",
+		"points": [
+			{
+				"en": "on your head.",
+				"cn": "在你头上。"
+			}
+		]
 	},
-	{ "en": "Daddy Pig: So they are.", "cn": "猪爸爸：还真是。" },
+	{
+		"en": "Daddy Pig: So they are.",
+		"cn": "猪爸爸：还真是。",
+		"points": [
+			{
+				"en": "So they are.",
+				"cn": "还真是。"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: Silly Daddy. You must have a proper guess.",
-		"cn": "小猪佩奇：傻爸爸，你要认真猜。"
+		"cn": "小猪佩奇：傻爸爸，你要认真猜。",
+		"sentence": {
+			"en": "You must have a proper guess.",
+			"cn": "你要认真猜。",
+			"examples": [
+				{
+					"en": "You must have a proper plan before starting.",
+					"cn": "你要在开始之前有一个合理的计划。"
+				},
+				{
+					"en": "You must have a proper meal before going out.",
+					"cn": "你要在出门前吃一顿正餐。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: OK. Have you put Mummy’s shoes in the box?",
@@ -122,7 +384,21 @@
 	},
 	{
 		"en": "Peppa Pig: Nope. And that’s all your guesses used up.",
-		"cn": "小猪佩奇：没有，你的机会用完了。"
+		"cn": "小猪佩奇：没有，你的机会用完了。",
+		"sentence": {
+			"en": "And that’s all your guesses used up.",
+			"cn": "你的机会用完了。",
+			"examples": [
+				{
+					"en": "And that’s all your tries used up.",
+					"cn": "你的尝试用完了。"
+				},
+				{
+					"en": "And that’s all your chances used up.",
+					"cn": "你的机会用完了。"
+				}
+			]
+		}
 	},
 	{ "en": "Narrator: Peppa likes secrets.", "cn": "旁白：佩奇喜欢秘密。" },
 	{
@@ -135,7 +411,13 @@
 	},
 	{
 		"en": "Mummy Pig: I made a box for George too, and he’s filled it with secret things. And only George knows what’s inside.",
-		"cn": "猪妈妈：我也给乔治做了一个盒子，他也放了秘密的东西，只有他自己知道。"
+		"cn": "猪妈妈：我也给乔治做了一个盒子，他也放了秘密的东西，只有他自己知道。",
+		"points": [
+			{
+				"en": "only George knows what’s inside",
+				"cn": "只有乔治知道里面有什么"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Oh.", "cn": "小猪佩奇：哦。" },
 	{
@@ -144,7 +426,13 @@
 	},
 	{
 		"en": "Peppa Pig: It’s George’s toy dinosaur, of course.",
-		"cn": "小猪佩奇：肯定是乔治的恐龙玩具。"
+		"cn": "小猪佩奇：肯定是乔治的恐龙玩具。",
+		"points": [
+			{
+				"en": "of course",
+				"cn": "当然"
+			}
+		]
 	},
 	{ "en": "George: No.", "cn": "乔治：不是。" },
 	{
@@ -153,11 +441,31 @@
 	},
 	{
 		"en": "Peppa Pig: It’s too difficult! I’ll never guess.",
-		"cn": "小猪佩奇：太难了！我永远猜不到。"
+		"cn": "小猪佩奇：太难了！我永远猜不到。",
+		"points": [
+			{
+				"en": "I’ll never guess",
+				"cn": "我永远猜不到"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Peppa does not like secrets as much as she used to.",
-		"cn": "旁白：佩奇不像以前那么喜欢秘密了。"
+		"cn": "旁白：佩奇不像以前那么喜欢秘密了。",
+		"sentence": {
+			"en": "Peppa does not like secrets as much as she used to.",
+			"cn": "佩奇不像以前那么喜欢秘密了。",
+			"examples": [
+				{
+					"en": "She does not like surprises as much as she used to.",
+					"cn": "她不像以前那么喜欢惊喜了。"
+				},
+				{
+					"en": "He does not like hiding as much as he used to.",
+					"cn": "他不像以前那么喜欢躲藏了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Maybe if you show George one thing from your box, then he could show you one thing from his.",
@@ -165,11 +473,27 @@
 	},
 	{
 		"en": "Peppa Pig: OK. But we must do it at the same time.",
-		"cn": "小猪佩奇：好吧，但我们要同时做。"
+		"cn": "小猪佩奇：好吧，但我们要同时做。",
+		"points": [
+			{
+				"en": "at the same time",
+				"cn": "同时"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: That’s a good idea. On the count of three you each show what’s in your boxes. Ready?",
-		"cn": "猪爸爸：好主意。数到三你们一起把盒子里的东西拿出来。准备好了吗？"
+		"cn": "猪爸爸：好主意。数到三你们一起把盒子里的东西拿出来。准备好了吗？",
+		"points": [
+			{
+				"en": "That’s a good idea",
+				"cn": "好主意"
+			},
+			{
+				"en": "On the count of three",
+				"cn": "数到三"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Yes.", "cn": "小猪佩奇：好了。" },
 	{ "en": "Daddy Pig: One, two, three!", "cn": "猪爸爸：一、二、三！" },
@@ -181,21 +505,69 @@
 	{ "en": "Mummy Pig: Lovely!", "cn": "猪妈妈：真棒！" },
 	{
 		"en": "Daddy Pig: Yes, it sounds very nice.",
-		"cn": "猪爸爸：是的，声音很好听。"
+		"cn": "猪爸爸：是的，声音很好听。",
+		"sentence": {
+			"en": "it sounds very nice.",
+			"cn": "声音很好听。",
+			"examples": [
+				{
+					"en": "it looks very nice.",
+					"cn": "看起来很不错。"
+				},
+				{
+					"en": "it tastes very nice.",
+					"cn": "味道很好。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Do you have any more secret things?",
-		"cn": "猪爸爸：你们还有别的秘密东西吗？"
+		"cn": "猪爸爸：你们还有别的秘密东西吗？",
+		"sentence": {
+			"en": "Do you have any more secret things?",
+			"cn": "你们还有别的秘密东西吗？",
+			"examples": [
+				{
+					"en": "Do you have any more secret plans?",
+					"cn": "你们还有别的秘密计划吗？"
+				},
+				{
+					"en": "Do you have any more secret messages?",
+					"cn": "你们还有别的秘密消息吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: George has a custard doughnut.",
-		"cn": "旁白：乔治有一个奶黄甜甜圈。"
+		"cn": "旁白：乔治有一个奶黄甜甜圈。",
+		"points": [
+			{
+				"en": "custard doughnut",
+				"cn": "奶黄甜甜圈"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Oh.", "cn": "小猪佩奇：哦。" },
 	{ "en": "Narrator: Peppa’s box is empty.", "cn": "旁白：佩奇的盒子空了。" },
 	{
 		"en": "Peppa Pig: I’ve got nothing else.",
-		"cn": "小猪佩奇：我没有别的了。"
+		"cn": "小猪佩奇：我没有别的了。",
+		"sentence": {
+			"en": "I’ve got nothing else.",
+			"cn": "我没有别的了。",
+			"examples": [
+				{
+					"en": "I’ve got nothing else to say.",
+					"cn": "我没有别的要说的了。"
+				},
+				{
+					"en": "I’ve got nothing else to give.",
+					"cn": "我没有别的可以给的了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Luckily, I have. Come on, tuck in.",
@@ -207,15 +579,53 @@
 	},
 	{
 		"en": "Daddy Pig: I don’t have a special box. But I know a very good place to hide my custard doughnut. Can you guess where?",
-		"cn": "猪爸爸：我没有特别的盒子，但我知道一个藏奶黄甜甜圈的好地方。你们猜猜是哪？"
+		"cn": "猪爸爸：我没有特别的盒子，但我知道一个藏奶黄甜甜圈的好地方。你们猜猜是哪？",
+		"sentence": {
+			"en": "Can you guess where?",
+			"cn": "你们猜猜是哪？",
+			"examples": [
+				{
+					"en": "Can you guess where I hid the treasure?",
+					"cn": "你能猜到我把宝藏藏在哪里吗？"
+				},
+				{
+					"en": "Can you guess where I put the keys?",
+					"cn": "你能猜到我把钥匙放在哪里吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Hmm, are you going to hide it in the fridge?",
-		"cn": "小猪佩奇：嗯，你要藏在冰箱里吗？"
+		"cn": "小猪佩奇：嗯，你要藏在冰箱里吗？",
+		"sentence": {
+			"en": "are you going to hide it in the fridge?",
+			"cn": "你要藏在冰箱里吗？",
+			"examples": [
+				{
+					"en": "Are you going to hide it under the bed?",
+					"cn": "你要藏在床下吗？"
+				},
+				{
+					"en": "Are you going to hide it in the garden?",
+					"cn": "你要藏在花园里吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: No, somewhere much more special. My tummy.",
-		"cn": "猪爸爸：不，是更特别的地方——我的肚子里。"
+		"cn": "猪爸爸：不，是更特别的地方——我的肚子里。",
+		"points": [
+			{
+				"en": "somewhere much more special",
+				"cn": "更特别的地方"
+			},
+			{
+				"en": "my tummy",
+				"cn": "我的肚子里"
+			}
+		]
 	},
 	{ "en": "Daddy Pig: Mmm, delicious.", "cn": "猪爸爸：嗯，真好吃。" },
 	{

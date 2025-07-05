@@ -1,7 +1,21 @@
 [
 	{
 		"en": "Narrator: Peppa and George are having a fancy dress party. All their friends are invited. Peppa is dressed as a fairy princess. And George is dressed as a dinosaur.",
-		"cn": "旁白：佩奇和乔治正在举办化妆舞会，所有朋友都被邀请了。佩奇打扮成了小仙女，乔治打扮成了恐龙。"
+		"cn": "旁白：佩奇和乔治正在举办化妆舞会，所有朋友都被邀请了。佩奇打扮成了小仙女，乔治打扮成了恐龙。",
+		"points": [
+			{
+				"en": "fancy dress party",
+				"cn": "化妆舞会"
+			},
+			{
+				"en": "fairy princess",
+				"cn": "小仙女"
+			},
+			{
+				"en": "dressed as",
+				"cn": "打扮成了"
+			}
+		]
 	},
 	{ "en": "George: Grrr, dinosaur.", "cn": "乔治：嗷，恐龙。" },
 	{
@@ -10,21 +24,53 @@
 	},
 	{
 		"en": "Narrator: Suzy is wearing her nurse’s costume.",
-		"cn": "旁白：苏茜穿着护士服。"
+		"cn": "旁白：苏茜穿着护士服。",
+		"points": [
+			{
+				"en": "nurse’s costume",
+				"cn": "护士服"
+			}
+		]
 	},
 	{ "en": "Daddy Pig: Hello, Suzy.", "cn": "猪爸爸：你好，苏茜。" },
 	{ "en": "Suzy Sheep: Hello, Mr Pig.", "cn": "苏茜羊：你好，猪先生。" },
 	{
 		"en": "Daddy Pig: I’m glad the nurse has arrived. Have you just come from the hospital?",
-		"cn": "猪爸爸：护士来了真好。你刚从医院来吗？"
+		"cn": "猪爸爸：护士来了真好。你刚从医院来吗？",
+		"sentence": {
+			"en": "I’m glad the nurse has arrived.",
+			"cn": "护士来了真好。",
+			"examples": [
+				{
+					"en": "I’m glad the car has fixed.",
+					"cn": "汽车修好了真好。"
+				},
+				{
+					"en": "I’m glad the weather is nice.",
+					"cn": "天气好真好。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Suzy Sheep: I’m not a real nurse. It’s just pretend.",
-		"cn": "苏茜羊：我不是真的护士，只是装扮。"
+		"cn": "苏茜羊：我不是真的护士，只是装扮。",
+		"points": [
+			{
+				"en": "just pretend",
+				"cn": "只是装扮"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Very good. My my, who have we here?",
-		"cn": "猪爸爸：很好。哎呀，这是谁呀？"
+		"cn": "猪爸爸：很好。哎呀，这是谁呀？",
+		"points": [
+			{
+				"en": "who have we here",
+				"cn": "这是谁呀"
+			}
+		]
 	},
 	{
 		"en": "Danny Dog: I’m a pirate. Shiver me timbers.",
@@ -32,7 +78,13 @@
 	},
 	{
 		"en": "Candy Cat: I’m a witch. I can turn you into a frog.",
-		"cn": "糖果猫：我是女巫，我能把你变成青蛙。"
+		"cn": "糖果猫：我是女巫，我能把你变成青蛙。",
+		"points": [
+			{
+				"en": "turn you into a frog",
+				"cn": "把你变成青蛙"
+			}
+		]
 	},
 	{ "en": "Pedro Pony: I’m a clown.", "cn": "佩德罗小马：我是小丑。" },
 	{ "en": "Daddy Pig: That’s funny.", "cn": "猪爸爸：真有趣。" },
@@ -43,7 +95,13 @@
 	{ "en": "Rebecca Rabbit: I’m a carrot.", "cn": "丽贝卡兔：我是胡萝卜。" },
 	{
 		"en": "Daddy Pig: Fantastic. Come in. There’s a fairy princess and a dinosaur waiting to meet you.",
-		"cn": "猪爸爸：太棒了，快进来，有个小仙女和恐龙等着见你们。"
+		"cn": "猪爸爸：太棒了，快进来，有个小仙女和恐龙等着见你们。",
+		"points": [
+			{
+				"en": "waiting to meet you",
+				"cn": "等着见你们"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Hello, everyone.", "cn": "小猪佩奇：大家好。" },
 	{
@@ -52,32 +110,92 @@
 	},
 	{
 		"en": "Peppa Pig: Hello, Suzy. I’m princess Peppa. You must bow when you speak to me.",
-		"cn": "小猪佩奇：你好，苏茜。我是佩奇公主，和我说话要鞠躬。"
+		"cn": "小猪佩奇：你好，苏茜。我是佩奇公主，和我说话要鞠躬。",
+		"sentence": {
+			"en": "You must bow when you speak to me.",
+			"cn": "和我说话要鞠躬。",
+			"examples": [
+				{
+					"en": "You must listen to the teacher.",
+					"cn": "你必须听老师的话。"
+				},
+				{
+					"en": "You must wash your hands before eating.",
+					"cn": "吃饭前你必须洗手。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Suzy Sheep: Hello, your majesty. I’m nurse Suzy. Open wide and say, “Aah.”",
-		"cn": "苏茜羊：您好，陛下。我是护士苏茜。张嘴说“啊”。"
+		"cn": "苏茜羊：您好，陛下。我是护士苏茜。张嘴说“啊”。",
+		"points": [
+			{
+				"en": "Open wide and say, “Aah.”",
+				"cn": "张嘴说“啊”。"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Aah.", "cn": "小猪佩奇：啊——。" },
 	{ "en": "Pedro Pony: I’m a clown.", "cn": "佩德罗小马：我是小丑。" },
 	{
 		"en": "Rebecca Rabbit: Do something funny.",
-		"cn": "丽贝卡兔：表演点有趣的吧。"
+		"cn": "丽贝卡兔：表演点有趣的吧。",
+		"sentence": {
+			"en": "Do something funny.",
+			"cn": "表演点有趣的吧。",
+			"examples": [
+				{
+					"en": "Do something nice for your friend.",
+					"cn": "为你的朋友做点好事。"
+				},
+				{
+					"en": "Do something special for your birthday.",
+					"cn": "为你的生日做点特别的事。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Danny Dog: Rebecca, why are you dressed as a carrot?",
-		"cn": "丹尼狗：丽贝卡，你为什么扮成胡萝卜？"
+		"cn": "丹尼狗：丽贝卡，你为什么扮成胡萝卜？",
+		"points": [
+			{
+				"en": "dressed as a carrot",
+				"cn": "扮成胡萝卜"
+			}
+		]
 	},
 	{ "en": "Rebecca Rabbit: I like carrots.", "cn": "丽贝卡兔：我喜欢胡萝卜。" },
 	{ "en": "George: Grrr, dinosaur.", "cn": "乔治：嗷，恐龙。" },
 	{ "en": "Danny Dog: A scary dinosaur.", "cn": "丹尼狗：好吓人的恐龙。" },
 	{
 		"en": "Narrator: Peppa is admiring herself in the mirror.",
-		"cn": "旁白：佩奇正在镜子前欣赏自己。"
+		"cn": "旁白：佩奇正在镜子前欣赏自己。",
+		"points": [
+			{
+				"en": "admiring herself in the mirror",
+				"cn": "在镜子前欣赏自己"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Mirror, mirror on the wall, who’s the fairest of them all?",
-		"cn": "小猪佩奇：魔镜魔镜，谁是世界上最美的？"
+		"cn": "小猪佩奇：魔镜魔镜，谁是世界上最美的？",
+		"sentence": {
+			"en": "Mirror, mirror on the wall, who’s the fairest of them all?",
+			"cn": "魔镜魔镜，谁是世界上最美的？",
+			"examples": [
+				{
+					"en": "Mirror, mirror on the wall, who’s the strongest of them all?",
+					"cn": "魔镜魔镜，谁是世界上最强的？"
+				},
+				{
+					"en": "Mirror, mirror on the wall, who’s the smartest of them all?",
+					"cn": "魔镜魔镜，谁是世界上最聪明的？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: (as the mirror) You are, Peppa.",
@@ -90,7 +208,21 @@
 	},
 	{
 		"en": "Candy Cat: I’m a witch. And I’ve got a magic wand.",
-		"cn": "糖果猫：我是女巫，我有魔法棒。"
+		"cn": "糖果猫：我是女巫，我有魔法棒。",
+		"sentence": {
+			"en": "I’ve got a magic wand.",
+			"cn": "我有魔法棒。",
+			"examples": [
+				{
+					"en": "I’ve got a new toy.",
+					"cn": "我有一个新玩具。"
+				},
+				{
+					"en": "I’ve got a big surprise for you.",
+					"cn": "我有个大惊喜给你。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: I’ve got a magic wand too.",
@@ -107,22 +239,70 @@
 	{ "en": "George: Dinosaur. Grrr.", "cn": "乔治：恐龙。嗷。" },
 	{
 		"en": "Narrator: Oh, dear. George is scared of his own reflection.",
-		"cn": "旁白：哎呀，乔治被自己的倒影吓到了。"
+		"cn": "旁白：哎呀，乔治被自己的倒影吓到了。",
+		"sentence": {
+			"en": "George is scared of his own reflection.",
+			"cn": "乔治被自己的倒影吓到了。",
+			"examples": [
+				{
+					"en": "I’m scared of the dark.",
+					"cn": "我害怕黑暗。"
+				},
+				{
+					"en": "She’s scared of spiders.",
+					"cn": "她害怕蜘蛛。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Oh, silly George. Look, it’s you in the mirror.",
-		"cn": "猪妈妈：傻乔治，你看，镜子里的是你。"
+		"cn": "猪妈妈：傻乔治，你看，镜子里的是你。",
+		"points": [
+			{
+				"en": "you in the mirror",
+				"cn": "镜子里的你"
+			}
+		]
 	},
 	{ "en": "George: Grrr.", "cn": "乔治：嗷。" },
 	{
 		"en": "Mummy Pig: Children, it’s time to decide who has the best fancy dress costume.",
-		"cn": "猪妈妈：孩子们，是时候选出谁的服装最好看了。"
+		"cn": "猪妈妈：孩子们，是时候选出谁的服装最好看了。",
+		"sentence": {
+			"en": "it’s time to decide who has the best fancy dress costume.",
+			"cn": "是时候选出谁的服装最好看了。",
+			"examples": [
+				{
+					"en": "It’s time to eat dinner.",
+					"cn": "是时候吃晚饭了。"
+				},
+				{
+					"en": "It’s time to go home.",
+					"cn": "是时候回家了。"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: We need a judge.", "cn": "猪爸爸：我们需要一个评委。" },
 	{ "en": "The Children: Me, me!", "cn": "孩子们：我来，我来！" },
 	{
 		"en": "Daddy Pig: As it’s Peppa’s party, maybe she should be the judge.",
-		"cn": "猪爸爸：既然是佩奇的派对，也许她应该当评委。"
+		"cn": "猪爸爸：既然是佩奇的派对，也许她应该当评委。",
+		"sentence": {
+			"en": "maybe she should be the judge.",
+			"cn": "也许她应该当评委。",
+			"examples": [
+				{
+					"en": "Maybe we should go now.",
+					"cn": "也许我们现在应该走了。"
+				},
+				{
+					"en": "Maybe he can help us.",
+					"cn": "也许他能帮我们。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: I’m the judge, I’m the judge.",
@@ -134,7 +314,21 @@
 	},
 	{
 		"en": "Daddy Pig: The judge decides who has the best costume.",
-		"cn": "猪爸爸：评委决定谁的服装最好。"
+		"cn": "猪爸爸：评委决定谁的服装最好。",
+		"sentence": {
+			"en": "The judge decides who has the best costume.",
+			"cn": "评委决定谁的服装最好。",
+			"examples": [
+				{
+					"en": "The teacher decides who is the best student.",
+					"cn": "老师决定谁是最好的学生。"
+				},
+				{
+					"en": "The referee decides who wins the game.",
+					"cn": "裁判决定谁赢得比赛。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Oh, goody!", "cn": "小猪佩奇：太好了！" },
 	{
@@ -143,17 +337,54 @@
 	},
 	{
 		"en": "Peppa Pig: Suzy, can I see your costume, please?",
-		"cn": "小猪佩奇：苏茜，我能看看你的服装吗？"
+		"cn": "小猪佩奇：苏茜，我能看看你的服装吗？",
+		"sentence": {
+			"en": "can I see your costume, please?",
+			"cn": "我能看看你的服装吗？",
+			"examples": [
+				{
+					"en": "Can I see your homework, please?",
+					"cn": "我能看看你的作业吗？"
+				},
+				{
+					"en": "Can I see your drawing, please?",
+					"cn": "我能看看你的画吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Suzy Sheep: I’m nurse Suzy. I make people better.",
-		"cn": "苏茜羊：我是护士苏茜，我让人生病好起来。"
+		"cn": "苏茜羊：我是护士苏茜，我让生病的人好起来。",
+		"points": [
+			{
+				"en": "make people better",
+				"cn": "让生病的人好起来"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Very good, nurse Suzy.",
 		"cn": "小猪佩奇：很好，护士苏茜。"
 	},
-	{ "en": "Peppa Pig: Now Danny.", "cn": "小猪佩奇：现在轮到丹尼了。" },
+	{
+		"en": "Peppa Pig: Now Danny.",
+		"cn": "小猪佩奇：现在轮到丹尼了。",
+		"sentence": {
+			"en": "Now Danny.",
+			"cn": "现在轮到丹尼了。",
+			"examples": [
+				{
+					"en": "Now it’s your turn.",
+					"cn": "现在轮到你了。"
+				},
+				{
+					"en": "Now we can start.",
+					"cn": "现在我们可以开始了。"
+				}
+			]
+		}
+	},
 	{
 		"en": "Danny Dog: I’m a pirate. Shiver me timbers.",
 		"cn": "丹尼狗：我是海盗。哇哈哈。"
@@ -187,7 +418,21 @@
 	{ "en": "The Children: Hurrah!", "cn": "孩子们：好耶！" },
 	{
 		"en": "Mummy Pig: Now you say who the winner is.",
-		"cn": "猪妈妈：现在你要宣布谁是赢家。"
+		"cn": "猪妈妈：现在你要宣布谁是赢家。",
+		"sentence": {
+			"en": "Now you say who the winner is.",
+			"cn": "现在你要宣布谁是赢家。",
+			"examples": [
+				{
+					"en": "Now you tell us the answer.",
+					"cn": "现在你告诉我们答案。"
+				},
+				{
+					"en": "Now you explain what happened.",
+					"cn": "现在你解释发生了什么。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Oh, yes. Ahem. And the winner is...me!",
@@ -195,7 +440,13 @@
 	},
 	{
 		"en": "Mummy Pig: Peppa, you can’t pick yourself. You’re the judge.",
-		"cn": "猪妈妈：佩奇，你不能选自己，你是评委。"
+		"cn": "猪妈妈：佩奇，你不能选自己，你是评委。",
+		"points": [
+			{
+				"en": "you can’t pick yourself",
+				"cn": "你不能选自己"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Oh, can’t I?", "cn": "小猪佩奇：哦，不行吗？" },
 	{
@@ -210,7 +461,13 @@
 	{ "en": "Rebecca Rabbit: Thank you.", "cn": "丽贝卡兔：谢谢。" },
 	{
 		"en": "Narrator: Peppa loves fancy dress parties.",
-		"cn": "旁白：佩奇喜欢化妆舞会。"
+		"cn": "旁白：佩奇喜欢化妆舞会。",
+		"points": [
+			{
+				"en": "fancy dress parties",
+				"cn": "化妆舞会"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Everyone loves fancy dress parties.",

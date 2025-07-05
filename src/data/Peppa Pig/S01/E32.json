@@ -1,20 +1,59 @@
 [
 	{
 		"en": "Narrator: It is a lovely sunny day. Peppa and George are having a picnic.",
-		"cn": "旁白：今天天气晴朗，佩奇和乔治在野餐。"
+		"cn": "旁白：今天天气晴朗，佩奇和乔治在野餐。",
+		"points": [
+			{
+				"en": "lovely sunny day",
+				"cn": "晴朗的好天气"
+			},
+			{
+				"en": "having a picnic",
+				"cn": "在野餐"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Here’s some orange juice for you, Teddy.",
-		"cn": "小猪佩奇：泰迪，这是给你的橙汁。"
+		"cn": "小猪佩奇：泰迪，这是给你的橙汁。",
+		"sentence": {
+			"en": "Here’s some orange juice for you",
+			"cn": "这是给你的橙汁",
+			"examples": [
+				{
+					"en": "Here’s some chocolate milk for you",
+					"cn": "这是给你的巧克力牛奶。"
+				},
+				{
+					"en": "Here’s some lemonade for you",
+					"cn": "这是给你的柠檬水。"
+				}
+			]
+		}
 	},
-	{ "en": "Peppa Pig: What do you say?", "cn": "小猪佩奇：你要说什么？" },
+	{
+		"en": "Peppa Pig: What do you say?",
+		"cn": "小猪佩奇：你要说什么？",
+		"points": [
+			{
+				"en": "What do you say?",
+				"cn": "你要说什么？"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: (as Teddy) Thank you very much, Peppa.",
 		"cn": "小猪佩奇：（学泰迪）非常感谢你，佩奇。"
 	},
 	{
 		"en": "Peppa Pig: You’re very welcome, Teddy.",
-		"cn": "小猪佩奇：不客气，泰迪。"
+		"cn": "小猪佩奇：不客气，泰迪。",
+		"points": [
+			{
+				"en": "You’re very welcome",
+				"cn": "不客气"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Here’s some orange juice for you, Mr Dinosaur.",
@@ -28,44 +67,144 @@
 	},
 	{
 		"en": "Peppa Pig: Would Teddy or Mr Dinosaur like a cookie?",
-		"cn": "小猪佩奇：泰迪或恐龙先生想吃饼干吗？"
+		"cn": "小猪佩奇：泰迪或恐龙先生想吃饼干吗？",
+		"sentence": {
+			"en": "Would Teddy or Mr Dinosaur like a cookie?",
+			"cn": "泰迪或恐龙先生想吃饼干吗？",
+			"examples": [
+				{
+					"en": "Would you like some juice?",
+					"cn": "你想喝点果汁吗？"
+				},
+				{
+					"en": "Would you like a sandwich?",
+					"cn": "你想要三明治吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: (as Teddy) We’re not very hungry, so Peppa and George can eat all the cookies.",
-		"cn": "小猪佩奇：（学泰迪）我们不太饿，所以佩奇和乔治可以吃所有的饼干。"
+		"cn": "小猪佩奇：（学泰迪）我们不太饿，所以佩奇和乔治可以吃所有的饼干。",
+		"points": [
+			{
+				"en": "eat all the cookies",
+				"cn": "吃所有的饼干"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Thank you, Teddy.", "cn": "小猪佩奇：谢谢你，泰迪。" },
 	{
 		"en": "Narrator: What was that strange noise?",
-		"cn": "旁白：那是什么奇怪的声音？"
+		"cn": "旁白：那是什么奇怪的声音？",
+		"sentence": {
+			"en": "What was that strange noise?",
+			"cn": "那是什么奇怪的声音？",
+			"examples": [
+				{
+					"en": "What was that loud bang?",
+					"cn": "那是什么响亮的爆炸声？"
+				},
+				{
+					"en": "What was that funny sound?",
+					"cn": "那是什么有趣的声音？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Peppa, George, quick! Come inside the house.",
-		"cn": "猪妈妈：佩奇，乔治，快！进屋来。"
+		"cn": "猪妈妈：佩奇，乔治，快！进屋来。",
+		"points": [
+			{
+				"en": "quick",
+				"cn": "快"
+			},
+			{
+				"en": "Come inside the house",
+				"cn": "进屋来"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Mummy, there was a loud bang sound.",
-		"cn": "小猪佩奇：妈妈，刚才有很大的响声。"
+		"cn": "小猪佩奇：妈妈，刚才有很大的响声。",
+		"points": [
+			{
+				"en": "loud bang sound",
+				"cn": "很大的响声"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: It’s thunder, Peppa. It means there will be a thunderstorm with lots of rain.",
-		"cn": "猪妈妈：那是雷声，佩奇，说明要下大雨了。"
+		"cn": "猪妈妈：那是雷声，佩奇，说明要下大雨了。",
+		"sentence": {
+			"en": "It means there will be a thunderstorm with lots of rain.",
+			"cn": "说明要下大雨了。",
+			"examples": [
+				{
+					"en": "It means we should take an umbrella.",
+					"cn": "说明我们应该带把伞。"
+				},
+				{
+					"en": "It means we need to hurry home.",
+					"cn": "说明我们需要赶快回家。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Quick, into the house before the rain starts.",
-		"cn": "猪妈妈：快，在下雨前进屋。"
+		"cn": "猪妈妈：快，在下雨前进屋。",
+		"sentence": {
+			"en": "into the house before the rain starts.",
+			"cn": "在下雨前进屋。",
+			"examples": [
+				{
+					"en": "into the car before it gets dark.",
+					"cn": "在天黑前进车。"
+				},
+				{
+					"en": "into the shop before it closes.",
+					"cn": "在商店关门前进店。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: No need to panic. The rain is still a long way off.",
-		"cn": "猪爸爸：不用慌，雨还早着呢。"
+		"cn": "猪爸爸：不用慌，雨还早着呢。",
+		"points": [
+			{
+				"en": "No need to panic",
+				"cn": "不用慌"
+			},
+			{
+				"en": "a long way off",
+				"cn": "还早着呢"
+			}
+		]
 	},
 	{
 		"en": "Narrator: The sky is getting darker and darker. There is going to be a thunderstorm.",
-		"cn": "旁白：天越来越黑了，要打雷下雨了。"
+		"cn": "旁白：天越来越黑了，要打雷下雨了。",
+		"points": [
+			{
+				"en": "getting darker and darker",
+				"cn": "越来越黑"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Peppa, George, did you bring all your toys in from the garden?",
-		"cn": "猪妈妈：佩奇，乔治，你们把玩具都从花园拿进来了吗？"
+		"cn": "猪妈妈：佩奇，乔治，你们把玩具都从花园拿进来了吗？",
+		"points": [
+			{
+				"en": "bring all your toys in",
+				"cn": "把玩具都拿进来"
+			}
+		]
 	},
 	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
 	{
@@ -74,40 +213,130 @@
 	},
 	{
 		"en": "Peppa Pig: Teddy! I left Teddy in the garden! He’ll get wet!",
-		"cn": "小猪佩奇：泰迪！我把泰迪落在花园里了！他会被淋湿的！"
+		"cn": "小猪佩奇：泰迪！我把泰迪落在花园里了！他会被淋湿的！",
+		"points": [
+			{
+				"en": "He’ll get wet",
+				"cn": "他会被淋湿的"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Don’t worry, Peppa. Daddy Pig will rescue Teddy.",
-		"cn": "猪爸爸：别担心，佩奇，爸爸去救泰迪。"
+		"cn": "猪爸爸：别担心，佩奇，爸爸去救泰迪。",
+		"sentence": {
+			"en": "Daddy Pig will rescue Teddy.",
+			"cn": "爸爸去救泰迪。",
+			"examples": [
+				{
+					"en": "Daddy Pig will fix the car.",
+					"cn": "爸爸去修车。"
+				},
+				{
+					"en": "Daddy Pig will cook dinner.",
+					"cn": "爸爸去做晚饭。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: You’d better hurry, Daddy Pig. It’s just about to rain.",
-		"cn": "猪妈妈：你最好快点，猪爸爸，马上要下雨了。"
+		"cn": "猪妈妈：你最好快点，猪爸爸，马上要下雨了。",
+		"points": [
+			{
+				"en": "You’d better hurry",
+				"cn": "你最好快点"
+			},
+			{
+				"en": "It’s just about to rain",
+				"cn": "马上要下雨了"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: I know all about thunderstorms. It won’t rain for ages.",
-		"cn": "猪爸爸：我很懂雷雨，离下雨还早着呢。"
+		"cn": "猪爸爸：我很懂雷雨，离下雨还早着呢。",
+		"points": [
+			{
+				"en": "I know all about",
+				"cn": "我很懂"
+			},
+			{
+				"en": "It won’t rain for ages",
+				"cn": "离下雨还早着呢"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: As I thought. Plenty of time before it rains.",
-		"cn": "猪爸爸：果然，离下雨还有很多时间。"
+		"cn": "猪爸爸：果然，离下雨还有很多时间。",
+		"points": [
+			{
+				"en": "As I thought",
+				"cn": "果然"
+			},
+			{
+				"en": "Plenty of time",
+				"cn": "还有很多时间"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Poor Teddy. He’s soaking wet.",
-		"cn": "小猪佩奇：可怜的泰迪，他全身都湿了。"
+		"cn": "小猪佩奇：可怜的泰迪，他全身都湿了。",
+		"points": [
+			{
+				"en": "Poor Teddy",
+				"cn": "可怜的泰迪"
+			},
+			{
+				"en": "He’s soaking wet",
+				"cn": "他全身都湿了"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Yes, poor Teddy. Let’s get him dry.",
-		"cn": "猪妈妈：是啊，可怜的泰迪，我们把他弄干吧。"
+		"cn": "猪妈妈：是啊，可怜的泰迪，我们把他弄干吧。",
+		"points": [
+			{
+				"en": "Let’s get him dry",
+				"cn": "我们把他弄干吧"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Poor Teddy.", "cn": "小猪佩奇：可怜的泰迪。" },
 	{
 		"en": "Mummy Pig: There you are, Teddy. All dry.",
-		"cn": "猪妈妈：好了，泰迪，干了。"
+		"cn": "猪妈妈：好了，泰迪，干了。",
+		"points": [
+			{
+				"en": "There you are",
+				"cn": "好了"
+			},
+			{
+				"en": "All dry",
+				"cn": "干了"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Achoo! What about poor Daddy? I’m soaking wet too.",
-		"cn": "猪爸爸：阿嚏！那可怜的爸爸呢？我也全身湿透了。"
+		"cn": "猪爸爸：阿嚏！那可怜的爸爸呢？我也全身湿透了。",
+		"sentence": {
+			"en": "I’m soaking wet too.",
+			"cn": "我也全身湿透了。",
+			"examples": [
+				{
+					"en": "I’m very tired too.",
+					"cn": "我也很累。"
+				},
+				{
+					"en": "I’m hungry too.",
+					"cn": "我也饿了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Oh, sorry, Daddy Pig. Let’s get you dry.",
@@ -115,53 +344,180 @@
 	},
 	{
 		"en": "Mummy Pig: There you are, Daddy Pig. Nice and dry.",
-		"cn": "猪妈妈：好了，猪爸爸，干干爽爽。"
+		"cn": "猪妈妈：好了，猪爸爸，干干爽爽。",
+		"points": [
+			{
+				"en": "Nice and dry",
+				"cn": "干干爽爽"
+			}
+		]
 	},
 	{ "en": "Daddy Pig: Oh.", "cn": "猪爸爸：哦。" },
 	{
 		"en": "Peppa Pig: The rain is coming in the house.",
-		"cn": "小猪佩奇：雨水进屋了。"
+		"cn": "小猪佩奇：雨水进屋了。",
+		"sentence": {
+			"en": "The rain is coming in the house.",
+			"cn": "雨水进屋了。",
+			"examples": [
+				{
+					"en": "The wind is blowing through the window.",
+					"cn": "风从窗户吹进来了。"
+				},
+				{
+					"en": "The snow is falling on the ground.",
+					"cn": "雪落在地上了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: The floor is getting wet.",
-		"cn": "小猪佩奇：地板都湿了。"
+		"cn": "小猪佩奇：地板都湿了。",
+		"sentence": {
+			"en": "The floor is getting wet.",
+			"cn": "地板都湿了。",
+			"examples": [
+				{
+					"en": "The grass is getting wet.",
+					"cn": "草地都湿了。"
+				},
+				{
+					"en": "The clothes are getting wet.",
+					"cn": "衣服都湿了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Oh, dear. What can we do, Daddy Pig?",
-		"cn": "猪妈妈：哎呀，猪爸爸，我们怎么办？"
+		"cn": "猪妈妈：哎呀，猪爸爸，我们怎么办？",
+		"points": [
+			{
+				"en": "Oh, dear",
+				"cn": "哎呀"
+			},
+			{
+				"en": "What can we do?",
+				"cn": "我们怎么办？"
+			}
+		]
 	},
 	{ "en": "Daddy Pig: Don’t worry.", "cn": "猪爸爸：别担心。" },
 	{
 		"en": "Narrator: Daddy Pig is using a bucket to catch the drips.",
-		"cn": "旁白：猪爸爸用桶接水滴。"
+		"cn": "旁白：猪爸爸用桶接水滴。",
+		"sentence": {
+			"en": "Daddy Pig is using a bucket to catch the drips.",
+			"cn": "猪爸爸用桶接水滴。",
+			"examples": [
+				{
+					"en": "Daddy Pig is using a sponge to clean the floor.",
+					"cn": "猪爸爸用海绵擦地板。"
+				},
+				{
+					"en": "Daddy Pig is using a towel to dry himself.",
+					"cn": "猪爸爸用毛巾擦干自己。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Well done, Daddy Pig.",
-		"cn": "猪妈妈：干得好，猪爸爸。"
+		"cn": "猪妈妈：干得好，猪爸爸。",
+		"points": [
+			{
+				"en": "Well done",
+				"cn": "干得好"
+			}
+		]
 	},
-	{ "en": "Daddy Pig: Easy as pie.", "cn": "猪爸爸：小菜一碟。" },
+	{
+		"en": "Daddy Pig: Easy as pie.",
+		"cn": "猪爸爸：小菜一碟。",
+		"points": [
+			{
+				"en": "Easy as pie",
+				"cn": "小菜一碟"
+			}
+		]
+	},
 	{ "en": "Daddy Pig: What?", "cn": "猪爸爸：什么？" },
 	{
 		"en": "Mummy Pig: Quick! Find something else to catch the water.",
-		"cn": "猪妈妈：快！再找点东西来接水。"
+		"cn": "猪妈妈：快！再找点东西来接水。",
+		"sentence": {
+			"en": "Find something else to catch the water.",
+			"cn": "再找点东西来接水。",
+			"examples": [
+				{
+					"en": "Find something else to eat.",
+					"cn": "再找点别的吃的。"
+				},
+				{
+					"en": "Find something else to play with.",
+					"cn": "再找点别的玩。"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: Well done, Peppa.", "cn": "猪爸爸：干得好，佩奇。" },
 	{ "en": "Peppa Pig: Easy as pie.", "cn": "小猪佩奇：小菜一碟。" },
 	{
-		"en": "Peppa Pig: Mummy, the thunderbangs are very loud.",
-		"cn": "小猪佩奇：妈妈，雷声好大。"
+		"en": "Peppa Pig: Mummy, the thunder bangs are very loud.",
+		"cn": "小猪佩奇：妈妈，雷声好大。",
+		"points": [
+			{
+				"en": "thunder bangs",
+				"cn": "雷声"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: It’s okay, children. Don’t be frightened.",
-		"cn": "猪爸爸：没事的，孩子们，不要害怕。"
+		"cn": "猪爸爸：没事的，孩子们，不要害怕。",
+		"points": [
+			{
+				"en": "Don’t be frightened",
+				"cn": "不要害怕"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Let’s count between each flash and bang.",
-		"cn": "猪妈妈：我们来数一数闪电和雷声之间的时间。"
+		"cn": "猪妈妈：我们来数一数闪电和雷声之间的时间。",
+		"sentence": {
+			"en": "Let’s count between each flash and bang.",
+			"cn": "我们来数一数闪电和雷声之间的时间。",
+			"examples": [
+				{
+					"en": "Let’s count the stars in the sky.",
+					"cn": "我们来数一数天空中的星星。"
+				},
+				{
+					"en": "Let’s count the cars on the road.",
+					"cn": "我们来数一数路上的汽车。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: The higher we can count, the further away the thunderstorm is.",
-		"cn": "猪爸爸：数得越多，雷雨就越远。"
+		"cn": "猪爸爸：数得越多，雷雨就越远。",
+		"sentence": {
+			"en": "The higher we can count, the further away the thunderstorm is.",
+			"cn": "数得越多，雷雨就越远。",
+			"examples": [
+				{
+					"en": "The more we practice, the better we get.",
+					"cn": "练习得越多，我们就越好。"
+				},
+				{
+					"en": "The faster we run, the sooner we arrive.",
+					"cn": "跑得越快，我们就越快到达。"
+				}
+			]
+		}
 	},
 	{ "en": "Mummy Pig: One, two, three...", "cn": "猪妈妈：一、二、三……" },
 	{ "en": "Daddy Pig: That’s three.", "cn": "猪爸爸：三下。" },
@@ -171,11 +527,23 @@
 	},
 	{
 		"en": "Daddy Pig: That’s five! The thunderstorm is going away.",
-		"cn": "猪爸爸：五下！雷雨要走了。"
+		"cn": "猪爸爸：五下！雷雨要走了。",
+		"points": [
+			{
+				"en": "is going away",
+				"cn": "要走了"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: The thunderstorm is over.",
-		"cn": "猪妈妈：雷雨结束了。"
+		"cn": "猪妈妈：雷雨结束了。",
+		"points": [
+			{
+				"en": "is over",
+				"cn": "结束了"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig, Mummy Pig, Peppa Pig, George: Hurrah!",
@@ -183,11 +551,31 @@
 	},
 	{
 		"en": "Narrator: The thunderstorm has filled the garden with muddy puddles.",
-		"cn": "旁白：雷雨让花园里全是泥坑。"
+		"cn": "旁白：雷雨让花园里全是泥坑。",
+		"sentence": {
+			"en": "The thunderstorm has filled the garden with muddy puddles.",
+			"cn": "雷雨让花园里全是泥坑。",
+			"examples": [
+				{
+					"en": "The rain has filled the river with water.",
+					"cn": "雨水让河里充满了水。"
+				},
+				{
+					"en": "The snow has covered the ground with white.",
+					"cn": "雪让地面覆盖了一层白色。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Peppa loves jumping up and down in muddy puddles.",
-		"cn": "旁白：佩奇喜欢在泥坑里跳来跳去。"
+		"cn": "旁白：佩奇喜欢在泥坑里跳来跳去。",
+		"points": [
+			{
+				"en": "jumping up and down",
+				"cn": "跳来跳去"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Everyone loves jumping up and down in muddy puddles.",
