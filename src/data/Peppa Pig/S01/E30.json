@@ -1,7 +1,21 @@
 [
 	{
 		"en": "Narrator: Peppa and her family are going to the museum.",
-		"cn": "旁白：佩奇一家要去博物馆。"
+		"cn": "旁白：佩奇一家要去博物馆。",
+		"sentence": {
+			"en": "Peppa and her family are going to the museum.",
+			"cn": "佩奇一家要去博物馆。",
+			"examples": [
+				{
+					"en": "They are going to the zoo.",
+					"cn": "他们要去动物园。"
+				},
+				{
+					"en": "I am going to the library.",
+					"cn": "我要去图书馆。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Daddy, what is a museum?",
@@ -9,22 +23,63 @@
 	},
 	{
 		"en": "Daddy Pig: It’s a place full of interesting things that are very old.",
-		"cn": "猪爸爸：那里有很多有趣的古老东西。"
+		"cn": "猪爸爸：那里有很多有趣的古老东西。",
+		"sentence": {
+			"en": "It’s a place full of interesting things that are very old.",
+			"cn": "那里有很多有趣的古老东西。",
+			"examples": [
+				{
+					"en": "It’s a place full of books.",
+					"cn": "那里有很多书。"
+				},
+				{
+					"en": "It’s a place full of toys.",
+					"cn": "那里有很多玩具。"
+				}
+			]
+		}
 	},
-	{ "en": "Peppa Pig: Older than you?", "cn": "小猪佩奇：比你还老吗？" },
+	{
+		"en": "Peppa Pig: Older than you?",
+		"cn": "小猪佩奇：比你还老吗？",
+		"points": [
+			{
+				"en": "Older than you",
+				"cn": "比你还老"
+			}
+		]
+	},
 	{
 		"en": "Daddy Pig: Yes, even older than me.",
-		"cn": "猪爸爸：是的，比我还老。"
+		"cn": "猪爸爸：是的，比我还老。",
+		"points": [
+			{
+				"en": "Even older than me",
+				"cn": "比我还老"
+			}
+		]
 	},
 	{ "en": "Peppa Pig and George: Oo-oo.", "cn": "小猪佩奇和乔治：呜——呜——。" },
 	{ "en": "Peppa Pig: Really old.", "cn": "小猪佩奇：真的很老。" },
 	{
 		"en": "Mummy Pig: There’s one room that is full of things that belonged to kings and queens from long ago.",
-		"cn": "猪妈妈：有一个房间里全是很久以前国王和王后的东西。"
+		"cn": "猪妈妈：有一个房间里全是很久以前国王和王后的东西。",
+		"points": [
+			{
+				"en": "things that belonged to kings and queens",
+				"cn": "国王和王后的东西"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: I want to see the king and queen’s room.",
-		"cn": "小猪佩奇：我想看国王和王后的房间。"
+		"cn": "小猪佩奇：我想看国王和王后的房间。",
+		"points": [
+			{
+				"en": "king and queen’s room",
+				"cn": "国王和王后的房间"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: And there’s another room with a real dinosaur.",
@@ -39,7 +94,13 @@
 	},
 	{
 		"en": "Mummy Pig: Two adults and two children.",
-		"cn": "猪妈妈：两张成人票，两张儿童票。"
+		"cn": "猪妈妈：两张成人票，两张儿童票。",
+		"points": [
+			{
+				"en": "Two adults and two children",
+				"cn": "两张成人票，两张儿童票"
+			}
+		]
 	},
 	{ "en": "George: Dinosaur, grr.", "cn": "乔治：恐龙，嗷。" },
 	{ "en": "Miss Rabbit: And a dinosaur.", "cn": "兔小姐：还有一只恐龙。" },
@@ -55,29 +116,84 @@
 	},
 	{
 		"en": "Mummy Pig: Don’t worry, George. We will see the dinosaur next.",
-		"cn": "猪妈妈：别担心，乔治，等会儿就去看恐龙。"
+		"cn": "猪妈妈：别担心，乔治，等会儿就去看恐龙。",
+		"sentence": {
+			"en": "We will see the dinosaur next.",
+			"cn": "等会儿就去看恐龙。",
+			"examples": [
+				{
+					"en": "We will see the books next.",
+					"cn": "等会儿就去看书。"
+				},
+				{
+					"en": "We will see dolls next.",
+					"cn": "等会儿就去看玩偶。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Peppa, these are all the things that the queen had a long time ago.",
-		"cn": "猪妈妈：佩奇，这些都是很久以前王后的东西。"
+		"cn": "猪妈妈：佩奇，这些都是很久以前王后的东西。",
+		"points": [
+			{
+				"en": "things that the queen had",
+				"cn": "王后的东西"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: This is the queen’s special chair. It’s called a throne.",
-		"cn": "猪妈妈：这是王后的专用椅子，叫做王座。"
+		"cn": "猪妈妈：这是王后的专用椅子，叫做王座。",
+		"points": [
+			{
+				"en": "It's called a throne",
+				"cn": "叫做王座"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: It’s beautiful.", "cn": "小猪佩奇：真漂亮。" },
 	{
 		"en": "Mummy Pig: This is the queen’s dress.",
 		"cn": "猪妈妈：这是王后的裙子。"
 	},
-	{ "en": "Peppa Pig: It’s so pretty.", "cn": "小猪佩奇：好漂亮。" },
+	{
+		"en": "Peppa Pig: It’s so pretty.",
+		"cn": "小猪佩奇：好漂亮。",
+		"sentence": {
+			"en": "It’s so pretty.",
+			"cn": "好漂亮。",
+			"examples": [
+				{
+					"en": "It’s so big.",
+					"cn": "好大。"
+				},
+				{
+					"en": "It’s so small.",
+					"cn": "好小。"
+				}
+			]
+		}
+	},
 	{
 		"en": "Mummy Pig: Look, Peppa. This is the queen’s golden crown.",
-		"cn": "猪妈妈：佩奇，你看，这是王后的金色王冠。"
+		"cn": "猪妈妈：佩奇，你看，这是王后的金色王冠。",
+		"points": [
+			{
+				"en": "the queen’s golden crown",
+				"cn": "王后的金色王冠"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Wow! What lovely things.",
-		"cn": "小猪佩奇：哇！这些东西真漂亮。"
+		"cn": "小猪佩奇：哇！这些东西真漂亮。",
+		"points": [
+			{
+				"en": "lovely things",
+				"cn": "漂亮的东西"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Mummy, where is the queen’s television?",
@@ -85,7 +201,21 @@
 	},
 	{
 		"en": "Mummy Pig: They didn’t have television then.",
-		"cn": "猪妈妈：那时候还没有电视。"
+		"cn": "猪妈妈：那时候还没有电视。",
+		"sentence": {
+			"en": "They didn’t have television then.",
+			"cn": "那时候还没有电视。",
+			"examples": [
+				{
+					"en": "They didn’t have computers then.",
+					"cn": "那时候还没有电脑。"
+				},
+				{
+					"en": "They didn’t have phones then.",
+					"cn": "那时候还没有手机。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: No television? But they did have computers.",
@@ -93,49 +223,169 @@
 	},
 	{
 		"en": "Mummy Pig: No, they didn’t have computers either.",
-		"cn": "猪妈妈：没有，那时候也没有电脑。"
+		"cn": "猪妈妈：没有，那时候也没有电脑。",
+		"sentence": {
+			"en": "they didn’t have computers either.",
+			"cn": "那时候也没有电脑。",
+			"examples": [
+				{
+					"en": "They didn’t have phones either.",
+					"cn": "那时候也没有手机。"
+				},
+				{
+					"en": "They didn’t have tablets either.",
+					"cn": "那时候也没有平板电脑。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: What did they do all day?",
-		"cn": "小猪佩奇：那他们整天都做什么？"
+		"cn": "小猪佩奇：那他们整天都做什么？",
+		"sentence": {
+			"en": "What did they do all day?",
+			"cn": "那他们整天都做什么？",
+			"examples": [
+				{
+					"en": "What did they eat all day?",
+					"cn": "那他们整天都吃什么？"
+				},
+				{
+					"en": "What did they play all day?",
+					"cn": "那他们整天都玩什么？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Mummy, if I was the queen I would eat as much cake as I wanted.",
-		"cn": "小猪佩奇：妈妈，如果我是王后，我会想吃多少蛋糕就吃多少。"
+		"cn": "小猪佩奇：妈妈，如果我是王后，我会想吃多少蛋糕就吃多少。",
+		"sentence": {
+			"en": "I would eat as much cake as I wanted.",
+			"cn": "我会想吃多少蛋糕就吃多少。",
+			"examples": [
+				{
+					"en": "I would play as much as I wanted.",
+					"cn": "我会想玩多少就玩多少。"
+				},
+				{
+					"en": "I would sleep as much as I wanted.",
+					"cn": "我会想睡多少就睡多少。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Peppa imagines being a queen.",
-		"cn": "旁白：佩奇想象自己是王后。"
+		"cn": "旁白：佩奇想象自己是王后。",
+		"sentence": {
+			"en": "Peppa imagines being a queen.",
+			"cn": "佩奇想象自己是王后。",
+			"examples": [
+				{
+					"en": "George imagines being a dinosaur.",
+					"cn": "乔治想象自己是恐龙。"
+				},
+				{
+					"en": "Daddy Pig imagines being a king.",
+					"cn": "猪爸爸想象自己是国王。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Mmm, delicious.", "cn": "小猪佩奇：嗯，真好吃。" },
 	{
 		"en": "Mummy Pig: Is there anything else you would care for, Queen Peppa?",
-		"cn": "猪妈妈：佩奇王后，还想要什么吗？"
+		"cn": "猪妈妈：佩奇王后，还想要什么吗？",
+		"sentence": {
+			"en": "Is there anything else you would care for, Queen Peppa?",
+			"cn": "佩奇王后，还想要什么吗？",
+			"examples": [
+				{
+					"en": "Is there anything else you would like to eat?",
+					"cn": "你还想吃点别的吗？"
+				},
+				{
+					"en": "Is there anything else you would like to drink?",
+					"cn": "你还想喝点别的吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Yes, more cake, please.",
-		"cn": "小猪佩奇：要的，请再来点蛋糕。"
+		"cn": "小猪佩奇：要的，请再来点蛋糕。",
+		"points": [
+			{
+				"en": "more cake, please",
+				"cn": "再来点蛋糕"
+			}
+		]
 	},
 	{ "en": "Mummy Pig: Of course.", "cn": "猪妈妈：当然可以。" },
 	{ "en": "Daddy Pig: Come on, everyone.", "cn": "猪爸爸：大家快来。" },
-	{ "en": "Peppa Pig: Coming, Daddy.", "cn": "小猪佩奇：来了，爸爸。" },
+	{
+		"en": "Peppa Pig: Coming, Daddy.",
+		"cn": "小猪佩奇：来了，爸爸。",
+		"points": [
+			{
+				"en": "Coming, Daddy.",
+				"cn": "来了，爸爸。"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: Daddy, I’m Queen Peppa.",
 		"cn": "小猪佩奇：爸爸，我是佩奇女王。"
 	},
 	{
 		"en": "Peppa Pig: You must bow when you speak to me.",
-		"cn": "小猪佩奇：你和我说话要鞠躬。"
+		"cn": "小猪佩奇：你和我说话要鞠躬。",
+		"sentence": {
+			"en": "You must bow when you speak to me.",
+			"cn": "你和我说话要鞠躬。",
+			"examples": [
+				{
+					"en": "You must bow when you meet the queen.",
+					"cn": "见到女王时要鞠躬。"
+				},
+				{
+					"en": "You must bow when you greet the king.",
+					"cn": "见到国王时要鞠躬。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Oh, I’m most terribly sorry, your royal highness.",
-		"cn": "猪爸爸：哦，非常抱歉，殿下。"
+		"cn": "猪爸爸：哦，非常抱歉，殿下。",
+		"points": [
+			{
+				"en": "your royal highness",
+				"cn": "殿下"
+			}
+		]
 	},
-	{ "en": "Peppa Pig: And what do you do?", "cn": "小猪佩奇：你是做什么的？" },
+	{
+		"en": "Peppa Pig: And what do you do?",
+		"cn": "小猪佩奇：你是做什么的？",
+		"points": [
+			{
+				"en": "And what do you do?",
+				"cn": "你是做什么的？"
+			}
+		]
+	},
 	{ "en": "Daddy Pig: I’m your daddy.", "cn": "猪爸爸：我是你爸爸。" },
 	{
 		"en": "Peppa Pig: That must be very interesting.",
-		"cn": "小猪佩奇：那一定很有趣。"
+		"cn": "小猪佩奇：那一定很有趣。",
+		"points": [
+			{
+				"en": "very interesting.",
+				"cn": "很有趣。"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Yes, it’s very interesting.",
@@ -143,7 +393,21 @@
 	},
 	{
 		"en": "Peppa Pig: And what room is this?",
-		"cn": "小猪佩奇：这个房间是什么？"
+		"cn": "小猪佩奇：这个房间是什么？",
+		"sentence": {
+			"en": "And what room is this?",
+			"cn": "这个房间是什么？",
+			"examples": [
+				{
+					"en": "And what language is this?",
+					"cn": "这是什么语言？"
+				},
+				{
+					"en": "And what game is this?",
+					"cn": "这是什么游戏？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: This is the dinosaur room.",
@@ -158,11 +422,39 @@
 	{ "en": "Peppa Pig: Where is the dinosaur?", "cn": "小猪佩奇：恐龙在哪里？" },
 	{
 		"en": "Daddy Pig: He’s somewhere in the room.",
-		"cn": "猪爸爸：它就在这个房间里。"
+		"cn": "猪爸爸：它就在这个房间里。",
+		"sentence": {
+			"en": "He’s somewhere in the room.",
+			"cn": "它就在这个房间里。",
+			"examples": [
+				{
+					"en": "He’s somewhere in the garden.",
+					"cn": "它就在花园里。"
+				},
+				{
+					"en": "He’s somewhere in the house.",
+					"cn": "它就在房子里。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: I can’t see him. He must be very small.",
-		"cn": "小猪佩奇：我看不到，他一定很小。"
+		"cn": "小猪佩奇：我看不到，他一定很小。",
+		"sentence": {
+			"en": "I can’t see him. He must be very small.",
+			"cn": "我看不到，他一定很小。",
+			"examples": [
+				{
+					"en": "I can’t find my toy. It must be very small.",
+					"cn": "我找不到我的玩具，它一定很小。"
+				},
+				{
+					"en": "I can’t hear you. You must be very quiet.",
+					"cn": "我听不到你，你一定很安静。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Actually, Peppa, he’s very big.",
@@ -171,7 +463,21 @@
 	{ "en": "Peppa Pig: Wow!", "cn": "小猪佩奇：哇！" },
 	{
 		"en": "Daddy Pig: These are the bones of a real dinosaur.",
-		"cn": "猪爸爸：这些是真正恐龙的骨头。"
+		"cn": "猪爸爸：这些是真正恐龙的骨头。",
+		"sentence": {
+			"en": "These are the bones of a real dinosaur.",
+			"cn": "这些是真正恐龙的骨头。",
+			"examples": [
+				{
+					"en": "These are the bones of a real animal.",
+					"cn": "这些是真正动物的骨头。"
+				},
+				{
+					"en": "These are the bones of a real fish.",
+					"cn": "这些是真正鱼的骨头。"
+				}
+			]
+		}
 	},
 	{ "en": "George: Dinosaur, grr.", "cn": "乔治：恐龙，嗷。" },
 	{
@@ -180,7 +486,13 @@
 	},
 	{
 		"en": "Peppa Pig: It’s a dinosaur! Help, help!",
-		"cn": "小猪佩奇：是恐龙！救命，救命！"
+		"cn": "小猪佩奇：是恐龙！救命，救命！",
+		"points": [
+			{
+				"en": "Help, help!",
+				"cn": "救命，救命！"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: The dinosaur room is George’s favourite room.",
@@ -188,11 +500,39 @@
 	},
 	{
 		"en": "Peppa Pig: My favourite room is the king and queen’s room.",
-		"cn": "小猪佩奇：我最喜欢国王和王后的房间。"
+		"cn": "小猪佩奇：我最喜欢国王和王后的房间。",
+		"sentence": {
+			"en": "My favourite room is the king and queen’s room.",
+			"cn": "我最喜欢国王和王后的房间。",
+			"examples": [
+				{
+					"en": "My favourite room is the kitchen.",
+					"cn": "我最喜欢厨房。"
+				},
+				{
+					"en": "My favourite room is the living room.",
+					"cn": "我最喜欢客厅。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: And it looks as if Daddy Pig is already in his favourite room.",
-		"cn": "猪妈妈：看来猪爸爸已经在他最喜欢的房间了。"
+		"cn": "猪妈妈：看来猪爸爸已经在他最喜欢的房间了。",
+		"sentence": {
+			"en": "it looks as if Daddy Pig is already in his favourite room.",
+			"cn": "看来猪爸爸已经在他最喜欢的房间了。",
+			"examples": [
+				{
+					"en": "it looks as if John is already done with his homework.",
+					"cn": "看来约翰已经完成了他的作业。"
+				},
+				{
+					"en": "it looks as if the party is already starting.",
+					"cn": "看来派对已经开始了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Which room is that, Mummy?",
@@ -204,9 +544,24 @@
 	},
 	{
 		"en": "Narrator: Daddy Pig’s favourite room is the museum cafe.",
-		"cn": "旁白：猪爸爸最喜欢的房间是博物馆的咖啡厅。"
+		"cn": "旁白：猪爸爸最喜欢的房间是博物馆的咖啡厅。",
+		"points": [
+			{
+				"en": "museum cafe.",
+				"cn": "博物馆的咖啡厅"
+			}
+		]
 	},
-	{ "en": "Daddy Pig: Come on, tuck in.", "cn": "猪爸爸：大家快吃吧。" },
+	{
+		"en": "Daddy Pig: Come on, tuck in.",
+		"cn": "猪爸爸：大家快吃吧。",
+		"points": [
+			{
+				"en": "tuck in",
+				"cn": "快吃吧"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: Oh, yes. This is a very nice room.",
 		"cn": "小猪佩奇：是啊，这个房间真不错。"

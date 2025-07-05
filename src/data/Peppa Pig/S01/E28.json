@@ -1,11 +1,31 @@
 [
 	{
 		"en": "Narrator: Peppa and her family are going out for the day.",
-		"cn": "旁白：佩奇一家要出去玩一天。"
+		"cn": "旁白：佩奇一家要出去玩一天。",
+		"points": [
+			{
+				"en": "going out for the day",
+				"cn": "出去玩一天"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Peppa, George, today we’re going to Windy Castle.",
-		"cn": "猪爸爸：佩奇，乔治，今天我们要去风之城堡。"
+		"cn": "猪爸爸：佩奇，乔治，今天我们要去风之城堡。",
+		"sentence": {
+			"en": "we’re going to Windy Castle",
+			"cn": "我们要去风之城堡",
+			"examples": [
+				{
+					"en": "we’re going to the zoo",
+					"cn": "我们要去动物园"
+				},
+				{
+					"en": "we’re going to the beach",
+					"cn": "我们要去海滩"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: What’s Windy Castle, Daddy?",
@@ -18,20 +38,64 @@
 	{ "en": "Narrator: George likes castles.", "cn": "旁白：乔治喜欢城堡。" },
 	{
 		"en": "Peppa Pig: Windy Castle sounds like a boring thing, for boys.",
-		"cn": "小猪佩奇：风之城堡听起来是男孩子才喜欢的无聊东西。"
+		"cn": "小猪佩奇：风之城堡听起来是男孩子才喜欢的无聊东西。",
+		"sentence": {
+			"en": "sounds like a boring thing",
+			"cn": "听起来是无聊的东西",
+			"examples": [
+				{
+					"en": "sounds like a fun game",
+					"cn": "听起来是有趣的游戏"
+				},
+				{
+					"en": "sounds like a good idea",
+					"cn": "听起来是个好主意"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: No, Peppa. You’ll love it. There’s a great view from the top of Windy Castle. You can even see Granny and Grandpa’s house.",
-		"cn": "猪爸爸：不是的，佩奇，你会喜欢的。风之城堡顶上风景很好，还能看到奶奶和爷爷的家。"
+		"cn": "猪爸爸：不是的，佩奇，你会喜欢的。风之城堡顶上风景很好，还能看到奶奶和爷爷的家。",
+		"sentence": {
+			"en": "You can even see Granny and Grandpa’s house",
+			"cn": "你甚至能看到奶奶和爷爷的家",
+			"examples": [
+				{
+					"en": "You can even see the sea from here",
+					"cn": "你甚至能从这里看到大海"
+				},
+				{
+					"en": "You can even see the mountains from the top",
+					"cn": "你甚至能从山顶看到山脉"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Wow! Let’s go.", "cn": "小猪佩奇：哇！我们走吧。" },
 	{
 		"en": "Daddy Pig: I’ll map read and Mummy Pig will drive.",
-		"cn": "猪爸爸：我来看地图，猪妈妈开车。"
+		"cn": "猪爸爸：我来看地图，猪妈妈开车。",
+		"points": [
+			{
+				"en": "map read",
+				"cn": "看地图"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Are you sure, Daddy Pig? When you map read we always get lost and you get grumpy.",
-		"cn": "猪妈妈：你确定吗？你看地图我们总迷路，还会发脾气。"
+		"cn": "猪妈妈：你确定吗？你看地图我们总迷路，还会发脾气。",
+		"points": [
+			{
+				"en": "we always get lost",
+				"cn": "我们总迷路"
+			},
+			{
+				"en": "you get grumpy",
+				"cn": "你会发脾气"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: We will not get lost. And I will not get grumpy.",
@@ -39,27 +103,108 @@
 	},
 	{
 		"en": "Mummy Pig: Windy Castle, here we come.",
-		"cn": "猪妈妈：风之城堡，我们来了。"
+		"cn": "猪妈妈：风之城堡，我们来了。",
+		"points": [
+			{
+				"en": "here we come",
+				"cn": "我们来了"
+			}
+		]
 	},
-	{ "en": "Peppa Pig: Are we nearly there yet?", "cn": "小猪佩奇：快到了吗？" },
-	{ "en": "Daddy Pig: Not quite.", "cn": "猪爸爸：还没到。" },
+	{
+		"en": "Peppa Pig: Are we nearly there yet?",
+		"cn": "小猪佩奇：快到了吗？",
+		"sentence": {
+			"en": "Are we nearly there yet?",
+			"cn": "快到了吗？",
+			"examples": [
+				{
+					"en": "Are we nearly at the zoo yet?",
+					"cn": "快到动物园了吗？"
+				},
+				{
+					"en": "Are we nearly home yet?",
+					"cn": "快到家了吗？"
+				}
+			]
+		}
+	},
+	{
+		"en": "Daddy Pig: Not quite.",
+		"cn": "猪爸爸：还没到。",
+		"points": [
+			{
+				"en": "Not quite",
+				"cn": "还没到"
+			}
+		]
+	},
 	{ "en": "Peppa Pig: Oh.", "cn": "小猪佩奇：哦。" },
 	{
 		"en": "Daddy Pig: Would you like to play a game?",
-		"cn": "猪爸爸：你想玩个游戏吗？"
+		"cn": "猪爸爸：你想玩个游戏吗？",
+		"sentence": {
+			"en": "Would you like to play a game?",
+			"cn": "你想玩个游戏吗？",
+			"examples": [
+				{
+					"en": "Would you like to play a game of cards?",
+					"cn": "你想玩一局纸牌游戏吗？"
+				},
+				{
+					"en": "Would you like to eat something?",
+					"cn": "你想吃点什么吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Yes, please. Let’s play I Spy.",
-		"cn": "小猪佩奇：想！我们玩“我猜我猜”吧。"
+		"cn": "小猪佩奇：想！我们玩“我猜我猜”吧。",
+		"points": [
+			{
+				"en": "Yes, please.",
+				"cn": "想！"
+			}
+		]
 	},
-	{ "en": "Daddy Pig: OK. I’ll go first.", "cn": "猪爸爸：好，我先来。" },
+	{
+		"en": "Daddy Pig: OK. I’ll go first.",
+		"cn": "猪爸爸：好，我先来。",
+		"points": [
+			{
+				"en": "I’ll go first",
+				"cn": "我先来"
+			}
+		]
+	},
 	{
 		"en": "Narrator: Daddy Pig has to secretly look at something and the others have to guess what it is.",
-		"cn": "旁白：猪爸爸要悄悄看一样东西，大家来猜是什么。"
+		"cn": "旁白：猪爸爸要悄悄看一样东西，大家来猜是什么。",
+		"sentence": {
+			"en": "others have to guess what it is",
+			"cn": "其他人要猜是什么",
+			"examples": [
+				{
+					"en": "We have to guess how many there are",
+					"cn": "我们要猜有多少个"
+				},
+				{
+					"en": "others have to guess what it is in the picture",
+					"cn": "其他人要在图片中猜是什么"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: I spy with my little eye something coloured red.",
-		"cn": "猪爸爸：我猜到一样红色的东西。"
+		"cn": "猪爸爸：我猜到一样红色的东西。",
+		"points": [
+			{
+				"en": "something coloured red",
+				"cn": "一样红色的东西"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Red. My dress. That’s red.",
@@ -72,7 +217,13 @@
 	{ "en": "Peppa Pig: Hmm? The car.", "cn": "小猪佩奇：嗯？是汽车。" },
 	{
 		"en": "Daddy Pig: That’s right, our red car.",
-		"cn": "猪爸爸：对，是我们的红车。"
+		"cn": "猪爸爸：对，是我们的红车。",
+		"points": [
+			{
+				"en": "That’s right",
+				"cn": "对"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: My go. I spy with my little eye something blue.",
@@ -87,7 +238,16 @@
 		"en": "Mummy Pig: Is it something in the car?",
 		"cn": "猪妈妈：是在车里吗？"
 	},
-	{ "en": "Peppa Pig: No. Give up?", "cn": "小猪佩奇：不是。你们猜不出来吗？" },
+	{
+		"en": "Peppa Pig: No. Give up?",
+		"cn": "小猪佩奇：不是。你们猜不出来吗？",
+		"points": [
+			{
+				"en": "Give up?",
+				"cn": "你们猜不出来吗？"
+			}
+		]
+	},
 	{ "en": "Daddy Pig: Yes.", "cn": "猪爸爸：猜不出来。" },
 	{
 		"en": "Peppa Pig: The sky. The blue sky. I win.",
@@ -95,15 +255,49 @@
 	},
 	{
 		"en": "Mummy Pig: Daddy Pig, do you know where we are?",
-		"cn": "猪妈妈：猪爸爸，你知道我们在哪吗？"
+		"cn": "猪妈妈：猪爸爸，你知道我们在哪吗？",
+		"sentence": {
+			"en": "do you know where we are?",
+			"cn": "你知道我们在哪吗？",
+			"examples": [
+				{
+					"en": "do you know where the zoo is?",
+					"cn": "你知道动物园在哪吗？"
+				},
+				{
+					"en": "do you know where the nearest shop is?",
+					"cn": "你知道最近的商店在哪吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: I know exactly where we are. Although, this road doesn’t look the same as it does on this map.",
-		"cn": "猪爸爸：我当然知道。虽然这条路和地图上不太一样。"
+		"cn": "猪爸爸：我当然知道。虽然这条路和地图上不太一样。",
+		"sentence": {
+			"en": "this road doesn’t look the same as it does on this map",
+			"cn": "这条路和地图上不太一样",
+			"examples": [
+				{
+					"en": "this street doesn’t look the same as it does on the map",
+					"cn": "这条街和地图上不太一样"
+				},
+				{
+					"en": "this path doesn’t look the same as it does on the map",
+					"cn": "这条小路和地图上不太一样"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Oh, Daddy Pig. We’re lost.",
-		"cn": "猪妈妈：哎呀，猪爸爸，我们迷路了。"
+		"cn": "猪妈妈：哎呀，猪爸爸，我们迷路了。",
+		"points": [
+			{
+				"en": "we’re lost",
+				"cn": "我们迷路了"
+			}
+		]
 	},
 	{ "en": "Daddy Pig: We are not lost.", "cn": "猪爸爸：我们没迷路。" },
 	{
@@ -112,15 +306,49 @@
 	},
 	{
 		"en": "Daddy Pig: Just give me a moment. Hmm.",
-		"cn": "猪爸爸：让我想想。嗯……"
+		"cn": "猪爸爸：让我想想。嗯……",
+		"points": [
+			{
+				"en": "give me a moment",
+				"cn": "给我一点时间"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: I know. We can ring Granny and Grandpa.",
-		"cn": "猪妈妈：我知道了，我们可以给奶奶和爷爷打电话。"
+		"cn": "猪妈妈：我知道了，我们可以给奶奶和爷爷打电话。",
+		"sentence": {
+			"en": "We can ring Granny and Grandpa",
+			"cn": "我们可以给奶奶和爷爷打电话",
+			"examples": [
+				{
+					"en": "We can ring the restaurant for a reservation",
+					"cn": "我们可以给餐厅打电话预订"
+				},
+				{
+					"en": "We can ring the hotel to ask for directions",
+					"cn": "我们可以给酒店打电话问路"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: There’s no need to ring Granny and Grandpa. I’ll get us to Windy Castle if it takes me all day.",
-		"cn": "猪爸爸：不用打电话，我一定能带你们去风之城堡。"
+		"cn": "猪爸爸：不用打电话，我一定能带你们去风之城堡。",
+		"sentence": {
+			"en": "if it takes me all day",
+			"cn": "即使花我一整天",
+			"examples": [
+				{
+					"en": "if it takes me all night",
+					"cn": "即使花我一整晚"
+				},
+				{
+					"en": "if it takes me a week",
+					"cn": "即使花我一周"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: We haven’t got all day.",
@@ -128,11 +356,31 @@
 	},
 	{
 		"en": "Grandpa Pig: Hello, Grandpa Pig speaking.",
-		"cn": "猪爷爷：你好，我是猪爷爷。"
+		"cn": "猪爷爷：你好，我是猪爷爷。",
+		"points": [
+			{
+				"en": "Grandpa Pig speaking",
+				"cn": "我是猪爷爷"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Grandpa Pig, we’ve got a bit lost on the way to Windy Castle.",
-		"cn": "猪妈妈：猪爷爷，我们去风之城堡的路上迷路了。"
+		"cn": "猪妈妈：猪爷爷，我们去风之城堡的路上迷路了。",
+		"sentence": {
+			"en": "we’ve got a bit lost",
+			"cn": "我们有点迷路了",
+			"examples": [
+				{
+					"en": "we’ve got a bit lost on the way to the zoo",
+					"cn": "我们去动物园的路上有点迷路了"
+				},
+				{
+					"en": "we’ve got a bit lost on the way to the beach",
+					"cn": "我们去海滩的路上有点迷路了"
+				}
+			]
+		}
 	},
 	{
 		"en": "Grandpa Pig: Is Daddy Pig doing the map reading?",
@@ -140,12 +388,32 @@
 	},
 	{
 		"en": "Mummy Pig: Yes, Daddy Pig is doing the map reading and he’s a bit grumpy at the moment.",
-		"cn": "猪妈妈：是的，猪爸爸在看地图，他现在有点不高兴。"
+		"cn": "猪妈妈：是的，猪爸爸在看地图，他现在有点不高兴。",
+		"points": [
+			{
+				"en": "a bit grumpy",
+				"cn": "有点不高兴"
+			}
+		]
 	},
 	{ "en": "Daddy Pig: I am not grumpy.", "cn": "猪爸爸：我没有不高兴。" },
 	{
 		"en": "Grandpa Pig: This is the best route. Keep on the main road until you see Windy Castle up ahead.",
-		"cn": "猪爷爷：最好的路线是一直沿主路走，直到看到风之城堡。"
+		"cn": "猪爷爷：最好的路线是一直沿主路走，直到看到风之城堡。",
+		"sentence": {
+			"en": "Keep on the main road until you see Windy Castle up ahead",
+			"cn": "沿主路走，直到看到风之城堡",
+			"examples": [
+				{
+					"en": "Keep on the main road until you reach the town",
+					"cn": "沿主路走，直到到达小镇"
+				},
+				{
+					"en": "Keep on the main road until you see the sign for the park",
+					"cn": "沿主路走，直到看到公园的标志"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Thank you, Grandpa Pig.",
@@ -153,9 +421,24 @@
 	},
 	{
 		"en": "Mummy Pig: We follow the main road and look out for Windy Castle.",
-		"cn": "猪妈妈：我们沿主路走，注意看风之城堡。"
+		"cn": "猪妈妈：我们沿主路走，注意看风之城堡。",
+		"points": [
+			{
+				"en": "look out for Windy Castle",
+				"cn": "注意看风之城堡"
+			}
+		]
 	},
-	{ "en": "Daddy Pig: As I thought.", "cn": "猪爸爸：果然如此。" },
+	{
+		"en": "Daddy Pig: As I thought.",
+		"cn": "猪爸爸：果然如此。",
+		"points": [
+			{
+				"en": "As I thought",
+				"cn": "果然如此"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: Look. Is that a castle?",
 		"cn": "小猪佩奇：快看，那是城堡吗？"
@@ -164,10 +447,25 @@
 		"en": "Daddy Pig: Yes. It’s Windy Castle.",
 		"cn": "猪爸爸：是的，那就是风之城堡。"
 	},
-	{ "en": "Mummy Pig: Come on, car.", "cn": "猪妈妈：加油，小汽车。" },
+	{
+		"en": "Mummy Pig: Come on, car.",
+		"cn": "猪妈妈：加油，小汽车。",
+		"points": [
+			{
+				"en": "Come on",
+				"cn": "加油"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: Go on, car. You can make it.",
-		"cn": "小猪佩奇：加油，小汽车，你能行。"
+		"cn": "小猪佩奇：加油，小汽车，你能行。",
+		"points": [
+			{
+				"en": "You can make it",
+				"cn": "你能行"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig, Mummy Pig, Peppa Pig: Hurrah!",
@@ -175,24 +473,84 @@
 	},
 	{
 		"en": "Narrator: Peppa and her family have arrived at Windy Castle.",
-		"cn": "旁白：佩奇一家到风之城堡了。"
+		"cn": "旁白：佩奇一家到风之城堡了。",
+		"sentence": {
+			"en": "have arrived at Windy Castle",
+			"cn": "到风之城堡了",
+			"examples": [
+				{
+					"en": "have arrived at the zoo",
+					"cn": "到动物园了"
+				},
+				{
+					"en": "have arrived at the beach",
+					"cn": "到海滩了"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Wow, it’s so tall.", "cn": "小猪佩奇：哇，好高啊。" },
 	{
 		"en": "Daddy Pig: Let’s go inside. The view from the top is fantastic.",
-		"cn": "猪爸爸：我们进去吧，顶上的风景很棒。"
+		"cn": "猪爸爸：我们进去吧，顶上的风景很棒。",
+		"sentence": {
+			"en": "The view from the top is fantastic",
+			"cn": "顶上的风景很棒",
+			"examples": [
+				{
+					"en": "The view from the top of the mountain is amazing",
+					"cn": "山顶的风景很棒"
+				},
+				{
+					"en": "The view from the top of the tower is breathtaking",
+					"cn": "塔顶的风景令人惊叹"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Wow!", "cn": "小猪佩奇：哇！" },
-	{ "en": "Mummy Pig: Look at the view.", "cn": "猪妈妈：快看风景。" },
+	{
+		"en": "Mummy Pig: Look at the view.",
+		"cn": "猪妈妈：快看风景。",
+		"points": [
+			{
+				"en": "Look at the view",
+				"cn": "快看风景"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: Mummy, is that Granny and Grandpa’s house?",
 		"cn": "小猪佩奇：妈妈，那是奶奶和爷爷的家吗？"
 	},
 	{ "en": "Mummy Pig: Yes, it is.", "cn": "猪妈妈：是的。" },
-	{ "en": "Peppa Pig: It’s so far away.", "cn": "小猪佩奇：好远啊。" },
+	{
+		"en": "Peppa Pig: It’s so far away.",
+		"cn": "小猪佩奇：好远啊。",
+		"points": [
+			{
+				"en": "It’s so far away",
+				"cn": "好远啊"
+			}
+		]
+	},
 	{
 		"en": "Daddy Pig: Let’s take a look through the telescope.",
-		"cn": "猪爸爸：我们用望远镜看看。"
+		"cn": "猪爸爸：我们用望远镜看看。",
+		"sentence": {
+			"en": "take a look through the telescope",
+			"cn": "用望远镜看看",
+			"examples": [
+				{
+					"en": "take a look through the binoculars",
+					"cn": "用双筒望远镜看看"
+				},
+				{
+					"en": "take a look through the microscope",
+					"cn": "用显微镜看看"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Can I look first, please?",
@@ -200,12 +558,40 @@
 	},
 	{
 		"en": "Daddy Pig: Yes, but you must let George look next.",
-		"cn": "猪爸爸：可以，但你要让乔治下一个看。"
+		"cn": "猪爸爸：可以，但你要让乔治下一个看。",
+		"sentence": {
+			"en": "you must let George look next",
+			"cn": "你要让乔治下一个看",
+			"examples": [
+				{
+					"en": "you must let your sister play next",
+					"cn": "你要让你妹妹下一个玩"
+				},
+				{
+					"en": "you must let your friend try next",
+					"cn": "你要让你的朋友下一个试"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Wow!", "cn": "小猪佩奇：哇！" },
 	{
 		"en": "Narrator: The telescope makes everything look bigger.",
-		"cn": "旁白：望远镜让一切看起来更大了。"
+		"cn": "旁白：望远镜让一切看起来更大了。",
+		"sentence": {
+			"en": "makes everything look bigger",
+			"cn": "让一切看起来更大",
+			"examples": [
+				{
+					"en": "makes the picture look clearer",
+					"cn": "让图片看起来更清晰"
+				},
+				{
+					"en": "makes the sound louder",
+					"cn": "让声音更大"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: I can see Granny and Grandpa.",
@@ -215,11 +601,39 @@
 	{ "en": "George: Dankey ‘ig, Papa ‘ig.", "cn": "乔治：奶奶，爷爷。" },
 	{
 		"en": "Narrator: George is waving at Granny and Grandpa.",
-		"cn": "旁白：乔治在向奶奶和爷爷挥手。"
+		"cn": "旁白：乔治在向奶奶和爷爷挥手。",
+		"sentence": {
+			"en": "George is waving at Granny and Grandpa",
+			"cn": "乔治在向奶奶和爷爷挥手",
+			"examples": [
+				{
+					"en": "She is waving at her friends",
+					"cn": "她在向她的朋友们挥手"
+				},
+				{
+					"en": "He is waving at the crowd",
+					"cn": "他在向人群挥手"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Silly George. Granny and Grandpa are too far away to see you waving.",
-		"cn": "小猪佩奇：傻乔治，奶奶和爷爷太远了，看不到你挥手。"
+		"cn": "小猪佩奇：傻乔治，奶奶和爷爷太远了，看不到你挥手。",
+		"sentence": {
+			"en": "Granny and Grandpa are too far away to see you waving",
+			"cn": "奶奶和爷爷太远了，看不到你挥手",
+			"examples": [
+				{
+					"en": "The teacher is too far away to hear you",
+					"cn": "老师太远了，听不到你"
+				},
+				{
+					"en": "The dog is too far away to fetch the ball",
+					"cn": "狗太远了，拿不到球"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: I know. We can ring them.",
@@ -228,7 +642,13 @@
 	{ "en": "Grandpa Pig: Hello.", "cn": "猪爷爷：你好。" },
 	{
 		"en": "Mummy Pig: Grandpa Pig, we can see you from Windy Castle. Wave at us.",
-		"cn": "猪妈妈：猪爷爷，我们在风之城堡能看到你，快向我们挥手。"
+		"cn": "猪妈妈：猪爷爷，我们在风之城堡能看到你，快向我们挥手。",
+		"points": [
+			{
+				"en": "Wave at us",
+				"cn": "向我们挥手"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Granny and Grandpa are waving at us.",

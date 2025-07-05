@@ -1,11 +1,31 @@
 [
 	{
 		"en": "Narrator: It is teatime and Mummy Pig has a surprise for everyone.",
-		"cn": "旁白：现在是下午茶时间，猪妈妈为大家准备了一个惊喜。"
+		"cn": "旁白：现在是下午茶时间，猪妈妈为大家准备了一个惊喜。",
+		"points": [
+			{
+				"en": "Surprise for everyone",
+				"cn": "给大家的惊喜"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Today is a day for pancakes.",
-		"cn": "猪妈妈：今天是吃煎饼的日子。"
+		"cn": "猪妈妈：今天是吃煎饼的日子。",
+		"sentence": {
+			"en": "Today is a day for pancakes.",
+			"cn": "今天是吃煎饼的日子。",
+			"examples": [
+				{
+					"en": "Today is a day for sandwiches.",
+					"cn": "今天是吃三明治的日子。"
+				},
+				{
+					"en": "Today is a day for ice cream.",
+					"cn": "今天是吃冰淇淋的日子。"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: Pancakes. Delicious.", "cn": "猪爸爸：煎饼，真好吃。" },
 	{ "en": "Peppa Pig: I love pancakes.", "cn": "小猪佩奇：我喜欢煎饼。" },
@@ -15,34 +35,96 @@
 	},
 	{
 		"en": "Daddy Pig: I’m the expert at flipping the pancakes over. Leave that to me.",
-		"cn": "猪爸爸：我最会翻煎饼了，交给我吧。"
+		"cn": "猪爸爸：我最会翻煎饼了，交给我吧。",
+		"points": [
+			{
+				"en": "Leave that to me",
+				"cn": "交给我吧"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Are you sure, Daddy Pig? Last time you got a bit grumpy when you dropped the pancake on the floor.",
-		"cn": "猪妈妈：你确定吗？上次你把煎饼掉在地上还生气了呢。"
+		"cn": "猪妈妈：你确定吗？上次你把煎饼掉在地上还生气了呢。",
+		"points": [
+			{
+				"en": "Are you sure?",
+				"cn": "你确定吗？"
+			},
+			{
+				"en": "Got a bit grumpy",
+				"cn": "有点生气"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: I did not get grumpy. There was a problem with the frying pan.",
-		"cn": "猪爸爸：我没有生气，是平底锅有问题。"
+		"cn": "猪爸爸：我没有生气，是平底锅有问题。",
+		"sentence": {
+			"en": "There was a problem with the frying pan.",
+			"cn": "平底锅有问题。",
+			"examples": [
+				{
+					"en": "There was a problem with the car.",
+					"cn": "汽车有问题。"
+				},
+				{
+					"en": "There was a problem with the computer.",
+					"cn": "电脑有问题。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Mummy, can we help make the pancakes, please?",
-		"cn": "小猪佩奇：妈妈，我们可以帮忙做煎饼吗？"
+		"cn": "小猪佩奇：妈妈，我们可以帮忙做煎饼吗？",
+		"sentence": {
+			"en": "Mummy, can we help make the pancakes, please?",
+			"cn": "妈妈，我们可以帮忙做煎饼吗？",
+			"examples": [
+				{
+					"en": "Mummy, can we help make the sandwiches, please?",
+					"cn": "妈妈，我们可以帮忙做三明治吗？"
+				},
+				{
+					"en": "Mummy, can we help make the cake, please?",
+					"cn": "妈妈，我们可以帮忙做蛋糕吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Yes, you can help me make the batter.",
-		"cn": "猪妈妈：可以，你们可以帮我和面糊。"
+		"cn": "猪妈妈：可以，你们可以帮我和面糊。",
+		"points": [
+			{
+				"en": "make the batter",
+				"cn": "和面糊"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: First, I put some flour in the bowl.",
-		"cn": "猪妈妈：首先，我把面粉放进碗里。"
+		"cn": "猪妈妈：首先，我把面粉放进碗里。",
+		"points": [
+			{
+				"en": "put some flour in the bowl",
+				"cn": "把面粉放进碗里"
+			}
+		]
 	},
 	{ "en": "Peppa Pig and George: Oo-oo.", "cn": "小猪佩奇和乔治：呜——呜——。" },
 	{ "en": "Mummy Pig: Now I add an egg.", "cn": "猪妈妈：现在加一个鸡蛋。" },
 	{ "en": "Mummy Pig: Now the milk.", "cn": "猪妈妈：再加牛奶。" },
 	{
 		"en": "Mummy Pig: And I give it all a stir.",
-		"cn": "猪妈妈：然后搅拌均匀。"
+		"cn": "猪妈妈：然后搅拌均匀。",
+		"points": [
+			{
+				"en": "give it all a stir",
+				"cn": "搅拌均匀"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Mummy, can I stir?",
@@ -50,41 +132,135 @@
 	},
 	{
 		"en": "Mummy Pig: Yes, of course, Peppa.",
-		"cn": "猪妈妈：当然可以，佩奇。"
+		"cn": "猪妈妈：当然可以，佩奇。",
+		"points": [
+			{
+				"en": "of course",
+				"cn": "当然"
+			}
+		]
 	},
 	{ "en": "Narrator: Peppa loves stirring.", "cn": "旁白：佩奇喜欢搅拌。" },
 	{
 		"en": "Narrator: George wants to stir as well.",
-		"cn": "旁白：乔治也想搅拌。"
+		"cn": "旁白：乔治也想搅拌。",
+		"sentence": {
+			"en": "George wants to stir as well.",
+			"cn": "乔治也想搅拌。",
+			"examples": [
+				{
+					"en": "Peppa wants to play as well.",
+					"cn": "佩奇也想玩。"
+				},
+				{
+					"en": "Daddy Pig wants to help as well.",
+					"cn": "猪爸爸也想帮忙。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: No, George. Like this.",
-		"cn": "小猪佩奇：不，乔治，要这样搅拌。"
+		"cn": "小猪佩奇：不，乔治，要这样搅拌。",
+		"points": [
+			{
+				"en": "Like this",
+				"cn": "要这样"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Okay, that’s enough stirring. You two sit at the table while I cook the pancakes.",
-		"cn": "猪妈妈：好了，搅拌够了。你们俩去桌子那边坐着，我来煎煎饼。"
+		"cn": "猪妈妈：好了，搅拌够了。你们俩去桌子那边坐着，我来煎煎饼。",
+		"sentence": {
+			"en": "You two sit at the table while I cook the pancakes.",
+			"cn": "你们俩去桌子那边坐着，我来煎煎饼。",
+			"examples": [
+				{
+					"en": "You two sit at the table while I make the sandwiches.",
+					"cn": "你们俩去桌子那边坐着，我来做三明治。"
+				},
+				{
+					"en": "You two sit at the table while I bake the cake.",
+					"cn": "你们俩去桌子那边坐着，我来烤蛋糕。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Mummy Pig is going to flip the pancake over.",
-		"cn": "旁白：猪妈妈要把煎饼翻过来了。"
+		"cn": "旁白：猪妈妈要把煎饼翻过来了。",
+		"points": [
+			{
+				"en": "flip the pancake over",
+				"cn": "把煎饼翻过来"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Hurrah!", "cn": "小猪佩奇：好耶！" },
 	{
 		"en": "Daddy Pig: You could flip it higher, Mummy Pig.",
-		"cn": "猪爸爸：你可以翻得更高一点，猪妈妈。"
+		"cn": "猪爸爸：你可以翻得更高一点，猪妈妈。",
+		"sentence": {
+			"en": "You could flip it higher",
+			"cn": "你可以翻得更高一点",
+			"examples": [
+				{
+					"en": "You could run faster",
+					"cn": "你可以跑得更快"
+				},
+				{
+					"en": "You could jump higher",
+					"cn": "你可以跳得更高"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: You can show us how when you flip your own pancake, Daddy Pig.",
-		"cn": "猪妈妈：等你煎自己的煎饼时可以给我们演示。"
+		"cn": "猪妈妈：等你煎自己的煎饼时可以给我们演示。",
+		"sentence": {
+			"en": "You can show us how when you flip your own pancake",
+			"cn": "等你煎自己的煎饼时可以给我们演示。",
+			"examples": [
+				{
+					"en": "You can show us how when you make your own sandwich",
+					"cn": "等你做自己的三明治时可以给我们演示。"
+				},
+				{
+					"en": "You can show us how when you bake your own cake",
+					"cn": "等你烤自己的蛋糕时可以给我们演示。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: This first pancake is for George.",
-		"cn": "旁白：第一个煎饼是给乔治的。"
+		"cn": "旁白：第一个煎饼是给乔治的。",
+		"sentence": {
+			"en": "This first pancake is for George.",
+			"cn": "第一个煎饼是给乔治的。",
+			"examples": [
+				{
+					"en": "This first chocolate is for Peppa.",
+					"cn": "第一个巧克力是给佩奇的。"
+				},
+				{
+					"en": "This first dessert is for Daddy Pig.",
+					"cn": "第一个甜点是给猪爸爸的。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Mummy Pig pours a little syrup on George’s pancake.",
-		"cn": "旁白：猪妈妈在乔治的煎饼上倒了一点糖浆。"
+		"cn": "旁白：猪妈妈在乔治的煎饼上倒了一点糖浆。",
+		"points": [
+			{
+				"en": "pours a little syrup on",
+				"cn": "倒了一点糖浆在"
+			}
+		]
 	},
 	{ "en": "Narrator: Delicious.", "cn": "旁白：真好吃。" },
 	{
@@ -100,7 +276,16 @@
 		"en": "Mummy Pig: You will get a chance to show me when you flip your own pancake, Daddy Pig.",
 		"cn": "猪妈妈：等你煎自己的煎饼时可以给我演示。"
 	},
-	{ "en": "Peppa Pig: Syrup please.", "cn": "小猪佩奇：请给我糖浆。" },
+	{
+		"en": "Peppa Pig: Syrup please.",
+		"cn": "小猪佩奇：请给我糖浆。",
+		"points": [
+			{
+				"en": "Syrup please",
+				"cn": "请给我糖浆"
+			}
+		]
+	},
 	{ "en": "Peppa Pig: Mmm, delicious.", "cn": "小猪佩奇：嗯，真好吃。" },
 	{
 		"en": "Narrator: This pancake is for Mummy Pig.",
@@ -109,14 +294,37 @@
 	{ "en": "Peppa Pig: Hurrah!", "cn": "小猪佩奇：好耶！" },
 	{
 		"en": "Daddy Pig: You still aren’t flipping them high enough, Mummy Pig.",
-		"cn": "猪爸爸：你还是没翻得够高，猪妈妈。"
+		"cn": "猪爸爸：你还是没翻得够高，猪妈妈。",
+		"sentence": {
+			"en": "You still aren’t flipping them high enough",
+			"cn": "你还是没翻得够高",
+			"examples": [
+				{
+					"en": "You still aren’t running fast enough",
+					"cn": "你还是没跑得够快"
+				},
+				{
+					"en": "You still aren’t jumping high enough",
+					"cn": "你还是没跳得够高"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: The next pancake is yours, Daddy Pig. So now you can show us how it should be done.",
 		"cn": "猪妈妈：下一个煎饼是你的，猪爸爸。现在你可以给我们演示了。"
 	},
 	{ "en": "Mummy Pig: Mmm, delicious.", "cn": "猪妈妈：嗯，真好吃。" },
-	{ "en": "Daddy Pig: Is everyone watching?", "cn": "猪爸爸：大家都在看吗？" },
+	{
+		"en": "Daddy Pig: Is everyone watching?",
+		"cn": "猪爸爸：大家都在看吗？",
+		"points": [
+			{
+				"en": "Is everyone watching?",
+				"cn": "大家都在看吗？"
+			}
+		]
+	},
 	{
 		"en": "Daddy Pig: The secret of making a good pancake is to flip it high into the air.",
 		"cn": "猪爸爸：做煎饼的秘诀就是要把它高高地翻起来。"
@@ -128,51 +336,177 @@
 	{ "en": "Peppa Pig: Silly Daddy.", "cn": "小猪佩奇：傻爸爸。" },
 	{
 		"en": "Daddy Pig: Oh, maybe that was just a bit too high.",
-		"cn": "猪爸爸：哦，可能翻得有点太高了。"
+		"cn": "猪爸爸：哦，可能翻得有点太高了。",
+		"sentence": {
+			"en": "Oh, maybe that was just a bit too high.",
+			"cn": "哦，可能翻得有点太高了。",
+			"examples": [
+				{
+					"en": "Oh, maybe that was just a bit too low.",
+					"cn": "哦，可能有点太低了。"
+				},
+				{
+					"en": "Oh, maybe that was just a bit too far.",
+					"cn": "哦，可能有点太远了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: What a shame. That was the last pancake.",
-		"cn": "猪妈妈：真可惜，那是最后一个煎饼了。"
+		"cn": "猪妈妈：真可惜，那是最后一个煎饼了。",
+		"points": [
+			{
+				"en": "What a shame",
+				"cn": "真可惜"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: It should be a simple matter to get it down.",
-		"cn": "猪爸爸：把它弄下来应该很简单。"
+		"cn": "猪爸爸：把它弄下来应该很简单。",
+		"sentence": {
+			"en": "It should be a simple matter to get it down.",
+			"cn": "把它弄下来应该很简单。",
+			"examples": [
+				{
+					"en": "It should be a simple matter to fix the car.",
+					"cn": "修理汽车应该很简单。"
+				},
+				{
+					"en": "It should be a simple matter to clean the room.",
+					"cn": "打扫房间应该很简单。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Oh dear. Daddy Pig cannot reach his pancake.",
-		"cn": "旁白：哦，糟糕，猪爸爸够不到他的煎饼。"
+		"cn": "旁白：哦，糟糕，猪爸爸够不到他的煎饼。",
+		"sentence": {
+			"en": "cannot reach his pancake.",
+			"cn": "够不到他的煎饼。",
+			"examples": [
+				{
+					"en": "cannot reach the top shelf.",
+					"cn": "够不到顶层架子。"
+				},
+				{
+					"en": "cannot reach the cookie jar.",
+					"cn": "够不到饼干罐。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Don’t worry, Daddy Pig. I think I know a way to get it down.",
-		"cn": "猪妈妈：别担心，猪爸爸，我有办法把它弄下来。"
+		"cn": "猪妈妈：别担心，猪爸爸，我有办法把它弄下来。",
+		"points": [
+			{
+				"en": "Don’t worry",
+				"cn": "别担心"
+			},
+			{
+				"en": "get it down",
+				"cn": "把它弄下来"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Let’s go upstairs, children.",
-		"cn": "猪妈妈：孩子们，我们上楼去。"
+		"cn": "猪妈妈：孩子们，我们上楼去。",
+		"points": [
+			{
+				"en": "Let’s go upstairs",
+				"cn": "我们上楼去"
+			}
+		]
 	},
-	{ "en": "Mummy Pig: This way.", "cn": "猪妈妈：这边走。" },
+	{
+		"en": "Mummy Pig: This way.",
+		"cn": "猪妈妈：这边走。",
+		"points": [
+			{
+				"en": "This way",
+				"cn": "这边走"
+			}
+		]
+	},
 	{
 		"en": "Narrator: What is Mummy Pig planning to do?",
-		"cn": "旁白：猪妈妈打算做什么呢？"
+		"cn": "旁白：猪妈妈打算做什么呢？",
+		"sentence": {
+			"en": "What is Mummy Pig planning to do?",
+			"cn": "猪妈妈打算做什么呢？",
+			"examples": [
+				{
+					"en": "What is Daddy Pig planning to do?",
+					"cn": "猪爸爸打算做什么呢？"
+				},
+				{
+					"en": "What is Peppa Pig planning to do?",
+					"cn": "小猪佩奇打算做什么呢？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: On the count of three we all have to start jumping up and down. One, two, three, jump!",
-		"cn": "猪妈妈：数到三我们一起跳。一、二、三，跳！"
+		"cn": "猪妈妈：数到三我们一起跳。一、二、三，跳！",
+		"points": [
+			{
+				"en": "jumping up and down",
+				"cn": "上下跳"
+			},
+			{
+				"en": "On the count of three",
+				"cn": "数到三"
+			}
+		]
 	},
 	{ "en": "Daddy Pig: What are they doing?", "cn": "猪爸爸：他们在做什么？" },
 	{
 		"en": "Narrator: It worked! Now Daddy Pig has his pancake.",
-		"cn": "旁白：成功了！现在猪爸爸拿到他的煎饼了。"
+		"cn": "旁白：成功了！现在猪爸爸拿到他的煎饼了。",
+		"points": [
+			{
+				"en": "It worked!",
+				"cn": "成功了！"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Daddy has a pancake on his head.",
-		"cn": "小猪佩奇：爸爸头上有个煎饼。"
+		"cn": "小猪佩奇：爸爸头上有个煎饼。",
+		"sentence": {
+			"en": "Daddy has a pancake on his head.",
+			"cn": "爸爸头上有个煎饼。",
+			"examples": [
+				{
+					"en": "Mummy has a hat on her head.",
+					"cn": "妈妈头上戴着帽子。"
+				},
+				{
+					"en": "George has a toy on his head.",
+					"cn": "乔治头上有个玩具。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Syrup on your pancake, Daddy Pig?",
 		"cn": "猪妈妈：要在煎饼上加糖浆吗，猪爸爸？"
 	},
-	{ "en": "Daddy Pig: Yes, please.", "cn": "猪爸爸：要，谢谢。" },
+	{
+		"en": "Daddy Pig: Yes, please.",
+		"cn": "猪爸爸：要，谢谢。",
+		"points": [
+			{
+				"en": "Yes, please",
+				"cn": "要，谢谢"
+			}
+		]
+	},
 	{
 		"en": "Daddy Pig: One, two, three, hoopla!",
 		"cn": "猪爸爸：一、二、三，翻！"
