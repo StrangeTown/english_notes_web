@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css'
-import Detail from './pages/Detail';
+import PeppaPig from './pages/Detail/PeppaPig';
 import Home from './pages/Home';
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/detail/:episode" element={<Detail />} />
+        <Route path="/peppa-pig/:episode" element={<PeppaPig />} />
       </Routes>
     </BrowserRouter>
   )

@@ -2,10 +2,10 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 const episodes = Array.from({ length: 52 }, (_, i) => {
-  const num = (i + 1).toString().padStart(2, "0");
+  const num = (i + 1).toString();
   return {
-    label: `Episode ${num}`,
-    param: `E${num}`,
+    label: `Episode ${num.padStart(2, "0")}`,
+    param: num,
   };
 });
 
@@ -21,7 +21,7 @@ const Home: React.FC = () => {
           {episodes.map((ep) => (
             <li key={ep.param}>
               <Link
-                to={`/detail/${ep.param}`}
+                to={`/peppa-pig/${ep.param}`}
                 className="block px-4 py-2 bg-blue-100 rounded hover:bg-blue-200 text-blue-700 font-medium text-center transition-colors"
               >
                 {ep.label}
