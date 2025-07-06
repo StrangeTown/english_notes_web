@@ -31,12 +31,8 @@
 		"cn": "小猪佩奇：乔治，我们来装扮成爸爸妈妈吧。",
 		"points": [
 			{
-				"en": "dress up",
-				"cn": "装扮"
-			},
-			{
-				"en": "pretend to be",
-				"cn": "假装是"
+				"en": "dress up and pretend to be",
+				"cn": "装扮成"
 			}
 		]
 	},
@@ -49,8 +45,8 @@
 		"cn": "小猪佩奇：这是爸爸的外套。"
 	},
 	{ "en": "Peppa Pig: Hello, Daddy Pig.", "cn": "小猪佩奇：你好，猪爸爸。" },
-	{ 
-		"en": "Peppa Pig: Now it’s my turn.", 
+	{
+		"en": "Peppa Pig: Now it’s my turn.",
 		"cn": "小猪佩奇：现在轮到我了。",
 		"points": [
 			{
@@ -94,12 +90,8 @@
 		"cn": "小猪佩奇：现在我要像妈妈一样漂亮。",
 		"points": [
 			{
-				"en": "look beautiful",
-				"cn": "看起来漂亮"
-			},
-			{
-				"en": "just like",
-				"cn": "就像"
+				"en": "look beautiful, just like Mummy",
+				"cn": "像妈妈一样漂亮"
 			}
 		]
 	},
@@ -122,8 +114,8 @@
 		}
 	},
 	{ "en": "Peppa Pig: Aha!", "cn": "小猪佩奇：啊哈！" },
-	{ 
-		"en": "Peppa Pig: First some powder.", 
+	{
+		"en": "Peppa Pig: First some powder.",
 		"cn": "小猪佩奇：先来点粉。",
 		"points": [
 			{
@@ -175,8 +167,8 @@
 		"en": "Mummy Pig: Hello, Peppa. Hello, George.",
 		"cn": "猪妈妈：你好，佩奇。你好，乔治。"
 	},
-	{ 
-		"en": "Peppa Pig: I beg your pardon.", 
+	{
+		"en": "Peppa Pig: I beg your pardon.",
 		"cn": "小猪佩奇：你说什么？",
 		"points": [
 			{
@@ -235,10 +227,6 @@
 		"cn": "小猪佩奇：不好意思，我有很多工作要做。",
 		"points": [
 			{
-				"en": "Excuse me",
-				"cn": "不好意思"
-			},
-			{
 				"en": "I’ve got a lot of work to do",
 				"cn": "我有很多工作要做"
 			}
@@ -252,10 +240,6 @@
 		"en": "Narrator: Peppa is enjoying pretending to be Mummy Pig. But George is getting a bit bored.",
 		"cn": "旁白：佩奇很享受扮演猪妈妈，但乔治有点无聊了。",
 		"points": [
-			{
-				"en": "enjoying pretending to be",
-				"cn": "享受扮演"
-			},
 			{
 				"en": "getting a bit bored",
 				"cn": "有点无聊"
@@ -272,8 +256,8 @@
 			}
 		]
 	},
-	{ 
-		"en": "Peppa Pig: There, all done.", 
+	{
+		"en": "Peppa Pig: There, all done.",
 		"cn": "小猪佩奇：好了，全部搞定。",
 		"points": [
 			{
@@ -366,8 +350,8 @@
 		"cn": "小猪佩奇：猪爸爸，希望你没穿最好的衣服来挖土。",
 		"points": [
 			{
-				"en": "digging in your best clothes",
-				"cn": "穿着最好的衣服来挖土"
+				"en": "in your best clothes",
+				"cn": "穿最好的衣服"
 			}
 		]
 	},
@@ -381,8 +365,8 @@
 			}
 		]
 	},
-	{ 
-		"en": "Mummy Pig: Ice cream, everyone.", 
+	{
+		"en": "Mummy Pig: Ice cream, everyone.",
 		"cn": "猪妈妈：大家吃冰淇淋啦。",
 		"sentence": {
 			"en": "Ice cream, everyone.",
@@ -406,7 +390,7 @@
 		"points": [
 			{
 				"en": "take off those muddy clothes",
-				"cn": "脱掉脏衣服"
+				"cn": "把脏衣服脱掉"
 			}
 		]
 	},
@@ -414,7 +398,7 @@
 		"en": "Peppa Pig: I’m Mummy Pig and this is Daddy Pig.",
 		"cn": "小猪佩奇：我是猪妈妈，这是猪爸爸。"
 	},
-	{ 
+	{
 		"en": "Mummy Pig: Are you sure?",
 		"cn": "猪妈妈：你确定吗？",
 		"points": [

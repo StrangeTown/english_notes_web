@@ -199,12 +199,8 @@
 		"cn": "猪爸爸：我们得先捡些木棍生火。",
 		"points": [
 			{
-				"en": "collect sticks",
-				"cn": "捡木棍"
-			},
-			{
-				"en": "make a fire",
-				"cn": "生火"
+				"en": "collect sticks to make a fire",
+				"cn": "捡些木棍生火"
 			}
 		]
 	},
@@ -250,12 +246,8 @@
 		"cn": "猪爸爸：这堆篝火真棒。现在我来点火。",
 		"points": [
 			{
-				"en": "a splendid campfire",
-				"cn": "一堆棒极了的篝火"
-			},
-			{
-				"en": "light it",
-				"cn": "点火"
+				"en": "I’ll light it",
+				"cn": "我来点火"
 			}
 		]
 	},
@@ -542,12 +534,8 @@
 		"cn": "猪爸爸：我喜欢露营，喜欢在星空下露天睡觉。",
 		"points": [
 			{
-				"en": "sleeping in the open air",
-				"cn": "露天睡觉"
-			},
-			{
 				"en": "with the stars above me",
-				"cn": "星空在我头顶"
+				"cn": "在星空下"
 			}
 		]
 	},
@@ -653,8 +641,8 @@
 			}
 		]
 	},
-	{ 
-		"en": "Peppa Pig: Silly Daddy.", 
+	{
+		"en": "Peppa Pig: Silly Daddy.",
 		"cn": "佩奇：傻爸爸。",
 		"points": [
 			{

@@ -105,23 +105,13 @@
 			},
 			{
 				"en": "water it",
-				"cn": "浇水"
+				"cn": "浇点水"
 			}
 		]
 	},
 	{
 		"en": "Grandpa Pig: Everything in my garden grows from tiny seeds like these.",
-		"cn": "猪爷爷：我花园里的所有东西都是从这样的小种子长出来的。",
-		"points": [
-			{
-				"en": "everything in my garden",
-				"cn": "我花园里的所有东西"
-			},
-			{
-				"en": "tiny seeds like these",
-				"cn": "像这样的很小的种子"
-			}
-		]
+		"cn": "猪爷爷：我花园里的所有东西都是从这样的小种子长出来的。"
 	},
 	{
 		"en": "Peppa Pig: Even the big apple tree?",

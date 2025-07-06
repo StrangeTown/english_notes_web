@@ -4,12 +4,8 @@
 		"cn": "旁白：今天是学校游园会的日子。佩奇很喜欢来游园会。佩奇的朋友们有：糖果猫、苏茜羊、丹尼狗、丽贝卡兔和佩德罗小马。",
 		"points": [
 			{
-				"en": "school fete",
+				"en": "the day of the school fete",
 				"cn": "学校游园会"
-			},
-			{
-				"en": "coming to the fete",
-				"cn": "来游园会"
 			}
 		]
 	},
@@ -49,12 +45,20 @@
 	{
 		"en": "Danny Dog: I like the bouncy castle the best.",
 		"cn": "丹尼狗：我最喜欢充气城堡。",
-		"points": [
-			{
-				"en": "bouncy castle",
-				"cn": "充气城堡"
-			}
-		]
+		"sentence": {
+			"en": "I like the bouncy castle the best.",
+			"cn": "我最喜欢充气城堡。",
+			"examples": [
+				{
+					"en": "I like the merry-go-round the best.",
+					"cn": "我最喜欢旋转木马。"
+				},
+				{
+					"en": "I like the slide the best.",
+					"cn": "我最喜欢滑梯。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: I like everything.",
@@ -72,7 +76,7 @@
 		"points": [
 			{
 				"en": "A very good choice",
-				"cn": "一个很好的选择"
+				"cn": "这个选择很好"
 			}
 		]
 	},
@@ -181,7 +185,7 @@
 		"points": [
 			{
 				"en": "painted Peppa’s friends as tigers",
-				"cn": "把佩奇的朋友们画成了老虎"
+				"cn": "把佩奇的朋友们都画成了老虎"
 			}
 		]
 	},
@@ -194,8 +198,8 @@
 				"cn": "好了"
 			},
 			{
-				"en": "you look like a tiger",
-				"cn": "你像只老虎了"
+				"en": "Now you look like a tiger",
+				"cn": "你现在像只老虎了"
 			}
 		]
 	},
@@ -354,10 +358,6 @@
 			{
 				"en": "creep very very slowly",
 				"cn": "走路很慢很慢"
-			},
-			{
-				"en": "And then they jump",
-				"cn": "然后突然跳起来"
 			}
 		]
 	},
@@ -408,7 +408,7 @@
 		"cn": "糖果猫：我正在教他们怎么当真正的老虎。",
 		"points": [
 			{
-				"en": "to be proper tigers",
+				"en": "be proper tigers",
 				"cn": "当真正的老虎"
 			}
 		]
@@ -588,13 +588,13 @@
 		"cn": "猪爸爸：请给我们两个长气球。",
 		"points": [
 			{
-				"en": "two of the long balloons",
-				"cn": "两个长气球。"
+				"en": "long balloons",
+				"cn": "长气球"
 			}
 		]
 	},
-	{ 
-		"en": "Daddy Pig: Watch this, everybody.", 
+	{
+		"en": "Daddy Pig: Watch this, everybody.",
 		"cn": "猪爸爸：大家看看这个。",
 		"points": [
 			{

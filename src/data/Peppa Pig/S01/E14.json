@@ -53,7 +53,7 @@
 				"cn": "大表姐克洛伊"
 			},
 			{
-				"en": "coming to visit",
+				"en": "is coming to visit",
 				"cn": "要来做客"
 			}
 		]
@@ -94,7 +94,7 @@
 		"points": [
 			{
 				"en": "spend the day at Peppa’s house",
-				"cn": "在佩奇家玩一天"
+				"cn": "来佩奇家玩一天"
 			}
 		]
 	},
@@ -182,8 +182,8 @@
 		"cn": "克洛伊：好吧，那就陪乔治玩。你们是按大孩子的规则还是小孩子的规则玩？",
 		"points": [
 			{
-				"en": "play it with the proper rules",
-				"cn": "按大孩子的规则玩"
+				"en": "play it with the proper rules or the baby rules",
+				"cn": "按大孩子的规则还是小孩子的规则玩"
 			}
 		]
 	},

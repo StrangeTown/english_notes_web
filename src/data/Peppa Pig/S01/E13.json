@@ -5,7 +5,7 @@
 		"points": [
 			{
 				"en": "a bright sunny day",
-				"cn": "晴朗的一天"
+				"cn": "今天天气晴朗"
 			},
 			{
 				"en": "in the park",
@@ -48,8 +48,8 @@
 				"cn": "你做错了"
 			},
 			{
-				"en": "run fast enough",
-				"cn": "跑得够快"
+				"en": "You didn’t run fast enough",
+				"cn": "你跑得不够快"
 			}
 		]
 	},
@@ -73,17 +73,7 @@
 	},
 	{
 		"en": "Daddy Pig: The kite won’t fly if there isn’t any wind, no matter how fast you run.",
-		"cn": "猪爸爸：如果没有风，风筝怎么跑都飞不起来。",
-		"points": [
-			{
-				"en": "if there isn’t any wind",
-				"cn": "如果没有风"
-			},
-			{
-				"en": "no matter how fast you run",
-				"cn": "不管你跑得多快"
-			}
-		]
+		"cn": "猪爸爸：如果没有风，风筝怎么跑都飞不起来。"
 	},
 	{ "en": "Peppa Pig: Oh.", "cn": "佩奇：哦。" },
 	{
@@ -146,7 +136,7 @@
 		"points": [
 			{
 				"en": "Higher, higher",
-				"cn": "再高点"
+				"cn": "佩奇：再高点，再高点。"
 			}
 		]
 	},
@@ -197,7 +187,7 @@
 			},
 			{
 				"en": "get the kite stuck in one",
-				"cn": "风筝挂在树上"
+				"cn": "风筝可能会挂在树上"
 			}
 		]
 	},
@@ -250,7 +240,7 @@
 		"points": [
 			{
 				"en": "a big muddy puddle",
-				"cn": "一个大泥坑"
+				"cn": "有个大泥坑"
 			}
 		]
 	},
@@ -396,7 +386,7 @@
 		"points": [
 			{
 				"en": "the kite is out of the tree",
-				"cn": "风筝从树上下来"
+				"cn": "风筝也从树上下来"
 			}
 		]
 	},

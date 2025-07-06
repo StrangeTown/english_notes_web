@@ -208,7 +208,7 @@
 		"points": [
 			{
 				"en": "lick out the bowl",
-				"cn": "舔干净碗"
+				"cn": "把碗舔干净"
 			}
 		]
 	},
@@ -393,13 +393,7 @@
 	},
 	{
 		"en": "Peppa Pig: George is our patient.",
-		"cn": "佩奇：乔治是我们的病人。",
-		"points": [
-			{
-				"en": "patient",
-				"cn": "病人"
-			}
-		]
+		"cn": "佩奇：乔治是我们的病人。"
 	},
 	{
 		"en": "Daddy Pig: Oh, I see.",
@@ -416,8 +410,8 @@
 		"cn": "猪爸爸：病人可以有访客吗？",
 		"points": [
 			{
-				"en": "visitor",
-				"cn": "访客"
+				"en": "have a visitor",
+				"cn": "有访客"
 			}
 		]
 	},
