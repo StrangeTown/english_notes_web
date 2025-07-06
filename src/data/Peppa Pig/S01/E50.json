@@ -1,54 +1,165 @@
 [
 	{
 		"en": "Narrator: Granny Pig and Grandpa Pig are taking Peppa and George out for a day on the river.",
-		"cn": "旁白：奶奶猪和爷爷猪带佩奇和乔治去河上玩一天。"
+		"cn": "旁白：奶奶猪和爷爷猪带佩奇和乔治去河上玩一天。",
+		"points": [
+			{
+				"en": "taking Peppa and George out for a day on the river",
+				"cn": "带佩奇和乔治去河上玩一天"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: Welcome aboard, me hearties!",
-		"cn": "爷爷猪：欢迎登船，伙计们！"
+		"cn": "爷爷猪：欢迎登船，伙计们！",
+		"points": [
+			{
+				"en": "Welcome aboard",
+				"cn": "欢迎登船"
+			}
+		]
 	},
 	{
 		"en": "Granny Pig: Peppa, George, let's put your life jackets on.",
-		"cn": "奶奶猪：佩奇，乔治，来穿上你们的救生衣。"
+		"cn": "奶奶猪：佩奇，乔治，来穿上你们的救生衣。",
+		"points": [
+			{
+				"en": "put your life jackets on",
+				"cn": "穿上你们的救生衣"
+			}
+		]
 	},
 	{
 		"en": "Narrator: When Peppa and George are on Grandpa Pig's boat, they must wear life jackets.",
-		"cn": "旁白：佩奇和乔治在爷爷猪的船上时，必须穿救生衣。"
+		"cn": "旁白：佩奇和乔治在爷爷猪的船上时，必须穿救生衣。",
+		"sentence": {
+			"en": "They must wear life jackets.",
+			"cn": "他们必须穿救生衣。",
+			"examples": [
+				{
+					"en": "You must wear a helmet when riding a bike.",
+					"cn": "骑自行车时必须戴头盔。"
+				},
+				{
+					"en": "We must wear our uniforms to school.",
+					"cn": "我们必须穿校服去学校。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Grandpa Pig: On this boat, I'm the captain.",
 		"cn": "爷爷猪：在这艘船上，我是船长。"
 	},
-	{ "en": "Granny Pig: Aye aye, captain!", "cn": "奶奶猪：遵命，船长！" },
+	{
+		"en": "Granny Pig: Aye aye, captain!",
+		"cn": "奶奶猪：遵命，船长！",
+		"points": [
+			{
+				"en": "Aye aye, captain",
+				"cn": "遵命，船长"
+			}
+		]
+	},
 	{ "en": "Peppa Pig: Aye aye, captain!", "cn": "佩奇：遵命，船长！" },
 	{
 		"en": "Grandpa Pig: When captain Grandpa tells you all to do something, you must do it.",
-		"cn": "爷爷猪：当船长爷爷让你们做什么时，你们必须照做。"
+		"cn": "爷爷猪：当船长爷爷让你们做什么时，你们必须照做。",
+		"sentence": {
+			"en": "you must do it",
+			"cn": "你们必须照做",
+			"examples": [
+				{
+					"en": "You must listen to your teacher.",
+					"cn": "你必须听老师的话。"
+				},
+				{
+					"en": "You must finish your homework.",
+					"cn": "你必须完成作业。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Granny Pig: Unless it's something silly.",
-		"cn": "奶奶猪：除非是傻事。"
+		"cn": "奶奶猪：除非是傻事。",
+		"points": [
+			{
+				"en": "Unless it's something silly",
+				"cn": "除非是傻事"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: Captain Grandpa never says anything silly.",
-		"cn": "爷爷猪：船长爷爷从不说傻话。"
+		"cn": "爷爷猪：船长爷爷从不说傻话。",
+		"sentence": {
+			"en": "Captain Grandpa never says anything silly.",
+			"cn": "船长爷爷从不说傻话。",
+			"examples": [
+				{
+					"en": "My teacher never says anything silly.",
+					"cn": "我的老师从不说傻话。"
+				},
+				{
+					"en": "He never does anything silly.",
+					"cn": "他从不做傻事。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Granny Pig: Of course not, Captain Grandpa.",
-		"cn": "奶奶猪：当然不会，船长爷爷。"
+		"cn": "奶奶猪：当然不会，船长爷爷。",
+		"points": [
+			{
+				"en": "Of course not",
+				"cn": "当然不会"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: George! Raise the flag!",
-		"cn": "爷爷猪：乔治，升旗！"
+		"cn": "爷爷猪：乔治，升旗！",
+		"points": [
+			{
+				"en": "Raise the flag",
+				"cn": "升旗"
+			}
+		]
 	},
-	{ "en": "Grandpa Pig: Peppa! Ring the bell!", "cn": "爷爷猪：佩奇，敲铃！" },
+	{
+		"en": "Grandpa Pig: Peppa! Ring the bell!",
+		"cn": "爷爷猪：佩奇，敲铃！",
+		"points": [
+			{
+				"en": "Ring the bell",
+				"cn": "敲铃"
+			}
+		]
+	},
 	{ "en": "Peppa Pig: Aye aye, Captain!", "cn": "佩奇：遵命，船长！" },
 	{
 		"en": "Grandpa Pig: Granny Pig! Take the wheel!",
-		"cn": "爷爷猪：奶奶猪，掌舵！"
+		"cn": "爷爷猪：奶奶猪，掌舵！",
+		"points": [
+			{
+				"en": "Take the wheel",
+				"cn": "掌舵"
+			}
+		]
 	},
 	{ "en": "Granny Pig: Aye aye, Captain!", "cn": "奶奶猪：遵命，船长！" },
-	{ "en": "Grandpa Pig: Full sail!", "cn": "爷爷猪：扬帆！" },
+	{
+		"en": "Grandpa Pig: Full sail!",
+		"cn": "爷爷猪：扬帆！",
+		"points": [
+			{
+				"en": "Full sail",
+				"cn": "扬帆"
+			}
+		]
+	},
 	{ "en": "Peppa Pig: Full sail!", "cn": "佩奇：扬帆！" },
 	{
 		"en": "Granny Pig: Maybe you should go a little slower, Grandpa Pig.",
@@ -56,11 +167,39 @@
 	},
 	{
 		"en": "Grandpa Pig: Good idea, Granny Pig. I don't want to use up all my petrol.",
-		"cn": "爷爷猪：好主意，奶奶猪。我不想把油全用光。"
+		"cn": "爷爷猪：好主意，奶奶猪。我不想把油全用光。",
+		"sentence": {
+			"en": "I don't want to use up all my petrol.",
+			"cn": "我不想把油全用光。",
+			"examples": [
+				{
+					"en": "I don't want to eat all the cake.",
+					"cn": "我不想把蛋糕全吃光。"
+				},
+				{
+					"en": "We don't want to miss the bus.",
+					"cn": "我们不想错过公交车。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Grandpa, I liked it when we went fast.",
-		"cn": "佩奇：爷爷，我喜欢刚才快的时候。"
+		"cn": "佩奇：爷爷，我喜欢刚才快的时候。",
+		"sentence": {
+			"en": "I liked it when we went fast.",
+			"cn": "我喜欢刚才快的时候。",
+			"examples": [
+				{
+					"en": "I liked it when we played outside.",
+					"cn": "我喜欢我们在外面玩的时候。"
+				},
+				{
+					"en": "I liked it when we had ice cream.",
+					"cn": "我喜欢我们吃冰淇淋的时候。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Grandpa Pig: Don't worry, Peppa. We'll go fast later!",
@@ -68,7 +207,13 @@
 	},
 	{
 		"en": "Peppa Pig: Look! There's another boat!",
-		"cn": "佩奇：看！有另一艘船！"
+		"cn": "佩奇：看！有另一艘船！",
+		"points": [
+			{
+				"en": "There's another boat",
+				"cn": "有另一艘船"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Here's Granddad Dog. He's taking Danny Dog out for a day on the river.",
@@ -86,39 +231,117 @@
 	{ "en": "Danny Dog: Hello, Peppa!", "cn": "丹尼狗：你好，佩奇！" },
 	{
 		"en": "Narrator: Granddad Dog is Grandpa Pig's very best friend.",
-		"cn": "旁白：狗爷爷是爷爷猪最好的朋友。"
+		"cn": "旁白：狗爷爷是爷爷猪最好的朋友。",
+		"points": [
+			{
+				"en": "very best friend",
+				"cn": "最好的朋友"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: I'm surprised your boat is still afloat, Granddad Dog. It must be almost as old as you are.",
-		"cn": "爷爷猪：我很惊讶你的船还没沉，狗爷爷。它肯定和你一样老了。"
+		"cn": "爷爷猪：我很惊讶你的船还没沉，狗爷爷。它肯定和你一样老了。",
+		"sentence": {
+			"en": "I'm surprised your boat is still afloat",
+			"cn": "我很惊讶你的船还没沉。",
+			"examples": [
+				{
+					"en": "I'm surprised your car is still running.",
+					"cn": "我很惊讶你的车还在跑。"
+				},
+				{
+					"en": "I'm surprised your computer is still working.",
+					"cn": "我很惊讶你的电脑还在工作。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Granddad Dog: This old boat can go faster than your rusty bucket any day, Grandpa Pig.",
-		"cn": "狗爷爷：这艘旧船随时都能比你的破桶快，爷爷猪。"
+		"cn": "狗爷爷：这艘旧船随时都能比你的破桶快，爷爷猪。",
+		"points": [
+			{
+				"en": "faster than your rusty bucket",
+				"cn": "比你的破桶快"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: All right, you old sea dog. Race you.",
-		"cn": "爷爷猪：好吧，你这老海狗。来比赛吧。"
+		"cn": "爷爷猪：好吧，你这老海狗。来比赛吧。",
+		"points": [
+			{
+				"en": "Race you",
+				"cn": "来比赛吧"
+			}
+		]
 	},
 	{
 		"en": "Granddad Dog: Prepare to lose, water hog.",
-		"cn": "狗爷爷：准备输吧，水猪。"
+		"cn": "狗爷爷：准备输吧，水猪。",
+		"points": [
+			{
+				"en": "Prepare to lose",
+				"cn": "准备输吧"
+			}
+		]
 	},
 	{
 		"en": "Granny Pig: You two are acting like little children.",
-		"cn": "奶奶猪：你们俩像小孩子一样。"
+		"cn": "奶奶猪：你们俩像小孩子一样。",
+		"sentence": {
+			"en": "You two are acting like little children.",
+			"cn": "你们俩像小孩子一样。",
+			"examples": [
+				{
+					"en": "You are acting like a child.",
+					"cn": "你像个孩子一样。"
+				},
+				{
+					"en": "He is acting like a fool.",
+					"cn": "他像个傻瓜一样。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Grandpa Pig: Granddad Dog called me a water hog.",
-		"cn": "爷爷猪：狗爷爷叫我水猪。"
+		"cn": "爷爷猪：狗爷爷叫我水猪。",
+		"points": [
+			{
+				"en": "called me a water hog",
+				"cn": "叫我水猪"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: You called him a sea dog first, Grandpa. You should say sorry.",
-		"cn": "佩奇：爷爷，是你先叫他海狗的。你应该道歉。"
+		"cn": "佩奇：爷爷，是你先叫他海狗的。你应该道歉。",
+		"points": [
+			{
+				"en": "You should say sorry",
+				"cn": "你应该道歉"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: Only if he says sorry first.",
-		"cn": "爷爷猪：除非他先道歉。"
+		"cn": "爷爷猪：除非他先道歉。",
+		"sentence": {
+			"en": "Only if he says sorry first.",
+			"cn": "除非他先道歉。",
+			"examples": [
+				{
+					"en": "I will help you only if you ask nicely.",
+					"cn": "只有你礼貌地请求，我才会帮助你。"
+				},
+				{
+					"en": "You can go out only if you finish your homework.",
+					"cn": "只有你完成作业，你才能出去。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Danny Dog: Granddad, say sorry to Grandpa Pig. He is your best friend.",
@@ -130,41 +353,147 @@
 	},
 	{
 		"en": "Grandpa Pig: All right, sea dog. Let's race to the next bridge.",
-		"cn": "爷爷猪：好吧，海狗，我们比到下一个桥。"
+		"cn": "爷爷猪：好吧，海狗，我们比到下一个桥。",
+		"sentence": {
+			"en": "Let's race to the next bridge.",
+			"cn": "我们比到下一个桥。",
+			"examples": [
+				{
+					"en": "Let's race to the next tree.",
+					"cn": "我们比到下一个树。"
+				},
+				{
+					"en": "Let's race to the next hill.",
+					"cn": "我们比到下一个山丘。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Granddad Dog: On the count of three.",
-		"cn": "狗爷爷：数到三开始。"
+		"cn": "狗爷爷：数到三开始。",
+		"points": [
+			{
+				"en": "On the count of three",
+				"cn": "数到三开始"
+			}
+		]
 	},
 	{ "en": "Grandpa Pig: One... two...", "cn": "爷爷猪：一……二……" },
 	{ "en": "Granddad Dog: Go!", "cn": "狗爷爷：开始！" },
-	{ "en": "Grandpa Pig: You started too soon.", "cn": "爷爷猪：你抢跑了。" },
+	{
+		"en": "Grandpa Pig: You started too soon.",
+		"cn": "爷爷猪：你抢跑了。",
+		"points": [
+			{
+				"en": "You started too soon",
+				"cn": "你抢跑了"
+			}
+		]
+	},
 	{
 		"en": "Granddad Dog: Catch me if you can, water hog!",
-		"cn": "狗爷爷：有本事来追我呀，水猪！"
+		"cn": "狗爷爷：有本事来追我呀，水猪！",
+		"points": [
+			{
+				"en": "Catch me if you can",
+				"cn": "有本事来追我呀"
+			}
+		]
 	},
 	{ "en": "Grandpa Pig: Sea dog!", "cn": "爷爷猪：海狗！" },
 	{
 		"en": "Grandpa Pig: Is that as fast as you can go?",
-		"cn": "爷爷猪：你就这点速度吗？"
+		"cn": "爷爷猪：你就这点速度吗？",
+		"sentence": {
+			"en": "Is that as fast as you can go?",
+			"cn": "你就这点速度吗？",
+			"examples": [
+				{
+					"en": "Is that as high as you can jump?",
+					"cn": "你就这点高度吗？"
+				},
+				{
+					"en": "Is that as loud as you can shout?",
+					"cn": "你就这点声音吗？"
+				}
+			]
+		}
 	},
-	{ "en": "Grandpa Pig: Can't catch me!", "cn": "爷爷猪：你追不上我！" },
+	{
+		"en": "Grandpa Pig: Can't catch me!",
+		"cn": "爷爷猪：你追不上我！",
+		"points": [
+			{
+				"en": "Can't catch me",
+				"cn": "你追不上我"
+			}
+		]
+	},
 	{ "en": "Grandpa Pig: I win!", "cn": "爷爷猪：我赢了！" },
 	{
 		"en": "Narrator: Oh, dear. Grandpa Pig's boat has run out of petrol.",
-		"cn": "旁白：哦，糟糕。爷爷猪的船没油了。"
+		"cn": "旁白：哦，糟糕。爷爷猪的船没油了。",
+		"sentence": {
+			"en": "Grandpa Pig's boat has run out of petrol.",
+			"cn": "爷爷猪的船没油了。",
+			"examples": [
+				{
+					"en": "My car has run out of petrol.",
+					"cn": "我的车没油了。"
+				},
+				{
+					"en": "The bike has run out of air in the tires.",
+					"cn": "自行车的轮胎没气了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Granny Pig: Very clever, Captain Grandpa.",
-		"cn": "奶奶猪：真聪明，船长爷爷。"
+		"cn": "奶奶猪：真聪明，船长爷爷。",
+		"points": [
+			{
+				"en": "Very clever",
+				"cn": "真聪明"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: Maybe I did go a bit too fast.",
-		"cn": "爷爷猪：也许我刚才开得太快了。"
+		"cn": "爷爷猪：也许我刚才开得太快了。",
+		"sentence": {
+			"en": "Maybe I did go a bit too fast.",
+			"cn": "也许我刚才开得太快了。",
+			"examples": [
+				{
+					"en": "Maybe I should slow down.",
+					"cn": "也许我应该慢下来。"
+				},
+				{
+					"en": "Maybe I need to be more careful.",
+					"cn": "也许我需要更加小心。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Granny Pig: How will we get home?",
-		"cn": "奶奶猪：那我们怎么回家？"
+		"cn": "奶奶猪：那我们怎么回家？",
+		"sentence": {
+			"en": "How will we get home?",
+			"cn": "那我们怎么回家？",
+			"examples": [
+				{
+					"en": "How will we get to the park?",
+					"cn": "我们怎么去公园？"
+				},
+				{
+					"en": "How will we get back?",
+					"cn": "我们怎么回去？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Look, there's Granddad Dog.",
@@ -172,19 +501,59 @@
 	},
 	{
 		"en": "Granny Pig: Granddad Dog can tow us home.",
-		"cn": "奶奶猪：狗爷爷可以拖我们回家。"
+		"cn": "奶奶猪：狗爷爷可以拖我们回家。",
+		"points": [
+			{
+				"en": "tow us home",
+				"cn": "拖我们回家"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: I'm not being towed by that sea dog.",
-		"cn": "爷爷猪：我才不要被那只海狗拖回去。"
+		"cn": "爷爷猪：我才不要被那只海狗拖回去。",
+		"sentence": {
+			"en": "I'm not being towed by that sea dog.",
+			"cn": "我才不要被那只海狗拖回去。",
+			"examples": [
+				{
+					"en": "I'm not being carried by that elephant.",
+					"cn": "我才不要被那只大象抬着。"
+				},
+				{
+					"en": "I'm not being helped by that teacher.",
+					"cn": "我才不要被那位老师帮助。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Granddad Dog: I haven't offered to tow the water hog.",
-		"cn": "狗爷爷：我还没说要拖那只水猪呢。"
+		"cn": "狗爷爷：我还没说要拖那只水猪呢。",
+		"sentence": {
+			"en": "I haven't offered to tow the water hog.",
+			"cn": "我还没说要拖那只水猪呢。",
+			"examples": [
+				{
+					"en": "I haven't offered to help you.",
+					"cn": "我还没说要帮助你呢。"
+				},
+				{
+					"en": "I haven't offered to carry that bag.",
+					"cn": "我还没说要提那个包呢。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Granny Pig: Will you two ever grow up?",
-		"cn": "奶奶猪：你们俩什么时候才能长大？"
+		"cn": "奶奶猪：你们俩什么时候才能长大？",
+		"points": [
+			{
+				"en": "Will you two ever grow up?",
+				"cn": "你们俩什么时候才能长大？"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Grandpa, say sorry to Granddad Dog.",
@@ -192,7 +561,21 @@
 	},
 	{
 		"en": "Grandpa Pig: I'm sorry I called you a sea dog.",
-		"cn": "爷爷猪：对不起，我叫你海狗。"
+		"cn": "爷爷猪：对不起，我叫你海狗。",
+		"sentence": {
+			"en": "I'm sorry I called you a sea dog.",
+			"cn": "对不起，我叫你海狗。",
+			"examples": [
+				{
+					"en": "I'm sorry I called you a fool.",
+					"cn": "对不起，我叫你傻瓜。"
+				},
+				{
+					"en": "I'm sorry I called you a lazy person.",
+					"cn": "对不起，我叫你懒人。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Danny Dog: Granddad, say sorry to Grandpa Pig.",
@@ -204,13 +587,42 @@
 	},
 	{
 		"en": "Granny Pig: That's nice. Granddad Dog, would you be so kind as to tow us home?",
-		"cn": "奶奶猪：太好了。狗爷爷，你能拖我们回家吗？"
+		"cn": "奶奶猪：太好了。狗爷爷，你能拖我们回家吗？",
+		"sentence": {
+			"en": "Would you be so kind as to tow us home?",
+			"cn": "你能拖我们回家吗？",
+			"examples": [
+				{
+					"en": "Would you be so kind as to help me?",
+					"cn": "你能帮我吗？"
+				},
+				{
+					"en": "Would you be so kind as to lend me your book?",
+					"cn": "你能借我你的书吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Granddad Dog: It would be my pleasure, madam.",
-		"cn": "狗爷爷：很乐意，女士。"
+		"cn": "狗爷爷：很乐意，女士。",
+		"points": [
+			{
+				"en": "It would be my pleasure",
+				"cn": "很乐意"
+			}
+		]
 	},
-	{ "en": "Granddad Dog: Catch this, Captain!", "cn": "狗爷爷：接住，船长！" },
+	{
+		"en": "Granddad Dog: Catch this, Captain!",
+		"cn": "狗爷爷：接住，船长！",
+		"points": [
+			{
+				"en": "Catch this",
+				"cn": "接住"
+			}
+		]
+	},
 	{ "en": "Grandpa Pig: Aye aye, skipper!", "cn": "爷爷猪：遵命，大副！" },
 	{
 		"en": "Narrator: Granddad Dog is Grandpa Pig's very best friend. Granddad Dog is towing Grandpa Pig's boat home.",
@@ -218,7 +630,21 @@
 	},
 	{
 		"en": "Grandpa Pig: The main thing is I won the race.",
-		"cn": "爷爷猪：最重要的是我赢了比赛。"
+		"cn": "爷爷猪：最重要的是我赢了比赛。",
+		"sentence": {
+			"en": "The main thing is I won the race.",
+			"cn": "最重要的是我赢了比赛。",
+			"examples": [
+				{
+					"en": "The main thing is we had fun.",
+					"cn": "最重要的是我们玩得开心。"
+				},
+				{
+					"en": "The main thing is we arrived safely.",
+					"cn": "最重要的是我们安全到达了。"
+				}
+			]
+		}
 	},
 	{ "en": "Granny Pig: Grandpa Pig.", "cn": "奶奶猪：爷爷猪。" },
 	{ "en": "Peppa Pig: Naughty Grandpa Pig.", "cn": "佩奇：调皮的爷爷猪。" },

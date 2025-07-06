@@ -1,11 +1,23 @@
 [
 	{
 		"en": "Narrator: Mr Zebra, the postman, is delivering a parcel to Peppa's house.",
-		"cn": "旁白：斑马先生邮递员正在给佩奇家送包裹。"
+		"cn": "旁白：斑马先生邮递员正在给佩奇家送包裹。",
+		"points": [
+			{
+				"en": "delivering a parcel",
+				"cn": "送包裹"
+			}
+		]
 	},
 	{
 		"en": "Mr Zebra: Parcel for you, Mr Pig.",
-		"cn": "斑马先生：猪先生，你的包裹。"
+		"cn": "斑马先生：猪先生，你的包裹。",
+		"points": [
+			{
+				"en": "Parcel for you",
+				"cn": "给你的包裹"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Thank you, Mr Zebra. Goodbye.",
@@ -13,7 +25,21 @@
 	},
 	{
 		"en": "Daddy Pig: Look. I just got a parcel in the post. Can anyone guess what's inside?",
-		"cn": "猪爸爸：看，我刚收到一个包裹。谁能猜猜里面是什么？"
+		"cn": "猪爸爸：看，我刚收到一个包裹。谁能猜猜里面是什么？",
+		"sentence": {
+			"en": "Can anyone guess what's inside?",
+			"cn": "谁能猜猜里面是什么？",
+			"examples": [
+				{
+					"en": "Can anyone guess what this is?",
+					"cn": "谁能猜猜这是什么？"
+				},
+				{
+					"en": "Can anyone guess how much this costs?",
+					"cn": "谁能猜猜这个多少钱？"
+				}
+			]
+		}
 	},
 	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
 	{
@@ -22,36 +48,111 @@
 	},
 	{
 		"en": "Daddy Pig: The parcel is far too small to have a dinosaur inside.",
-		"cn": "猪爸爸：这个包裹太小了，装不下恐龙。"
+		"cn": "猪爸爸：这个包裹太小了，装不下恐龙。",
+		"sentence": {
+			"en": "far too small to have a dinosaur inside",
+			"cn": "太小了，装不下恐龙",
+			"examples": [
+				{
+					"en": "This box is far too small to fit the book inside.",
+					"cn": "这个盒子太小了，放不下书。"
+				},
+				{
+					"en": "The bag is far too small to carry all my toys.",
+					"cn": "这个包太小了，装不下我所有的玩具。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Hmm... I think it's a... a new toy.",
 		"cn": "佩奇：嗯……我觉得是……一个新玩具。"
 	},
-	{ "en": "Daddy Pig: You're very close.", "cn": "猪爸爸：你猜得很接近了。" },
+	{
+		"en": "Daddy Pig: You're very close.",
+		"cn": "猪爸爸：你猜得很接近了。",
+		"points": [
+			{
+				"en": "You're very close",
+				"cn": "你猜得很接近了"
+			}
+		]
+	},
 	{
 		"en": "Mummy Pig: I know what it is. Your new camera. A new toy for Daddy Pig.",
-		"cn": "猪妈妈：我知道是什么了。你的新相机。是猪爸爸的新玩具。"
+		"cn": "猪妈妈：我知道是什么了。你的新相机。是猪爸爸的新玩具。",
+		"points": [
+			{
+				"en": "Your new camera",
+				"cn": "你的新相机"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: That's right! It's a movie camera. We can make movies with it and watch them on our television.",
-		"cn": "猪爸爸：没错！是摄像机。我们可以用它拍电影，然后在电视上看。"
+		"cn": "猪爸爸：没错！是摄像机。我们可以用它拍电影，然后在电视上看。",
+		"sentence": {
+			"en": "We can make movies with it and watch them on our television.",
+			"cn": "我们可以用它拍电影，然后在电视上看。",
+			"examples": [
+				{
+					"en": "We can make cookies with it and eat them later.",
+					"cn": "我们可以用它做饼干，然后待会儿吃。"
+				},
+				{
+					"en": "We can play games with it and have fun.",
+					"cn": "我们可以用它玩游戏，玩得开心。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Can I use it first, Daddy?",
-		"cn": "佩奇：爸爸，我能先用吗？"
+		"cn": "佩奇：爸爸，我能先用吗？",
+		"points": [
+			{
+				"en": "Can I use it first?",
+				"cn": "我能先用吗？"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: It's a bit too difficult for children to use. Even I need to read the instructions. Hmm... It's a bit harder than I thought.",
-		"cn": "猪爸爸：这个对小朋友来说有点难。连我都得看看说明书。嗯……比我想的难。"
+		"cn": "猪爸爸：这个对小朋友来说有点难。连我都得看看说明书。嗯……比我想的难。",
+		"sentence": {
+			"en": "It's a bit harder than I thought.",
+			"cn": "比我想的难。",
+			"examples": [
+				{
+					"en": "This puzzle is a bit harder than I thought.",
+					"cn": "这个拼图比我想的难。"
+				},
+				{
+					"en": "The exam was a bit harder than I thought.",
+					"cn": "考试比我想的难。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Suzy Sheep's mummy has a movie camera. She switches it on like this.",
-		"cn": "佩奇：苏茜羊的妈妈有摄像机。她是这样打开的。"
+		"cn": "佩奇：苏茜羊的妈妈有摄像机。她是这样打开的。",
+		"points": [
+			{
+				"en": "switches it on like this",
+				"cn": "这样打开"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Oh. Well done, Peppa.",
-		"cn": "猪爸爸：哦，干得好，佩奇。"
+		"cn": "猪爸爸：哦，干得好，佩奇。",
+		"points": [
+			{
+				"en": "Well done",
+				"cn": "干得好"
+			}
+		]
 	},
 	{
 		"en": "Camera: Thank you for purchasing the Movie 3000. I am eager and ready to shoot your first movie.",
@@ -59,26 +160,105 @@
 	},
 	{
 		"en": "Mummy Pig: Is there a way to turn that voice off?",
-		"cn": "猪妈妈：有办法关掉那个声音吗？"
+		"cn": "猪妈妈：有办法关掉那个声音吗？",
+		"sentence": {
+			"en": "Is there a way to turn that voice off?",
+			"cn": "有办法关掉那个声音吗？",
+			"examples": [
+				{
+					"en": "Is there a way to fix this?",
+					"cn": "有办法修好这个吗？"
+				},
+				{
+					"en": "Is there a way to make it quieter?",
+					"cn": "有办法让它安静点吗？"
+				}
+			]
+		}
 	},
-	{ "en": "Daddy Pig: I'm not sure.", "cn": "猪爸爸：我不确定。" },
+	{
+		"en": "Daddy Pig: I'm not sure.",
+		"cn": "猪爸爸：我不确定。",
+		"points": [
+			{
+				"en": "I'm not sure",
+				"cn": "我不确定"
+			}
+		]
+	},
 	{
 		"en": "Camera: Thank you for purchasing the Movie 3000.",
-		"cn": "摄像机：感谢您购买Movie 3000。"
+		"cn": "摄像机：感谢您购买Movie 3000。",
+		"sentence": {
+			"en": "Thank you for purchasing the Movie 3000.",
+			"cn": "感谢您购买Movie 3000。",
+			"examples": [
+				{
+					"en": "Thank you for purchasing the new phone.",
+					"cn": "感谢您购买新手机。"
+				},
+				{
+					"en": "Thank you for purchasing the latest game.",
+					"cn": "感谢您购买最新的游戏。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: On Suzy's camera, you just press this button to stop it talking.",
-		"cn": "佩奇：苏茜的摄像机只要按这个按钮就不说话了。"
+		"cn": "佩奇：苏茜的摄像机只要按这个按钮就不说话了。",
+		"sentence": {
+			"en": "On Suzy's camera, you just press this button to stop it talking.",
+			"cn": "苏茜的摄像机只要按这个按钮就不说话了。",
+			"examples": [
+				{
+					"en": "On my tablet, you just tap this icon to turn it off.",
+					"cn": "在我的平板上，只需点击这个图标即可关闭。"
+				},
+				{
+					"en": "On the remote, you just press this button to mute the sound.",
+					"cn": "在遥控器上，只需按这个按钮即可静音。"
+				}
+			]
+		}
 	},
 	{ "en": "Camera: Thank you for purchasing...", "cn": "摄像机：感谢您购买……" },
 	{
 		"en": "Peppa Pig: Now it won't talk anymore.",
-		"cn": "佩奇：现在它不会再说话了。"
+		"cn": "佩奇：现在它不会再说话了。",
+		"sentence": {
+			"en": "Now it won't talk anymore.",
+			"cn": "现在它不会再说话了。",
+			"examples": [
+				{
+					"en": "Now it won't make any noise.",
+					"cn": "现在它不会发出任何声音。"
+				},
+				{
+					"en": "Now it won't bother us.",
+					"cn": "现在它不会打扰我们了。"
+				}
+			]
+		}
 	},
 	{ "en": "Mummy Pig: Well done, Peppa.", "cn": "猪妈妈：干得好，佩奇。" },
 	{
 		"en": "Daddy Pig: What shall I film first?",
-		"cn": "猪爸爸：我先拍什么好呢？"
+		"cn": "猪爸爸：我先拍什么好呢？",
+		"sentence": {
+			"en": "What shall I film first?",
+			"cn": "我先拍什么好呢？",
+			"examples": [
+				{
+					"en": "What shall I cook for dinner?",
+					"cn": "我晚餐该做什么？"
+				},
+				{
+					"en": "What shall I wear today?",
+					"cn": "我今天该穿什么？"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Film me!", "cn": "佩奇：拍我！" },
 	{ "en": "Daddy Pig: OK, Peppa.", "cn": "猪爸爸：好的，佩奇。" },
@@ -91,7 +271,16 @@
 		"en": "Peppa Pig: (on camera) Hello. I'm Peppa Pig.",
 		"cn": "佩奇（在摄像机里）：大家好，我是佩奇猪。"
 	},
-	{ "en": "Peppa Pig: Again! Again!", "cn": "佩奇：再来一次！再来一次！" },
+	{
+		"en": "Peppa Pig: Again! Again!",
+		"cn": "佩奇：再来一次！再来一次！",
+		"points": [
+			{
+				"en": "Again! Again!",
+				"cn": "再来一次！再来一次！"
+			}
+		]
+	},
 	{ "en": "Daddy Pig: OK.", "cn": "猪爸爸：好。" },
 	{
 		"en": "Peppa Pig: (on camera) Hello! I'm Peppa Pig.",
@@ -105,28 +294,92 @@
 	{ "en": "Peppa Pig: Again! Again!", "cn": "佩奇：再来一次！再来一次！" },
 	{
 		"en": "Daddy Pig: Maybe we should film something new.",
-		"cn": "猪爸爸：也许我们该拍点新东西了。"
+		"cn": "猪爸爸：也许我们该拍点新东西了。",
+		"sentence": {
+			"en": "Maybe we should film something new.",
+			"cn": "也许我们该拍点新东西了。",
+			"examples": [
+				{
+					"en": "Maybe we should try a different angle.",
+					"cn": "也许我们该换个角度拍。"
+				},
+				{
+					"en": "Maybe we should add some special effects.",
+					"cn": "也许我们该加点特效。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: I know! Daddy Pig must leave the room and we'll make a movie to show him.",
-		"cn": "猪妈妈：我有主意了！猪爸爸要离开房间，我们来拍一部电影给他看。"
+		"cn": "猪妈妈：我有主意了！猪爸爸要离开房间，我们来拍一部电影给他看。",
+		"points": [
+			{
+				"en": "leave the room.",
+				"cn": "离开房间"
+			},
+			{
+				"en": "make a movie",
+				"cn": "拍一部电影"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: This way!", "cn": "佩奇：这边！" },
 	{
 		"en": "Narrator: Daddy Pig has to wait in the kitchen while Mummy Pig, Peppa and George make a secret movie.",
-		"cn": "旁白：猪爸爸要在厨房等着，猪妈妈、佩奇和乔治要拍一部秘密电影。"
+		"cn": "旁白：猪爸爸要在厨房等着，猪妈妈、佩奇和乔治要拍一部秘密电影。",
+		"sentence": {
+			"en": "Daddy Pig has to wait in the kitchen while Mummy Pig, Peppa and George make a secret movie.",
+			"cn": "猪爸爸要在厨房等着，猪妈妈、佩奇和乔治要拍一部秘密电影。",
+			"examples": [
+				{
+					"en": "The children have to wait in the garden while the adults prepare dinner.",
+					"cn": "孩子们要在花园等着，等大人们准备好晚餐。"
+				},
+				{
+					"en": "She has to wait in line while her friends buy tickets.",
+					"cn": "她要在队伍里等着，等朋友们买票。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: No peeking, Daddy Pig. We all have to do something. George, do you want to go first?",
-		"cn": "猪妈妈：猪爸爸，不许偷看。我们每个人都要表演。乔治，你想先来吗？"
+		"cn": "猪妈妈：猪爸爸，不许偷看。我们每个人都要表演。乔治，你想先来吗？",
+		"points": [
+			{
+				"en": "No peeking, Daddy Pig.",
+				"cn": "不许偷看，猪爸爸。"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Are you ready? Can I come in and see the movie?",
-		"cn": "猪爸爸：你们准备好了吗？我能进来看电影了吗？"
+		"cn": "猪爸爸：你们准备好了吗？我能进来看电影了吗？",
+		"points": [
+			{
+				"en": "come in and see the movie",
+				"cn": "进来看看电影"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Finished! You can come in now! George has made a movie and so has Peppa.",
-		"cn": "猪妈妈：好了！你可以进来了！乔治拍了一部电影，佩奇也拍了。"
+		"cn": "猪妈妈：好了！你可以进来了！乔治拍了一部电影，佩奇也拍了。",
+		"sentence": {
+			"en": "George has made a movie and so has Peppa.",
+			"cn": "乔治拍了一部电影，佩奇也拍了。",
+			"examples": [
+				{
+					"en": "John has made a cake and so has Mary.",
+					"cn": "约翰做了一个蛋糕，玛丽也做了。"
+				},
+				{
+					"en": "Tom has finished his homework and so has Lucy.",
+					"cn": "汤姆完成了作业，露西也完成了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Let's see George's movie first.",
@@ -138,7 +391,21 @@
 	},
 	{
 		"en": "Peppa Pig: George is pretending to be a dinosaur.",
-		"cn": "佩奇：乔治在假装恐龙。"
+		"cn": "佩奇：乔治在假装恐龙。",
+		"sentence": {
+			"en": "George is pretending to be a dinosaur.",
+			"cn": "乔治在假装恐龙。",
+			"examples": [
+				{
+					"en": "She is pretending to be a princess.",
+					"cn": "她在假装公主。"
+				},
+				{
+					"en": "They are pretending to be superheroes.",
+					"cn": "他们在假装超级英雄。"
+				}
+			]
+		}
 	},
 	{ "en": "George: (on camera) Grrr!", "cn": "乔治（在摄像机里）：嗷呜！" },
 	{
@@ -147,11 +414,23 @@
 	},
 	{
 		"en": "Narrator: Oh dear, George is frightened.",
-		"cn": "旁白：哦，糟糕，乔治被吓到了。"
+		"cn": "旁白：哦，糟糕，乔治被吓到了。",
+		"points": [
+			{
+				"en": "George is frightened",
+				"cn": "乔治被吓到了"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Don't be frightened, George. That's not a real dinosaur on TV. It's you.",
-		"cn": "猪妈妈：别害怕，乔治。电视上不是恐龙，是你自己。"
+		"cn": "猪妈妈：别害怕，乔治。电视上不是恐龙，是你自己。",
+		"points": [
+			{
+				"en": "Don't be frightened, George.",
+				"cn": "别害怕，乔治。"
+			}
+		]
 	},
 	{ "en": "George: Grrrrr! Dinosaur!", "cn": "乔治：嗷呜！恐龙！" },
 	{
@@ -162,31 +441,114 @@
 		"en": "Peppa Pig: (on camera) Ho, ho, ho.",
 		"cn": "佩奇（在摄像机里）：哼哼哼。"
 	},
-	{ "en": "Daddy Pig: Who is that meant to be?", "cn": "猪爸爸：那是谁啊？" },
+	{
+		"en": "Daddy Pig: Who is that meant to be?",
+		"cn": "猪爸爸：那是谁啊？",
+		"sentence": {
+			"en": "Who is that meant to be?",
+			"cn": "那是谁啊？",
+			"examples": [
+				{
+					"en": "Who is that meant to be in the story?",
+					"cn": "故事里那个人是谁？"
+				},
+				{
+					"en": "Who is that meant to be in the picture?",
+					"cn": "图片里那个人是谁？"
+				}
+			]
+		}
+	},
 	{
 		"en": "Peppa Pig: (on camera) I am Daddy Pig! Ho, ho, ho.",
 		"cn": "佩奇（在摄像机里）：我是猪爸爸！哼哼哼。"
 	},
-	{ "en": "Daddy Pig: I see.", "cn": "猪爸爸：我明白了。" },
+	{
+		"en": "Daddy Pig: I see.",
+		"cn": "猪爸爸：我明白了。",
+		"points": [
+			{
+				"en": "I see.",
+				"cn": "我明白了。"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: (on camera) My tummy is very big because I eat a lot of cookies.",
-		"cn": "佩奇（在摄像机里）：我的肚子很大，因为我吃了很多饼干。"
+		"cn": "佩奇（在摄像机里）：我的肚子很大，因为我吃了很多饼干。",
+		"sentence": {
+			"en": "My tummy is very big because I eat a lot of cookies.",
+			"cn": "我的肚子很大，因为我吃了很多饼干。",
+			"examples": [
+				{
+					"en": "My backpack is very heavy because I have a lot of books.",
+					"cn": "我的背包很重，因为我有很多书。"
+				},
+				{
+					"en": "My room is very messy because I have too many toys.",
+					"cn": "我的房间很乱，因为我有太多玩具。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: My tummy is not big! But it is true that I like cookies.",
-		"cn": "猪爸爸：我的肚子不大！不过我确实喜欢吃饼干。"
+		"cn": "猪爸爸：我的肚子不大！不过我确实喜欢吃饼干。",
+		"sentence": {
+			"en": "My tummy is not big! But it is true that I like cookies.",
+			"cn": "我的肚子不大！不过我确实喜欢吃饼干。",
+			"examples": [
+				{
+					"en": "My car is not fast! But it is true that I like driving.",
+					"cn": "我的车不快！不过我确实喜欢开车。"
+				},
+				{
+					"en": "My house is not big! But it is true that I love my home.",
+					"cn": "我的房子不大！不过我确实爱我的家。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: And the more you eat, the bigger your tummy gets!",
-		"cn": "佩奇：你吃得越多，肚子就越大！"
+		"cn": "佩奇：你吃得越多，肚子就越大！",
+		"sentence": {
+			"en": "And the more you eat, the bigger your tummy gets!",
+			"cn": "你吃得越多，肚子就越大！",
+			"examples": [
+				{
+					"en": "And the more you practice, the better you get!",
+					"cn": "你练习得越多，变得就越好！"
+				},
+				{
+					"en": "And the more you read, the more knowledge you gain!",
+					"cn": "你阅读得越多，获得的知识就越多！"
+				}
+			]
+		}
 	},
-	{ "en": "Daddy Pig: OK, what's next?", "cn": "猪爸爸：好吧，接下来是什么？" },
+	{
+		"en": "Daddy Pig: OK, what's next?",
+		"cn": "猪爸爸：好吧，接下来是什么？",
+		"points": [
+			{
+				"en": "what's next?",
+				"cn": "接下来是什么？"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: This is my sweet little brother George. This is Mummy Pig. This is me.",
 		"cn": "佩奇：这是我可爱的弟弟乔治。这是猪妈妈。这是我。"
 	},
 	{
 		"en": "Daddy Pig: And this is the real Daddy Pig.",
-		"cn": "猪爸爸：这才是真正的猪爸爸。"
+		"cn": "猪爸爸：这才是真正的猪爸爸。",
+		"points": [
+			{
+				"en": "the real Daddy Pig",
+				"cn": "真正的猪爸爸"
+			}
+		]
 	}
 ]

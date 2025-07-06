@@ -1,66 +1,216 @@
 [
 	{
 		"en": "Narrator: Mummy Pig and Daddy Pig have a new picture of Peppa and George.",
-		"cn": "旁白：猪妈妈和猪爸爸有一张佩奇和乔治的新照片。"
+		"cn": "旁白：猪妈妈和猪爸爸有一张佩奇和乔治的新照片。",
+		"points": [
+			{
+				"en": "a new picture of Peppa and George",
+				"cn": "佩奇和乔治的新照片"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: We should put this lovely new picture on the wall.",
-		"cn": "猪妈妈：我们应该把这张漂亮的新照片挂在墙上。"
+		"cn": "猪妈妈：我们应该把这张漂亮的新照片挂在墙上。",
+		"sentence": {
+			"en": "We should put this lovely new picture on the wall.",
+			"cn": "我们应该把这张漂亮的新照片挂在墙上。",
+			"examples": [
+				{
+					"en": "We should put this picture in a frame.",
+					"cn": "我们应该把这张照片装裱起来。"
+				},
+				{
+					"en": "We should put this lovely new rug on the floor.",
+					"cn": "我们应该把这块漂亮的新地毯放在地上。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Leave it to me. I am the DIY expert of the house.",
-		"cn": "猪爸爸：交给我吧。我是家里的DIY专家。"
+		"cn": "猪爸爸：交给我吧。我是家里的DIY专家。",
+		"points": [
+			{
+				"en": "Leave it to me.",
+				"cn": "交给我吧。"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Are you sure you can do it?",
-		"cn": "猪妈妈：你确定你能行吗？"
+		"cn": "猪妈妈：你确定你能行吗？",
+		"sentence": {
+			"en": "Are you sure you can do it?",
+			"cn": "你确定你能行吗？",
+			"examples": [
+				{
+					"en": "Are you sure you want to go?",
+					"cn": "你确定你想去吗？"
+				},
+				{
+					"en": "Are you sure you can finish it?",
+					"cn": "你确定你能完成吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Of course. I’ll just put a nail in the wall and hang the picture on it.",
-		"cn": "猪爸爸：当然。我只要在墙上钉颗钉子，把照片挂上去就行了。"
+		"cn": "猪爸爸：当然。我只要在墙上钉颗钉子，把照片挂上去就行了。",
+		"points": [
+			{
+				"en": "put a nail in the wall",
+				"cn": "在墙上钉颗钉子"
+			},
+			{
+				"en": "hang the picture on it",
+				"cn": "把照片挂上去"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Very good. I’m just off to visit Granny and Grandpa Pig. I’ll see you later.",
-		"cn": "猪妈妈：很好。我去看姥姥和姥爷，一会儿见。"
+		"cn": "猪妈妈：很好。我去看姥姥和姥爷，一会儿见。",
+		"sentence": {
+			"en": "I’ll see you later.",
+			"cn": "一会儿见。",
+			"examples": [
+				{
+					"en": "I’ll see you tomorrow.",
+					"cn": "明天见。"
+				},
+				{
+					"en": "I’ll see you next week.",
+					"cn": "下周见。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: And, please don’t make a mess.",
-		"cn": "猪妈妈：还有，别弄乱了。"
+		"cn": "猪妈妈：还有，别弄乱了。",
+		"points": [
+			{
+				"en": "don’t make a mess",
+				"cn": "别弄乱了"
+			}
+		]
 	},
 	{ "en": "Daddy Pig: Mess? Ho-ho-ho.", "cn": "猪爸爸：乱？呵呵呵。" },
 	{ "en": "Mummy Pig: Bye.", "cn": "猪妈妈：再见。" },
 	{ "en": "Daddy Pig and Peppa Pig: Goodbye.", "cn": "猪爸爸和佩奇：再见。" },
 	{
 		"en": "Peppa Pig: Daddy, can we help put up the picture?",
-		"cn": "佩奇：爸爸，我们能帮忙挂照片吗？"
+		"cn": "佩奇：爸爸，我们能帮忙挂照片吗？",
+		"points": [
+			{
+				"en": "put up the picture",
+				"cn": "挂照片"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: You can watch, and then you’ll learn how to do it properly.",
-		"cn": "猪爸爸：你们可以看，这样就能学会怎么做了。"
+		"cn": "猪爸爸：你们可以看，这样就能学会怎么做了。",
+		"sentence": {
+			"en": "you’ll learn how to do it properly.",
+			"cn": "你们就能学会怎么做了。",
+			"examples": [
+				{
+					"en": "You’ll learn how to cook properly.",
+					"cn": "你就能学会怎么做饭了。"
+				},
+				{
+					"en": "You’ll learn how to ride a bike properly.",
+					"cn": "你就能学会怎么骑自行车了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: First, I need a tape measure and a pencil.",
-		"cn": "猪爸爸：首先，我需要卷尺和铅笔。"
+		"cn": "猪爸爸：首先，我需要卷尺和铅笔。",
+		"points": [
+			{
+				"en": "a tape measure",
+				"cn": "卷尺"
+			},
+			{
+				"en": "a pencil",
+				"cn": "铅笔"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: That is where I’m going to put the nail.",
-		"cn": "猪爸爸：我要把钉子钉在这里。"
+		"cn": "猪爸爸：我要把钉子钉在这里。",
+		"sentence": {
+			"en": "That is where I’m going to put the nail.",
+			"cn": "我要把钉子钉在这里。",
+			"examples": [
+				{
+					"en": "That is where I’m going to hang the picture.",
+					"cn": "我要把照片挂在这里。"
+				},
+				{
+					"en": "That is where I’m going to put the shelf.",
+					"cn": "我要把架子放在这里。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Don’t break the wall, Daddy.",
-		"cn": "佩奇：爸爸，别把墙弄坏了。"
+		"cn": "佩奇：爸爸，别把墙弄坏了。",
+		"sentence": {
+			"en": "Don’t break the wall, Daddy.",
+			"cn": "爸爸，别把墙弄坏了。",
+			"examples": [
+				{
+					"en": "Don’t break the vase, George.",
+					"cn": "乔治，别把花瓶弄坏了。"
+				},
+				{
+					"en": "Don’t break the toy, Peppa.",
+					"cn": "佩奇，别把玩具弄坏了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Ho-ho-ho-ho-ho. Now I need a hammer and a nail.",
-		"cn": "猪爸爸：呵呵呵呵呵。现在我需要锤子和钉子。"
+		"cn": "猪爸爸：呵呵呵呵呵。现在我需要锤子和钉子。",
+		"points": [
+			{
+				"en": "a hammer and a nail",
+				"cn": "锤子和钉子"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Stand back, children, and watch a craftsman at work.",
-		"cn": "猪爸爸：孩子们，站远点，看工匠是怎么干活的。"
+		"cn": "猪爸爸：孩子们，站远点，看工匠是怎么干活的。",
+		"points": [
+			{
+				"en": "a craftsman at work",
+				"cn": "工匠在干活"
+			},
+			{
+				"en": "Stand back",
+				"cn": "站远点"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Daddy Pig is going to knock the nail into the wall.",
-		"cn": "旁白：猪爸爸要把钉子钉进墙里了。"
+		"cn": "旁白：猪爸爸要把钉子钉进墙里了。",
+		"points": [
+			{
+				"en": "knock the nail into the wall",
+				"cn": "把钉子钉进墙里"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Don’t break the wall, Daddy.",
@@ -68,16 +218,51 @@
 	},
 	{
 		"en": "Daddy Pig: Ho-ho-ho-ho-ho, don’t be silly, Peppa.",
-		"cn": "猪爸爸：呵呵呵呵呵，别傻了，佩奇。"
+		"cn": "猪爸爸：呵呵呵呵呵，别傻了，佩奇。",
+		"points": [
+			{
+				"en": "don’t be silly",
+				"cn": "别傻了"
+			}
+		]
 	},
-	{ "en": "Daddy Pig: Easy as pie.", "cn": "猪爸爸：小菜一碟。" },
+	{
+		"en": "Daddy Pig: Easy as pie.",
+		"cn": "猪爸爸：小菜一碟。",
+		"points": [
+			{
+				"en": "Easy as pie.",
+				"cn": "小菜一碟。"
+			}
+		]
+	},
 	{
 		"en": "Daddy Pig: Oh, it’s not meant to do that.",
-		"cn": "猪爸爸：哦，不应该这样的。"
+		"cn": "猪爸爸：哦，不应该这样的。",
+		"sentence": {
+			"en": "Oh, it’s not meant to do that.",
+			"cn": "哦，不应该这样的。",
+			"examples": [
+				{
+					"en": "Oh, it’s not meant to be like this.",
+					"cn": "哦，不应该是这样的。"
+				},
+				{
+					"en": "Oh, it’s not meant to happen.",
+					"cn": "哦，不应该发生这样的事。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Daddy Pig has made a big crack in the wall.",
-		"cn": "旁白：猪爸爸把墙弄出了一道大裂缝。"
+		"cn": "旁白：猪爸爸把墙弄出了一道大裂缝。",
+		"points": [
+			{
+				"en": "a big crack in the wall",
+				"cn": "墙上的大裂缝"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Oh, Daddy, you’ve broken the wall.",
@@ -85,15 +270,45 @@
 	},
 	{
 		"en": "Daddy Pig: It’s just a tiny crack. The picture will hide it. There.",
-		"cn": "猪爸爸：只是个小裂缝，照片能挡住。好了。"
+		"cn": "猪爸爸：只是个小裂缝，照片能挡住。好了。",
+		"points": [
+			{
+				"en": "a tiny crack",
+				"cn": "一个小裂缝"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: I can still see the crack, Daddy.",
-		"cn": "佩奇：爸爸，我还是能看到裂缝。"
+		"cn": "佩奇：爸爸，我还是能看到裂缝。",
+		"sentence": {
+			"en": "I can still see the crack, Daddy.",
+			"cn": "爸爸，我还是能看到裂缝。",
+			"examples": [
+				{
+					"en": "I can still see the stain, Mummy.",
+					"cn": "妈妈，我还是能看到污渍。"
+				},
+				{
+					"en": "I can still see the scratch, George.",
+					"cn": "乔治，我还是能看到划痕。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Yes. I’ll just take the nail out and fill in the crack.",
-		"cn": "猪爸爸：好吧，我把钉子拔出来，把裂缝补上。"
+		"cn": "猪爸爸：好吧，我把钉子拔出来，把裂缝补上。",
+		"points": [
+			{
+				"en": "take the nail out",
+				"cn": "把钉子拔出来"
+			},
+			{
+				"en": "fill in the crack",
+				"cn": "把裂缝补上"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Don’t make a mess, Daddy.",
@@ -101,22 +316,71 @@
 	},
 	{
 		"en": "Daddy Pig: Ho-ho, don’t be silly, Peppa. It’s coming out...",
-		"cn": "猪爸爸：呵呵，别傻了，佩奇。快出来了……"
+		"cn": "猪爸爸：呵呵，别傻了，佩奇。快出来了……",
+		"points": [
+			{
+				"en": "It’s coming out...",
+				"cn": "快出来了……"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Oh, Daddy. Now you really have broken the wall.",
-		"cn": "佩奇：哦，爸爸，这下你真的把墙弄坏了。"
+		"cn": "佩奇：哦，爸爸，这下你真的把墙弄坏了。",
+		"sentence": {
+			"en": "Now you really have broken the wall.",
+			"cn": "这下你真的把墙弄坏了。",
+			"examples": [
+				{
+					"en": "Now you really have made a mess.",
+					"cn": "这下你真的弄得一团糟了。"
+				},
+				{
+					"en": "Now you really have lost your keys.",
+					"cn": "这下你真的把钥匙丢了。"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: Hmmm.", "cn": "猪爸爸：嗯……" },
 	{
 		"en": "Peppa Pig: Do you think Mummy will notice?",
-		"cn": "佩奇：你觉得妈妈会发现吗？"
+		"cn": "佩奇：你觉得妈妈会发现吗？",
+		"sentence": {
+			"en": "Do you think Mummy will notice?",
+			"cn": "你觉得妈妈会发现吗？",
+			"examples": [
+				{
+					"en": "Do you think Mummy will be angry?",
+					"cn": "你觉得妈妈会生气吗？"
+				},
+				{
+					"en": "Do you think Mummy will help us?",
+					"cn": "你觉得妈妈会帮助我们吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Yes, I think she might.",
-		"cn": "猪爸爸：我觉得她会的。"
+		"cn": "猪爸爸：我觉得她会的。",
+		"points": [
+			{
+				"en": "I think she might.",
+				"cn": "我觉得她会的。"
+			}
+		]
 	},
-	{ "en": "Peppa Pig: Quick, George.", "cn": "佩奇：快点，乔治。" },
+	{
+		"en": "Peppa Pig: Quick, George.",
+		"cn": "佩奇：快点，乔治。",
+		"points": [
+			{
+				"en": "Quick",
+				"cn": "快点"
+			}
+		]
+	},
 	{ "en": "Daddy Pig: What are they doing?", "cn": "猪爸爸：他们在干什么？" },
 	{
 		"en": "Peppa Pig: Daddy, we can see you.",
@@ -124,17 +388,43 @@
 	},
 	{
 		"en": "Narrator: Daddy Pig has to mend the wall before Mummy Pig comes home.",
-		"cn": "旁白：猪爸爸得在猪妈妈回家前修好墙。"
+		"cn": "旁白：猪爸爸得在猪妈妈回家前修好墙。",
+		"sentence": {
+			"en": "Daddy Pig has to mend the wall before Mummy Pig comes home.",
+			"cn": "猪爸爸得在猪妈妈回家前修好墙。",
+			"examples": [
+				{
+					"en": "Daddy Pig has to fix the roof before it rains.",
+					"cn": "猪爸爸得在下雨前修好屋顶。"
+				},
+				{
+					"en": "Daddy Pig has to clean the car before Mummy Pig sees it.",
+					"cn": "猪爸爸得在猪妈妈看到之前把车洗干净。"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: Brick, please.", "cn": "猪爸爸：请给我砖头。" },
 	{
 		"en": "Narrator: First, Daddy Pig fills the hole with bricks.",
-		"cn": "旁白：首先，猪爸爸用砖头把洞填上。"
+		"cn": "旁白：首先，猪爸爸用砖头把洞填上。",
+		"points": [
+			{
+				"en": "fills the hole with bricks",
+				"cn": "用砖头把洞填上"
+			}
+		]
 	},
 	{ "en": "Daddy Pig: There.", "cn": "猪爸爸：好了。" },
 	{
 		"en": "Narrator: Next, Daddy Pig puts plaster over the bricks.",
-		"cn": "旁白：接着，猪爸爸在砖头上抹灰。"
+		"cn": "旁白：接着，猪爸爸在砖头上抹灰。",
+		"points": [
+			{
+				"en": "puts plaster over the bricks",
+				"cn": "在砖头上抹灰"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Ho-ho-ho, easy as pie.",
@@ -142,22 +432,86 @@
 	},
 	{
 		"en": "Narrator: Then Daddy Pig paints the wall.",
-		"cn": "旁白：然后猪爸爸刷墙。"
+		"cn": "旁白：然后猪爸爸刷墙。",
+		"points": [
+			{
+				"en": "paints the wall",
+				"cn": "刷墙"
+			}
+		]
 	},
-	{ "en": "Daddy Pig: Good as new.", "cn": "猪爸爸：和新的一样。" },
-	{ "en": "Narrator: The wall is mended.", "cn": "旁白：墙修好了。" },
+	{
+		"en": "Daddy Pig: Good as new.",
+		"cn": "猪爸爸：和新的一样。",
+		"sentence": {
+			"en": "Good as new.",
+			"cn": "和新的一样。",
+			"examples": [
+				{
+					"en": "The car is good as new after the wash.",
+					"cn": "洗完后，车子和新的一样。"
+				},
+				{
+					"en": "The toy looks good as new.",
+					"cn": "这个玩具看起来和新的一样。"
+				}
+			]
+		}
+	},
+	{
+		"en": "Narrator: The wall is mended.",
+		"cn": "旁白：墙修好了。"
+	},
 	{ "en": "Peppa Pig: Hurrah!", "cn": "佩奇：万岁！" },
 	{
 		"en": "Narrator: But look at all the mess they have made.",
-		"cn": "旁白：但你看看他们弄得多乱。"
+		"cn": "旁白：但你看看他们弄得多乱。",
+		"sentence": {
+			"en": "But look at all the mess they have made.",
+			"cn": "但你看看他们弄得多乱。",
+			"examples": [
+				{
+					"en": "But look at all the toys on the floor.",
+					"cn": "但你看看地上的玩具。"
+				},
+				{
+					"en": "But look at all the crumbs on the table.",
+					"cn": "但你看看桌子上的面包屑。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Goodness me. We’d better clean up before Mummy comes back.",
-		"cn": "猪爸爸：天哪，咱们得赶紧收拾，妈妈快回来了。"
+		"cn": "猪爸爸：天哪，咱们得赶紧收拾，妈妈快回来了。",
+		"points": [
+			{
+				"en": "clean up",
+				"cn": "收拾"
+			},
+			{
+				"en": "comes back",
+				"cn": "回来"
+			}
+		]
 	},
 	{
 		"en": "Narrator: First, Daddy Pig quickly washes Peppa and George. Then Peppa vacuums the floor. And Daddy Pig tidies up the tools.",
-		"cn": "旁白：首先，猪爸爸赶紧给佩奇和乔治洗干净。然后佩奇吸地，猪爸爸收拾工具。"
+		"cn": "旁白：首先，猪爸爸赶紧给佩奇和乔治洗干净。然后佩奇吸地，猪爸爸收拾工具。",
+		"points": [
+			{
+				"en": "washes Peppa and George",
+				"cn": "给佩奇和乔治洗干净"
+			},
+			{
+				"en": "vacuums the floor",
+				"cn": "吸地"
+			},
+			{
+				"en": "tidies up the tools",
+				"cn": "收拾工具"
+			}
+		]
 	},
 	{ "en": "George: Mummy.", "cn": "乔治：妈妈。" },
 	{ "en": "Narrator: Mummy Pig is home.", "cn": "旁白：猪妈妈回来了。" },
@@ -165,32 +519,108 @@
 	{ "en": "Peppa Pig: Mummy’s here.", "cn": "佩奇：妈妈回来了。" },
 	{
 		"en": "Daddy Pig: Quick! Pretend nothing has happened.",
-		"cn": "猪爸爸：快！假装什么都没发生。"
+		"cn": "猪爸爸：快！假装什么都没发生。",
+		"sentence": {
+			"en": "Pretend nothing has happened.",
+			"cn": "假装什么都没发生。",
+			"examples": [
+				{
+					"en": "Pretend you didn’t see anything.",
+					"cn": "假装你什么都没看到。"
+				},
+				{
+					"en": "Pretend you are not here.",
+					"cn": "假装你不在这里。"
+				}
+			]
+		}
 	},
 	{ "en": "Mummy Pig: Hello.", "cn": "猪妈妈：你们好。" },
 	{ "en": "Daddy Pig: Hello.", "cn": "猪爸爸：你好。" },
 	{
 		"en": "Mummy Pig: What have you been doing?",
-		"cn": "猪妈妈：你们在干什么？"
+		"cn": "猪妈妈：你们在干什么？",
+		"sentence": {
+			"en": "What have you been doing?",
+			"cn": "你们在干什么？",
+			"examples": [
+				{
+					"en": "What have you been up to?",
+					"cn": "你们在忙什么？"
+				},
+				{
+					"en": "What have you been working on?",
+					"cn": "你们在做什么工作？"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: Oh, nothing.", "cn": "猪爸爸：哦，没干什么。" },
 	{
 		"en": "Mummy Pig: Yes, I can see you’ve been doing nothing. I thought you were going to put the picture up.",
-		"cn": "猪妈妈：是啊，我看你们什么都没干。我还以为你要把照片挂上去呢。"
+		"cn": "猪妈妈：是啊，我看你们什么都没干。我还以为你要把照片挂上去呢。",
+		"sentence": {
+			"en": "I thought you were going to put the picture up.",
+			"cn": "我还以为你要把照片挂上去呢。",
+			"examples": [
+				{
+					"en": "I thought you were going to help me.",
+					"cn": "我还以为你要来帮我呢。"
+				},
+				{
+					"en": "I thought you were going to call me.",
+					"cn": "我还以为你要给我打电话呢。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: In all the excitement Daddy Pig has forgotten to put the picture up.",
-		"cn": "旁白：在一阵忙乱中，猪爸爸忘了挂照片。"
+		"cn": "旁白：在一阵忙乱中，猪爸爸忘了挂照片。",
+		"sentence": {
+			"en": "Daddy Pig has forgotten to put the picture up.",
+			"cn": "猪爸爸忘了挂照片。",
+			"examples": [
+				{
+					"en": "I forgot to bring my book.",
+					"cn": "我忘了带我的书。"
+				},
+				{
+					"en": "She forgot to turn off the lights.",
+					"cn": "她忘了关灯。"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: Oh.", "cn": "猪爸爸：哦。" },
 	{
 		"en": "Mummy Pig: Well, I’m no expert, but I’m sure it’s quite easy.",
-		"cn": "猪妈妈：我不是专家，但我觉得这很简单。"
+		"cn": "猪妈妈：我不是专家，但我觉得这很简单。",
+		"points": [
+			{
+				"en": "quite easy",
+				"cn": "很简单"
+			}
+		]
 	},
 	{ "en": "Mummy Pig: There.", "cn": "猪妈妈：好了。" },
 	{
 		"en": "Daddy Pig: Hmmm. Yes, that did look quite easy.",
-		"cn": "猪爸爸：嗯，确实挺简单的。"
+		"cn": "猪爸爸：嗯，确实挺简单的。",
+		"sentence": {
+			"en": "that did look quite easy.",
+			"cn": "确实挺简单的。",
+			"examples": [
+				{
+					"en": "that did look quite fun.",
+					"cn": "确实挺有趣的。"
+				},
+				{
+					"en": "that did look quite tasty.",
+					"cn": "确实挺好吃的。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: But when you did it, Daddy, it looked really hard.",
@@ -198,6 +628,12 @@
 	},
 	{
 		"en": "Daddy Pig: Shush, Peppa. Don’t tell anyone.",
-		"cn": "猪爸爸：嘘，佩奇，别告诉别人。"
+		"cn": "猪爸爸：嘘，佩奇，别告诉别人。",
+		"points": [
+			{
+				"en": "Don’t tell anyone.",
+				"cn": "别告诉别人。"
+			}
+		]
 	}
 ]

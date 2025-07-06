@@ -1,20 +1,60 @@
 [
 	{
 		"en": "Narrator: Daddy Pig is taking the family for a drive in the country.",
-		"cn": "旁白：猪爸爸要带全家去乡下兜风。"
+		"cn": "旁白：猪爸爸要带全家去乡下兜风。",
+		"points": [
+			{
+				"en": "taking the family for a drive",
+				"cn": "带全家去兜风"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Come on. Is everybody ready?",
-		"cn": "猪爸爸：快点，大家都准备好了吗？"
+		"cn": "猪爸爸：快点，大家都准备好了吗？",
+		"points": [
+			{
+				"en": "Is everybody ready?",
+				"cn": "大家都准备好了吗？"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Ready.", "cn": "佩奇：准备好了。" },
 	{
 		"en": "Mummy Pig: Yes, Daddy Pig. We’re ready. But the car isn’t ready. Look how messy it is.",
-		"cn": "猪妈妈：准备好了，猪爸爸。但车还没准备好，你看多脏啊。"
+		"cn": "猪妈妈：准备好了，猪爸爸。但车还没准备好，你看多脏啊。",
+		"sentence": {
+			"en": "Look how messy it is.",
+			"cn": "你看多脏啊。",
+			"examples": [
+				{
+					"en": "Look how messy your room is.",
+					"cn": "你看看你的房间有多乱。"
+				},
+				{
+					"en": "Look how messy the kitchen is.",
+					"cn": "你看看厨房有多脏。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Oh, it’s not too bad. You should see how messy it is inside.",
-		"cn": "猪爸爸：哦，还不算太糟。你应该看看里面有多乱。"
+		"cn": "猪爸爸：哦，还不算太糟。你应该看看里面有多乱。",
+		"sentence": {
+			"en": "You should see how messy it is inside.",
+			"cn": "你应该看看里面有多乱。",
+			"examples": [
+				{
+					"en": "You should see how messy my desk is.",
+					"cn": "你应该看看我的桌子有多乱。"
+				},
+				{
+					"en": "You should see how messy the garage is.",
+					"cn": "你应该看看车库有多脏。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Naughty, messy Daddy.",
@@ -26,37 +66,104 @@
 	},
 	{
 		"en": "Mummy Pig: Look at all this rubbish. Newspapers.",
-		"cn": "猪妈妈：看看这些垃圾。报纸。"
+		"cn": "猪妈妈：看看这些垃圾。报纸。",
+		"points": [
+			{
+				"en": "Look at all this rubbish",
+				"cn": "看看这些垃圾"
+			}
+		]
 	},
 	{ "en": "Daddy Pig: They’re mine.", "cn": "猪爸爸：那是我的。" },
 	{ "en": "Mummy Pig: Sweets.", "cn": "猪妈妈：糖果。" },
-	{ "en": "Peppa Pig: They’re mine.", "cn": "佩奇：那是我的。" },
+	{
+		"en": "Peppa Pig: They’re mine.",
+		"cn": "佩奇：那是我的。",
+		"points": [
+			{
+				"en": "They’re mine.",
+				"cn": "那是我的。"
+			}
+		]
+	},
 	{ "en": "Mummy Pig: Mr Dinosaur.", "cn": "猪妈妈：恐龙先生。" },
 	{ "en": "George: Dinosaur, grrr.", "cn": "乔治：恐龙，嗷呜。" },
 	{
 		"en": "Mummy Pig: We must clean the car before we go for a drive.",
-		"cn": "猪妈妈：我们得把车洗干净再出发。"
+		"cn": "猪妈妈：我们得把车洗干净再出发。",
+		"sentence": {
+			"en": "We must clean the car before we go for a drive.",
+			"cn": "我们得把车洗干净再出发。",
+			"examples": [
+				{
+					"en": "We must clean the house before the guests arrive.",
+					"cn": "我们得在客人来之前打扫房子。"
+				},
+				{
+					"en": "We must finish our homework before we go out to play.",
+					"cn": "我们得在出去玩之前完成作业。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Oh, right you are, Mummy Pig.",
-		"cn": "猪爸爸：好吧，听你的，猪妈妈。"
+		"cn": "猪爸爸：好吧，听你的，猪妈妈。",
+		"points": [
+			{
+				"en": "right you are",
+				"cn": "听你的"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Mummy, can we help to clean the car?",
-		"cn": "佩奇：妈妈，我们能帮忙洗车吗？"
+		"cn": "佩奇：妈妈，我们能帮忙洗车吗？",
+		"sentence": {
+			"en": "Can we help to clean the car?",
+			"cn": "我们能帮忙洗车吗？",
+			"examples": [
+				{
+					"en": "Can we help to set the table?",
+					"cn": "我们能帮忙摆桌子吗？"
+				},
+				{
+					"en": "Can we help to cook dinner?",
+					"cn": "我们能帮忙做晚饭吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Yes, if you want to.",
-		"cn": "猪妈妈：可以啊，如果你们愿意的话。"
+		"cn": "猪妈妈：可以啊，如果你们愿意的话。",
+		"points": [
+			{
+				"en": "if you want to",
+				"cn": "如果你们愿意的话"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Hurrah!", "cn": "佩奇：万岁！" },
 	{
 		"en": "Narrator: Daddy Pig has some warm, soapy water to wash the car.",
-		"cn": "旁白：猪爸爸准备了温热的肥皂水来洗车。"
+		"cn": "旁白：猪爸爸准备了温热的肥皂水来洗车。",
+		"points": [
+			{
+				"en": "warm, soapy water",
+				"cn": "温热的肥皂水"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Daddy Pig is washing the roof.",
-		"cn": "旁白：猪爸爸在洗车顶。"
+		"cn": "旁白：猪爸爸在洗车顶。",
+		"points": [
+			{
+				"en": "washing the roof",
+				"cn": "洗车顶"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Mummy Pig is washing the bonnet.",
@@ -68,7 +175,21 @@
 	},
 	{
 		"en": "Narrator: George wants to wash the windows, but he is too little.",
-		"cn": "旁白：乔治想洗车窗，但他太小了。"
+		"cn": "旁白：乔治想洗车窗，但他太小了。",
+		"sentence": {
+			"en": "He is too little.",
+			"cn": "他太小了。",
+			"examples": [
+				{
+					"en": "She is too young to go to school.",
+					"cn": "她太小了，不能上学。"
+				},
+				{
+					"en": "This box is too heavy for me to lift.",
+					"cn": "这个箱子太重了，我搬不动。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Poor George. Let me help you.",
@@ -76,33 +197,116 @@
 	},
 	{
 		"en": "Narrator: Oh, dear. George has dropped his sponge in a muddy puddle.",
-		"cn": "旁白：哦，糟糕。乔治把海绵掉进泥坑里了。"
+		"cn": "旁白：哦，糟糕。乔治把海绵掉进泥坑里了。",
+		"sentence": {
+			"en": "George has dropped his sponge in a muddy puddle.",
+			"cn": "乔治把海绵掉进泥坑里了。",
+			"examples": [
+				{
+					"en": "She has dropped her toy in the mud.",
+					"cn": "她把玩具掉在泥里了。"
+				},
+				{
+					"en": "He has dropped his sandwich on the floor.",
+					"cn": "他把三明治掉在地上了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: George, you’re making the car all muddy again.",
-		"cn": "佩奇：乔治，你又把车弄脏了。"
+		"cn": "佩奇：乔治，你又把车弄脏了。",
+		"sentence": {
+			"en": "You’re making the car all muddy again.",
+			"cn": "你又把车弄脏了。",
+			"examples": [
+				{
+					"en": "You’re making the floor all wet again.",
+					"cn": "你又把地弄湿了。"
+				},
+				{
+					"en": "You’re making the table all messy again.",
+					"cn": "你又把桌子弄乱了。"
+				}
+			]
+		}
 	},
-	{ "en": "Peppa Pig: I will wash the mud off.", "cn": "佩奇：我来把泥洗掉。" },
+	{
+		"en": "Peppa Pig: I will wash the mud off.",
+		"cn": "佩奇：我来把泥洗掉。",
+		"points": [
+			{
+				"en": "wash the mud off",
+				"cn": "把泥洗掉"
+			}
+		]
+	},
 	{
 		"en": "Daddy Pig: Peppa, don’t use the...muddy water.",
-		"cn": "猪爸爸：佩奇，别用……脏水。"
+		"cn": "猪爸爸：佩奇，别用……脏水。",
+		"sentence": {
+			"en": "don’t use the muddy water",
+			"cn": "别用脏水",
+			"examples": [
+				{
+					"en": "Don’t use the dirty towel.",
+					"cn": "别用脏毛巾。"
+				},
+				{
+					"en": "Don’t use the old brush.",
+					"cn": "别用旧刷子。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Oh, dear. Peppa has thrown the muddy water all over the car.",
-		"cn": "旁白：哦，糟糕。佩奇把脏水泼到了车上。"
+		"cn": "旁白：哦，糟糕。佩奇把脏水泼到了车上。",
+		"points": [
+			{
+				"en": "thrown the muddy water all over the car",
+				"cn": "把脏水泼到了车上"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Oh.", "cn": "佩奇：哦。" },
 	{
 		"en": "Daddy Pig: Never mind. We can use the garden hose to clean it off.",
-		"cn": "猪爸爸：没关系，我们可以用水管冲干净。"
+		"cn": "猪爸爸：没关系，我们可以用水管冲干净。",
+		"sentence": {
+			"en": "We can use the garden hose to clean it off.",
+			"cn": "我们可以用水管冲干净。",
+			"examples": [
+				{
+					"en": "We can use the broom to sweep the floor.",
+					"cn": "我们可以用扫帚扫地。"
+				},
+				{
+					"en": "We can use the cloth to wipe the table.",
+					"cn": "我们可以用布擦桌子。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Yes, yes. Can I hold the hose?",
-		"cn": "佩奇：好呀好呀，我能拿水管吗？"
+		"cn": "佩奇：好呀好呀，我能拿水管吗？",
+		"points": [
+			{
+				"en": "hold the hose",
+				"cn": "拿水管"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Peppa holds the hose, and Daddy Pig turns on the water.",
-		"cn": "旁白：佩奇拿着水管，猪爸爸打开水龙头。"
+		"cn": "旁白：佩奇拿着水管，猪爸爸打开水龙头。",
+		"points": [
+			{
+				"en": "turns on the water",
+				"cn": "打开水龙头"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Where’s the water?", "cn": "佩奇：水呢？" },
 	{ "en": "Mummy Pig: Peppa, stop!", "cn": "猪妈妈：佩奇，停下！" },
@@ -110,16 +314,51 @@
 	{ "en": "Peppa Pig: Oh.", "cn": "佩奇：哦。" },
 	{
 		"en": "Mummy Pig: Daddy Pig, please turn off the water.",
-		"cn": "猪妈妈：猪爸爸，请把水关掉。"
+		"cn": "猪妈妈：猪爸爸，请把水关掉。",
+		"points": [
+			{
+				"en": "turn off the water",
+				"cn": "把水关掉"
+			}
+		]
 	},
-	{ "en": "Daddy Pig: Oh. No need to panic.", "cn": "猪爸爸：哦，别慌。" },
+	{
+		"en": "Daddy Pig: Oh. No need to panic.",
+		"cn": "猪爸爸：哦，别慌。",
+		"points": [
+			{
+				"en": "No need to panic",
+				"cn": "别慌"
+			}
+		]
+	},
 	{
 		"en": "Narrator: Oh, dear. Everyone is wet.",
-		"cn": "旁白：哦，糟糕。大家都湿了。"
+		"cn": "旁白：哦，糟糕。大家都湿了。",
+		"points": [
+			{
+				"en": "Everyone is wet",
+				"cn": "大家都湿了"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: At least the car has been washed.",
-		"cn": "猪爸爸：至少车洗干净了。"
+		"cn": "猪爸爸：至少车洗干净了。",
+		"sentence": {
+			"en": "At least the car has been washed.",
+			"cn": "至少车洗干净了。",
+			"examples": [
+				{
+					"en": "At least we have food to eat.",
+					"cn": "至少我们有东西吃。"
+				},
+				{
+					"en": "At least it’s not raining.",
+					"cn": "至少没有下雨。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: We’ve all been washed.",
@@ -127,15 +366,61 @@
 	},
 	{
 		"en": "Daddy Pig: You go and dry yourselves while I polish the car.",
-		"cn": "猪爸爸：你们去擦干身体，我来擦亮汽车。"
+		"cn": "猪爸爸：你们去擦干身体，我来擦亮汽车。",
+		"sentence": {
+			"en": "You go and dry yourselves while I polish the car.",
+			"cn": "你们去擦干身体，我来擦亮汽车。",
+			"examples": [
+				{
+					"en": "You go and finish your homework while I cook dinner.",
+					"cn": "你们去做作业，我来做晚饭。"
+				},
+				{
+					"en": "You go and play outside while I clean the house.",
+					"cn": "你们去外面玩，我来打扫房子。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: See you later.", "cn": "佩奇：待会儿见。" },
-	{ "en": "Daddy Pig: See you later.", "cn": "猪爸爸：待会儿见。" },
+	{
+		"en": "Daddy Pig: See you later.",
+		"cn": "猪爸爸：待会儿见。",
+		"points": [
+			{
+				"en": "See you later",
+				"cn": "待会儿见"
+			}
+		]
+	},
 	{
 		"en": "Narrator: Daddy Pig is polishing the car so well he can see his face in it.",
-		"cn": "旁白：猪爸爸把车擦得锃亮，都能照出自己的脸了。"
+		"cn": "旁白：猪爸爸把车擦得锃亮，都能照出自己的脸了。",
+		"sentence": {
+			"en": "Daddy Pig is polishing the car so well he can see his face in it.",
+			"cn": "猪爸爸把车擦得锃亮，都能照出自己的脸了。",
+			"examples": [
+				{
+					"en": "She is cleaning the window so well she can see her reflection.",
+					"cn": "她把窗户擦得很干净，可以看到自己的倒影。"
+				},
+				{
+					"en": "He is polishing his shoes so well they shine.",
+					"cn": "他把鞋子擦得很亮。"
+				}
+			]
+		}
 	},
-	{ "en": "Narrator: What a funny face.", "cn": "旁白：多有趣的脸啊。" },
+	{
+		"en": "Narrator: What a funny face.",
+		"cn": "旁白：多有趣的脸啊。",
+		"points": [
+			{
+				"en": "What a funny face",
+				"cn": "多有趣的脸啊"
+			}
+		]
+	},
 	{
 		"en": "Narrator: Oh, more funny faces. It’s Peppa and George.",
 		"cn": "旁白：哦，还有更多有趣的脸，是佩奇和乔治。"
@@ -143,11 +428,31 @@
 	{ "en": "Narrator: And Mummy Pig.", "cn": "旁白：还有猪妈妈。" },
 	{
 		"en": "Mummy Pig: What a lovely, shiny car.",
-		"cn": "猪妈妈：多漂亮、锃亮的车啊。"
+		"cn": "猪妈妈：多漂亮、锃亮的车啊。",
+		"points": [
+			{
+				"en": "What a lovely, shiny car",
+				"cn": "多漂亮、锃亮的车啊"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Yes, I am a bit of an expert at these things.",
-		"cn": "猪爸爸：是啊，这些我很在行。"
+		"cn": "猪爸爸：是啊，这些我很在行。",
+		"sentence": {
+			"en": "Daddy Pig: Yes, I am a bit of an expert at these things.",
+			"cn": "猪爸爸：是啊，这些我很在行。",
+			"examples": [
+				{
+					"en": "Mummy Pig: Yes, I am an expert at cooking.",
+					"cn": "猪妈妈：是啊，我擅长做饭。"
+				},
+				{
+					"en": "Peppa Pig: Yes, I am an expert at jumping in muddy puddles.",
+					"cn": "佩奇：是啊，我擅长在泥坑里跳。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Come on, I’ll drive today.",
@@ -158,17 +463,63 @@
 		"cn": "猪爸爸：大家都准备好了吗？"
 	},
 	{ "en": "Mummy Pig and Peppa Pig: Ready.", "cn": "猪妈妈和佩奇：准备好了。" },
-	{ "en": "Daddy Pig: Then let’s go.", "cn": "猪爸爸：那我们出发吧。" },
+	{
+		"en": "Daddy Pig: Then let’s go.",
+		"cn": "猪爸爸：那我们出发吧。",
+		"points": [
+			{
+				"en": "Then let’s go",
+				"cn": "那我们出发吧"
+			}
+		]
+	},
 	{
 		"en": "Mummy Pig: I hope we will all keep this car clean today.",
-		"cn": "猪妈妈：我希望今天大家都能保持车干净。"
+		"cn": "猪妈妈：我希望今天大家都能保持车干净。",
+		"sentence": {
+			"en": "I hope we will all keep this car clean today.",
+			"cn": "我希望今天大家都能保持车干净。",
+			"examples": [
+				{
+					"en": "I hope we will all keep the house tidy today.",
+					"cn": "我希望今天大家都能保持房子整洁。"
+				},
+				{
+					"en": "I hope we will all keep the garden beautiful today.",
+					"cn": "我希望今天大家都能保持花园美丽。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Yes, Mummy Pig.", "cn": "佩奇：好的，猪妈妈。" },
 	{ "en": "Daddy Pig: Yes, Mummy Pig.", "cn": "猪爸爸：好的，猪妈妈。" },
 	{
 		"en": "Peppa Pig: Mummy, now you’ve made the car all muddy again.",
-		"cn": "佩奇：妈妈，现在你又把车弄脏了。"
+		"cn": "佩奇：妈妈，现在你又把车弄脏了。",
+		"sentence": {
+			"en": "Now you’ve made the car all muddy again.",
+			"cn": "现在你又把车弄脏了。",
+			"examples": [
+				{
+					"en": "Now you’ve made the floor all wet again.",
+					"cn": "现在你又把地弄湿了。"
+				},
+				{
+					"en": "Now you’ve made the table all messy again.",
+					"cn": "现在你又把桌子弄乱了。"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: Naughty Mummy.", "cn": "猪爸爸：调皮的妈妈。" },
-	{ "en": "Peppa Pig: Naughty, messy Mummy", "cn": "佩奇：调皮又邋遢的妈妈。" }
+	{
+		"en": "Peppa Pig: Naughty, messy Mummy",
+		"cn": "佩奇：调皮又邋遢的妈妈。",
+		"points": [
+			{
+				"en": "Naughty, messy Mummy",
+				"cn": "调皮又邋遢的妈妈"
+			}
+		]
+	}
 ]
