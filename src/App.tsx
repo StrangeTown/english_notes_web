@@ -6,7 +6,7 @@ import Home from './pages/Home';
 function App() {
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/english_notes_web">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/peppa-pig/:episode" element={<PeppaPig />} />
