@@ -1,48 +1,154 @@
 [
 	{
 		"en": "Narrator: It is Peppa’s birthday. It is very early in the morning.",
-		"cn": "旁白：今天是佩奇的生日。现在还很早。"
+		"cn": "旁白：今天是佩奇的生日。现在还很早。",
+		"points": [
+			{
+				"en": "It is very early in the morning.",
+				"cn": "现在还很早。"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: It’s my birthday.", "cn": "小猪佩奇：今天是我的生日。" },
 	{
 		"en": "Peppa Pig: George, wake up. It’s my birthday.",
-		"cn": "小猪佩奇：乔治，快醒醒，今天是我的生日。"
+		"cn": "小猪佩奇：乔治，快醒醒，今天是我的生日。",
+		"points": [
+			{
+				"en": "wake up",
+				"cn": "醒醒"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: I’m going to have a party, and Daddy is doing a magic show.",
-		"cn": "小猪佩奇：我要开派对，爸爸要表演魔术。"
+		"cn": "小猪佩奇：我要开派对，爸爸要表演魔术。",
+		"sentence": {
+			"en": "Daddy is doing a magic show.",
+			"cn": "爸爸要表演魔术。",
+			"examples": [
+				{
+					"en": "Daddy is cooking dinner.",
+					"cn": "爸爸在做晚饭。"
+				},
+				{
+					"en": "Daddy is reading a book.",
+					"cn": "爸爸在看书。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Quick, George. Let’s wake Mummy and Daddy up.",
-		"cn": "小猪佩奇：快点，乔治，我们去叫醒妈妈和爸爸。"
+		"cn": "小猪佩奇：快点，乔治，我们去叫醒妈妈和爸爸。",
+		"sentence": {
+			"en": "Let’s wake Mummy and Daddy up.",
+			"cn": "我们去叫醒妈妈和爸爸。",
+			"examples": [
+				{
+					"en": "Let’s go to the park.",
+					"cn": "我们去公园。"
+				},
+				{
+					"en": "Let’s play a game.",
+					"cn": "我们来玩游戏。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Mummy Pig and Daddy Pig are still fast asleep.",
-		"cn": "旁白：猪妈妈和猪爸爸还在熟睡。"
+		"cn": "旁白：猪妈妈和猪爸爸还在熟睡。",
+		"sentence": {
+			"en": "are still fast asleep.",
+			"cn": "还在熟睡。",
+			"examples": [
+				{
+					"en": "The children are still playing.",
+					"cn": "孩子们还在玩。"
+				},
+				{
+					"en": "The dog is still barking.",
+					"cn": "狗还在叫。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Wake up, it’s my birthday!",
 		"cn": "小猪佩奇：快醒醒，是我的生日！"
 	},
 	{ "en": "Peppa Pig: Wake up!", "cn": "小猪佩奇：快醒醒！" },
-	{ "en": "Mummy Pig: What time is it?", "cn": "猪妈妈：现在几点了？" },
-	{ "en": "Peppa Pig: It’s very late.", "cn": "小猪佩奇：很晚了。" },
+	{
+		"en": "Mummy Pig: What time is it?",
+		"cn": "猪妈妈：现在几点了？",
+		"points": [
+			{
+				"en": "What time is it?",
+				"cn": "现在几点了？"
+			}
+		]
+	},
+	{
+		"en": "Peppa Pig: It’s very late.",
+		"cn": "小猪佩奇：很晚了。",
+		"points": [
+			{
+				"en": "It’s very late.",
+				"cn": "很晚了。"
+			}
+		]
+	},
 	{
 		"en": "Daddy Pig: It’s five o’clock in the morning.",
 		"cn": "猪爸爸：现在才早上五点。"
 	},
 	{
 		"en": "Peppa Pig: Yes, the whole day is going.",
-		"cn": "小猪佩奇：是啊，一天都快过去了。"
+		"cn": "小猪佩奇：是啊，一天都快过去了。",
+		"sentence": {
+			"en": "the whole day is going.",
+			"cn": "一天都快过去了。",
+			"examples": [
+				{
+					"en": "The whole week is going.",
+					"cn": "一周都快过去了。"
+				},
+				{
+					"en": "The whole month is going.",
+					"cn": "一个月都快过去了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Okay, let’s get your birthday started.",
-		"cn": "猪妈妈：好吧，我们开始你的生日吧。"
+		"cn": "猪妈妈：好吧，我们开始你的生日吧。",
+		"sentence": {
+			"en": "let’s get your birthday started.",
+			"cn": "我们开始你的生日吧。",
+			"examples": [
+				{
+					"en": "Let’s get the party started.",
+					"cn": "让我们开始派对吧。"
+				},
+				{
+					"en": "Let’s get the game started.",
+					"cn": "让我们开始游戏吧。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Yippee!", "cn": "小猪佩奇：耶！" },
 	{
 		"en": "Narrator: Mummy Pig, Daddy Pig and George are giving Peppa her birthday present.",
-		"cn": "旁白：猪妈妈、猪爸爸和乔治正在给佩奇送生日礼物。"
+		"cn": "旁白：猪妈妈、猪爸爸和乔治正在给佩奇送生日礼物。",
+		"points": [
+			{
+				"en": "birthday present.",
+				"cn": "生日礼物。"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig and Daddy Pig: Happy birthday, Peppa.",
@@ -51,12 +157,40 @@
 	{ "en": "Peppa Pig: Oo, what is it?", "cn": "小猪佩奇：哦，这是什么？" },
 	{
 		"en": "Peppa Pig: A doll’s dress. I can put it on Teddy.",
-		"cn": "小猪佩奇：是个娃娃裙，我可以给泰迪穿上。"
+		"cn": "小猪佩奇：是个娃娃裙，我可以给泰迪穿上。",
+		"sentence": {
+			"en": "I can put it on Teddy.",
+			"cn": "我可以给泰迪穿上。",
+			"examples": [
+				{
+					"en": "I can put it on my doll.",
+					"cn": "我可以给我的娃娃穿上。"
+				},
+				{
+					"en": "I can put it on my teddy bear.",
+					"cn": "我可以给我的泰迪熊穿上。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Thank you, everyone.", "cn": "小猪佩奇：谢谢大家。" },
 	{
 		"en": "Daddy Pig: You’re welcome, Peppa. I didn’t know Teddy was a girl teddy.",
-		"cn": "猪爸爸：不客气，佩奇。我还不知道泰迪是女孩呢。"
+		"cn": "猪爸爸：不客气，佩奇。我还不知道泰迪是女孩呢。",
+		"sentence": {
+			"en": "I didn’t know Teddy was a girl.",
+			"cn": "我不知道泰迪是女孩。",
+			"examples": [
+				{
+					"en": "I didn’t know it was your birthday.",
+					"cn": "我不知道今天是你的生日。"
+				},
+				{
+					"en": "I didn’t know you liked ice cream.",
+					"cn": "我不知道你喜欢冰淇淋。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Oh, Daddy, of course Teddy is a girl.",
@@ -68,11 +202,31 @@
 	},
 	{
 		"en": "Peppa Pig: You’re welcome, Teddy. Don’t get it dirty.",
-		"cn": "小猪佩奇：不客气，泰迪，别弄脏了。"
+		"cn": "小猪佩奇：不客气，泰迪，别弄脏了。",
+		"sentence": {
+			"en": "Don’t get it dirty.",
+			"cn": "别弄脏了。",
+			"examples": [
+				{
+					"en": "Don’t get your clothes dirty.",
+					"cn": "别把衣服弄脏了。"
+				},
+				{
+					"en": "Don’t get the floor dirty.",
+					"cn": "别把地板弄脏了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Do you know what’s happening next, Peppa?",
-		"cn": "猪妈妈：佩奇，你知道接下来要做什么吗？"
+		"cn": "猪妈妈：佩奇，你知道接下来要做什么吗？",
+		"points": [
+			{
+				"en": "what’s happening next?",
+				"cn": "接下来要做什么？"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Yes, my friends are coming for my birthday party, and Daddy is doing a magic show.",
@@ -80,20 +234,65 @@
 	},
 	{
 		"en": "Daddy Pig: No one will know the magician is your daddy. You’ll introduce me as The Amazing Mysterio.",
-		"cn": "猪爸爸：没人会知道魔术师是你爸爸，你要介绍我为‘神奇的神秘先生’。"
+		"cn": "猪爸爸：没人会知道魔术师是你爸爸，你要介绍我为‘神奇的神秘先生’。",
+		"sentence": {
+			"en": "You’ll introduce me as The Amazing Mysterio.",
+			"cn": "你要介绍我为‘神奇的神秘先生’。",
+			"examples": [
+				{
+					"en": "You’ll introduce me as The Great Wizard.",
+					"cn": "你要介绍我为‘伟大的巫师’。"
+				},
+				{
+					"en": "You’ll introduce me as The Incredible Magician.",
+					"cn": "你要介绍我为‘不可思议的魔术师’。"
+				}
+			]
+		}
 	},
-	{ "en": "Peppa Pig: The Mazy Mistio.", "cn": "小猪佩奇：神奇的神秘先生。" },
+	{
+		"en": "Peppa Pig: The Amazing Mysterio.",
+		"cn": "小猪佩奇：神奇的神秘先生。"
+	},
 	{
 		"en": "Daddy Pig: Yes, The Amazing Mysterio.",
 		"cn": "猪爸爸：对，神奇的神秘先生。"
 	},
 	{
 		"en": "Mummy Pig: Daddy’s been practising his magic tricks all week.",
-		"cn": "猪妈妈：爸爸一周都在练魔术。"
+		"cn": "猪妈妈：爸爸一周都在练魔术。",
+		"sentence": {
+			"en": "Daddy’s been practising his magic tricks all week.",
+			"cn": "爸爸一周都在练魔术。",
+			"examples": [
+				{
+					"en": "He’s been practising his guitar all week.",
+					"cn": "他一周都在练吉他。"
+				},
+				{
+					"en": "She’s been practising her dance all week.",
+					"cn": "她一周都在练舞蹈。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: My friends are here! Yippee!",
-		"cn": "小猪佩奇：我的朋友们来了！耶！"
+		"cn": "小猪佩奇：我的朋友们来了！耶！",
+		"sentence": {
+			"en": "My friends are here!",
+			"cn": "我的朋友们来了！",
+			"examples": [
+				{
+					"en": "My family is here!",
+					"cn": "我的家人来了！"
+				},
+				{
+					"en": "My toys are here!",
+					"cn": "我的玩具来了！"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Here are Peppa’s friends, Candy Cat, Suzy Sheep, Danny Dog, Rebecca Rabbit, and Pedro Pony",
@@ -106,7 +305,21 @@
 	},
 	{
 		"en": "Mummy Pig: Come on, children. The party’s starting.",
-		"cn": "猪妈妈：孩子们，快来，派对开始了。"
+		"cn": "猪妈妈：孩子们，快来，派对开始了。",
+		"sentence": {
+			"en": "The party’s starting.",
+			"cn": "派对开始了。",
+			"examples": [
+				{
+					"en": "The game’s starting.",
+					"cn": "游戏开始了。"
+				},
+				{
+					"en": "The movie’s starting.",
+					"cn": "电影开始了。"
+				}
+			]
+		}
 	},
 	{ "en": "The Children: Hurrah!", "cn": "孩子们：万岁！" },
 	{
@@ -115,11 +328,35 @@
 	},
 	{
 		"en": "Daddy Pig: Peppa, remember what you have to say?",
-		"cn": "猪爸爸：佩奇，记得你要说什么吗？"
+		"cn": "猪爸爸：佩奇，记得你要说什么吗？",
+		"sentence": {
+			"en": "remember what you have to say?",
+			"cn": "记得你要说什么吗？",
+			"examples": [
+				{
+					"en": "Remember what you have to do.",
+					"cn": "记得你要做什么。"
+				},
+				{
+					"en": "Remember what you have to bring.",
+					"cn": "记得你要带什么。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Ladies and gentlemen, introducing The Amazing Mysterio.",
-		"cn": "猪爸爸：女士们先生们，欢迎神奇的神秘先生。"
+		"cn": "猪爸爸：女士们先生们，欢迎神奇的神秘先生。",
+		"points": [
+			{
+				"en": "Ladies and gentlemen,",
+				"cn": "女士们先生们，"
+			},
+			{
+				"en": "introducing The Amazing Mysterio.",
+				"cn": "欢迎神奇的神秘先生。"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Okay, Daddy.", "cn": "小猪佩奇：好的，爸爸。" },
 	{
@@ -129,18 +366,61 @@
 	{ "en": "The Children: Hurrah!", "cn": "孩子们：万岁！" },
 	{
 		"en": "Daddy Pig: For my first trick...Abracadabra.",
-		"cn": "猪爸爸：我的第一个魔术……阿布拉卡达布拉。"
+		"cn": "猪爸爸：我的第一个魔术……阿布拉卡达布拉。",
+		"points": [
+			{
+				"en": "first trick",
+				"cn": "第一个魔术"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Wow, it’s Teddy!", "cn": "小猪佩奇：哇，是泰迪！" },
 	{
 		"en": "Daddy Pig: For my next trick I need a helper from the audience.",
-		"cn": "猪爸爸：下一个魔术我需要一位观众帮忙。"
+		"cn": "猪爸爸：下一个魔术我需要一位观众帮忙。",
+		"sentence": {
+			"en": "I need a helper from the audience.",
+			"cn": "我需要一位观众帮忙。",
+			"examples": [
+				{
+					"en": "I need a volunteer from the audience.",
+					"cn": "我需要一位观众志愿者。"
+				},
+				{
+					"en": "I need a participant from the audience.",
+					"cn": "我需要一位观众参与者。"
+				}
+			]
+		}
 	},
 	{ "en": "The Children: Me, me, me, me!", "cn": "孩子们：我，我，我！" },
-	{ "en": "Daddy Pig: I just need one.", "cn": "猪爸爸：我只需要一个。" },
+	{
+		"en": "Daddy Pig: I just need one.",
+		"cn": "猪爸爸：我只需要一个。",
+		"sentence": {
+			"en": "I just need one.",
+			"cn": "我只需要一个。",
+			"examples": [
+				{
+					"en": "I just need one more.",
+					"cn": "我只是还需要一个。"
+				},
+				{
+					"en": "I just need one ticket.",
+					"cn": "我只需要一张票。"
+				}
+			]
+		}
+	},
 	{
 		"en": "Daddy Pig: Young lady, you put your hand up first. Can you tell the audience your name?",
-		"cn": "猪爸爸：小姑娘，你先举手了，能告诉大家你的名字吗？"
+		"cn": "猪爸爸：小姑娘，你先举手了，能告诉大家你的名字吗？",
+		"points": [
+			{
+				"en": "you put your hand up first.",
+				"cn": "你先举手了。"
+			}
+		]
 	},
 	{ "en": "Suzy Sheep: Suzy Sheep.", "cn": "苏茜羊：苏茜羊。" },
 	{
@@ -150,7 +430,21 @@
 	{ "en": "Suzy Sheep: Okay.", "cn": "苏茜羊：好的。" },
 	{
 		"en": "Daddy Pig: You have to secretly choose one while my back is turned.",
-		"cn": "猪爸爸：你要在我转身时偷偷选一个。"
+		"cn": "猪爸爸：你要在我转身时偷偷选一个。",
+		"sentence": {
+			"en": "while my back is turned.",
+			"cn": "在我转身时。",
+			"examples": [
+				{
+					"en": "while I’m not looking.",
+					"cn": "在我不看的时候。"
+				},
+				{
+					"en": "while I’m away.",
+					"cn": "在我不在的时候。"
+				}
+			]
+		}
 	},
 	{ "en": "Suzy Sheep: Okay.", "cn": "苏茜羊：好的。" },
 	{ "en": "Daddy Pig: Have you chosen one?", "cn": "猪爸爸：你选好了吗？" },
@@ -173,20 +467,52 @@
 	{ "en": "The Children: Hurrah!", "cn": "孩子们：万岁！" },
 	{
 		"en": "Peppa Pig: Silly Magic Daddy. You said all three colours.",
-		"cn": "小猪佩奇：傻爸爸，你把三种颜色都说了。"
+		"cn": "小猪佩奇：傻爸爸，你把三种颜色都说了。",
+		"points": [
+			{
+				"en": "You said all three colours.",
+				"cn": "你把三种颜色都说了。"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Shush, Peppa. Don’t tell anyone.",
-		"cn": "猪爸爸：嘘，佩奇，别告诉别人。"
+		"cn": "猪爸爸：嘘，佩奇，别告诉别人。",
+		"points": [
+			{
+				"en": "Don’t tell anyone.",
+				"cn": "别告诉别人。"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Would you like one more trick?",
-		"cn": "猪爸爸：你们还想看一个魔术吗？"
+		"cn": "猪爸爸：你们还想看一个魔术吗？",
+		"sentence": {
+			"en": "Would you like one more trick?",
+			"cn": "你们还想看一个魔术吗？",
+			"examples": [
+				{
+					"en": "Would you like one more game?",
+					"cn": "你们还想玩一个游戏吗？"
+				},
+				{
+					"en": "Would you like one more story?",
+					"cn": "你们还想听一个故事吗？"
+				}
+			]
+		}
 	},
 	{ "en": "The Children: Yes, please.", "cn": "孩子们：想！" },
 	{
 		"en": "Daddy Pig: Close your eyes. No looking. Say the magic words, “Abracadabra.”",
-		"cn": "猪爸爸：闭上眼睛，不许偷看，说魔法咒语‘阿布拉卡达布拉’。"
+		"cn": "猪爸爸：闭上眼睛，不许偷看，说魔法咒语‘阿布拉卡达布拉’。",
+		"points": [
+			{
+				"en": "Close your eyes.",
+				"cn": "闭上眼睛。"
+			}
+		]
 	},
 	{ "en": "The Children: Abracadabra.", "cn": "孩子们：阿布拉卡达布拉。" },
 	{ "en": "Daddy Pig: Open your eyes.", "cn": "猪爸爸：睁开眼睛。" },
@@ -196,7 +522,13 @@
 	},
 	{
 		"en": "Mummy Pig: Blow the candles out, Peppa.",
-		"cn": "猪妈妈：佩奇，吹灭蜡烛吧。"
+		"cn": "猪妈妈：佩奇，吹灭蜡烛吧。",
+		"points": [
+			{
+				"en": "Blow the candles out.",
+				"cn": "吹灭蜡烛。"
+			}
+		]
 	},
 	{
 		"en": "Candy Cat, Suzy Sheep, Danny Dog, Rebecca Rabbit, Pedro Pony: Hurrah! Happy birthday, Peppa.",
@@ -204,6 +536,20 @@
 	},
 	{
 		"en": "Peppa Pig: Thank you, everyone. This is my best birthday ever.",
-		"cn": "小猪佩奇：谢谢大家，这是我最棒的生日。"
+		"cn": "小猪佩奇：谢谢大家，这是我最棒的生日。",
+		"sentence": {
+			"en": "This is my best birthday ever.",
+			"cn": "这是我最棒的生日。",
+			"examples": [
+				{
+					"en": "This is my best day ever.",
+					"cn": "这是我最棒的一天。"
+				},
+				{
+					"en": "This is my best party ever.",
+					"cn": "这是我最棒的派对。"
+				}
+			]
+		}
 	}
 ]

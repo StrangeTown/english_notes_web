@@ -1,13 +1,33 @@
 [
 	{
 		"en": "Narrator: Peppa and George have come to Granny Pig and Grandpa Pig’s house for lunch.",
-		"cn": "旁白：佩奇和乔治来奶奶和爷爷家吃午饭。"
+		"cn": "旁白：佩奇和乔治来奶奶和爷爷家吃午饭。",
+		"sentence": {
+			"en": "Peppa and George have come to Granny Pig and Grandpa Pig’s house for lunch.",
+			"cn": "佩奇和乔治来奶奶和爷爷家吃午饭。",
+			"examples": [
+				{
+					"en": "We have come to the park for a picnic.",
+					"cn": "我们来公园野餐。"
+				},
+				{
+					"en": "They have come to visit us.",
+					"cn": "他们来拜访我们。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Granny Pig!", "cn": "小猪佩奇：奶奶！" },
 	{ "en": "George: Ganky ‘ig!", "cn": "乔治：奶奶！" },
 	{
 		"en": "Granny Pig: Hello, my little ones. Would you like to pick some vegetables from the garden for lunch?",
-		"cn": "猪奶奶：你们好，宝贝们。想去花园里摘点蔬菜做午饭吗？"
+		"cn": "猪奶奶：你们好，宝贝们。想去花园里摘点蔬菜做午饭吗？",
+		"points": [
+			{
+				"en": "pick some vegetables",
+				"cn": "摘点蔬菜"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Yes, please.", "cn": "小猪佩奇：想！" },
 	{ "en": "Peppa Pig: Grandpa Pig!", "cn": "小猪佩奇：爷爷！" },
@@ -18,7 +38,21 @@
 	},
 	{
 		"en": "Narrator: This is Grandpa Pig’s vegetable garden. He has grown all these vegetables himself.",
-		"cn": "旁白：这是猪爷爷的菜园，这些蔬菜都是他自己种的。"
+		"cn": "旁白：这是猪爷爷的菜园，这些蔬菜都是他自己种的。",
+		"sentence": {
+			"en": "He has grown all these vegetables himself.",
+			"cn": "这些蔬菜都是他自己种的。",
+			"examples": [
+				{
+					"en": "She has painted the fence herself.",
+					"cn": "她自己粉刷了栅栏。"
+				},
+				{
+					"en": "They have built the house themselves.",
+					"cn": "他们自己建了房子。"
+				}
+			]
+		}
 	},
 	{ "en": "George: Grr.", "cn": "乔治：嗷。" },
 	{ "en": "Grandpa Pig: What’s this?", "cn": "猪爷爷：这是什么？" },
@@ -26,7 +60,21 @@
 	{ "en": "Grandpa Pig: A dinosaur?", "cn": "猪爷爷：恐龙？" },
 	{
 		"en": "Grandpa Pig: Let’s choose some vegetables for lunch.",
-		"cn": "猪爷爷：我们来挑点蔬菜做午饭吧。"
+		"cn": "猪爷爷：我们来挑点蔬菜做午饭吧。",
+		"sentence": {
+			"en": "Let’s choose some vegetables for lunch.",
+			"cn": "我们来挑点蔬菜做午饭吧。",
+			"examples": [
+				{
+					"en": "Let’s choose a movie for tonight.",
+					"cn": "我们来选个电影今晚看。"
+				},
+				{
+					"en": "Let’s choose a book to read.",
+					"cn": "我们来选本书读。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Grandpa Pig: Peppa, do you like tomatoes?",
@@ -45,7 +93,21 @@
 	{ "en": "Grandpa Pig: Oh, dear.", "cn": "猪爷爷：哎呀。" },
 	{
 		"en": "Grandpa Pig: Do you both like lettuce?",
-		"cn": "猪爷爷：你们都喜欢生菜吗？"
+		"cn": "猪爷爷：你们都喜欢生菜吗？",
+		"sentence": {
+			"en": "Do you both like lettuce?",
+			"cn": "你们都喜欢生菜吗？",
+			"examples": [
+				{
+					"en": "Do you both like ice cream?",
+					"cn": "你们都喜欢冰淇淋吗？"
+				},
+				{
+					"en": "Do you both like playing football?",
+					"cn": "你们都喜欢踢足球吗？"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Yes, Grandpa Pig.", "cn": "小猪佩奇：喜欢，爷爷。" },
 	{ "en": "George: No.", "cn": "乔治：不喜欢。" },
@@ -55,7 +117,21 @@
 	},
 	{
 		"en": "Grandpa Pig: Oh, dear. I must have something that George likes.",
-		"cn": "猪爷爷：哎呀，我得找点乔治喜欢的。"
+		"cn": "猪爷爷：哎呀，我得找点乔治喜欢的。",
+		"sentence": {
+			"en": "I must have something that George likes.",
+			"cn": "我得找点乔治喜欢的。",
+			"examples": [
+				{
+					"en": "I must have something that Peppa likes.",
+					"cn": "我得找点佩奇喜欢的。"
+				},
+				{
+					"en": "I must have something that you like.",
+					"cn": "我得找点你喜欢的。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Grandpa Pig: Do you like cucumber?",
@@ -73,19 +149,59 @@
 	{ "en": "George: Chocolate cake.", "cn": "乔治：巧克力蛋糕。" },
 	{
 		"en": "Peppa Pig: Silly George. Chocolate cake isn’t a vegetable.",
-		"cn": "小猪佩奇：傻乔治，巧克力蛋糕不是蔬菜。"
+		"cn": "小猪佩奇：傻乔治，巧克力蛋糕不是蔬菜。",
+		"points": [
+			{
+				"en": "Chocolate cake",
+				"cn": "巧克力蛋糕"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: Maybe George will like the vegetables when they’re made into a lovely salad.",
-		"cn": "猪爷爷：也许做成沙拉乔治就会喜欢了。"
+		"cn": "猪爷爷：也许做成沙拉乔治就会喜欢了。",
+		"sentence": {
+			"en": "Maybe George will like the vegetables when they’re made into a lovely salad.",
+			"cn": "也许做成沙拉乔治就会喜欢了。",
+			"examples": [
+				{
+					"en": "Maybe you will like the soup when it’s hot.",
+					"cn": "也许你热的时候会喜欢这汤。"
+				},
+				{
+					"en": "Maybe they will like the game when they understand the rules.",
+					"cn": "也许他们了解规则后会喜欢这个游戏。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Granny Pig: Oh, lovely fresh tomatoes, lettuce and cucumber.",
-		"cn": "猪奶奶：哦，新鲜的西红柿、生菜和黄瓜。"
+		"cn": "猪奶奶：哦，新鲜的西红柿、生菜和黄瓜。",
+		"points": [
+			{
+				"en": "lovely fresh tomatoes",
+				"cn": "新鲜的西红柿"
+			}
+		]
 	},
 	{
 		"en": "Granny Pig: First, we have to wash them.",
-		"cn": "猪奶奶：首先我们要把它们洗干净。"
+		"cn": "猪奶奶：首先我们要把它们洗干净。",
+		"sentence": {
+			"en": "First, we have to wash them.",
+			"cn": "首先我们要把它们洗干净。",
+			"examples": [
+				{
+					"en": "First, we have to peel the potatoes.",
+					"cn": "首先我们要削土豆皮。"
+				},
+				{
+					"en": "First, we have to cut the vegetables.",
+					"cn": "首先我们要切蔬菜。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Peppa and George help Granny Pig wash the vegetables.",
@@ -93,7 +209,21 @@
 	},
 	{
 		"en": "Granny Pig: Maybe that’s enough washing.",
-		"cn": "猪奶奶：洗得差不多了。"
+		"cn": "猪奶奶：洗得差不多了。",
+		"sentence": {
+			"en": "Maybe that’s enough washing.",
+			"cn": "洗得差不多了。",
+			"examples": [
+				{
+					"en": "Maybe that’s enough playing for today.",
+					"cn": "今天玩得差不多了。"
+				},
+				{
+					"en": "Maybe that’s enough talking for now.",
+					"cn": "现在说得差不多了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Granny Pig has made the tomatoes, lettuce and cucumber into a salad.",
@@ -101,12 +231,28 @@
 	},
 	{
 		"en": "Granny Pig: Grandpa Pig, can you call everyone to lunch?",
-		"cn": "猪奶奶：猪爷爷，你能叫大家来吃饭吗？"
+		"cn": "猪奶奶：猪爷爷，你能叫大家来吃饭吗？",
+		"points": [
+			{
+				"en": "call everyone to lunch",
+				"cn": "叫大家来吃饭"
+			}
+		]
 	},
 	{ "en": "Grandpa Pig: Lunch!", "cn": "猪爷爷：吃饭啦！" },
 	{
 		"en": "Narrator: Granny Pig has made pizza for lunch.",
-		"cn": "旁白：奶奶做了披萨当午饭。"
+		"cn": "旁白：奶奶做了披萨当午饭。",
+		"sentence": {
+			"en": "Granny Pig has made pizza for lunch.",
+			"cn": "奶奶做了披萨当午饭。",
+			"examples": [
+				{
+					"en": "Mummy Pig has made a cake for dessert.",
+					"cn": "猪妈妈做了蛋糕当甜点。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Granny Pig: And here’s some salad made with Grandpa’s tomatoes, lettuce and cucumber.",
@@ -119,25 +265,67 @@
 	},
 	{
 		"en": "Granny Pig: Oh, dear, George. Don’t you like the salad?",
-		"cn": "猪奶奶：哎呀，乔治，你不喜欢沙拉吗？"
+		"cn": "猪奶奶：哎呀，乔治，你不喜欢沙拉吗？",
+		"sentence": {
+			"en": "Don’t you like the salad?",
+			"cn": "你不喜欢沙拉吗？",
+			"examples": [
+				{
+					"en": "Don’t you like the soup?",
+					"cn": "你不喜欢汤吗？"
+				},
+				{
+					"en": "Don’t you like the game?",
+					"cn": "你不喜欢这个游戏吗？"
+				}
+			]
+		}
 	},
 	{ "en": "George: No.", "cn": "乔治：不喜欢。" },
 	{
 		"en": "Mummy Pig: George, just try a little bit of this lovely tomato.",
-		"cn": "猪妈妈：乔治，尝一点这个好吃的西红柿吧。"
+		"cn": "猪妈妈：乔治，尝一点这个好吃的西红柿吧。",
+		"points": [
+			{
+				"en": "try a little bit",
+				"cn": "尝一点"
+			}
+		]
 	},
 	{ "en": "George: Yuck!", "cn": "乔治：呃！" },
 	{
 		"en": "Granny Pig: George, this is cucumber. Grandpa Pig grew it in his garden.",
-		"cn": "猪奶奶：乔治，这是黄瓜，是爷爷种的。"
+		"cn": "猪奶奶：乔治，这是黄瓜，是爷爷种的。",
+		"points": [
+			{
+				"en": "grew it in his garden",
+				"cn": "在他的花园里种的"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Try a piece of lettuce, George. It’s yummy.",
-		"cn": "猪爸爸：乔治，尝一口生菜，很好吃的。"
+		"cn": "猪爸爸：乔治，尝一口生菜，很好吃的。",
+		"points": [
+			{
+				"en": "try a piece of lettuce",
+				"cn": "尝一口生菜"
+			},
+			{
+				"en": "it’s yummy",
+				"cn": "很好吃的"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: Oh, now, now, George. Look what I’m doing.",
-		"cn": "猪爷爷：乔治，看爷爷怎么做。"
+		"cn": "猪爷爷：乔治，看爷爷怎么做。",
+		"points": [
+			{
+				"en": "Look what I’m doing",
+				"cn": "看我怎么做"
+			}
+		]
 	},
 	{
 		"en": "Grandpa Pig: Now it’s a dinosaur.",
@@ -148,10 +336,33 @@
 		"en": "Narrator: George loves dinosaurs. George is eating the tomatoes, lettuce and cucumber.",
 		"cn": "旁白：乔治喜欢恐龙，他开始吃西红柿、生菜和黄瓜了。"
 	},
-	{ "en": "Mummy Pig: Well done, George.", "cn": "猪妈妈：干得好，乔治。" },
+	{
+		"en": "Mummy Pig: Well done, George.",
+		"cn": "猪妈妈：干得好，乔治。",
+		"points": [
+			{
+				"en": "Well done",
+				"cn": "干得好"
+			}
+		]
+	},
 	{
 		"en": "Granny Pig: Would you like some more, George?",
-		"cn": "猪奶奶：乔治，还要吃点吗？"
+		"cn": "猪奶奶：乔治，还要吃点吗？",
+		"sentence": {
+			"en": "Would you like some more, George?",
+			"cn": "乔治，还要吃点吗？",
+			"examples": [
+				{
+					"en": "Would you like some more cake?",
+					"cn": "你还要吃点蛋糕吗？"
+				},
+				{
+					"en": "Would you like some more juice?",
+					"cn": "你还要喝点果汁吗？"
+				}
+			]
+		}
 	},
 	{ "en": "George: Full.", "cn": "乔治：饱了。" },
 	{
@@ -160,7 +371,21 @@
 	},
 	{
 		"en": "Narrator: George is too full to eat any more.",
-		"cn": "旁白：乔治吃饱了，吃不下了。"
+		"cn": "旁白：乔治吃饱了，吃不下了。",
+		"sentence": {
+			"en": "George is too full to eat any more.",
+			"cn": "乔治吃饱了，吃不下了。",
+			"examples": [
+				{
+					"en": "I am too tired to walk any more.",
+					"cn": "我太累了，走不动了。"
+				},
+				{
+					"en": "She is too busy to talk any more.",
+					"cn": "她太忙了，不能再说话了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: George, are you too full to eat anything more?",
@@ -172,11 +397,31 @@
 	},
 	{
 		"en": "Granny Pig: Oh, well. Then you won’t want any of this chocolate cake.",
-		"cn": "猪奶奶：那你肯定不想吃巧克力蛋糕了。"
+		"cn": "猪奶奶：那你肯定不想吃巧克力蛋糕了。",
+		"sentence": {
+			"en": "Then you won’t want any of this chocolate cake.",
+			"cn": "那你肯定不想吃巧克力蛋糕了。",
+			"examples": [
+				{
+					"en": "Then you won’t want to play any more.",
+					"cn": "那你肯定不想再玩了。"
+				},
+				{
+					"en": "Then you won’t want to watch this movie.",
+					"cn": "那你肯定不想再看这个电影了。"
+				}
+			]
+		}
 	},
 	{ "en": "George: Chocolate cake!", "cn": "乔治：巧克力蛋糕！" },
 	{
 		"en": "Grandpa Pig: My word! George seems to have got his appetite back.",
-		"cn": "猪爷爷：哎呀，乔治的胃口又回来了。"
+		"cn": "猪爷爷：哎呀，乔治的胃口又回来了。",
+		"points": [
+			{
+				"en": "got his appetite back",
+				"cn": "胃口又回来了"
+			}
+		]
 	}
 ]

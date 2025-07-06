@@ -1,45 +1,140 @@
 [
 	{
 		"en": "Narrator: Mummy Pig is watching a keep fit programme on television.",
-		"cn": "旁白：猪妈妈正在电视上看健身节目。"
+		"cn": "旁白：猪妈妈正在电视上看健身节目。",
+		"points": [
+			{
+				"en": "keep fit programme",
+				"cn": "健身节目"
+			}
+		]
 	},
 	{
 		"en": "Potato on TV: ...three and four and, come on now, that’s right. Bend it, stretch it, bend it, stretch it...",
-		"cn": "电视里的土豆：……三，四，加油，对了。弯腰，伸展，弯腰，伸展……"
+		"cn": "电视里的土豆：……三，四，加油，对了。弯腰，伸展，弯腰，伸展……",
+		"points": [
+			{
+				"en": "bend it, stretch it",
+				"cn": "弯腰，伸展"
+			}
+		]
 	},
-	{ "en": "Daddy Pig: I love watching telly.", "cn": "猪爸爸：我喜欢看电视。" },
+	{
+		"en": "Daddy Pig: I love watching telly.",
+		"cn": "猪爸爸：我喜欢看电视。",
+		"points": [
+			{
+				"en": "watching telly",
+				"cn": "看电视"
+			}
+		]
+	},
 	{
 		"en": "Daddy Pig: What’s this, Mummy Pig?",
 		"cn": "猪爸爸：这是什么，猪妈妈？"
 	},
 	{
 		"en": "Mummy Pig: It’s a programme about doing exercises to keep fit.",
-		"cn": "猪妈妈：这是一个锻炼身体的节目。"
+		"cn": "猪妈妈：这是一个锻炼身体的节目。",
+		"points": [
+			{
+				"en": "doing exercises",
+				"cn": "锻炼身体"
+			},
+			{
+				"en": "keep fit",
+				"cn": "保持健康"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Thank goodness I don’t have to exercise. I’m naturally fit.",
-		"cn": "猪爸爸：幸好我不用锻炼，我天生就很健康。"
+		"cn": "猪爸爸：幸好我不用锻炼，我天生就很健康。",
+		"sentence": {
+			"en": "Thank goodness I don’t have to exercise. I’m naturally fit.",
+			"cn": "幸好我不用锻炼，我天生就很健康。",
+			"examples": [
+				{
+					"en": "Thank goodness I didn't come late.",
+					"cn": "幸好我没迟到。"
+				},
+				{
+					"en": "Thank goodness it didn't rain.",
+					"cn": "幸好没有下雨。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: You don’t look very fit, Daddy. Your tummy is a bit big.",
-		"cn": "小猪佩奇：爸爸，你看起来不太健康，你的肚子有点大。"
+		"cn": "小猪佩奇：爸爸，你看起来不太健康，你的肚子有点大。",
+		"sentence": {
+			"en": "Your tummy is a bit big.",
+			"cn": "你的肚子有点大。",
+			"examples": [
+				{
+					"en": "Her dress is a bit big.",
+					"cn": "她的裙子有点大。"
+				},
+				{
+					"en": "This box is a bit big for me to lift.",
+					"cn": "这个箱子对我来说有点大。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: I’m very fit. I’ll show you. What shall I do first?",
-		"cn": "猪爸爸：我很健康，我给你们看看。我先做什么？"
+		"cn": "猪爸爸：我很健康，我给你们看看。我先做什么？",
+		"points": [
+			{
+				"en": "What shall I do first?",
+				"cn": "我先做什么？"
+			},
+			{
+				"en": "I’ll show you",
+				"cn": "我给你们看看"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Touch your toes like this.",
-		"cn": "小猪佩奇：像这样摸到你的脚趾。"
+		"cn": "小猪佩奇：像这样摸到你的脚趾。",
+		"points": [
+			{
+				"en": "Touch your toes",
+				"cn": "摸到你的脚趾"
+			}
+		]
 	},
 	{ "en": "Daddy Pig: Easy.", "cn": "猪爸爸：简单。" },
 	{
 		"en": "Peppa Pig: Daddy, stop pretending that you can’t touch your toes.",
-		"cn": "小猪佩奇：爸爸，别假装你摸不到脚趾。"
+		"cn": "小猪佩奇：爸爸，别假装你摸不到脚趾。",
+		"sentence": {
+			"en": "Stop pretending that you can’t touch your toes.",
+			"cn": "别假装你摸不到脚趾。",
+			"examples": [
+				{
+					"en": "Stop pretending that you are sick.",
+					"cn": "别假装你生病了。"
+				},
+				{
+					"en": "Stop pretending that you don’t know.",
+					"cn": "别假装你不知道。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Er, I’m not pretending, Peppa.",
-		"cn": "猪爸爸：呃，我没假装，佩奇。"
+		"cn": "猪爸爸：呃，我没假装，佩奇。",
+		"points": [
+			{
+				"en": "I’m not pretending",
+				"cn": "我没假装"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Daddy Pig really cannot touch his toes.",
@@ -47,11 +142,31 @@
 	},
 	{
 		"en": "Peppa Pig: Oh dear, Daddy. That’s not very good.",
-		"cn": "小猪佩奇：哎呀，爸爸，这可不太好。"
+		"cn": "小猪佩奇：哎呀，爸爸，这可不太好。",
+		"points": [
+			{
+				"en": "That’s not very good",
+				"cn": "这可不太好"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Hmm? Maybe I should do a bit of exercise.",
-		"cn": "猪爸爸：嗯？也许我该锻炼一下了。"
+		"cn": "猪爸爸：嗯？也许我该锻炼一下了。",
+		"sentence": {
+			"en": "Maybe I should do a bit of exercise.",
+			"cn": "也许我该锻炼一下了。",
+			"examples": [
+				{
+					"en": "Maybe I should try harder.",
+					"cn": "也许我应该更努力。"
+				},
+				{
+					"en": "Maybe I should ask for help.",
+					"cn": "也许我应该寻求帮助。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Yes, Daddy.", "cn": "小猪佩奇：是的，爸爸。" },
 	{
@@ -60,49 +175,168 @@
 	},
 	{
 		"en": "Mummy Pig: Daddy Pig, you have to start exercising now.",
-		"cn": "猪妈妈：猪爸爸，你现在就要开始锻炼。"
+		"cn": "猪妈妈：猪爸爸，你现在就要开始锻炼。",
+		"sentence": {
+			"en": "You have to start exercising now.",
+			"cn": "你现在就要开始锻炼。",
+			"examples": [
+				{
+					"en": "You have to start studying now.",
+					"cn": "你现在就要开始学习。"
+				},
+				{
+					"en": "You have to start working now.",
+					"cn": "你现在就要开始工作。"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: Oh.", "cn": "猪爸爸：哦。" },
 	{
 		"en": "Peppa Pig: Don’t worry, Daddy. I will help you.",
-		"cn": "小猪佩奇：别担心，爸爸，我会帮你的。"
+		"cn": "小猪佩奇：别担心，爸爸，我会帮你的。",
+		"points": [
+			{
+				"en": "I will help you",
+				"cn": "我会帮你的"
+			}
+		]
 	},
 	{ "en": "Daddy Pig: Oh, all right.", "cn": "猪爸爸：好吧。" },
 	{
 		"en": "Daddy Pig: Peppa, you’re in charge of getting me fit. What shall I do first?",
-		"cn": "猪爸爸：佩奇，你负责让我健康，我先做什么？"
+		"cn": "猪爸爸：佩奇，你负责让我健康，我先做什么？",
+		"sentence": {
+			"en": "you're in charge of getting me fit",
+			"cn": "你负责让我健康",
+			"examples": [
+				{
+					"en": "You’re in charge of the project.",
+					"cn": "你负责这个项目。"
+				},
+				{
+					"en": "You’re in charge of the meeting.",
+					"cn": "你负责这个会议。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: First you must do some press-ups.",
-		"cn": "小猪佩奇：首先你要做俯卧撑。"
+		"cn": "小猪佩奇：首先你要做俯卧撑。",
+		"points": [
+			{
+				"en": "do some press-ups",
+				"cn": "做俯卧撑"
+			}
+		]
 	},
 	{ "en": "Daddy Pig: Easy.", "cn": "猪爸爸：简单。" },
 	{ "en": "Peppa Pig: One. Two.", "cn": "小猪佩奇：一，二。" },
 	{ "en": "Daddy Pig: There.", "cn": "猪爸爸：好了。" },
 	{
 		"en": "Peppa Pig: Very good, Daddy. Now I want you to do one hundred.",
-		"cn": "小猪佩奇：很好，爸爸。现在我要你做一百个。"
+		"cn": "小猪佩奇：很好，爸爸。现在我要你做一百个。",
+		"sentence": {
+			"en": "Now I want you to do one hundred.",
+			"cn": "现在我要你做一百个。",
+			"examples": [
+				{
+					"en": "Now I want you to listen carefully.",
+					"cn": "现在我要你认真听。"
+				},
+				{
+					"en": "Now I want you to try again.",
+					"cn": "现在我要你再试一次。"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: One hundred?", "cn": "猪爸爸：一百个？" },
 	{ "en": "Peppa Pig: Yes.", "cn": "小猪佩奇：对。" },
 	{
 		"en": "Mummy Pig: Come on, children. Help me make lunch.",
-		"cn": "猪妈妈：来吧，孩子们，帮我做午饭。"
+		"cn": "猪妈妈：来吧，孩子们，帮我做午饭。",
+		"points": [
+			{
+				"en": "Help me make lunch",
+				"cn": "帮我做午饭"
+			}
+		]
 	},
-	{ "en": "Daddy Pig: I’ll help as well.", "cn": "猪爸爸：我也来帮忙。" },
+	{
+		"en": "Daddy Pig: I’ll help as well.",
+		"cn": "猪爸爸：我也来帮忙。",
+		"sentence": {
+			"en": "I’ll help as well.",
+			"cn": "我也来帮忙。",
+			"examples": [
+				{
+					"en": "I’ll join you as well.",
+					"cn": "我也加入你们。"
+				},
+				{
+					"en": "I’ll come to the party as well.",
+					"cn": "我也去参加派对。"
+				}
+			]
+		}
+	},
 	{
 		"en": "Peppa Pig: No, Daddy. You’ve got one hundred press-ups to do.",
-		"cn": "小猪佩奇：不行，爸爸，你要做一百个俯卧撑。"
+		"cn": "小猪佩奇：不行，爸爸，你要做一百个俯卧撑。",
+		"sentence": {
+			"en": "You’ve got one hundred press-ups to do.",
+			"cn": "你要做一百个俯卧撑。",
+			"examples": [
+				{
+					"en": "You’ve got a lot of homework to do.",
+					"cn": "你有很多作业要做。"
+				},
+				{
+					"en": "You’ve got a meeting to attend.",
+					"cn": "你有一个会议要参加。"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: Oh. One, two...", "cn": "猪爸爸：哦。一，二……" },
 	{
 		"en": "Narrator: Mummy Pig, Peppa and George are in the kitchen making lunch.",
-		"cn": "旁白：猪妈妈、佩奇和乔治在厨房做午饭。"
+		"cn": "旁白：猪妈妈、佩奇和乔治在厨房做午饭。",
+		"sentence": {
+			"en": "Mummy Pig, Peppa and George are in the kitchen making lunch.",
+			"cn": "猪妈妈、佩奇和乔治在厨房做午饭。",
+			"examples": [
+				{
+					"en": "They are in the garden playing.",
+					"cn": "他们在花园里玩。"
+				},
+				{
+					"en": "She is in the living room reading.",
+					"cn": "她在客厅里看书。"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: Six...", "cn": "猪爸爸：六……" },
 	{
 		"en": "Narrator: Daddy Pig is still doing his press-ups.",
-		"cn": "旁白：猪爸爸还在做俯卧撑。"
+		"cn": "旁白：猪爸爸还在做俯卧撑。",
+		"sentence": {
+			"en": "Daddy Pig is still doing his press-ups.",
+			"cn": "猪爸爸还在做俯卧撑。",
+			"examples": [
+				{
+					"en": "She is still reading her book.",
+					"cn": "她还在看她的书。"
+				},
+				{
+					"en": "They are still playing outside.",
+					"cn": "他们还在外面玩。"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: Eight...", "cn": "猪爸爸：八……" },
 	{
@@ -112,37 +346,116 @@
 	{ "en": "Daddy Pig: Ten...", "cn": "猪爸爸：十……" },
 	{
 		"en": "Mummy Pig: Yes. I do hope he’s not overdoing it.",
-		"cn": "猪妈妈：是啊，我希望他不要做得太多。"
+		"cn": "猪妈妈：是啊，我希望他不要做得太多。",
+		"sentence": {
+			"en": "I do hope he’s not overdoing it.",
+			"cn": "我希望他不要做得太多。",
+			"examples": [
+				{
+					"en": "I do hope she’s not feeling unwell.",
+					"cn": "我希望她没有不舒服。"
+				},
+				{
+					"en": "I do hope they’re not lost.",
+					"cn": "我希望他们没有迷路。"
+				}
+			]
+		}
 	},
-	{ "en": "Peppa Pig: I’ll go and see.", "cn": "小猪佩奇：我去看看。" },
+	{
+		"en": "Peppa Pig: I’ll go and see.",
+		"cn": "小猪佩奇：我去看看。",
+		"points": [
+			{
+				"en": "I’ll go and see",
+				"cn": "我去看看"
+			}
+		]
+	},
 	{
 		"en": "Daddy Pig: Thirteen, fourteen, fifteen, sixteen, seventeen.",
 		"cn": "猪爸爸：十三，十四，十五，十六，十七。"
 	},
 	{
-		"en": "Peppa Pig: Daddy Pig! You’re cheating!You should be doing press-ups.",
-		"cn": "小猪佩奇：猪爸爸！你在作弊！你应该做俯卧撑。"
+		"en": "Peppa Pig: Daddy Pig! You’re cheating! You should be doing press-ups.",
+		"cn": "小猪佩奇：猪爸爸！你在作弊！你应该做俯卧撑。",
+		"points": [
+			{
+				"en": "You’re cheating!",
+				"cn": "你在作弊！"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Oh, er, there was something interesting on the TV.",
-		"cn": "猪爸爸：哦，呃，电视上有有趣的东西。"
+		"cn": "猪爸爸：哦，呃，电视上有有趣的东西。",
+		"points": [
+			{
+				"en": "something interesting on the TV",
+				"cn": "电视上有有趣的东西"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Naughty Daddy.", "cn": "小猪佩奇：调皮的爸爸。" },
 	{
 		"en": "Mummy Pig: Maybe Daddy will have more success with my old exercise bike.",
-		"cn": "猪妈妈：也许爸爸用我的旧健身车会更成功。"
+		"cn": "猪妈妈：也许爸爸用我的旧健身车会更成功。",
+		"points": [
+			{
+				"en": "old exercise bike",
+				"cn": "旧健身车"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Ah ha. This looks like fun. I’ll be able to cycle and watch TV at the same time.",
-		"cn": "猪爸爸：啊哈，这看起来很有趣。我可以一边骑车一边看电视。"
+		"cn": "猪爸爸：啊哈，这看起来很有趣。我可以一边骑车一边看电视。",
+		"sentence": {
+			"en": "I’ll be able to cycle and watch TV at the same time.",
+			"cn": "我可以一边骑车一边看电视。",
+			"examples": [
+				{
+					"en": "I’ll be able to cook and listen to music at the same time.",
+					"cn": "我可以一边做饭一边听音乐。"
+				},
+				{
+					"en": "I’ll be able to study and take notes at the same time.",
+					"cn": "我可以一边学习一边记笔记。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: That’s impossible. This bike is too noisy. I can’t hear the TV.",
-		"cn": "猪爸爸：不行，这辆车太吵了，我听不到电视。"
+		"cn": "猪爸爸：不行，这辆车太吵了，我听不到电视。",
+		"points": [
+			{
+				"en": "too noisy.",
+				"cn": "太吵了。"
+			},
+			{
+				"en": "can’t hear the TV.",
+				"cn": "听不到电视。"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: You’ve got to get fit somehow.",
-		"cn": "猪妈妈：你总得想办法锻炼。"
+		"cn": "猪妈妈：你总得想办法锻炼。",
+		"sentence": {
+			"en": "You’ve got to get fit somehow.",
+			"cn": "你总得想办法锻炼。",
+			"examples": [
+				{
+					"en": "You’ve got to finish your homework somehow.",
+					"cn": "你总得想办法完成作业。"
+				},
+				{
+					"en": "You’ve got to learn to swim somehow.",
+					"cn": "你总得想办法学会游泳。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: I know! You can use my bicycle!",
@@ -150,60 +463,207 @@
 	},
 	{
 		"en": "Mummy Pig: Yes, and then you’ll get some fresh air as well.",
-		"cn": "猪妈妈：对，这样你还能呼吸新鲜空气。"
+		"cn": "猪妈妈：对，这样你还能呼吸新鲜空气。",
+		"sentence": {
+			"en": "you’ll get some fresh air as well.",
+			"cn": "你还能呼吸新鲜空气。",
+			"examples": [
+				{
+					"en": "You’ll enjoy the sunshine as well.",
+					"cn": "你还能享受阳光。"
+				},
+				{
+					"en": "You’ll have a good time as well.",
+					"cn": "你还能玩得开心。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Daddy Pig is going to ride on Peppa’s little bicycle.",
-		"cn": "旁白：猪爸爸要骑佩奇的小自行车了。"
+		"cn": "旁白：猪爸爸要骑佩奇的小自行车了。",
+		"points": [
+			{
+				"en": "little bicycle",
+				"cn": "小自行车"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Daddy, these are the pedals, these are the brakes, and this is the bell.",
-		"cn": "小猪佩奇：爸爸，这是脚踏板，这是刹车，这是铃铛。"
+		"cn": "小猪佩奇：爸爸，这是脚踏板，这是刹车，这是铃铛。",
+		"points": [
+			{
+				"en": "the pedals",
+				"cn": "脚踏板"
+			},
+			{
+				"en": "the brakes",
+				"cn": "刹车"
+			},
+			{
+				"en": "the bell",
+				"cn": "铃铛"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Yes, yes, thank you, Peppa. I know. Bye-bye.",
 		"cn": "猪爸爸：好好，谢谢你，佩奇。我知道了，拜拜。"
 	},
-	{ "en": "Daddy Pig: Easy as pie.", "cn": "猪爸爸：小菜一碟。" },
+	{
+		"en": "Daddy Pig: Easy as pie.",
+		"cn": "猪爸爸：小菜一碟。",
+		"points": [
+			{
+				"en": "Easy as pie",
+				"cn": "小菜一碟"
+			}
+		]
+	},
 	{
 		"en": "Narrator: Getting fit is quite hard work.",
-		"cn": "旁白：锻炼身体其实很辛苦。"
+		"cn": "旁白：锻炼身体其实很辛苦。",
+		"sentence": {
+			"en": "Getting fit is quite hard work.",
+			"cn": "锻炼身体其实很辛苦。",
+			"examples": [
+				{
+					"en": "Studying is quite hard work.",
+					"cn": "学习其实很辛苦。"
+				},
+				{
+					"en": "Cleaning the house is quite hard work.",
+					"cn": "打扫房子其实很辛苦。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Now I can get fit without having to pedal.",
-		"cn": "猪爸爸：现在我不用踩踏板也能锻炼了。"
+		"cn": "猪爸爸：现在我不用踩踏板也能锻炼了。",
+		"sentence": {
+			"en": "I can get fit without having to pedal.",
+			"cn": "我不用踩踏板也能锻炼了。",
+			"examples": [
+				{
+					"en": "I can learn without having to study too hard.",
+					"cn": "我可以不费力地学习。"
+				},
+				{
+					"en": "I can relax without having to do anything.",
+					"cn": "我可以不做任何事就放松。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Daddy Pig is going very fast.",
-		"cn": "旁白：猪爸爸骑得很快。"
+		"cn": "旁白：猪爸爸骑得很快。",
+		"points": [
+			{
+				"en": "going very fast",
+				"cn": "骑得很快"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Oh. Maybe I’d better slow down.",
-		"cn": "猪爸爸：哦，也许我该慢点。"
+		"cn": "猪爸爸：哦，也许我该慢点。",
+		"points": [
+			{
+				"en": "slow down",
+				"cn": "慢点"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: The brakes aren’t strong enough!",
-		"cn": "猪爸爸：刹车不够灵！"
+		"cn": "猪爸爸：刹车不够灵！",
+		"sentence": {
+			"en": "The brakes aren’t strong enough!",
+			"cn": "刹车不够灵！",
+			"examples": [
+				{
+					"en": "The door isn’t strong enough!",
+					"cn": "门不够结实！"
+				},
+				{
+					"en": "The roof isn’t strong enough!",
+					"cn": "屋顶不够坚固！"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Daddy Pig has been gone for a long time.",
-		"cn": "旁白：猪爸爸出去了很久。"
+		"cn": "旁白：猪爸爸出去了很久。",
+		"points": [
+			{
+				"en": "for a long time",
+				"cn": "很久"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Mummy, where can Daddy be?",
-		"cn": "小猪佩奇：妈妈，爸爸去哪儿了？"
+		"cn": "小猪佩奇：妈妈，爸爸去哪儿了？",
+		"sentence": {
+			"en": "Where can Daddy be?",
+			"cn": "爸爸去哪儿了？",
+			"examples": [
+				{
+					"en": "Where can George be?",
+					"cn": "乔治去哪儿了？"
+				},
+				{
+					"en": "Where can my toy be?",
+					"cn": "我的玩具去哪儿了？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Don’t worry, Peppa. Daddy must be really enjoying himself to be away for so long.",
-		"cn": "猪妈妈：别担心，佩奇，爸爸一定玩得很开心才会这么久不回来。"
+		"cn": "猪妈妈：别担心，佩奇，爸爸一定玩得很开心才会这么久不回来。",
+		"sentence": {
+			"en": "Daddy must be really enjoying himself to be away for so long.",
+			"cn": "爸爸一定玩得很开心才会这么久不回来。",
+			"examples": [
+				{
+					"en": "She must be really happy to win the prize.",
+					"cn": "她一定很高兴能赢得这个奖。"
+				},
+				{
+					"en": "They must be really tired after such a long journey.",
+					"cn": "他们一定在这么长的旅程后很累。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Daddy! Where have you been?",
-		"cn": "小猪佩奇：爸爸！你去哪儿了？"
+		"cn": "小猪佩奇：爸爸！你去哪儿了？",
+		"points": [
+			{
+				"en": "Where have you been?",
+				"cn": "你去哪儿了？"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: I whizzed all the way down the hill. Then I had to push the bike all the way back up again.",
-		"cn": "猪爸爸：我一路冲下山，然后又把自行车推上来。"
+		"cn": "猪爸爸：我一路冲下山，然后又把自行车推上来。",
+		"points": [
+			{
+				"en": "whizzed all the way down",
+				"cn": "一路冲下"
+			},
+			{
+				"en": "push the bike all the way back up",
+				"cn": "把自行车推上来"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Oh, poor Daddy Pig.",
@@ -211,26 +671,98 @@
 	},
 	{
 		"en": "Daddy Pig: Well at least I’ve done my exercise.",
-		"cn": "猪爸爸：至少我锻炼了。"
+		"cn": "猪爸爸：至少我锻炼了。",
+		"sentence": {
+			"en": "I’ve done my exercise.",
+			"cn": "我锻炼了。",
+			"examples": [
+				{
+					"en": "I’ve done my homework.",
+					"cn": "我做完作业了。"
+				},
+				{
+					"en": "I’ve done my chores.",
+					"cn": "我做完家务了。"
+				}
+			]
+		}
 	},
-	{ "en": "Mummy Pig: Yes, for today.", "cn": "猪妈妈：是的，今天算锻炼了。" },
-	{ "en": "Daddy Pig: What do you mean?", "cn": "猪爸爸：什么意思？" },
+	{
+		"en": "Mummy Pig: Yes, for today.",
+		"cn": "猪妈妈：是的，今天算锻炼了。",
+		"points": [
+			{
+				"en": "for today",
+				"cn": "今天"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: What do you mean?",
+		"cn": "猪爸爸：什么意思？",
+		"points": [
+			{
+				"en": "What do you mean?",
+				"cn": "什么意思？"
+			}
+		]
+	},
 	{
 		"en": "Mummy Pig: You have to do some more exercise tomorrow.",
-		"cn": "猪妈妈：你明天还要锻炼。"
+		"cn": "猪妈妈：你明天还要锻炼。",
+		"sentence": {
+			"en": "You have to do some more exercise tomorrow.",
+			"cn": "你明天还要锻炼。",
+			"examples": [
+				{
+					"en": "You have to study harder tomorrow.",
+					"cn": "你明天要更努力学习。"
+				},
+				{
+					"en": "You have to practice more tomorrow.",
+					"cn": "你明天要多练习。"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: What?", "cn": "猪爸爸：什么？" },
 	{
 		"en": "Peppa Pig: Daddy, to get fit you have to exercise every day.",
-		"cn": "小猪佩奇：爸爸，要健康就要每天锻炼。"
+		"cn": "小猪佩奇：爸爸，要健康就要每天锻炼。",
+		"sentence": {
+			"en": "to get fit you have to exercise every day.",
+			"cn": "要健康就要每天锻炼。",
+			"examples": [
+				{
+					"en": "To learn a language you have to practice every day.",
+					"cn": "学语言你必须每天练习。"
+				},
+				{
+					"en": "To be good at sports you have to train every day.",
+					"cn": "要擅长运动你必须每天训练。"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: Oh no.", "cn": "猪爸爸：哦不。" },
 	{
 		"en": "Peppa Pig: But don’t worry, Daddy. I’ll make sure you do it.",
-		"cn": "小猪佩奇：别担心，爸爸，我会监督你的。"
+		"cn": "小猪佩奇：别担心，爸爸，我会监督你的。",
+		"points": [
+			{
+				"en": "I’ll make sure you do it.",
+				"cn": "我会监督你的。"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Yes, I know you will.",
-		"cn": "猪爸爸：是的，我知道你会的。"
+		"cn": "猪爸爸：是的，我知道你会的。",
+		"points": [
+			{
+				"en": "I know you will.",
+				"cn": "我知道你会的。"
+			}
+		]
 	}
 ]

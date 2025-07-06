@@ -1,7 +1,17 @@
 [
 	{
 		"en": "Narrator: It is night time. Peppa and George are going to bed.",
-		"cn": "旁白：夜幕降临，佩奇和乔治要上床睡觉了。"
+		"cn": "旁白：夜幕降临，佩奇和乔治要上床睡觉了。",
+		"points": [
+			{
+				"en": "night time",
+				"cn": "夜幕降临"
+			},
+			{
+				"en": "going to bed",
+				"cn": "上床睡觉"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Good night, Peppa and George.",
@@ -11,7 +21,17 @@
 	{ "en": "Mummy Pig: Yes, Peppa?", "cn": "猪妈妈：怎么了，佩奇？" },
 	{
 		"en": "Peppa Pig: I’m not sleepy. Can I have a story?",
-		"cn": "小猪佩奇：我还不困，可以给我讲个故事吗？"
+		"cn": "小猪佩奇：我还不困，可以给我讲个故事吗？",
+		"points": [
+			{
+				"en": "not sleepy",
+				"cn": "还不困"
+			},
+			{
+				"en": "can I have a story",
+				"cn": "可以给我讲个故事吗"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Maybe George is sleepy and doesn’t want a story.",
@@ -19,25 +39,88 @@
 	},
 	{
 		"en": "Peppa Pig: George, do you want a story?",
-		"cn": "小猪佩奇：乔治，你想听故事吗？"
+		"cn": "小猪佩奇：乔治，你想听故事吗？",
+		"sentence": {
+			"en": "do you want a story",
+			"cn": "想听故事吗",
+			"examples": [
+				{
+					"en": "Do you want a drink?",
+					"cn": "你想喝点什么吗？"
+				},
+				{
+					"en": "Do you want to play?",
+					"cn": "你想玩吗？"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Say yes.", "cn": "小猪佩奇：说想听。" },
 	{
 		"en": "Daddy Pig: All right, I will tell you just one story.",
-		"cn": "猪爸爸：好吧，我只讲一个故事。"
+		"cn": "猪爸爸：好吧，我只讲一个故事。",
+		"points": [
+			{
+				"en": "just one story",
+				"cn": "只讲一个故事"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: If Daddy Pig tells you a story, you must both promise to go to sleep.",
-		"cn": "猪妈妈：如果爸爸讲故事，你们俩要保证讲完就睡觉。"
+		"cn": "猪妈妈：如果爸爸讲故事，你们俩要保证讲完就睡觉。",
+		"sentence": {
+			"en": "you must both promise to go to sleep",
+			"cn": "你们俩要保证讲完就睡觉",
+			"examples": [
+				{
+					"en": "You must both promise to be quiet.",
+					"cn": "你们俩要保证安静。"
+				},
+				{
+					"en": "You must both promise to share.",
+					"cn": "你们俩要保证分享。"
+				}
+			]
+		}
 	},
-	{ "en": "Peppa Pig: We promise.", "cn": "小猪佩奇：我们保证。" },
+	{
+		"en": "Peppa Pig: We promise.",
+		"cn": "小猪佩奇：我们保证。",
+		"points": [
+			{
+				"en": "We promise",
+				"cn": "我们保证"
+			}
+		]
+	},
 	{
 		"en": "Daddy Pig: Hmm, I think I’ll tell you the story of the sleepy princess.",
-		"cn": "猪爸爸：嗯，我想给你们讲一个关于爱睡觉的小公主的故事。"
+		"cn": "猪爸爸：嗯，我想给你们讲一个关于爱睡觉的小公主的故事。",
+		"points": [
+			{
+				"en": "the sleepy princess",
+				"cn": "爱睡觉的小公主"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Is it a good story? It sounds a bit boring.",
-		"cn": "小猪佩奇：这个故事好听吗？听起来有点无聊。"
+		"cn": "小猪佩奇：这个故事好听吗？听起来有点无聊。",
+		"sentence": {
+			"en": "It sounds a bit boring",
+			"cn": "听起来有点无聊",
+			"examples": [
+				{
+					"en": "It sounds like a good idea.",
+					"cn": "听起来是个好主意。"
+				},
+				{
+					"en": "It sounds like fun.",
+					"cn": "听起来很有趣。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: It’s not boring. It’s very good.",
@@ -49,7 +132,21 @@
 	},
 	{
 		"en": "Mummy Pig: Peppa, if you keep talking, Daddy Pig can’t start the story.",
-		"cn": "猪妈妈：佩奇，你再说话爸爸就没法开始讲故事了。"
+		"cn": "猪妈妈：佩奇，你再说话爸爸就没法开始讲故事了。",
+		"sentence": {
+			"en": "if you keep talking",
+			"cn": "如果你再说话",
+			"examples": [
+				{
+					"en": "If you keep talking, I can’t hear.",
+					"cn": "如果你再说话，我就听不见了。"
+				},
+				{
+					"en": "If you keep asking questions, we’ll never finish.",
+					"cn": "如果你再问问题，我们就永远也讲不完了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Sorry, Mummy. Is there a little princess in the story, Daddy?",
@@ -65,15 +162,45 @@
 	},
 	{
 		"en": "Daddy Pig: Once upon a time in a castle there lived a little princess, and she was called the sleepy princess.",
-		"cn": "猪爸爸：从前，在一座城堡里住着一位小公主，她叫爱睡觉的小公主。"
+		"cn": "猪爸爸：从前，在一座城堡里住着一位小公主，她叫爱睡觉的小公主。",
+		"points": [
+			{
+				"en": "Once upon a time",
+				"cn": "从前"
+			},
+			{
+				"en": "in a castle",
+				"cn": "在一座城堡里"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Daddy, why was she called that?",
-		"cn": "小猪佩奇：爸爸，为什么她叫这个名字？"
+		"cn": "小猪佩奇：爸爸，为什么她叫这个名字？",
+		"sentence": {
+			"en": "why was she called that",
+			"cn": "为什么她叫这个名字",
+			"examples": [
+				{
+					"en": "Why was he late?",
+					"cn": "他为什么迟到了？"
+				},
+				{
+					"en": "Why was it so expensive?",
+					"cn": "它为什么那么贵？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: I’ll get to that later.",
-		"cn": "猪爸爸：我一会儿会说到。"
+		"cn": "猪爸爸：我一会儿会说到。",
+		"points": [
+			{
+				"en": "I’ll get to that later",
+				"cn": "我一会儿会说到"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Was the sleepy princess pretty?",
@@ -81,7 +208,13 @@
 	},
 	{
 		"en": "Daddy Pig: Yes, she was very pretty. She loved looking at herself in the mirror.",
-		"cn": "猪爸爸：很漂亮，她很喜欢照镜子。"
+		"cn": "猪爸爸：很漂亮，她很喜欢照镜子。",
+		"points": [
+			{
+				"en": "looking at herself in the mirror",
+				"cn": "照镜子"
+			}
+		]
 	},
 	{
 		"en": "Princess Peppa Pig: I am so pretty.",
@@ -89,59 +222,192 @@
 	},
 	{
 		"en": "Peppa Pig: Who else was living in the castle?",
-		"cn": "小猪佩奇：还有谁住在城堡里？"
+		"cn": "小猪佩奇：还有谁住在城堡里？",
+		"sentence": {
+			"en": "Who else was living in the castle",
+			"cn": "还有谁住在城堡里",
+			"examples": [
+				{
+					"en": "Who else is coming to the party?",
+					"cn": "还有谁来参加派对？"
+				},
+				{
+					"en": "Who else lives in this house?",
+					"cn": "这个房子里还有谁住？"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: Uh, well...", "cn": "猪爸爸：呃，嗯……" },
 	{
 		"en": "Mummy Pig: The others in the castle were the small prince, Queen Mummy and King Daddy.",
-		"cn": "猪妈妈：还有小王子、王后妈妈和国王爸爸。"
+		"cn": "猪妈妈：还有小王子、王后妈妈和国王爸爸。",
+		"points": [
+			{
+				"en": "The others in the castle were",
+				"cn": "城堡里还有"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: That’s right. They were all living there as well.",
-		"cn": "猪爸爸：对，他们也都住在那里。"
+		"cn": "猪爸爸：对，他们也都住在那里。",
+		"sentence": {
+			"en": "They were all living there as well",
+			"cn": "他们也都住在那里",
+			"examples": [
+				{
+					"en": "They were all playing together.",
+					"cn": "他们都在一起玩。"
+				},
+				{
+					"en": "They were all having fun.",
+					"cn": "他们都很开心。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Did King Daddy have a big tummy?",
-		"cn": "小猪佩奇：国王爸爸有大肚子吗？"
+		"cn": "小猪佩奇：国王爸爸有大肚子吗？",
+		"points": [
+			{
+				"en": "a big tummy",
+				"cn": "大肚子"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Of course not. He was very handsome, like me.",
-		"cn": "猪爸爸：当然没有，他很帅，就像我一样。"
+		"cn": "猪爸爸：当然没有，他很帅，就像我一样。",
+		"points": [
+			{
+				"en": "Of course not",
+				"cn": "当然没有"
+			},
+			{
+				"en": "like me",
+				"cn": "就像我一样"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Anyway, there was also a dragon.",
-		"cn": "猪爸爸：还有一条龙。"
+		"cn": "猪爸爸：还有一条龙。",
+		"sentence": {
+			"en": "there was also a dragon",
+			"cn": "还有一条龙",
+			"examples": [
+				{
+					"en": "There was also a big party.",
+					"cn": "还有一个大派对。"
+				},
+				{
+					"en": "There was also a lot of fun.",
+					"cn": "还有很多乐趣。"
+				}
+			]
+		}
 	},
 	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
 	{
 		"en": "Daddy Pig: Dinosaur? Oh, yes. It wasn’t a dragon. It was a dinosaur. Living outside was a huge, fierce dinosaur.",
-		"cn": "猪爸爸：恐龙？哦，对，不是龙，是恐龙。外面住着一只又大又凶猛的恐龙。"
+		"cn": "猪爸爸：恐龙？哦，对，不是龙，是恐龙。外面住着一只又大又凶猛的恐龙。",
+		"points": [
+			{
+				"en": "a huge, fierce dinosaur",
+				"cn": "一只又大又凶猛的恐龙"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Oh, dear. Maybe the dinosaur wasn’t quite that fierce, Daddy Pig.",
-		"cn": "猪妈妈：哎呀，也许恐龙没那么凶猛，猪爸爸。"
+		"cn": "猪妈妈：哎呀，也许恐龙没那么凶猛，猪爸爸。",
+		"sentence": {
+			"en": "maybe the dinosaur wasn’t quite that fierce",
+			"cn": "也许恐龙没那么凶猛",
+			"examples": [
+				{
+					"en": "Maybe it wasn’t quite what I expected.",
+					"cn": "也许它没我想象的那么好。"
+				},
+				{
+					"en": "Maybe it wasn’t quite ready yet.",
+					"cn": "也许它还没准备好。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Sorry, George. No, the dinosaur was very gentle. It ate lots of grass.",
-		"cn": "猪爸爸：对不起，乔治，其实恐龙很温顺，它吃很多草。"
+		"cn": "猪爸爸：对不起，乔治，其实恐龙很温顺，它吃很多草。",
+		"points": [
+			{
+				"en": "very gentle",
+				"cn": "很温顺"
+			},
+			{
+				"en": "lots of grass",
+				"cn": "很多草"
+			}
+		]
 	},
 	{ "en": "Mummy Pig: Daddy Pig!", "cn": "猪妈妈：猪爸爸！" },
 	{
 		"en": "Daddy Pig: Oops, sorry. I was being the dinosaur.",
-		"cn": "猪爸爸：哎呀，对不起，我刚才在学恐龙。"
+		"cn": "猪爸爸：哎呀，对不起，我刚才在学恐龙。",
+		"sentence": {
+			"en": "I was being the dinosaur",
+			"cn": "我刚才在学恐龙",
+			"examples": [
+				{
+					"en": "I was being silly.",
+					"cn": "我刚才在搞笑。"
+				},
+				{
+					"en": "I was being quiet.",
+					"cn": "我刚才在保持安静。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Daddy, why is the princess called the sleepy princess?",
 		"cn": "小猪佩奇：爸爸，为什么她叫爱睡觉的小公主？"
 	},
-	{ "en": "Daddy Pig: I’m coming to that.", "cn": "猪爸爸：我正要说到。" },
+	{
+		"en": "Daddy Pig: I’m coming to that.",
+		"cn": "猪爸爸：我正要说到。",
+		"points": [
+			{
+				"en": "I’m coming to that",
+				"cn": "我正要说到"
+			}
+		]
+	},
 	{
 		"en": "Daddy Pig: You see, the sun set and the stars and moon came out. And everyone got very sleepy.",
-		"cn": "猪爸爸：你看，太阳下山了，星星和月亮出来了，大家都很困。"
+		"cn": "猪爸爸：你看，太阳下山了，星星和月亮出来了，大家都很困。",
+		"points": [
+			{
+				"en": "the sun set",
+				"cn": "太阳下山了"
+			},
+			{
+				"en": "everyone got very sleepy",
+				"cn": "大家都很困"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: But the most sleepy of all was the sleepy princess.",
-		"cn": "猪爸爸：但最困的就是爱睡觉的小公主。"
+		"cn": "猪爸爸：但最困的就是爱睡觉的小公主。",
+		"points": [
+			{
+				"en": "the most sleepy of all",
+				"cn": "最困的就是"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Peppa, are you sleepy?",
@@ -149,32 +415,115 @@
 	},
 	{
 		"en": "Peppa Pig: No, Daddy. I am not sleepy at all.",
-		"cn": "小猪佩奇：没有，爸爸，我一点都不困。"
+		"cn": "小猪佩奇：没有，爸爸，我一点都不困。",
+		"sentence": {
+			"en": "I am not sleepy at all",
+			"cn": "我一点都不困",
+			"examples": [
+				{
+					"en": "I am not hungry at all.",
+					"cn": "我一点都不饿。"
+				},
+				{
+					"en": "I am not tired at all.",
+					"cn": "我一点都不累。"
+				}
+			]
+		}
 	},
-	{ "en": "Mummy Pig: But somebody is.", "cn": "猪妈妈：但有人困了。" },
+	{
+		"en": "Mummy Pig: But somebody is.",
+		"cn": "猪妈妈：但有人困了。",
+		"points": [
+			{
+				"en": "But somebody is",
+				"cn": "但有人困了"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: George, wake up. You’ll miss the end of the story.",
-		"cn": "小猪佩奇：乔治，醒醒，你会错过结尾的。"
+		"cn": "小猪佩奇：乔治，醒醒，你会错过结尾的。",
+		"points": [
+			{
+				"en": "wake up",
+				"cn": "醒醒"
+			},
+			{
+				"en": "miss the end of the story",
+				"cn": "错过结尾"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Well, Peppa might not be sleepy, but the sleepy princess certainly was.",
-		"cn": "猪爸爸：佩奇可能不困，但小公主可是真的很困。"
+		"cn": "猪爸爸：佩奇可能不困，但小公主可是真的很困。",
+		"sentence": {
+			"en": "the sleepy princess certainly was",
+			"cn": "小公主可是真的很困",
+			"examples": [
+				{
+					"en": "The sleepy princess certainly was tired.",
+					"cn": "小公主确实很累。"
+				},
+				{
+					"en": "The sleepy princess certainly was ready for bed.",
+					"cn": "小公主确实准备好上床睡觉了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Looking at herself all day in the mirror had completely worn her out.",
-		"cn": "猪爸爸：她一天到晚照镜子，把自己累坏了。"
+		"cn": "猪爸爸：她一天到晚照镜子，把自己累坏了。",
+		"points": [
+			{
+				"en": "all day",
+				"cn": "一天到晚"
+			},
+			{
+				"en": "completely worn her out",
+				"cn": "把自己累坏了"
+			}
+		]
 	},
 	{
 		"en": "King Daddy Pig: Let’s carry you to bed. Good night.",
-		"cn": "国王爸爸：我们把你抱去床上吧。晚安。"
+		"cn": "国王爸爸：我们把你抱去床上吧。晚安。",
+		"points": [
+			{
+				"en": "carry you to bed",
+				"cn": "抱你去床上"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: The sleepy princess was so sleepy she had fallen fast asleep.",
-		"cn": "猪爸爸：小公主太困了，很快就睡着了。"
+		"cn": "猪爸爸：小公主太困了，很快就睡着了。",
+		"points": [
+			{
+				"en": "fallen fast asleep",
+				"cn": "很快就睡着了"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Thank you for that story, King Daddy.",
-		"cn": "猪妈妈：谢谢你的故事，国王爸爸。"
+		"cn": "猪妈妈：谢谢你的故事，国王爸爸。",
+		"sentence": {
+			"en": "Thank you for that story",
+			"cn": "谢谢你的故事",
+			"examples": [
+				{
+					"en": "Thank you for that explanation.",
+					"cn": "谢谢你的解释。"
+				},
+				{
+					"en": "Thank you for that help.",
+					"cn": "谢谢你的帮助。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: You’re welcome, Queen Mummy.",

@@ -1,7 +1,13 @@
 [
 	{
 		"en": "Narrator: Peppa and George are going shopping.",
-		"cn": "旁白：佩奇和乔治要去购物。"
+		"cn": "旁白：佩奇和乔治要去购物。",
+		"points": [
+			{
+				"en": "going shopping",
+				"cn": "去购物"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Peppa and George like shopping.",
@@ -9,40 +15,151 @@
 	},
 	{
 		"en": "Narrator: George loves sitting in the trolley.",
-		"cn": "旁白：乔治喜欢坐在购物车里。"
+		"cn": "旁白：乔治喜欢坐在购物车里。",
+		"points": [
+			{
+				"en": "sitting in the trolley",
+				"cn": "坐在购物车里"
+			}
+		]
 	},
-	{ "en": "Narrator: So does Peppa.", "cn": "旁白：佩奇也喜欢。" },
+	{ 
+		"en": "Narrator: So does Peppa.", 
+		"cn": "旁白：佩奇也喜欢。",
+		"sentence": {
+			"en": "So does Peppa.",
+			"cn": "佩奇也是。",
+			"examples": [
+				{
+					"en": "So does George.",
+					"cn": "乔治也是。"
+				},
+				{
+					"en": "So does Mummy Pig.",
+					"cn": "猪妈妈也是。"
+				}
+			]
+		}
+	},
 	{
 		"en": "Peppa Pig: Daddy, can I sit in the trolley, too?",
-		"cn": "小猪佩奇：爸爸，我也能坐购物车吗？"
+		"cn": "小猪佩奇：爸爸，我也能坐购物车吗？",
+		"sentence": {
+			"en": "Can I sit in the trolley, too?",
+			"cn": "我也能坐购物车吗？",
+			"examples": [
+				{
+					"en": "Can I play with George, too?",
+					"cn": "我也能和乔治玩吗？"
+				},
+				{
+					"en": "Can I have some ice cream, too?",
+					"cn": "我也能吃冰淇淋吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: You’re too big for the trolley, Peppa.",
-		"cn": "猪爸爸：佩奇，你太大了，不能坐购物车。"
+		"cn": "猪爸爸：佩奇，你太大了，不能坐购物车。",
+		"sentence": {
+			"en": "You’re too big for the trolley.",
+			"cn": "你太大了，不能坐购物车。",
+			"examples": [
+				{
+					"en": "You’re too big for the swing.",
+					"cn": "你太大了，不能玩秋千。"
+				},
+				{
+					"en": "You’re too big for the slide.",
+					"cn": "你太大了，不能滑滑梯。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Oh.", "cn": "小猪佩奇：哦。" },
 	{
 		"en": "Daddy Pig: But you can help with the shopping.",
-		"cn": "猪爸爸：但你可以帮忙购物。"
+		"cn": "猪爸爸：但你可以帮忙购物。",
+		"sentence": {
+			"en": "But you can help with the shopping.",
+			"cn": "但你可以帮忙购物。",
+			"examples": [
+				{
+					"en": "But you can help with the cooking.",
+					"cn": "但你可以帮忙做饭。"
+				},
+				{
+					"en": "But you can help with the cleaning.",
+					"cn": "但你可以帮忙打扫。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Oh, goody!", "cn": "小猪佩奇：太好了！" },
 	{
 		"en": "Mummy Pig: We’ve got four things on the list.",
-		"cn": "猪妈妈：我们清单上有四样东西。"
+		"cn": "猪妈妈：我们清单上有四样东西。",
+		"sentence": {
+			"en": "We’ve got four things on the list.",
+			"cn": "我们清单上有四样东西。",
+			"examples": [
+				{
+					"en": "We’ve got three things to do.",
+					"cn": "我们有三件事要做。"
+				},
+				{
+					"en": "We’ve got five toys to play with.",
+					"cn": "我们有五个玩具可以玩。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Tomatoes, spaghetti, onions and fruit.",
 		"cn": "猪爸爸：西红柿、意大利面、洋葱和水果。"
 	},
-	{ "en": "Peppa Pig: I’ll find it all.", "cn": "小猪佩奇：我会全部找到的。" },
-	{ "en": "Peppa Pig: This way.", "cn": "小猪佩奇：这边走。" },
+	{ 
+		"en": "Peppa Pig: I’ll find it all.", 
+		"cn": "小猪佩奇：我会全部找到的。",
+		"points": [
+			{
+				"en": "find it all.",
+				"cn": "全部找到"
+			}
+		]
+	},
+	{ 
+		"en": "Peppa Pig: This way.", 
+		"cn": "小猪佩奇：这边走。",
+		"points": [
+			{
+				"en": "This way.",
+				"cn": "这边走。"
+			}
+		]
+	},
 	{
 		"en": "Narrator: Peppa and George love shopping.",
 		"cn": "旁白：佩奇和乔治喜欢购物。"
 	},
 	{
 		"en": "Mummy Pig: Peppa, first we need tomatoes.",
-		"cn": "猪妈妈：佩奇，首先我们需要西红柿。"
+		"cn": "猪妈妈：佩奇，首先我们需要西红柿。",
+		"sentence": {
+			"en": "First we need tomatoes.",
+			"cn": "首先我们需要西红柿。",
+			"examples": [
+				{
+					"en": "First we need to find the apples.",
+					"cn": "首先我们需要找到苹果。"
+				},
+				{
+					"en": "First we need to buy some bread.",
+					"cn": "首先我们需要买些面包。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Hmm. I can see them, I can see them.",
@@ -50,7 +167,21 @@
 	},
 	{
 		"en": "Peppa Pig: Here are the tomatoes, Mummy.",
-		"cn": "小猪佩奇：妈妈，这里有西红柿。"
+		"cn": "小猪佩奇：妈妈，这里有西红柿。",
+		"sentence": {
+			"en": "Here are the tomatoes.",
+			"cn": "这里有西红柿。",
+			"examples": [
+				{
+					"en": "Here are the apples.",
+					"cn": "这里有苹果。"
+				},
+				{
+					"en": "Here are the bananas.",
+					"cn": "这里有香蕉。"
+				}
+			]
+		}
 	},
 	{ "en": "Mummy Pig: Well done, Peppa.", "cn": "猪妈妈：做得好，佩奇。" },
 	{
@@ -59,7 +190,21 @@
 	},
 	{
 		"en": "Mummy Pig: Now, put them in the trolley.",
-		"cn": "猪妈妈：现在把它们放进购物车。"
+		"cn": "猪妈妈：现在把它们放进购物车。",
+		"sentence": {
+			"en": "Put them in the trolley.",
+			"cn": "把它们放进购物车。",
+			"examples": [
+				{
+					"en": "Put the toys in the box.",
+					"cn": "把玩具放进盒子里。"
+				},
+				{
+					"en": "Put the books on the shelf.",
+					"cn": "把书放在架子上。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: I found the tomatoes.",
@@ -67,22 +212,54 @@
 	},
 	{
 		"en": "Daddy Pig: Well done, Peppa. Tomatoes. That’s one thing off the list. What’s next on the list?",
-		"cn": "猪爸爸：做得好，佩奇。西红柿，清单上划掉一项。下一个是什么？"
+		"cn": "猪爸爸：做得好，佩奇。西红柿，清单上划掉一项。下一个是什么？",
+		"points": [
+			{
+				"en": "off the list",
+				"cn": "清单上划掉"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Spaghetti.", "cn": "小猪佩奇：意大利面。" },
 	{ "en": "George: Pighetti.", "cn": "乔治：意大利面。" },
 	{
 		"en": "Daddy Pig: That’s right, George. But it’s called “spaghetti.”",
-		"cn": "猪爸爸：对，乔治，但它叫‘意大利面’。"
+		"cn": "猪爸爸：对，乔治，但它叫‘意大利面’。",
+		"points": [
+			{
+				"en": "it’s called “spaghetti.”",
+				"cn": "它叫‘意大利面’。"
+			}
+		]
 	},
 	{ "en": "George: Pighetti.", "cn": "乔治：意大利面。" },
 	{
 		"en": "Narrator: Spaghetti is Peppa and George’s favourite food.",
-		"cn": "旁白：意大利面是佩奇和乔治最喜欢的食物。"
+		"cn": "旁白：意大利面是佩奇和乔治最喜欢的食物。",
+		"points": [
+			{
+				"en": "favourite food",
+				"cn": "最喜欢的食物"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: I wonder where the spaghetti is.",
-		"cn": "猪爸爸：我想知道意大利面在哪里。"
+		"cn": "猪爸爸：我想知道意大利面在哪里。",
+		"sentence": {
+			"en": "I wonder where the spaghetti is.",
+			"cn": "我想知道意大利面在哪里。",
+			"examples": [
+				{
+					"en": "I wonder where the apples are.",
+					"cn": "我想知道苹果在哪里。"
+				},
+				{
+					"en": "I wonder where the bananas are.",
+					"cn": "我想知道香蕉在哪里。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: I can see it. This way.",
@@ -94,7 +271,13 @@
 	},
 	{
 		"en": "Mummy Pig: Well done, Peppa. Let’s put the spaghetti in the trolley.",
-		"cn": "猪妈妈：做得好，佩奇。把意大利面放进购物车。"
+		"cn": "猪妈妈：做得好，佩奇。把意大利面放进购物车。",
+		"points": [
+			{
+				"en": "Well done.",
+				"cn": "做得好"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Yes, Mummy.", "cn": "小猪佩奇：好的，妈妈。" },
 	{ "en": "George: Pighetti.", "cn": "乔治：意大利面。" },
@@ -105,7 +288,13 @@
 	{ "en": "George: Pi-ghet-ti.", "cn": "乔治：意大利面。" },
 	{
 		"en": "Daddy Pig: What’s next on the list, Peppa?",
-		"cn": "猪爸爸：清单上下一个是什么，佩奇？"
+		"cn": "猪爸爸：清单上下一个是什么，佩奇？",
+		"points": [
+			{
+				"en": "next on the list",
+				"cn": "清单上下一个"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Crisps.", "cn": "小猪佩奇：薯片。" },
 	{
@@ -114,22 +303,71 @@
 	},
 	{
 		"en": "Mummy Pig: We have plenty of crisps at home, Peppa.",
-		"cn": "猪妈妈：家里有很多薯片，佩奇。"
+		"cn": "猪妈妈：家里有很多薯片，佩奇。",
+		"sentence": {
+			"en": "We have plenty of crisps at home.",
+			"cn": "家里有很多薯片。",
+			"examples": [
+				{
+					"en": "We have plenty of toys at home.",
+					"cn": "家里有很多玩具。"
+				},
+				{
+					"en": "We have plenty of books at home.",
+					"cn": "家里有很多书。"
+				}
+			]
+		}
 	},
-	{ "en": "Daddy Pig: Have another guess.", "cn": "猪爸爸：再猜猜。" },
+	{ 
+		"en": "Daddy Pig: Have another guess.", 
+		"cn": "猪爸爸：再猜猜。",
+		"points": [
+			{
+				"en": "Have another guess.",
+				"cn": "再猜猜。"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: Hmm. I just can’t remember.",
-		"cn": "小猪佩奇：嗯，我就是想不起来。"
+		"cn": "小猪佩奇：嗯，我就是想不起来。",
+		"points": [
+			{
+				"en": "I just can’t remember.",
+				"cn": "我就是想不起来。"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Can you remember, George?",
-		"cn": "猪妈妈：乔治，你记得吗？"
+		"cn": "猪妈妈：乔治，你记得吗？",
+		"points": [
+			{
+				"en": "Can you remember?",
+				"cn": "你记得吗？"
+			}
+		]
 	},
 	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
 	{ "en": "Mummy Pig: Dinosaur?", "cn": "猪妈妈：恐龙？" },
 	{
 		"en": "Peppa Pig: George, there aren’t any dinosaurs in the supermarket.",
-		"cn": "小猪佩奇：乔治，超市里没有恐龙。"
+		"cn": "小猪佩奇：乔治，超市里没有恐龙。",
+		"sentence": {
+			"en": "There aren’t any dinosaurs in the supermarket.",
+			"cn": "超市里没有恐龙。",
+			"examples": [
+				{
+					"en": "There aren’t any toys in the cupboard.",
+					"cn": "橱柜里没有玩具。"
+				},
+				{
+					"en": "There aren’t any books on the shelf.",
+					"cn": "架子上没有书。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: No, George. The next thing on the list is onions.",
@@ -137,7 +375,13 @@
 	},
 	{
 		"en": "Peppa Pig: Onions! I remember now.",
-		"cn": "小猪佩奇：洋葱！我想起来了。"
+		"cn": "小猪佩奇：洋葱！我想起来了。",
+		"points": [
+			{
+				"en": "I remember now.",
+				"cn": "我想起来了。"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Here they are.", "cn": "小猪佩奇：在这里。" },
 	{ "en": "Mummy Pig: Well done.", "cn": "猪妈妈：做得好。" },
@@ -148,11 +392,23 @@
 	{ "en": "Peppa Pig: Onions!", "cn": "小猪佩奇：洋葱！" },
 	{
 		"en": "Daddy Pig: Very good. That’s nearly everything on our list.",
-		"cn": "猪爸爸：很好，清单上的东西快齐了。"
+		"cn": "猪爸爸：很好，清单上的东西快齐了。",
+		"points": [
+			{
+				"en": "nearly everything on our list",
+				"cn": "清单上的东西快齐了"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: There’s one last thing on the list.",
-		"cn": "猪妈妈：清单上还有最后一样。"
+		"cn": "猪妈妈：清单上还有最后一样。",
+		"points": [
+			{
+				"en": "one last thing on the list",
+				"cn": "清单上还有最后一样"
+			}
+		]
 	},
 	{
 		"en": "Narrator: A plant? Is that on the list?",
@@ -165,24 +421,67 @@
 	{ "en": "George: Oh.", "cn": "乔治：哦。" },
 	{
 		"en": "Mummy Pig: Never mind, George. You can choose the fruit.",
-		"cn": "猪妈妈：没关系，乔治，你可以选水果。"
+		"cn": "猪妈妈：没关系，乔治，你可以选水果。",
+		"points": [
+			{
+				"en": "choose the fruit",
+				"cn": "选水果"
+			}
+		]
 	},
 	{ "en": "Mummy Pig: Where is the fruit?", "cn": "猪妈妈：水果在哪里？" },
-	{ "en": "Peppa Pig: Over there.", "cn": "小猪佩奇：在那边。" },
+	{ 
+		"en": "Peppa Pig: Over there.", 
+		"cn": "小猪佩奇：在那边。",
+		"points": [
+			{
+				"en": "Over there.",
+				"cn": "在那边。"
+			}
+		]
+	},
 	{
 		"en": "Narrator: There are apples, and oranges, and bananas, and a very big melon.",
 		"cn": "旁白：有苹果、橙子、香蕉，还有一个很大的瓜。"
 	},
 	{
 		"en": "Mummy Pig: What fruit shall we have, George? Apples?",
-		"cn": "猪妈妈：我们吃什么水果，乔治？苹果吗？"
+		"cn": "猪妈妈：我们吃什么水果，乔治？苹果吗？",
+		"sentence": {
+			"en": "What fruit shall we have, George?",
+			"cn": "我们吃什么水果，乔治？",
+			"examples": [
+				{
+					"en": "What vegetables shall we buy?",
+					"cn": "我们买什么蔬菜？"
+				},
+				{
+					"en": "What toys shall we play with?",
+					"cn": "我们玩什么玩具？"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: Oranges?", "cn": "猪爸爸：橙子？" },
 	{ "en": "Peppa Pig: Bananas?", "cn": "小猪佩奇：香蕉？" },
 	{ "en": "Peppa Pig: A melon!", "cn": "小猪佩奇：一个瓜！" },
 	{
 		"en": "Narrator: This is the checkout where all the food is paid for.",
-		"cn": "旁白：这里是结账台，所有食物都要在这里付款。"
+		"cn": "旁白：这里是结账台，所有食物都要在这里付款。",
+		"sentence": {
+			"en": "This is the checkout where all the food is paid for.",
+			"cn": "这里是结账台，所有食物都要在这里付款。",
+			"examples": [
+				{
+					"en": "This is the kitchen where we cook.",
+					"cn": "这里是厨房，我们在这里做饭。"
+				},
+				{
+					"en": "This is the living room where we relax.",
+					"cn": "这里是客厅，我们在这里放松。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Miss Rabbit: Tomatoes, spaghetti, onions, melon, chocolate cake.",
@@ -194,7 +493,13 @@
 	},
 	{
 		"en": "Narrator: Chocolate cake? Is that on the list?",
-		"cn": "旁白：巧克力蛋糕？清单上有吗？"
+		"cn": "旁白：巧克力蛋糕？清单上有吗？",
+		"points": [
+			{
+				"en": "Is that on the list?",
+				"cn": "清单上有吗？"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Peppa, did you put the chocolate cake in the trolley?",
@@ -207,20 +512,71 @@
 	},
 	{ "en": "George: No.", "cn": "乔治：不是。" },
 	{ "en": "Mummy Pig: Well I didn’t put it in.", "cn": "猪妈妈：我也没放。" },
-	{ "en": "Peppa Pig: Then who did?", "cn": "小猪佩奇：那是谁放的？" },
+	{ 
+		"en": "Peppa Pig: Then who did?", 
+		"cn": "小猪佩奇：那是谁放的？",
+		"points": [
+			{
+				"en": "Then who did?",
+				"cn": "那是谁放的？"
+			}
+		]
+	},
 	{
 		"en": "Daddy Pig: Uh, I thought it might be nice for pudding.",
-		"cn": "猪爸爸：呃，我觉得当甜点不错。"
+		"cn": "猪爸爸：呃，我觉得当甜点不错。",
+		"sentence": {
+			"en": "I thought it might be nice for pudding.",
+			"cn": "我觉得当甜点不错。",
+			"examples": [
+				{
+					"en": "I thought it might be fun to play outside.",
+					"cn": "我觉得在外面玩挺有趣的。"
+				},
+				{
+					"en": "I thought it might be good to watch a movie.",
+					"cn": "我觉得看电影挺好的。"
+				}
+			]
+		}
 	},
 	{ "en": "Mummy Pig: Daddy Pig!", "cn": "猪妈妈：猪爸爸！" },
 	{ "en": "Peppa Pig: Naughty Daddy.", "cn": "小猪佩奇：调皮的爸爸。" },
 	{
 		"en": "Daddy Pig: Sorry. It just looked so delicious.",
-		"cn": "猪爸爸：对不起，它看起来太好吃了。"
+		"cn": "猪爸爸：对不起，它看起来太好吃了。",
+		"sentence": {
+			"en": "It just looked so delicious.",
+			"cn": "它看起来太好吃了。",
+			"examples": [
+				{
+					"en": "It just smelled so good.",
+					"cn": "它闻起来太香了。"
+				},
+				{
+					"en": "It just seemed so interesting.",
+					"cn": "它看起来太有趣了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: It does look rather yummy. Oh, let’s pretend it was on the list.",
-		"cn": "猪妈妈：确实很美味。哦，我们就假装它在清单上吧。"
+		"cn": "猪妈妈：确实很美味。哦，我们就假装它在清单上吧。",
+		"sentence": {
+			"en": "Let’s pretend it was on the list.",
+			"cn": "我们就假装它在清单上吧。",
+			"examples": [
+				{
+					"en": "Let’s pretend we are superheroes.",
+					"cn": "我们就假装我们是超级英雄。"
+				},
+				{
+					"en": "Let’s pretend it’s a sunny day.",
+					"cn": "我们就假装今天是个阳光明媚的日子。"
+				}
+			]
+		}
 	},
 	{ "en": "George: Chocolate cake!", "cn": "乔治：巧克力蛋糕！" },
 	{ "en": "Daddy Pig: Hurrah!", "cn": "猪爸爸：万岁！" }

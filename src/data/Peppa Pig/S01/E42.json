@@ -5,24 +5,74 @@
 	},
 	{
 		"en": "Daddy Pig: I expect Uncle Pig will fall asleep after lunch like he always does.",
-		"cn": "猪爸爸：我猜猪叔叔午饭后又会像往常一样睡着。"
+		"cn": "猪爸爸：我猜猪叔叔午饭后又会像往常一样睡着。",
+		"sentence": {
+			"en": "I expect Uncle Pig will fall asleep after lunch like he always does.",
+			"cn": "我猜猪叔叔午饭后又会像往常一样睡着。",
+			"examples": [
+				{
+					"en": "I expect it will rain tomorrow like it always does.",
+					"cn": "我猜明天又会像往常一样下雨。"
+				},
+				{
+					"en": "I expect she will be late like she always is.",
+					"cn": "我猜她又会像往常一样迟到。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Daddy Pig, you shouldn’t say such things about your own brother, especially in front of the children.",
-		"cn": "猪妈妈：猪爸爸，你不该在孩子们面前说你哥哥的坏话。"
+		"cn": "猪妈妈：猪爸爸，你不该在孩子们面前说你哥哥的坏话。",
+		"points": [
+			{
+				"en": "in front of the children",
+				"cn": "在孩子们面前"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: But it’s true. Uncle Pig always eats too much lunch and falls asleep, snoring loudly like this.",
-		"cn": "猪爸爸：可这是真的。猪叔叔总是吃太多午饭，然后睡着，还打呼噜，就像这样。"
+		"cn": "猪爸爸：可这是真的。猪叔叔总是吃太多午饭，然后睡着，还打呼噜，就像这样。",
+		"points": [
+			{
+				"en": "But it’s true",
+				"cn": "可这是真的"
+			},
+			{
+				"en": "snoring loudly like this",
+				"cn": "打呼噜，就像这样"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Uh, Peppa, George, forget what I just said about Uncle Pig.",
-		"cn": "猪爸爸：呃，佩奇，乔治，把我刚才说猪叔叔的话忘了吧。"
+		"cn": "猪爸爸：呃，佩奇，乔治，把我刚才说猪叔叔的话忘了吧。",
+		"sentence": {
+			"en": "Forget what I just said about Uncle Pig.",
+			"cn": "把我刚才说猪叔叔的话忘了吧。",
+			"examples": [
+				{
+					"en": "Forget what I just said about the weather.",
+					"cn": "把我刚才说天气的话忘了吧。"
+				},
+				{
+					"en": "Forget what I just said about the game.",
+					"cn": "把我刚才说游戏的话忘了吧。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: OK, Daddy.", "cn": "小猪佩奇：好的，爸爸。" },
 	{
 		"en": "Narrator: Peppa and her family have arrived at Uncle Pig and Auntie Pig’s house.",
-		"cn": "旁白：佩奇一家到达了猪叔叔和猪阿姨家。"
+		"cn": "旁白：佩奇一家到达了猪叔叔和猪阿姨家。",
+		"points": [
+			{
+				"en": "have arrived at",
+				"cn": "到达了"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Hello, Uncle Pig and Auntie Pig.",
@@ -42,17 +92,52 @@
 	{ "en": "Peppa Pig: Hello, Chloé.", "cn": "小猪佩奇：你好，克洛伊。" },
 	{
 		"en": "Chloé Pig: Hello, Peppa. Hello, George. I want to show you something.",
-		"cn": "克洛伊：你好，佩奇。你好，乔治。我想给你们看点东西。"
+		"cn": "克洛伊：你好，佩奇。你好，乔治。我想给你们看点东西。",
+		"points": [
+			{
+				"en": "I want to show you something.",
+				"cn": "我想给你们看点东西。"
+			}
+		]
 	},
-	{ "en": "Peppa Pig: Wait for us.", "cn": "小猪佩奇：等等我们。" },
+	{
+		"en": "Peppa Pig: Wait for us.",
+		"cn": "小猪佩奇：等等我们。",
+		"points": [
+			{
+				"en": "Wait for us.",
+				"cn": "等等我们。"
+			}
+		]
+	},
 	{
 		"en": "Chloé Pig: This is my new puppet theatre. My daddy made it for me.",
-		"cn": "克洛伊：这是我的新木偶剧场，是我爸爸给我做的。"
+		"cn": "克洛伊：这是我的新木偶剧场，是我爸爸给我做的。",
+		"points": [
+			{
+				"en": "puppet theatre",
+				"cn": "木偶剧场"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Wow!", "cn": "小猪佩奇：哇！" },
 	{
 		"en": "Chloé Pig: I’ve made two puppets already. This one is called Chloé.",
-		"cn": "克洛伊：我已经做了两个木偶，这个叫克洛伊。"
+		"cn": "克洛伊：我已经做了两个木偶，这个叫克洛伊。",
+		"sentence": {
+			"en": "I've made two puppets already.",
+			"cn": "我已经做了两个木偶。",
+			"examples": [
+				{
+					"en": "I've made a cake already.",
+					"cn": "我已经做了一个蛋糕。"
+				},
+				{
+					"en": "I've read the book already.",
+					"cn": "我已经读完这本书了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Chloé Pig: (as puppet Chloé): Hello, I am Chloé Pig.",
@@ -69,7 +154,13 @@
 	},
 	{
 		"en": "Peppa Pig: Chloé, can me and George make puppets too?",
-		"cn": "小猪佩奇：克洛伊，我和乔治也能做木偶吗？"
+		"cn": "小猪佩奇：克洛伊，我和乔治也能做木偶吗？",
+		"points": [
+			{
+				"en": "make puppets",
+				"cn": "做木偶"
+			}
+		]
 	},
 	{ "en": "Chloé Pig: Yes.", "cn": "克洛伊：可以。" },
 	{
@@ -84,7 +175,21 @@
 	},
 	{
 		"en": "Chloé Pig: George, what puppet would you like to make?",
-		"cn": "克洛伊：乔治，你想做什么木偶？"
+		"cn": "克洛伊：乔治，你想做什么木偶？",
+		"sentence": {
+			"en": "What puppet would you like to make?",
+			"cn": "你想做什么木偶？",
+			"examples": [
+				{
+					"en": "What cake would you like to eat?",
+					"cn": "你想吃什么蛋糕？"
+				},
+				{
+					"en": "What game would you like to play?",
+					"cn": "你想玩什么游戏？"
+				}
+			]
+		}
 	},
 	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
 	{ "en": "Chloé Pig: A dinosaur?", "cn": "克洛伊：恐龙？" },
@@ -94,27 +199,73 @@
 	},
 	{
 		"en": "Chloé Pig: OK, a scary dinosaur puppet.",
-		"cn": "克洛伊：好吧，一个可怕的恐龙木偶。"
+		"cn": "克洛伊：好吧，一个可怕的恐龙木偶。",
+		"points": [
+			{
+				"en": "a scary dinosaur puppet",
+				"cn": "一个可怕的恐龙木偶"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Chloé is making George a dinosaur puppet.",
-		"cn": "旁白：克洛伊正在给乔治做恐龙木偶。"
+		"cn": "旁白：克洛伊正在给乔治做恐龙木偶。",
+		"sentence": {
+			"en": "Chloé is making George a dinosaur puppet.",
+			"cn": "克洛伊正在给乔治做恐龙木偶。",
+			"examples": [
+				{
+					"en": "John is making a cake for his mum.",
+					"cn": "约翰正在给他妈妈做蛋糕。"
+				},
+				{
+					"en": "Lucy is making a card for her friend.",
+					"cn": "露西正在给她的朋友做卡片。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Chloé Pig: It needs pointy teeth. There, a scary dinosaur.",
-		"cn": "克洛伊：要有尖牙。好了，一个可怕的恐龙。"
+		"cn": "克洛伊：要有尖牙。好了，一个可怕的恐龙。",
+		"points": [
+			{
+				"en": "pointy teeth",
+				"cn": "尖牙"
+			}
+		]
 	},
 	{ "en": "George: Grrr.", "cn": "乔治：嗷。" },
 	{ "en": "Auntie Pig: Lunchtime, everyone.", "cn": "猪阿姨：大家吃午饭啦。" },
 	{ "en": "Chloé Pig: Coming.", "cn": "克洛伊：来了。" },
 	{
 		"en": "Chloé Pig: After lunch we’ll do a puppet show.",
-		"cn": "克洛伊：午饭后我们来表演木偶剧。"
+		"cn": "克洛伊：午饭后我们来表演木偶剧。",
+		"points": [
+			{
+				"en": "a puppet show",
+				"cn": "木偶剧"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Hurrah!", "cn": "小猪佩奇：万岁！" },
 	{
 		"en": "Narrator: Auntie Pig has made spaghetti for lunch.",
-		"cn": "旁白：猪阿姨做了意大利面当午饭。"
+		"cn": "旁白：猪阿姨做了意大利面当午饭。",
+		"sentence": {
+			"en": "Auntie Pig has made spaghetti for lunch.",
+			"cn": "猪阿姨做了意大利面当午饭。",
+			"examples": [
+				{
+					"en": "Mummy Pig has made a cake for dessert.",
+					"cn": "猪妈妈做了蛋糕当甜点。"
+				},
+				{
+					"en": "Daddy Pig has made sandwiches for the picnic.",
+					"cn": "猪爸爸做了三明治当野餐食物。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: This spaghetti is delicious.",
@@ -122,17 +273,69 @@
 	},
 	{
 		"en": "Uncle Pig: Best spaghetti ever.",
-		"cn": "猪叔叔：这是我吃过最好吃的意大利面。"
+		"cn": "猪叔叔：这是我吃过最好吃的意大利面。",
+		"sentence": {
+			"en": "Best spaghetti ever.",
+			"cn": "这是我吃过最好吃的意大利面。",
+			"examples": [
+				{
+					"en": "Best cake ever.",
+					"cn": "这是我吃过最好吃的蛋糕。"
+				},
+				{
+					"en": "Best game ever.",
+					"cn": "这是我玩过最好玩的游戏。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: You can tell you two are brothers.",
-		"cn": "猪妈妈：一看你们俩就是兄弟。"
+		"cn": "猪妈妈：一看你们俩就是兄弟。",
+		"sentence": {
+			"en": "You can tell you two are brothers.",
+			"cn": "一看你们俩就是兄弟。",
+			"examples": [
+				{
+					"en": "You can tell they are sisters.",
+					"cn": "一看她们就是姐妹。"
+				},
+				{
+					"en": "You can tell they are friends.",
+					"cn": "一看他们就是朋友。"
+				}
+			]
+		}
 	},
-	{ "en": "Auntie Pig: Alike in every way.", "cn": "猪阿姨：各方面都很像。" },
-	{ "en": "Daddy Pig: What do you mean?", "cn": "猪爸爸：什么意思？" },
+	{
+		"en": "Auntie Pig: Alike in every way.",
+		"cn": "猪阿姨：各方面都很像。",
+		"points": [
+			{
+				"en": "Alike in every way",
+				"cn": "各方面都很像"
+			}
+		]
+	},
+	{
+		"en": "Daddy Pig: What do you mean?",
+		"cn": "猪爸爸：什么意思？",
+		"points": [
+			{
+				"en": "What do you mean?",
+				"cn": "什么意思？"
+			}
+		]
+	},
 	{
 		"en": "Uncle Pig: We are completely different.",
-		"cn": "猪叔叔：我们完全不一样。"
+		"cn": "猪叔叔：我们完全不一样。",
+		"points": [
+			{
+				"en": "completely different",
+				"cn": "完全不一样"
+			}
+		]
 	},
 	{
 		"en": "Chloé Pig: Peppa, George and I are going to do a puppet show.",
@@ -140,20 +343,76 @@
 	},
 	{
 		"en": "Auntie Pig: Fantastic! Call us when you’re ready.",
-		"cn": "猪阿姨：太棒了，准备好就叫我们。"
+		"cn": "猪阿姨：太棒了，准备好就叫我们。",
+		"sentence": {
+			"en": "Call us when you’re ready.",
+			"cn": "准备好就叫我们。",
+			"examples": [
+				{
+					"en": "Call me when you’re home.",
+					"cn": "到家了就给我打电话。"
+				},
+				{
+					"en": "Call us when you arrive.",
+					"cn": "到达时给我们打电话。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: See you later.", "cn": "小猪佩奇：待会见。" },
 	{
 		"en": "Daddy Pig: A puppet show? That sounds fun. Have I got time for some more spaghetti?",
-		"cn": "猪爸爸：木偶剧？听起来很有趣。我还有时间再吃点意大利面吗？"
+		"cn": "猪爸爸：木偶剧？听起来很有趣。我还有时间再吃点意大利面吗？",
+		"sentence": {
+			"en": "Have I got time for some more spaghetti?",
+			"cn": "我还有时间再吃点意大利面吗？",
+			"examples": [
+				{
+					"en": "Have I got time for a quick nap?",
+					"cn": "我还有时间小睡一会儿吗？"
+				},
+				{
+					"en": "Have I got time for a shower?",
+					"cn": "我还有时间洗个澡吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Uncle Pig: Could I have some more too?",
-		"cn": "猪叔叔：我也能再来点吗？"
+		"cn": "猪叔叔：我也能再来点吗？",
+		"sentence": {
+			"en": "Could I have some more too?",
+			"cn": "我也能再来点吗？",
+			"examples": [
+				{
+					"en": "Could I have some more juice?",
+					"cn": "我能再来点果汁吗？"
+				},
+				{
+					"en": "Could I have some more cake?",
+					"cn": "我能再来点蛋糕吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: The puppet show is about to begin.",
-		"cn": "旁白：木偶剧马上要开始了。"
+		"cn": "旁白：木偶剧马上要开始了。",
+		"sentence": {
+			"en": "The puppet show is about to begin.",
+			"cn": "木偶剧马上要开始了。",
+			"examples": [
+				{
+					"en": "The concert is about to begin.",
+					"cn": "音乐会马上要开始了。"
+				},
+				{
+					"en": "The movie is about to begin.",
+					"cn": "电影马上要开始了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Chloé Pig: (as puppet Chloé) Hello, my name is Chloé.",
@@ -176,7 +435,16 @@
 		"en": "Auntie Pig: I say, that’s very good.",
 		"cn": "猪阿姨：我说，这真棒。"
 	},
-	{ "en": "Daddy Pig: Bravo!", "cn": "猪爸爸：太棒了！" },
+	{
+		"en": "Daddy Pig: Bravo!",
+		"cn": "猪爸爸：太棒了！",
+		"points": [
+			{
+				"en": "Bravo!",
+				"cn": "太棒了！"
+			}
+		]
+	},
 	{
 		"en": "Chloé Pig: (as puppet Uncle Pig) I am Uncle Pig.",
 		"cn": "克洛伊（扮木偶）：我是猪叔叔。"
@@ -191,23 +459,69 @@
 	},
 	{
 		"en": "Auntie Pig: It looks just like you.",
-		"cn": "猪阿姨：看起来和你一模一样。"
+		"cn": "猪阿姨：看起来和你一模一样。",
+		"sentence": {
+			"en": "It looks just like you.",
+			"cn": "看起来和你一模一样。",
+			"examples": [
+				{
+					"en": "This painting looks just like the real thing.",
+					"cn": "这幅画看起来和真品一模一样。"
+				},
+				{
+					"en": "This toy looks just like a real car.",
+					"cn": "这个玩具看起来和真车一模一样。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Uncle Pig: I think they’ve made my tummy a bit big.",
-		"cn": "猪叔叔：我觉得他们把我的肚子画大了。"
+		"cn": "猪叔叔：我觉得他们把我的肚子画大了。",
+		"points": [
+			{
+				"en": "made my tummy a bit big",
+				"cn": "把我的肚子画大了"
+			}
+		]
 	},
 	{
 		"en": "Chloé Pig: (as puppet Uncle Pig) Ho, ho, I did enjoy my lunch.",
-		"cn": "克洛伊（扮木偶）：呵呵，我很喜欢午饭。"
+		"cn": "克洛伊（扮木偶）：呵呵，我很喜欢午饭。",
+		"sentence": {
+			"en": "I did enjoy my lunch.",
+			"cn": "我很喜欢午饭。",
+			"examples": [
+				{
+					"en": "I did enjoy the movie.",
+					"cn": "我很喜欢这部电影。"
+				},
+				{
+					"en": "I did enjoy the party.",
+					"cn": "我很喜欢这个派对。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: (as puppet Peppa) Uncle Pig, are you going to fall asleep and snore like you always do?",
-		"cn": "小猪佩奇（扮木偶）：猪叔叔，你是不是又要像平时那样睡着打呼噜？"
+		"cn": "小猪佩奇（扮木偶）：猪叔叔，你是不是又要像平时那样睡着打呼噜？",
+		"points": [
+			{
+				"en": "fall asleep",
+				"cn": "睡着"
+			}
+		]
 	},
 	{
 		"en": "Chloé Pig: (as puppet Uncle Pig) What do you mean?",
-		"cn": "克洛伊（扮木偶）：什么意思？"
+		"cn": "克洛伊（扮木偶）：什么意思？",
+		"points": [
+			{
+				"en": "What do you mean?",
+				"cn": "什么意思？"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: (as puppet Peppa) Daddy says you always fall asleep and snore loudly like this.",
@@ -215,15 +529,57 @@
 	},
 	{
 		"en": "Chloé Pig: (as puppet Uncle Pig) Ho, ho, your daddy’s right. I do snore like this.",
-		"cn": "克洛伊（扮木偶）：呵呵，你爸爸说得对，我就是这样打呼噜的。"
+		"cn": "克洛伊（扮木偶）：呵呵，你爸爸说得对，我就是这样打呼噜的。",
+		"sentence": {
+			"en": "I do snore like this.",
+			"cn": "我就是这样打呼噜的。",
+			"examples": [
+				{
+					"en": "I do like ice cream.",
+					"cn": "我确实喜欢冰淇淋。"
+				},
+				{
+					"en": "I do enjoy reading.",
+					"cn": "我确实喜欢阅读。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Daddy Pig, you shouldn’t have said those things about Uncle Pig.",
-		"cn": "猪妈妈：猪爸爸，你不该说猪叔叔的坏话。"
+		"cn": "猪妈妈：猪爸爸，你不该说猪叔叔的坏话。",
+		"sentence": {
+			"en": "You shouldn’t have said those things about Uncle Pig.",
+			"cn": "你不该说猪叔叔的坏话。",
+			"examples": [
+				{
+					"en": "You shouldn’t have eaten my lunch.",
+					"cn": "你不该吃我的午餐。"
+				},
+				{
+					"en": "You shouldn’t have gone there.",
+					"cn": "你不该去那里。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Auntie Pig: I don’t think Daddy Pig or Uncle Pig can hear you.",
-		"cn": "猪阿姨：我觉得猪爸爸和猪叔叔都听不到你说话了。"
+		"cn": "猪阿姨：我觉得猪爸爸和猪叔叔都听不到你说话了。",
+		"sentence": {
+			"en": "I don’t think Daddy Pig or Uncle Pig can hear you.",
+			"cn": "我觉得猪爸爸和猪叔叔都听不到你说话了。",
+			"examples": [
+				{
+					"en": "I don’t think he can see us.",
+					"cn": "我觉得他看不到我们。"
+				},
+				{
+					"en": "I don’t think they will come.",
+					"cn": "我觉得他们不会来了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Daddy Pig and Uncle Pig have fallen asleep.",
@@ -233,9 +589,32 @@
 		"en": "Mummy Pig: You can tell they’re brothers.",
 		"cn": "猪妈妈：一看就知道他们是兄弟。"
 	},
-	{ "en": "Uncle Pig: What happened?", "cn": "猪叔叔：发生什么了？" },
+	{
+		"en": "Uncle Pig: What happened?",
+		"cn": "猪叔叔：发生什么了？",
+		"points": [
+			{
+				"en": "What happened?",
+				"cn": "发生什么了？"
+			}
+		]
+	},
 	{
 		"en": "Daddy Pig: Has the puppet show started yet?",
-		"cn": "猪爸爸：木偶剧开始了吗？"
+		"cn": "猪爸爸：木偶剧开始了吗？",
+		"sentence": {
+			"en": "Has the puppet show started yet?",
+			"cn": "木偶剧开始了吗？",
+			"examples": [
+				{
+					"en": "Has the meeting started yet?",
+					"cn": "会议开始了吗？"
+				},
+				{
+					"en": "Has the movie started yet?",
+					"cn": "电影开始了吗？"
+				}
+			]
+		}
 	}
 ]

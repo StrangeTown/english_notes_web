@@ -1,16 +1,34 @@
 [
 	{
 		"en": "Narrator: Peppa and George are at the playground with their friends.",
-		"cn": "旁白：佩奇和乔治和朋友们在游乐场。"
+		"cn": "旁白：佩奇和乔治和朋友们在游乐场。",
+		"points": [
+			{
+				"en": "at the playground",
+				"cn": "在游乐场"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Candy Cat and Pedro Pony are on the climbing frame.",
-		"cn": "旁白：糖果猫和佩德罗小马在爬架上。"
+		"cn": "旁白：糖果猫和佩德罗小马在爬架上。",
+		"points": [
+			{
+				"en": "climbing frame",
+				"cn": "爬架"
+			}
+		]
 	},
 	{ "en": "Suzy Sheep: Whee!", "cn": "苏茜羊：咻——！" },
 	{
 		"en": "Narrator: Suzy Sheep, Danny Dog and Rebecca Rabbit are playing on the slide.",
-		"cn": "旁白：苏茜羊、丹尼狗和丽贝卡兔在玩滑梯。"
+		"cn": "旁白：苏茜羊、丹尼狗和丽贝卡兔在玩滑梯。",
+		"points": [
+			{
+				"en": "playing on the slide",
+				"cn": "玩滑梯"
+			}
+		]
 	},
 	{ "en": "Danny Dog: Whee!", "cn": "丹尼狗：咻——！" },
 	{ "en": "Rebecca Rabbit: Whee!", "cn": "丽贝卡兔：咻——！" },
@@ -19,16 +37,43 @@
 	{ "en": "Rebecca Rabbit: Whee!", "cn": "丽贝卡兔：咻——！" },
 	{
 		"en": "Narrator: Peppa is playing on the swing.",
-		"cn": "旁白：佩奇在荡秋千。"
+		"cn": "旁白：佩奇在荡秋千。",
+		"points": [
+			{
+				"en": "playing on the swing",
+				"cn": "荡秋千"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Mummy, Mummy, push me please.",
-		"cn": "小猪佩奇：妈妈，妈妈，推我一下。"
+		"cn": "小猪佩奇：妈妈，妈妈，推我一下。",
+		"points": [
+			{
+				"en": "push me please",
+				"cn": "推我一下"
+			}
+		]
 	},
-	{ "en": "Mummy Pig: Are you ready?", "cn": "猪妈妈：准备好了吗？" },
+	{
+		"en": "Mummy Pig: Are you ready?",
+		"cn": "猪妈妈：准备好了吗？",
+		"points": [
+			{
+				"en": "Are you ready?",
+				"cn": "准备好了吗？"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: Yes, I want to go really high.",
-		"cn": "小猪佩奇：好了，我想荡得很高。"
+		"cn": "小猪佩奇：好了，我想荡得很高。",
+		"points": [
+			{
+				"en": "go really high.",
+				"cn": "荡得很高"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Whee!", "cn": "小猪佩奇：咻——！" },
 	{ "en": "Peppa Pig: Higher, Mummy.", "cn": "小猪佩奇：再高一点，妈妈。" },
@@ -39,28 +84,91 @@
 	},
 	{
 		"en": "Peppa Pig: Now it’s your turn, George.",
-		"cn": "小猪佩奇：现在轮到你了，乔治。"
+		"cn": "小猪佩奇：现在轮到你了，乔治。",
+		"points": [
+			{
+				"en": "it’s your turn",
+				"cn": "轮到你了"
+			}
+		]
 	},
-	{ "en": "Mummy Pig: Hold tight.", "cn": "猪妈妈：抓紧了。" },
+	{
+		"en": "Mummy Pig: Hold tight.",
+		"cn": "猪妈妈：抓紧了。",
+		"points": [
+			{
+				"en": "Hold tight.",
+				"cn": "抓紧了"
+			}
+		]
+	},
 	{ "en": "Peppa Pig: I want to push George.", "cn": "小猪佩奇：我想推乔治。" },
 	{
 		"en": "Mummy Pig: Push George gently, Peppa.",
-		"cn": "猪妈妈：佩奇，轻轻地推乔治。"
+		"cn": "猪妈妈：佩奇，轻轻地推乔治。",
+		"sentence": {
+			"en": "Push George gently.",
+			"cn": "轻轻地推乔治。",
+			"examples": [
+				{
+					"en": "Push the door gently.",
+					"cn": "轻轻地推门。"
+				},
+				{
+					"en": "Push the button gently.",
+					"cn": "轻轻地按按钮。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Yes, Mummy.", "cn": "小猪佩奇：好的，妈妈。" },
 	{ "en": "Peppa Pig: Hold tight, George.", "cn": "小猪佩奇：抓紧了，乔治。" },
 	{ "en": "Peppa Pig: Whee!", "cn": "小猪佩奇：咻——！" },
 	{
 		"en": "Narrator: Oh, dear. Peppa has pushed George too high.",
-		"cn": "旁白：哎呀，佩奇把乔治推得太高了。"
+		"cn": "旁白：哎呀，佩奇把乔治推得太高了。",
+		"sentence": {
+			"en": "Peppa has pushed George too high.",
+			"cn": "佩奇把乔治推得太高了。",
+			"examples": [
+				{
+					"en": "She has pushed the door too hard.",
+					"cn": "她把门推得太用力了。"
+				},
+				{
+					"en": "He has pulled the rope too tight.",
+					"cn": "他把绳子拉得太紧了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: George does not like being up high.",
-		"cn": "旁白：乔治不喜欢在高处。"
+		"cn": "旁白：乔治不喜欢在高处。",
+		"points": [
+			{
+				"en": "being up high",
+				"cn": "在高处"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: Peppa, you know George is a bit scared of heights.",
-		"cn": "猪妈妈：佩奇，你知道乔治有点怕高。"
+		"cn": "猪妈妈：佩奇，你知道乔治有点怕高。",
+		"sentence": {
+			"en": "George is a bit scared of heights.",
+			"cn": "乔治有点怕高。",
+			"examples": [
+				{
+					"en": "She is a bit scared of the dark.",
+					"cn": "她有点怕黑暗。"
+				},
+				{
+					"en": "He is a bit scared of spiders.",
+					"cn": "他有点怕蜘蛛。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Sorry, George.", "cn": "小猪佩奇：对不起，乔治。" },
 	{
@@ -79,35 +187,110 @@
 	{ "en": "Danny Dog: Whee!", "cn": "丹尼狗：咻——！" },
 	{
 		"en": "Peppa Pig: You are doing it all wrong. This is the proper way to swing across.",
-		"cn": "小猪佩奇：你们做错了，应该这样荡过去。"
+		"cn": "小猪佩奇：你们做错了，应该这样荡过去。",
+		"sentence": {
+			"en": "This is the proper way to swing across.",
+			"cn": "应该这样荡过去。",
+			"examples": [
+				{
+					"en": "This is the proper way to climb a tree.",
+					"cn": "应该这样爬树。"
+				},
+				{
+					"en": "This is the proper way to ride a horse.",
+					"cn": "应该这样骑马。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Stand back.", "cn": "小猪佩奇：让开点。" },
 	{ "en": "Peppa Pig: Ready, steady, go!", "cn": "小猪佩奇：准备，预备，走！" },
 	{ "en": "Peppa Pig: Whee!", "cn": "小猪佩奇：咻——！" },
 	{
 		"en": "Peppa Pig: Look at me. I’m flying like a bird.",
-		"cn": "小猪佩奇：看我，我像小鸟一样飞起来了。"
+		"cn": "小猪佩奇：看我，我像小鸟一样飞起来了。",
+		"sentence": {
+			"en": "I’m flying like a bird.",
+			"cn": "我像小鸟一样飞起来了。",
+			"examples": [
+				{
+					"en": "I’m swimming like a fish.",
+					"cn": "我像鱼一样游泳。"
+				},
+				{
+					"en": "I’m running like the wind.",
+					"cn": "我像风一样奔跑。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Oh, I can’t get out.",
-		"cn": "小猪佩奇：哦，我出不来了。"
+		"cn": "小猪佩奇：哦，我出不来了。",
+		"points": [
+			{
+				"en": "I can’t get out.",
+				"cn": "我出不来了。"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Peppa is stuck in the tyre.",
-		"cn": "旁白：佩奇卡在轮胎里了。"
+		"cn": "旁白：佩奇卡在轮胎里了。",
+		"points": [
+			{
+				"en": "stuck in the tyre",
+				"cn": "卡在轮胎里了"
+			}
+		]
 	},
-	{ "en": "Peppa Pig: It’s not funny.", "cn": "小猪佩奇：不好笑。" },
+	{
+		"en": "Peppa Pig: It’s not funny.",
+		"cn": "小猪佩奇：不好笑。",
+		"points": [
+			{
+				"en": "It’s not funny.",
+				"cn": "不好笑。"
+			}
+		]
+	},
 	{
 		"en": "Daddy Pig: Well it does look a bit funny.",
-		"cn": "猪爸爸：不过看起来确实有点好笑。"
+		"cn": "猪爸爸：不过看起来确实有点好笑。",
+		"sentence": {
+			"en": "It does look a bit funny.",
+			"cn": "确实有点好笑。",
+			"examples": [
+				{
+					"en": "It looks a bit strange.",
+					"cn": "看起来有点奇怪。"
+				},
+				{
+					"en": "It seems a bit silly.",
+					"cn": "看起来有点傻。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: We’ll have to pull you out.",
-		"cn": "猪爸爸：我们得把你拉出来。"
+		"cn": "猪爸爸：我们得把你拉出来。",
+		"points": [
+			{
+				"en": "pull you out",
+				"cn": "把你拉出来"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Peppa’s friends are helping to free her.",
-		"cn": "旁白：佩奇的朋友们在帮她脱困。"
+		"cn": "旁白：佩奇的朋友们在帮她脱困。",
+		"points": [
+			{
+				"en": "helping to free her",
+				"cn": "帮她脱困"
+			}
+		]
 	},
 	{ "en": "Peppa’s friends: Hurrah!", "cn": "佩奇的朋友们：万岁！" },
 	{ "en": "Peppa Pig: Thank you, everyone.", "cn": "小猪佩奇：谢谢大家。" },
@@ -117,7 +300,13 @@
 	},
 	{
 		"en": "Narrator: The climbing frame is quite high. George does not like being up high.",
-		"cn": "旁白：爬架很高，乔治不喜欢在高处。"
+		"cn": "旁白：爬架很高，乔治不喜欢在高处。",
+		"points": [
+			{
+				"en": "quite high",
+				"cn": "很高"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Sorry, George. Let’s play on the slide.",
@@ -131,7 +320,13 @@
 	},
 	{
 		"en": "Peppa Pig: Mummy, Daddy, look at me.",
-		"cn": "小猪佩奇：妈妈，爸爸，看我。"
+		"cn": "小猪佩奇：妈妈，爸爸，看我。",
+		"points": [
+			{
+				"en": "look at me",
+				"cn": "看我"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Ready, steady, go.", "cn": "小猪佩奇：准备，预备，走。" },
 	{ "en": "Peppa Pig: Whee!", "cn": "小猪佩奇：咻——！" },
@@ -146,11 +341,31 @@
 	},
 	{
 		"en": "Daddy Pig: Are you sure, George? It is a bit high.",
-		"cn": "猪爸爸：你确定吗，乔治？有点高哦。"
+		"cn": "猪爸爸：你确定吗，乔治？有点高哦。",
+		"points": [
+			{
+				"en": "Are you sure?",
+				"cn": "你确定吗？"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: All right. I’ll help you up the steps.",
-		"cn": "猪爸爸：好吧，我帮你上台阶。"
+		"cn": "猪爸爸：好吧，我帮你上台阶。",
+		"sentence": {
+			"en": "I’ll help you up the steps.",
+			"cn": "我帮你上台阶。",
+			"examples": [
+				{
+					"en": "I’ll help you with your homework.",
+					"cn": "我帮你做作业。"
+				},
+				{
+					"en": "I’ll help you carry the bag.",
+					"cn": "我帮你拿包。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Narrator: Oh, dear. It is a bit too high for George.",
@@ -158,21 +373,62 @@
 	},
 	{
 		"en": "Daddy Pig: Don’t worry, George. I’ll slide down with you.",
-		"cn": "猪爸爸：别担心，乔治，我和你一起滑下去。"
+		"cn": "猪爸爸：别担心，乔治，我和你一起滑下去。",
+		"points": [
+			{
+				"en": "slide down with you",
+				"cn": "和你一起滑下去"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Daddy, you’re too big to go down the slide.",
-		"cn": "小猪佩奇：爸爸，你太大了，不能滑滑梯。"
+		"cn": "小猪佩奇：爸爸，你太大了，不能滑滑梯。",
+		"sentence": {
+			"en": "You’re too big to go down the slide.",
+			"cn": "你太大了，不能滑滑梯。",
+			"examples": [
+				{
+					"en": "You’re too big to fit in the box.",
+					"cn": "你太大了，不能进箱子。"
+				},
+				{
+					"en": "You’re too big to ride the merry-go-round.",
+					"cn": "你太大了，不能坐旋转木马。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Don’t be silly, Peppa. I’m not too big.",
-		"cn": "猪爸爸：别傻了，佩奇，我不大。"
+		"cn": "猪爸爸：别傻了，佩奇，我不大。",
+		"points": [
+			{
+				"en": "Don’t be silly",
+				"cn": "别傻了"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Stand back. Ready, steady, go.",
-		"cn": "猪爸爸：让开，准备，预备，走。"
+		"cn": "猪爸爸：让开，准备，预备，走。",
+		"points": [
+			{
+				"en": "Stand back.",
+				"cn": "让开。"
+			}
+		]
 	},
-	{ "en": "Narrator: Daddy Pig is stuck.", "cn": "旁白：猪爸爸卡住了。" },
+	{
+		"en": "Narrator: Daddy Pig is stuck.",
+		"cn": "旁白：猪爸爸卡住了。",
+		"points": [
+			{
+				"en": "Daddy Pig is stuck.",
+				"cn": "猪爸爸卡住了。"
+			}
+		]
+	},
 	{ "en": "Daddy Pig: It’s not funny.", "cn": "猪爸爸：不好笑。" },
 	{
 		"en": "Peppa Pig: It looks very funny, Daddy.",
@@ -180,23 +436,69 @@
 	},
 	{
 		"en": "Daddy Pig: Hmmm. I suppose it is a bit funny.",
-		"cn": "猪爸爸：嗯，我觉得确实有点好笑。"
+		"cn": "猪爸爸：嗯，我觉得确实有点好笑。",
+		"sentence": {
+			"en": "I suppose it is a bit funny.",
+			"cn": "我觉得确实有点好笑。",
+			"examples": [
+				{
+					"en": "I suppose it is a good idea.",
+					"cn": "我觉得这确实是个好主意。"
+				},
+				{
+					"en": "I suppose it is time to go.",
+					"cn": "我觉得是时候走了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: We’ll have to push you down.",
-		"cn": "小猪佩奇：我们得把你推下去。"
+		"cn": "小猪佩奇：我们得把你推下去。",
+		"sentence": {
+			"en": "We’ll have to push you down.",
+			"cn": "我们得把你推下去。",
+			"examples": [
+				{
+					"en": "We’ll have to pull you up.",
+					"cn": "我们得把你拉上去。"
+				},
+				{
+					"en": "We’ll have to lift you over.",
+					"cn": "我们得把你抬过去。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Whee!", "cn": "小猪佩奇：咻——！" },
 	{
 		"en": "Peppa Pig: Daddy’s tummy is just like a bouncy castle.",
-		"cn": "小猪佩奇：爸爸的肚子就像弹跳城堡。"
+		"cn": "小猪佩奇：爸爸的肚子就像弹跳城堡。",
+		"points": [
+			{
+				"en": "bouncy castle",
+				"cn": "弹跳城堡"
+			}
+		]
 	},
 	{
 		"en": "Narrator: George loves bouncing on Daddy’s tummy.",
-		"cn": "旁白：乔治喜欢在爸爸肚子上跳。"
+		"cn": "旁白：乔治喜欢在爸爸肚子上跳。",
+		"points": [
+			{
+				"en": "bouncing on Daddy’s tummy",
+				"cn": "在爸爸肚子上跳"
+			}
+		]
 	},
 	{
 		"en": "Narrator: George isn’t afraid of heights anymore.",
-		"cn": "旁白：乔治再也不怕高了。"
+		"cn": "旁白：乔治再也不怕高了。",
+		"points": [
+			{
+				"en": "isn’t afraid of heights anymore",
+				"cn": "再也不怕高了"
+			}
+		]
 	}
 ]

@@ -7,32 +7,84 @@
 	{ "en": "George: Dankie ‘ig!", "cn": "乔治：奶奶！" },
 	{
 		"en": "Granny Pig: Hello, my little ones. Before you come in the house you must take off your muddy boots.",
-		"cn": "猪奶奶：你们好，宝贝们。进屋前要脱掉你们的泥靴哦。"
+		"cn": "猪奶奶：你们好，宝贝们。进屋前要脱掉你们的泥靴哦。",
+		"sentence": {
+			"en": "Before you come in the house you must take off your muddy boots.",
+			"cn": "进屋前要脱掉你们的泥靴哦。",
+			"examples": [
+				{
+					"en": "Before you enter the room, please remove your shoes.",
+					"cn": "进房间前请脱掉你的鞋子。"
+				},
+				{
+					"en": "Before you sit on the sofa, take off your muddy boots.",
+					"cn": "坐沙发前请脱掉你的泥靴。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Yes, Granny.", "cn": "小猪佩奇：好的，奶奶。" },
 	{
 		"en": "Granny Pig: Peppa, George, look what I’ve made. Little curtains.",
-		"cn": "猪奶奶：佩奇，乔治，看看我做了什么。小窗帘。"
+		"cn": "猪奶奶：佩奇，乔治，看看我做了什么。小窗帘。",
+		"points": [
+			{
+				"en": "look what I’ve made",
+				"cn": "看看我做了什么"
+			}
+		]
 	},
 	{ "en": "Peppa and George: Oo-oo.", "cn": "佩奇和乔治：哦——" },
 	{
 		"en": "Peppa Pig: What are the little curtains for, Granny?",
-		"cn": "小猪佩奇：奶奶，这些小窗帘是做什么的？"
+		"cn": "小猪佩奇：奶奶，这些小窗帘是做什么的？",
+		"sentence": {
+			"en": "What are the little curtains for, Granny?",
+			"cn": "奶奶，这些小窗帘是做什么的？",
+			"examples": [
+				{
+					"en": "What is this tool for, Daddy?",
+					"cn": "爸爸，这个工具是做什么的？"
+				},
+				{
+					"en": "What are these flowers for, Mummy?",
+					"cn": "妈妈，这些花是用来干什么的？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Granny Pig: It’s a surprise. Do you want to see what Grandpa Pig has made for you in the garden?",
-		"cn": "猪奶奶：是个惊喜。你们想看看爷爷在花园里为你们做了什么吗？"
+		"cn": "猪奶奶：是个惊喜。你们想看看爷爷在花园里为你们做了什么吗？",
+		"points": [
+			{
+				"en": "what Grandpa Pig has made",
+				"cn": "爷爷做了什么"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Yes, please.", "cn": "小猪佩奇：想！" },
 	{ "en": "Peppa Pig: Grandpa Pig!", "cn": "小猪佩奇：爷爷！" },
 	{ "en": "George: Papa ‘ig!", "cn": "乔治：爷爷！" },
 	{
 		"en": "Grandpa Pig: Hello, Peppa, George. Look what I’ve made for you. A tree house.",
-		"cn": "猪爷爷：你好，佩奇，乔治。看看我为你们做了什么。一个树屋。"
+		"cn": "猪爷爷：你好，佩奇，乔治。看看我为你们做了什么。一个树屋。",
+		"points": [
+			{
+				"en": "a tree house",
+				"cn": "一个树屋"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: A tree house? For George and me?",
-		"cn": "小猪佩奇：树屋？给我和乔治的吗？"
+		"cn": "小猪佩奇：树屋？给我和乔治的吗？",
+		"points": [
+			{
+				"en": "for George and me",
+				"cn": "给我和乔治的"
+			}
+		]
 	},
 	{
 		"en": "Granny Pig: And the little curtains are for your tree house.",
@@ -49,17 +101,54 @@
 	},
 	{
 		"en": "Grandpa Pig: Who wants to go inside first?",
-		"cn": "猪爷爷：谁想先进去？"
+		"cn": "猪爷爷：谁想先进去？",
+		"sentence": {
+			"en": "Who wants to go inside first?",
+			"cn": "谁想先进去？",
+			"examples": [
+				{
+					"en": "Who wants to play with the ball first?",
+					"cn": "谁想先玩球？"
+				},
+				{
+					"en": "Who wants to try the new game first?",
+					"cn": "谁想先试试这个新游戏？"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Me, me!", "cn": "小猪佩奇：我，我！" },
-	{ "en": "Grandpa Pig: In you go then.", "cn": "猪爷爷：那你进去吧。" },
+	{
+		"en": "Grandpa Pig: In you go then.",
+		"cn": "猪爷爷：那你进去吧。",
+		"points": [
+			{
+				"en": "In you go then",
+				"cn": "那你进去吧"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: Before I go in my tree house I must take off my muddy boots.",
 		"cn": "小猪佩奇：进树屋前我要脱掉我的泥靴。"
 	},
 	{
 		"en": "Peppa Pig: I’m in my tree house.",
-		"cn": "小猪佩奇：我在我的树屋里。"
+		"cn": "小猪佩奇：我在我的树屋里。",
+		"sentence": {
+			"en": "I’m in my tree house.",
+			"cn": "我在我的树屋里。",
+			"examples": [
+				{
+					"en": "I’m in my room.",
+					"cn": "我在我的房间里。"
+				},
+				{
+					"en": "I’m in the garden.",
+					"cn": "我在花园里。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: I’m in my tree house.",
@@ -67,16 +156,63 @@
 	},
 	{
 		"en": "Daddy Pig: George, would you like to go in the tree house, too?",
-		"cn": "猪爸爸：乔治，你也想进树屋吗？"
+		"cn": "猪爸爸：乔治，你也想进树屋吗？",
+		"sentence": {
+			"en": "Would you like to go in the tree house, too?",
+			"cn": "你也想进树屋吗？",
+			"examples": [
+				{
+					"en": "Would you like to play with us?",
+					"cn": "你想和我们一起玩吗？"
+				},
+				{
+					"en": "Would you like to join the game?",
+					"cn": "你想加入游戏吗？"
+				}
+			]
+		}
 	},
-	{ "en": "Peppa Pig: Yes, who is it?", "cn": "小猪佩奇：谁呀？" },
+	{
+		"en": "Peppa Pig: Yes, who is it?",
+		"cn": "小猪佩奇：谁呀？",
+		"points": [
+			{
+				"en": "Yes, who is it?",
+				"cn": "谁呀？"
+			}
+		]
+	},
 	{
 		"en": "Daddy Pig: A young pig named George would like to pay a visit. Can he come in?",
-		"cn": "猪爸爸：有个叫乔治的小猪想来拜访，可以进来吗？"
+		"cn": "猪爸爸：有个叫乔治的小猪想来拜访，可以进来吗？",
+		"points": [
+			{
+				"en": "A young pig named George",
+				"cn": "有个叫乔治的小猪"
+			},
+			{
+				"en": "Can he come in?",
+				"cn": "可以进来吗？"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: As long as he takes off his muddy boots.",
-		"cn": "小猪佩奇：只要他脱掉泥靴就可以。"
+		"cn": "小猪佩奇：只要他脱掉泥靴就可以。",
+		"sentence": {
+			"en": "As long as he takes off his muddy boots.",
+			"cn": "只要他脱掉泥靴就可以。",
+			"examples": [
+				{
+					"en": "You can join the game as long as you follow the rules.",
+					"cn": "只要你遵守规则，你就可以参加游戏。"
+				},
+				{
+					"en": "You can come to the party as long as you bring a gift.",
+					"cn": "只要你带礼物，你就可以来参加派对。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: George, take your boots off. Then you can visit Peppa in the tree house.",
@@ -87,36 +223,101 @@
 	{ "en": "Peppa Pig: Yes, who is it?", "cn": "小猪佩奇：谁呀？" },
 	{
 		"en": "Mummy Pig: It’s Mummy Pig. Have you room for any more visitors?",
-		"cn": "猪妈妈：是妈妈。还有地方再进来一个人吗？"
+		"cn": "猪妈妈：是妈妈。还有地方再进来一个人吗？",
+		"sentence": {
+			"en": "Have you room for any more visitors?",
+			"cn": "还有地方再进来一个人吗？",
+			"examples": [
+				{
+					"en": "Have you room for one more player?",
+					"cn": "还有地方再进来一个玩家吗？"
+				},
+				{
+					"en": "Have you room for another guest?",
+					"cn": "还有地方再进来一个客人吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Mmm? You have to say the secret words. Then you can come into our house.",
-		"cn": "小猪佩奇：嗯？你得说暗号才能进来。"
+		"cn": "小猪佩奇：嗯？你得说暗号才能进来。",
+		"points": [
+			{
+				"en": "secret words.",
+				"cn": "暗号"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: I see. And what are the secret words?",
-		"cn": "猪妈妈：我明白了。暗号是什么？"
+		"cn": "猪妈妈：我明白了。暗号是什么？",
+		"points": [
+			{
+				"en": "I see",
+				"cn": "我明白了"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: I have to whisper them to you. The secret words are: “Daddy’s big tummy.”",
-		"cn": "小猪佩奇：我得悄悄告诉你。暗号是：‘爸爸的大肚子’。"
+		"cn": "小猪佩奇：我得悄悄告诉你。暗号是：‘爸爸的大肚子’。",
+		"points": [
+			{
+				"en": "whisper them to you",
+				"cn": "悄悄告诉你"
+			},
+			{
+				"en": "Daddy’s big tummy",
+				"cn": "爸爸的大肚子"
+			}
+		]
 	},
 	{ "en": "Mummy Pig: I see.", "cn": "猪妈妈：我知道了。" },
 	{ "en": "Peppa Pig: Say the secret words.", "cn": "小猪佩奇：说暗号。" },
 	{ "en": "Mummy Pig: Daddy’s big tummy.", "cn": "猪妈妈：爸爸的大肚子。" },
 	{
 		"en": "Peppa Pig: That’s right! Daddy’s big tummy!",
-		"cn": "小猪佩奇：对！爸爸的大肚子！"
+		"cn": "小猪佩奇：对！爸爸的大肚子！",
+		"points": [
+			{
+				"en": "That’s right!",
+				"cn": "对！"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: I think those are silly secret words.",
-		"cn": "猪爸爸：我觉得这个暗号太傻了。"
+		"cn": "猪爸爸：我觉得这个暗号太傻了。",
+		"sentence": {
+			"en": "I think those are silly secret words.",
+			"cn": "我觉得这个暗号太傻了。",
+			"examples": [
+				{
+					"en": "I think that’s a silly idea.",
+					"cn": "我觉得这是个傻主意。"
+				},
+				{
+					"en": "I think those are silly rules.",
+					"cn": "我觉得这些规则很傻。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: Mummy, before you come in our house you must take off your boots.",
 		"cn": "小猪佩奇：妈妈，进屋前你要脱掉靴子。"
 	},
-	{ "en": "Mummy Pig: Of course.", "cn": "猪妈妈：当然。" },
+	{
+		"en": "Mummy Pig: Of course.",
+		"cn": "猪妈妈：当然。",
+		"points": [
+			{
+				"en": "Of course",
+				"cn": "当然"
+			}
+		]
+	},
 	{
 		"en": "Peppa Pig: There’s room for Daddy, too.",
 		"cn": "小猪佩奇：还有爸爸的位置。"
@@ -127,21 +328,64 @@
 	},
 	{
 		"en": "Daddy Pig: Can I have different secret words, please?",
-		"cn": "猪爸爸：我能不能换个暗号？"
+		"cn": "猪爸爸：我能不能换个暗号？",
+		"sentence": {
+			"en": "Can I have different secret words, please?",
+			"cn": "我能不能换个暗号？",
+			"examples": [
+				{
+					"en": "Can I have a different color, please?",
+					"cn": "我能不能换个颜色？"
+				},
+				{
+					"en": "Can I have a different flavor, please?",
+					"cn": "我能不能换个口味？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig, Peppa Pig and George: No.",
 		"cn": "猪妈妈、佩奇和乔治：不行。"
 	},
-	{ "en": "Daddy Pig: Oh, all right.", "cn": "猪爸爸：好吧。" },
+	{
+		"en": "Daddy Pig: Oh, all right.",
+		"cn": "猪爸爸：好吧。",
+		"points": [
+			{
+				"en": "Oh, all right",
+				"cn": "好吧"
+			}
+		]
+	},
 	{ "en": "Daddy Pig: Daddy’s big tummy.", "cn": "猪爸爸：爸爸的大肚子。" },
 	{
 		"en": "Peppa Pig: That’s right. You can come in now, Daddy. Take your boots off.",
-		"cn": "小猪佩奇：对了，爸爸，你现在可以进来了，记得脱靴子。"
+		"cn": "小猪佩奇：对了，爸爸，你现在可以进来了，记得脱靴子。",
+		"points": [
+			{
+				"en": "You can come in now",
+				"cn": "你现在可以进来了"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: I don’t think I can fit through the door.",
-		"cn": "猪爸爸：我觉得我进不去门。"
+		"cn": "猪爸爸：我觉得我进不去门。",
+		"sentence": {
+			"en": "I don’t think I can fit through the door.",
+			"cn": "我觉得我进不去门。",
+			"examples": [
+				{
+					"en": "I don’t think I can fit in this chair.",
+					"cn": "我觉得我坐不下这个椅子。"
+				},
+				{
+					"en": "I don’t think I can fit in that car.",
+					"cn": "我觉得我坐不下那辆车。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: That’s because your tummy’s too big.",
@@ -149,7 +393,13 @@
 	},
 	{
 		"en": "Grandpa Pig: I know. Daddy Pig can climb in through the top.",
-		"cn": "猪爷爷：我有办法，爸爸可以从上面爬进来。"
+		"cn": "猪爷爷：我有办法，爸爸可以从上面爬进来。",
+		"points": [
+			{
+				"en": "climb in through the top",
+				"cn": "从上面爬进来"
+			}
+		]
 	},
 	{
 		"en": "Narrator: Peppa, George, Mummy Pig and Daddy Pig are all in the tree house.",
@@ -157,11 +407,39 @@
 	},
 	{
 		"en": "Peppa Pig: Granny, I love our tree house. I don’t want to ever come out.",
-		"cn": "小猪佩奇：奶奶，我喜欢我们的树屋，我不想出来。"
+		"cn": "小猪佩奇：奶奶，我喜欢我们的树屋，我不想出来。",
+		"sentence": {
+			"en": "I don’t want to ever come out.",
+			"cn": "我不想出来。",
+			"examples": [
+				{
+					"en": "I don’t want to ever leave this place.",
+					"cn": "我不想离开这个地方。"
+				},
+				{
+					"en": "I don’t want to ever stop playing.",
+					"cn": "我不想停止玩耍。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Granny Pig: That’s nice, Peppa. But are you sure you don’t want to visit me in my house?",
-		"cn": "猪奶奶：真好，佩奇。但你确定不来我家看看吗？"
+		"cn": "猪奶奶：真好，佩奇。但你确定不来我家看看吗？",
+		"sentence": {
+			"en": "Are you sure you don’t want to visit me in my house?",
+			"cn": "你确定不来我家看看吗？",
+			"examples": [
+				{
+					"en": "Are you sure you don’t want to play with us?",
+					"cn": "你确定不想和我们一起玩吗？"
+				},
+				{
+					"en": "Are you sure you don’t want to try this food?",
+					"cn": "你确定不想尝尝这个食物吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: No, thank you, Granny.",
@@ -169,13 +447,33 @@
 	},
 	{
 		"en": "Granny Pig: In that case Grandpa Pig and I will just have to eat my homemade cookies all by ourselves.",
-		"cn": "猪奶奶：那爷爷和我只好自己吃我做的饼干了。"
+		"cn": "猪奶奶：那爷爷和我只好自己吃我做的饼干了。",
+		"points": [
+			{
+				"en": "homemade cookies",
+				"cn": "自制饼干"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Cookies!", "cn": "小猪佩奇：饼干！" },
 	{ "en": "Peppa Pig: Granny Pig!", "cn": "小猪佩奇：奶奶！" },
 	{
 		"en": "Granny Pig: Here are my homemade cookies. But if you want to come in you have to say the secret words.",
-		"cn": "猪奶奶：这是我做的饼干，但想进来要说暗号。"
+		"cn": "猪奶奶：这是我做的饼干，但想进来要说暗号。",
+		"sentence": {
+			"en": "If you want to come in you have to say the secret words.",
+			"cn": "想进来要说暗号。",
+			"examples": [
+				{
+					"en": "If you want to play, you have to follow the rules.",
+					"cn": "想玩就得遵守规则。"
+				},
+				{
+					"en": "If you want to join us, you have to agree to our terms.",
+					"cn": "想加入我们，你得同意我们的条件。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: That’s easy. Daddy’s big tummy!",
@@ -184,6 +482,20 @@
 	{ "en": "Granny Pig: That’s right.", "cn": "猪奶奶：对了。" },
 	{
 		"en": "Daddy Pig: Well I still think that those are very silly secret words.",
-		"cn": "猪爸爸：不过我还是觉得这个暗号很傻。"
+		"cn": "猪爸爸：不过我还是觉得这个暗号很傻。",
+		"sentence": {
+			"en": "I still think that those are very silly secret words.",
+			"cn": "我还是觉得这个暗号很傻。",
+			"examples": [
+				{
+					"en": "I still think that’s a silly idea.",
+					"cn": "我还是觉得这是个傻主意。"
+				},
+				{
+					"en": "I still think those are silly rules.",
+					"cn": "我还是觉得这些规则很傻。"
+				}
+			]
+		}
 	}
 ]

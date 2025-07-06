@@ -1,21 +1,53 @@
 [
 	{
 		"en": "Narrator: Peppa and George are in their bedroom playing with their toys.",
-		"cn": "旁白：佩奇和乔治正在他们的卧室里玩玩具。"
+		"cn": "旁白：佩奇和乔治正在他们的卧室里玩玩具。",
+		"points": [
+			{
+				"en": "in their bedroom",
+				"cn": "在他们的卧室里"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: George, let’s play dollies and dinosaurs.",
-		"cn": "佩奇：乔治，我们来玩洋娃娃和恐龙吧。"
+		"cn": "佩奇：乔治，我们来玩洋娃娃和恐龙吧。",
+		"points": [
+			{
+				"en": "dollies and dinosaurs",
+				"cn": "洋娃娃和恐龙"
+			}
+		]
 	},
 	{ "en": "George: Grrr.", "cn": "乔治：嗷呜。" },
 	{
 		"en": "Peppa Pig: (as dolly) What is that? It looks like a horrible monster.",
-		"cn": "佩奇（扮作洋娃娃）：那是什么？看起来像个可怕的怪物。"
+		"cn": "佩奇（扮作洋娃娃）：那是什么？看起来像个可怕的怪物。",
+		"sentence": {
+			"en": "It looks like a horrible monster.",
+			"cn": "看起来像个可怕的怪物。",
+			"examples": [
+				{
+					"en": "It looks like a beautiful flower.",
+					"cn": "看起来像一朵美丽的花。"
+				},
+				{
+					"en": "It looks like a big tree.",
+					"cn": "看起来像一棵大树。"
+				}
+			]
+		}
 	},
 	{ "en": "George: Dinosaur. Grrr.", "cn": "乔治：恐龙。嗷呜。" },
 	{
 		"en": "Peppa Pig: (as dolly) Aah, it’s a dinosaur! Help! Help!",
-		"cn": "佩奇（扮作洋娃娃）：啊，是恐龙！救命！救命！"
+		"cn": "佩奇（扮作洋娃娃）：啊，是恐龙！救命！救命！",
+		"points": [
+			{
+				"en": "Help! Help!",
+				"cn": "救命！救命！"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: (as dolly) Help, help!",
@@ -23,9 +55,40 @@
 	},
 	{
 		"en": "Narrator: Daddy Pig is in the sitting room reading his newspaper. Mummy Pig is reading her book.",
-		"cn": "旁白：猪爸爸在客厅看报纸，猪妈妈在看书。"
+		"cn": "旁白：猪爸爸在客厅看报纸，猪妈妈在看书。",
+		"sentence": {
+			"en": "Daddy Pig is in the sitting room.",
+			"cn": "猪爸爸在客厅。",
+			"examples": [
+				{
+					"en": "Mummy Pig is in the kitchen.",
+					"cn": "猪妈妈在厨房。"
+				},
+				{
+					"en": "Peppa Pig is in the garden.",
+					"cn": "佩奇在花园。"
+				}
+			]
+		}
 	},
-	{ "en": "Daddy Pig: What are they doing?", "cn": "猪爸爸：他们在干什么？" },
+	{ 
+		"en": "Daddy Pig: What are they doing?", 
+		"cn": "猪爸爸：他们在干什么？",
+		"sentence": {
+			"en": "What are they doing?",
+			"cn": "他们在干什么？",
+			"examples": [
+				{
+					"en": "What is he doing?",
+					"cn": "他在干什么？"
+				},
+				{
+					"en": "What are you doing?",
+					"cn": "你在干什么？"
+				}
+			]
+		}
+	},
 	{
 		"en": "Peppa Pig: (as dolly) Help, help!",
 		"cn": "佩奇（扮作洋娃娃）：救命，救命！"
@@ -33,17 +96,52 @@
 	{ "en": "George: Grrr.", "cn": "乔治：嗷呜。" },
 	{
 		"en": "Daddy Pig: Peppa, George, what’s going on?",
-		"cn": "猪爸爸：佩奇，乔治，发生什么事了？"
+		"cn": "猪爸爸：佩奇，乔治，发生什么事了？",
+		"points": [
+			{
+				"en": "What’s going on?",
+				"cn": "发生什么事了？"
+			}
+		]
 	},
-	{ "en": "Daddy Pig: What’s all this noise?", "cn": "猪爸爸：怎么这么吵？" },
+	{ 
+		"en": "Daddy Pig: What’s all this noise?", 
+		"cn": "猪爸爸：怎么这么吵？",
+		"points": [
+			{
+				"en": "What’s all this noise?",
+				"cn": "怎么这么吵？"
+			}
+		]
+	},
 	{ "en": "Daddy Pig: Whoa! Help!", "cn": "猪爸爸：哇！救命！" },
 	{
 		"en": "Mummy Pig: What on earth is going on?",
-		"cn": "猪妈妈：到底发生了什么？"
+		"cn": "猪妈妈：到底发生了什么？",
+		"points": [
+			{
+				"en": "What on earth is going on?",
+				"cn": "到底发生了什么？"
+			}
+		]
 	},
 	{
 		"en": "Mummy Pig: What a lot of noise! And look at all this mess on the floor. Someone could trip over and hurt themselves.",
-		"cn": "猪妈妈：好吵啊！你们看看地上的这些乱七八糟的东西。有人会被绊倒受伤的。"
+		"cn": "猪妈妈：好吵啊！你们看看地上的这些乱七八糟的东西。有人会被绊倒受伤的。",
+		"points": [
+			{
+				"en": "What a lot of noise!",
+				"cn": "好吵啊！"
+			},
+			{
+				"en": "all this mess on the floor",
+				"cn": "地上的这些乱七八糟的东西"
+			},
+			{
+				"en": "trip over",
+				"cn": "被绊倒"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Someone did trip over and hurt themselves.",
@@ -51,7 +149,21 @@
 	},
 	{
 		"en": "Mummy Pig: Oh, dear. Poor Daddy Pig. Come on, children. Let’s do a bit of tidying up.",
-		"cn": "猪妈妈：哦，天哪。可怜的猪爸爸。来吧，孩子们，我们来收拾一下。"
+		"cn": "猪妈妈：哦，天哪。可怜的猪爸爸。来吧，孩子们，我们来收拾一下。",
+		"sentence": {
+			"en": "Let’s do a bit of tidying up.",
+			"cn": "我们来收拾一下。",
+			"examples": [
+				{
+					"en": "Let’s do a bit of cleaning.",
+					"cn": "我们来清理一下。"
+				},
+				{
+					"en": "Let’s do a bit of cooking.",
+					"cn": "我们来做点饭。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: But, Mummy, we’re playing dollies and dinosaurs.",
@@ -59,20 +171,76 @@
 	},
 	{
 		"en": "Mummy Pig: You can play again when you’ve tidied up.",
-		"cn": "猪妈妈：等你们收拾好后可以继续玩。"
+		"cn": "猪妈妈：等你们收拾好后可以继续玩。",
+		"sentence": {
+			"en": "You can play again when you’ve tidied up.",
+			"cn": "等你们收拾好后可以继续玩。",
+			"examples": [
+				{
+					"en": "You can eat again when you’re hungry.",
+					"cn": "等你饿了可以再吃。"
+				},
+				{
+					"en": "You can watch TV again when you finish your homework.",
+					"cn": "等你做完作业可以再看电视。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Peppa Pig: But it’s all George’s mess.",
-		"cn": "佩奇：可这些都是乔治弄乱的。"
+		"cn": "佩奇：可这些都是乔治弄乱的。",
+		"sentence": {
+			"en": "It’s all George’s mess.",
+			"cn": "都是乔治弄乱的。",
+			"examples": [
+				{
+					"en": "It’s all my fault.",
+					"cn": "都是我的错。"
+				},
+				{
+					"en": "It’s all your idea.",
+					"cn": "都是你的主意。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Is it really? So this must be one of George’s lovely dresses.",
-		"cn": "猪爸爸：真的吗？那这一定是乔治漂亮的裙子了。"
+		"cn": "猪爸爸：真的吗？那这一定是乔治漂亮的裙子了。",
+		"sentence": {
+			"en": "So this must be one of George’s lovely dresses.",
+			"cn": "那这一定是乔治漂亮的裙子了。",
+			"examples": [
+				{
+					"en": "So this must be one of my favorite toys.",
+					"cn": "那这一定是我最喜欢的玩具之一。"
+				},
+				{
+					"en": "So this must be one of your best books.",
+					"cn": "那这一定是你最好的书之一。"
+				}
+			]
+		}
 	},
 	{ "en": "George: No.", "cn": "乔治：不是。" },
 	{
 		"en": "Peppa Pig: Well maybe some of the mess is mine.",
-		"cn": "佩奇：好吧，也许有些是我弄的。"
+		"cn": "佩奇：好吧，也许有些是我弄的。",
+		"sentence": {
+			"en": "Maybe some of the mess is mine.",
+			"cn": "也许有些是我弄的。",
+			"examples": [
+				{
+					"en": "Maybe some of the toys are yours.",
+					"cn": "也许有些玩具是你的。"
+				},
+				{
+					"en": "Maybe some of the books are mine.",
+					"cn": "也许有些书是我的。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Right. I’ll help George tidy, and Mummy Pig can help Peppa.",
@@ -80,20 +248,64 @@
 	},
 	{
 		"en": "Peppa Pig: We can have a race. Girls against boys.",
-		"cn": "佩奇：我们可以比赛，女生对男生。"
+		"cn": "佩奇：我们可以比赛，女生对男生。",
+		"points": [
+			{
+				"en": "We can have a race.",
+				"cn": "我们可以比赛。"
+			},
+			{
+				"en": "Girls against boys.",
+				"cn": "女生对男生。"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Good idea. Let’s see who can tidy up first. Ready, steady, go!",
-		"cn": "猪爸爸：好主意。看看谁先收拾好。预备，开始！"
+		"cn": "猪爸爸：好主意。看看谁先收拾好。预备，开始！",
+		"sentence": {
+			"en": "Let’s see who can tidy up first.",
+			"cn": "看看谁先收拾好。",
+			"examples": [
+				{
+					"en": "Let’s see who can run the fastest.",
+					"cn": "看看谁跑得最快。"
+				},
+				{
+					"en": "Let’s see who can eat the most.",
+					"cn": "看看谁吃得最多。"
+				}
+			]
+		}
 	},
 	{ "en": "Daddy Pig: We’re winning!", "cn": "猪爸爸：我们要赢了！" },
 	{
 		"en": "Peppa Pig: No you’re not. There. Oh. What’s this? Teddy. I’ve been looking for you.",
-		"cn": "佩奇：你们才没有。好了。哦，这是什么？泰迪熊，我一直在找你。"
+		"cn": "佩奇：你们才没有。好了。哦，这是什么？泰迪熊，我一直在找你。",
+		"sentence": {
+			"en": "I’ve been looking for you.",
+			"cn": "我一直在找你。",
+			"examples": [
+				{
+					"en": "I’ve been waiting for you.",
+					"cn": "我一直在等你。"
+				},
+				{
+					"en": "I’ve been searching for my keys.",
+					"cn": "我一直在找我的钥匙。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Quick, Peppa. Put Teddy in your toy basket.",
-		"cn": "猪妈妈：快点，佩奇，把泰迪熊放进你的玩具篮里。"
+		"cn": "猪妈妈：快点，佩奇，把泰迪熊放进你的玩具篮里。",
+		"points": [
+			{
+				"en": "your toy basket.",
+				"cn": "你的玩具篮里。"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: There. Now these books. Lovely.",
@@ -101,32 +313,76 @@
 	},
 	{
 		"en": "Daddy Pig: What do we have here?",
-		"cn": "猪爸爸：我们这里有什么？"
+		"cn": "猪爸爸：我们这里有什么？",
+		"sentence": {
+			"en": "What do we have here?",
+			"cn": "我们这里有什么？",
+			"examples": [
+				{
+					"en": "What do you have in your bag?",
+					"cn": "你包里有什么？"
+				},
+				{
+					"en": "What do we need for the picnic?",
+					"cn": "我们野餐需要什么？"
+				}
+			]
+		}
 	},
 	{ "en": "George: Dinosaur.", "cn": "乔治：恐龙。" },
 	{
 		"en": "Daddy Pig: That’s right. It’s a dinosaur book.",
-		"cn": "猪爸爸：没错，是一本恐龙书。"
+		"cn": "猪爸爸：没错，是一本恐龙书。",
+		"points": [
+			{
+				"en": "That’s right",
+				"cn": "没错"
+			}
+		]
 	},
 	{
 		"en": "Narrator: It’s George’s pop-up dinosaur book.",
-		"cn": "旁白：这是乔治的立体恐龙书。"
+		"cn": "旁白：这是乔治的立体恐龙书。",
+		"points": [
+			{
+				"en": "pop-up dinosaur book.",
+				"cn": "立体恐龙书。"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: This is a tyrannosaurus rex.",
-		"cn": "猪爸爸：这是霸王龙。"
+		"cn": "猪爸爸：这是霸王龙。",
+		"points": [
+			{
+				"en": "tyrannosaurus rex",
+				"cn": "霸王龙"
+			}
+		]
 	},
 	{ "en": "George: Tyrannosaurus rex.", "cn": "乔治：霸王龙。" },
 	{ "en": "Daddy Pig: That’s right.", "cn": "猪爸爸：没错。" },
 	{
 		"en": "Daddy Pig: Oh. This is a brontosaurus.",
-		"cn": "猪爸爸：哦，这是雷龙。"
+		"cn": "猪爸爸：哦，这是雷龙。",
+		"points": [
+			{
+				"en": "brontosaurus",
+				"cn": "雷龙"
+			}
+		]
 	},
 	{ "en": "George: Brontosaurus.", "cn": "乔治：雷龙。" },
 	{ "en": "Daddy Pig: Yes.", "cn": "猪爸爸：对。" },
 	{
 		"en": "Daddy Pig: And this is a triceratops.",
-		"cn": "猪爸爸：这是三角龙。"
+		"cn": "猪爸爸：这是三角龙。",
+		"points": [
+			{
+				"en": "triceratops",
+				"cn": "三角龙"
+			}
+		]
 	},
 	{ "en": "George: Triceratops.", "cn": "乔治：三角龙。" },
 	{ "en": "Daddy Pig: Well done, George.", "cn": "猪爸爸：干得好，乔治。" },
@@ -136,15 +392,49 @@
 	},
 	{
 		"en": "Peppa Pig: Daddy, George, you’ve stopped tidying up. You’ll lose the race.",
-		"cn": "佩奇：爸爸，乔治，你们不收拾了，会输掉比赛的。"
+		"cn": "佩奇：爸爸，乔治，你们不收拾了，会输掉比赛的。",
+		"sentence": {
+			"en": "You’ll lose the race.",
+			"cn": "你们会输掉比赛的。",
+			"examples": [
+				{
+					"en": "You’ll miss the bus.",
+					"cn": "你们会错过公交车。"
+				},
+				{
+					"en": "You’ll break the toy.",
+					"cn": "你们会弄坏玩具。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: Oh, yes, the race. Come on, George. Put this back on the bookshelf.",
-		"cn": "猪爸爸：哦，对，比赛。快，乔治，把这本书放回书架。"
+		"cn": "猪爸爸：哦，对，比赛。快，乔治，把这本书放回书架。",
+		"points": [
+			{
+				"en": "Put this back on the bookshelf",
+				"cn": "把这本书放回书架"
+			}
+		]
 	},
 	{
 		"en": "Peppa Pig: Daddy, you’re very slow at tidying up. Mummy and I are going to win.",
-		"cn": "佩奇：爸爸，你收拾得太慢了。妈妈和我会赢的。"
+		"cn": "佩奇：爸爸，你收拾得太慢了。妈妈和我会赢的。",
+		"sentence": {
+			"en": "Mummy and I are going to win.",
+			"cn": "妈妈和我会赢的。",
+			"examples": [
+				{
+					"en": "Daddy and I are going to play.",
+					"cn": "爸爸和我要玩。"
+				},
+				{
+					"en": "Peppa and George are going to eat.",
+					"cn": "佩奇和乔治要吃。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig: No, we’re going to win.",
@@ -154,28 +444,94 @@
 	{ "en": "Peppa Pig: No, we win.", "cn": "佩奇：不，是我们赢了。" },
 	{
 		"en": "Mummy Pig: We all win. Look how tidy the room is.",
-		"cn": "猪妈妈：我们都赢了。看看房间多整洁。"
+		"cn": "猪妈妈：我们都赢了。看看房间多整洁。",
+		"points": [
+			{
+				"en": "We all win.",
+				"cn": "我们都赢了。"
+			}
+		],
+		"sentence": {
+			"en": "Look how tidy the room is.",
+			"cn": "看看房间多整洁。",
+			"examples": [
+				{
+					"en": "Look how beautiful the garden is.",
+					"cn": "看看花园多美。"
+				},
+				{
+					"en": "Look how clean the car is.",
+					"cn": "看看车多干净。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Daddy Pig, Mummy Pig, Peppa Pig, George: Hurrah!",
 		"cn": "猪爸爸、猪妈妈、佩奇、乔治：万岁！"
 	},
-	{ "en": "Narrator: What a tidy room.", "cn": "旁白：房间真整洁。" },
+	{ 
+		"en": "Narrator: What a tidy room.", 
+		"cn": "旁白：房间真整洁。",
+		"sentence": {
+			"en": "What a tidy room.",
+			"cn": "房间真整洁。",
+			"examples": [
+				{
+					"en": "What a beautiful day.",
+					"cn": "多美好的一天。"
+				},
+				{
+					"en": "What a lovely garden.",
+					"cn": "多美丽的花园。"
+				}
+			]
+		}
+	},
 	{ "en": "Daddy Pig: Well done, everyone.", "cn": "猪爸爸：大家干得好。" },
 	{
 		"en": "Peppa Pig: Mummy, now that we’ve tidied our room, can we play dollies and dinosaurs again?",
-		"cn": "佩奇：妈妈，现在我们已经收拾好了，可以再玩洋娃娃和恐龙吗？"
+		"cn": "佩奇：妈妈，现在我们已经收拾好了，可以再玩洋娃娃和恐龙吗？",
+		"sentence": {
+			"en": "can we play dollies and dinosaurs again?",
+			"cn": "可以再玩洋娃娃和恐龙吗？",
+			"examples": [
+				{
+					"en": "Can we watch TV again?",
+					"cn": "可以再看电视吗？"
+				},
+				{
+					"en": "Can we go to the park again?",
+					"cn": "可以再去公园吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Mummy Pig: Yes, you can carry on with your game now.",
-		"cn": "猪妈妈：可以，你们现在可以继续玩了。"
+		"cn": "猪妈妈：可以，你们现在可以继续玩了。",
+		"points": [
+			{
+				"en": "carry on with your game",
+				"cn": "继续玩"
+			}
+		]
 	},
 	{ "en": "Peppa Pig: Yippee!", "cn": "佩奇：耶！" },
 	{
 		"en": "Peppa Pig: Where are my dolls? Where is Mr Dinosaur?",
 		"cn": "佩奇：我的洋娃娃在哪里？恐龙先生在哪里？"
 	},
-	{ "en": "Peppa Pig: Here they are.", "cn": "佩奇：在这里。" },
+	{ 
+		"en": "Peppa Pig: Here they are.", 
+		"cn": "佩奇：在这里。",
+		"points": [
+			{
+				"en": "Here they are",
+				"cn": "在这里"
+			}
+		]
+	},
 	{ "en": "George: Grrr. Dinosaur.", "cn": "乔治：嗷呜。恐龙。" },
 	{
 		"en": "Peppa Pig: (as dolly) Aah! It’s a dinosaur! Help! Help!",
@@ -183,12 +539,40 @@
 	},
 	{
 		"en": "Narrator: Oh, dear. The room is untidy again.",
-		"cn": "旁白：哦，天哪。房间又乱了。"
+		"cn": "旁白：哦，天哪。房间又乱了。",
+		"sentence": {
+			"en": "The room is untidy again.",
+			"cn": "房间又乱了。",
+			"examples": [
+				{
+					"en": "The garden is messy again.",
+					"cn": "花园又乱了。"
+				},
+				{
+					"en": "The kitchen is dirty again.",
+					"cn": "厨房又脏了。"
+				}
+			]
+		}
 	},
 	{ "en": "Peppa Pig: Oh.", "cn": "佩奇：哦。" },
 	{ "en": "George: Oh.", "cn": "乔治：哦。" },
 	{
 		"en": "Daddy Pig: Well, at least it was tidy for a bit.",
-		"cn": "猪爸爸：至少有一会儿是整洁的。"
+		"cn": "猪爸爸：至少有一会儿是整洁的。",
+		"sentence": {
+			"en": "at least it was tidy for a bit.",
+			"cn": "至少有一会儿是整洁的。",
+			"examples": [
+				{
+					"en": "at least it was sunny for a bit.",
+					"cn": "至少有一会儿是晴天。"
+				},
+				{
+					"en": "at least it was quiet for a bit.",
+					"cn": "至少有一会儿是安静的。"
+				}
+			]
+		}
 	}
 ]
