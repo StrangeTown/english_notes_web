@@ -1,13 +1,7 @@
 [
 	{
 		"en": "Narrator: Daddy Pig is taking the family for a drive in the country.",
-		"cn": "旁白：猪爸爸要带全家去乡下兜风。",
-		"points": [
-			{
-				"en": "taking the family for a drive",
-				"cn": "带全家去兜风"
-			}
-		]
+		"cn": "旁白：猪爸爸要带全家去乡下兜风。"
 	},
 	{
 		"en": "Daddy Pig: Come on. Is everybody ready?",
@@ -150,7 +144,7 @@
 		"cn": "旁白：猪爸爸准备了温热的肥皂水来洗车。",
 		"points": [
 			{
-				"en": "warm, soapy water",
+				"en": "some warm, soapy water",
 				"cn": "温热的肥皂水"
 			}
 		]

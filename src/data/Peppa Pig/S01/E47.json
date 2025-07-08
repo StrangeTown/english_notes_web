@@ -193,12 +193,12 @@
 		"cn": "猪爸爸：孩子们，站远点，看工匠是怎么干活的。",
 		"points": [
 			{
-				"en": "a craftsman at work",
-				"cn": "工匠在干活"
-			},
-			{
 				"en": "Stand back",
 				"cn": "站远点"
+			},
+			{
+				"en": "watch a craftsman at work",
+				"cn": "看工匠是怎么干活的"
 			}
 		]
 	},
@@ -260,7 +260,7 @@
 		"points": [
 			{
 				"en": "a big crack in the wall",
-				"cn": "墙上的大裂缝"
+				"cn": "一道大裂缝"
 			}
 		]
 	},
@@ -274,7 +274,7 @@
 		"points": [
 			{
 				"en": "a tiny crack",
-				"cn": "一个小裂缝"
+				"cn": "小裂缝"
 			}
 		]
 	},

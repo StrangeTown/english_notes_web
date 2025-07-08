@@ -15,7 +15,7 @@
 		"points": [
 			{
 				"en": "Parcel for you",
-				"cn": "给你的包裹"
+				"cn": "你的包裹"
 			}
 		]
 	},
@@ -315,7 +315,7 @@
 		"cn": "猪妈妈：我有主意了！猪爸爸要离开房间，我们来拍一部电影给他看。",
 		"points": [
 			{
-				"en": "leave the room.",
+				"en": "leave the room",
 				"cn": "离开房间"
 			},
 			{
@@ -349,7 +349,7 @@
 		"points": [
 			{
 				"en": "No peeking, Daddy Pig.",
-				"cn": "不许偷看，猪爸爸。"
+				"cn": "猪爸爸，不许偷看"
 			}
 		]
 	},
@@ -359,7 +359,7 @@
 		"points": [
 			{
 				"en": "come in and see the movie",
-				"cn": "进来看看电影"
+				"cn": "进来看电影"
 			}
 		]
 	},

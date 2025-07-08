@@ -40,10 +40,6 @@
 			{
 				"en": "doing exercises",
 				"cn": "锻炼身体"
-			},
-			{
-				"en": "keep fit",
-				"cn": "保持健康"
 			}
 		]
 	},
@@ -431,7 +427,7 @@
 		"points": [
 			{
 				"en": "too noisy.",
-				"cn": "太吵了。"
+				"cn": "太吵了"
 			},
 			{
 				"en": "can’t hear the TV.",
@@ -655,10 +651,6 @@
 		"en": "Daddy Pig: I whizzed all the way down the hill. Then I had to push the bike all the way back up again.",
 		"cn": "猪爸爸：我一路冲下山，然后又把自行车推上来。",
 		"points": [
-			{
-				"en": "whizzed all the way down",
-				"cn": "一路冲下"
-			},
 			{
 				"en": "push the bike all the way back up",
 				"cn": "把自行车推上来"

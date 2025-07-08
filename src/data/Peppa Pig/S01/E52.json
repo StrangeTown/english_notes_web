@@ -201,8 +201,8 @@
 		"cn": "兔妈妈：你一开始被大灰狼关进橱柜，最后被猎人救出来，然后你说：‘谢谢你。’",
 		"points": [
 			{
-				"en": "locked in a cupboard",
-				"cn": "被关进橱柜"
+				"en": "get locked in a cupboard",
+				"cn": "关进橱柜"
 			},
 			{
 				"en": "rescued by the Hunter",
@@ -235,8 +235,8 @@
 		"cn": "羚羊老师：女士们先生们，欢迎观看我们的《小红帽》。首先，让我们认识一下演员们。",
 		"points": [
 			{
-				"en": "welcome to our play",
-				"cn": "欢迎观看我们的话剧"
+				"en": "Let us meet the actors",
+				"cn": "让我们认识一下演员们"
 			}
 		]
 	},

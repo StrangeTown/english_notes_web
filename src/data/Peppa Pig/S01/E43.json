@@ -324,7 +324,13 @@
 	{ "en": "The Children: Hurrah!", "cn": "孩子们：万岁！" },
 	{
 		"en": "Narrator: Daddy Pig is going to do a magic show.",
-		"cn": "旁白：猪爸爸要表演魔术了。"
+		"cn": "旁白：猪爸爸要表演魔术了。",
+		"points": [
+			{
+				"en": "do a magic show.",
+				"cn": "表演魔术"
+			}
+		]
 	},
 	{
 		"en": "Daddy Pig: Peppa, remember what you have to say?",
@@ -349,10 +355,6 @@
 		"cn": "猪爸爸：女士们先生们，欢迎神奇的神秘先生。",
 		"points": [
 			{
-				"en": "Ladies and gentlemen,",
-				"cn": "女士们先生们，"
-			},
-			{
 				"en": "introducing The Amazing Mysterio.",
 				"cn": "欢迎神奇的神秘先生。"
 			}
@@ -361,7 +363,13 @@
 	{ "en": "Peppa Pig: Okay, Daddy.", "cn": "小猪佩奇：好的，爸爸。" },
 	{
 		"en": "Peppa Pig: Ladies and gentlemen, uh, it’s Magic Daddy.",
-		"cn": "小猪佩奇：女士们先生们，呃，是魔术爸爸。"
+		"cn": "小猪佩奇：女士们先生们，呃，是魔术爸爸。",
+		"points": [
+			{
+				"en": "Ladies and gentlemen",
+				"cn": "女士们先生们"
+			}
+		]
 	},
 	{ "en": "The Children: Hurrah!", "cn": "孩子们：万岁！" },
 	{
@@ -418,7 +426,7 @@
 		"points": [
 			{
 				"en": "you put your hand up first.",
-				"cn": "你先举手了。"
+				"cn": "你先举手了"
 			}
 		]
 	},
@@ -510,7 +518,7 @@
 		"points": [
 			{
 				"en": "Close your eyes.",
-				"cn": "闭上眼睛。"
+				"cn": "闭上眼睛"
 			}
 		]
 	},
