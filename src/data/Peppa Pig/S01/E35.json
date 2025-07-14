@@ -4,8 +4,8 @@
 		"cn": "旁白：阳光明媚，今天非常热。",
 		"points": [
 			{
-				"en": "very hot day",
-				"cn": "非常热的一天"
+				"en": "It is a very hot day",
+				"cn": "今天非常热"
 			}
 		]
 	},
@@ -96,7 +96,7 @@
 		"points": [
 			{
 				"en": "oily and yucky",
-				"cn": "油腻和难受"
+				"cn": "好油腻，好难受"
 			}
 		]
 	},
@@ -106,8 +106,8 @@
 		"cn": "猪爸爸：真是小题大做。",
 		"points": [
 			{
-				"en": "fuss about nothing",
-				"cn": "小题大做"
+				"en": "What a fuss about nothing",
+				"cn": "真是小题大做"
 			}
 		]
 	},
@@ -280,7 +280,7 @@
 		"points": [
 			{
 				"en": "Can I have a cone please",
-				"cn": "我能要一个甜筒吗"
+				"cn": "我要一个甜筒"
 			}
 		]
 	},
@@ -301,7 +301,7 @@
 		"points": [
 			{
 				"en": "The same for me",
-				"cn": "我也要一样的"
+				"cn": "也要一样的"
 			}
 		]
 	},
@@ -413,7 +413,7 @@
 		"points": [
 			{
 				"en": "falls on the ground",
-				"cn": "掉在地上"
+				"cn": "掉地上"
 			}
 		]
 	},
@@ -500,7 +500,7 @@
 		"points": [
 			{
 				"en": "What happened?",
-				"cn": "发生了什么？"
+				"cn": "怎么了？"
 			}
 		]
 	},

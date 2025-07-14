@@ -252,10 +252,6 @@
 			{
 				"en": "I’m not going to sleep",
 				"cn": "我不睡觉"
-			},
-			{
-				"en": "stay awake all night",
-				"cn": "不睡觉"
 			}
 		]
 	},
@@ -311,7 +307,7 @@
 		"points": [
 			{
 				"en": "he has fallen asleep",
-				"cn": "他睡着了"
+				"cn": "睡着了"
 			}
 		]
 	},
@@ -431,10 +427,6 @@
 		"en": "Peppa Pig: Well, maybe I fell asleep just for a little bit. Next time I will stay awake and I will see the tooth fairy.",
 		"cn": "小猪佩奇：也许我只睡了一小会儿。下次我一定要等到牙仙子。",
 		"points": [
-			{
-				"en": "stay awake",
-				"cn": "不睡觉"
-			},
 			{
 				"en": "just for a little bit",
 				"cn": "只睡了一小会儿"

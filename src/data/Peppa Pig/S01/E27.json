@@ -156,11 +156,11 @@
 		"points": [
 			{
 				"en": "It’s not anything serious.",
-				"cn": "没什么大碍。"
+				"cn": "没什么大碍"
 			},
 			{
-				"en": "Peppa has just got a rash.",
-				"cn": "佩奇只是起了疹子。"
+				"en": "has just got a rash.",
+				"cn": "只是起了疹子。"
 			}
 		]
 	},
@@ -436,7 +436,7 @@
 		"points": [
 			{
 				"en": "It’s not pretend.",
-				"cn": "这不是装的。"
+				"cn": "不是装的"
 			},
 			{
 				"en": "tasted really horrible",

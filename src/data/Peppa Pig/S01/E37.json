@@ -295,7 +295,7 @@
 	{ "en": "George: Yuck!", "cn": "乔治：呃！" },
 	{
 		"en": "Granny Pig: George, this is cucumber. Grandpa Pig grew it in his garden.",
-		"cn": "猪奶奶：乔治，这是黄瓜，是爷爷种的。",
+		"cn": "猪奶奶：乔治，这是黄瓜，是爷爷在他的花园里种的。",
 		"points": [
 			{
 				"en": "grew it in his garden",
@@ -319,7 +319,7 @@
 	},
 	{
 		"en": "Grandpa Pig: Oh, now, now, George. Look what I’m doing.",
-		"cn": "猪爷爷：乔治，看爷爷怎么做。",
+		"cn": "猪爷爷：乔治，看我怎么做。",
 		"points": [
 			{
 				"en": "Look what I’m doing",

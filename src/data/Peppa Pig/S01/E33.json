@@ -168,12 +168,8 @@
 		"cn": "猪妈妈：佩奇，你拿着球站那边，乔治，你站这边。",
 		"points": [
 			{
-				"en": "take the ball",
-				"cn": "拿着球"
-			},
-			{
-				"en": "stand over there",
-				"cn": "站那边"
+				"en": "take the ball and stand over there",
+				"cn": "拿着球站那边"
 			}
 		]
 	},

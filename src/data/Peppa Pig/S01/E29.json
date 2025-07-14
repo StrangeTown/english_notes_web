@@ -4,8 +4,8 @@
 		"cn": "旁白：现在是下午茶时间，猪妈妈为大家准备了一个惊喜。",
 		"points": [
 			{
-				"en": "Surprise for everyone",
-				"cn": "给大家的惊喜"
+				"en": "a surprise for everyone",
+				"cn": "为大家准备了一个惊喜"
 			}
 		]
 	},
@@ -48,12 +48,12 @@
 		"cn": "猪妈妈：你确定吗？上次你把煎饼掉在地上还生气了呢。",
 		"points": [
 			{
-				"en": "Are you sure?",
+				"en": "Are you sure",
 				"cn": "你确定吗？"
 			},
 			{
 				"en": "Got a bit grumpy",
-				"cn": "有点生气"
+				"cn": "生气"
 			}
 		]
 	},
@@ -257,8 +257,8 @@
 		"cn": "旁白：猪妈妈在乔治的煎饼上倒了一点糖浆。",
 		"points": [
 			{
-				"en": "pours a little syrup on",
-				"cn": "倒了一点糖浆在"
+				"en": "pours a little syrup",
+				"cn": "倒了一点糖浆"
 			}
 		]
 	},
@@ -454,10 +454,6 @@
 		"en": "Mummy Pig: On the count of three we all have to start jumping up and down. One, two, three, jump!",
 		"cn": "猪妈妈：数到三我们一起跳。一、二、三，跳！",
 		"points": [
-			{
-				"en": "jumping up and down",
-				"cn": "上下跳"
-			},
 			{
 				"en": "On the count of three",
 				"cn": "数到三"

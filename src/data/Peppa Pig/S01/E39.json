@@ -55,13 +55,7 @@
 	},
 	{
 		"en": "Granny Pig: It’s a surprise. Do you want to see what Grandpa Pig has made for you in the garden?",
-		"cn": "猪奶奶：是个惊喜。你们想看看爷爷在花园里为你们做了什么吗？",
-		"points": [
-			{
-				"en": "what Grandpa Pig has made",
-				"cn": "爷爷做了什么"
-			}
-		]
+		"cn": "猪奶奶：是个惊喜。你们想看看爷爷在花园里为你们做了什么吗？"
 	},
 	{ "en": "Peppa Pig: Yes, please.", "cn": "小猪佩奇：想！" },
 	{ "en": "Peppa Pig: Grandpa Pig!", "cn": "小猪佩奇：爷爷！" },
@@ -450,8 +444,8 @@
 		"cn": "猪奶奶：那爷爷和我只好自己吃我做的饼干了。",
 		"points": [
 			{
-				"en": "homemade cookies",
-				"cn": "自制饼干"
+				"en": "my homemade cookies",
+				"cn": "我做的饼干"
 			}
 		]
 	},

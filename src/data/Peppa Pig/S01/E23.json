@@ -327,12 +327,8 @@
 		"cn": "旁白：到了洗澡时间，佩奇连洗澡都不想脱新鞋。",
 		"points": [
 			{
-				"en": "keep her new shoes on",
-				"cn": "不脱新鞋"
-			},
-			{
 				"en": "even for her bath",
-				"cn": "连洗澡都不脱"
+				"cn": "连洗澡都"
 			}
 		]
 	},
@@ -390,7 +386,7 @@
 		"points": [
 			{
 				"en": "my little piggies",
-				"cn": "我小猪们"
+				"cn": "我的小猪们"
 			}
 		]
 	},
@@ -414,7 +410,7 @@
 		"points": [
 			{
 				"en": "play in the wet grass",
-				"cn": "在湿草地上玩"
+				"cn": "湿草地上玩"
 			}
 		]
 	},

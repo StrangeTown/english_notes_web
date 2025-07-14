@@ -5,7 +5,7 @@
 		"points": [
 			{
 				"en": "lovely sunny day",
-				"cn": "晴朗的好天气"
+				"cn": "天气晴朗"
 			},
 			{
 				"en": "having a picnic",
@@ -117,10 +117,6 @@
 		"cn": "猪妈妈：佩奇，乔治，快！进屋来。",
 		"points": [
 			{
-				"en": "quick",
-				"cn": "快"
-			},
-			{
 				"en": "Come inside the house",
 				"cn": "进屋来"
 			}
@@ -201,8 +197,8 @@
 		"cn": "猪妈妈：佩奇，乔治，你们把玩具都从花园拿进来了吗？",
 		"points": [
 			{
-				"en": "bring all your toys in",
-				"cn": "把玩具都拿进来"
+				"en": "from the garden",
+				"cn": "从花园"
 			}
 		]
 	},
@@ -274,10 +270,6 @@
 			{
 				"en": "As I thought",
 				"cn": "果然"
-			},
-			{
-				"en": "Plenty of time",
-				"cn": "还有很多时间"
 			}
 		]
 	},
@@ -285,10 +277,6 @@
 		"en": "Peppa Pig: Poor Teddy. He’s soaking wet.",
 		"cn": "小猪佩奇：可怜的泰迪，他全身都湿了。",
 		"points": [
-			{
-				"en": "Poor Teddy",
-				"cn": "可怜的泰迪"
-			},
 			{
 				"en": "He’s soaking wet",
 				"cn": "他全身都湿了"
@@ -398,7 +386,7 @@
 				"cn": "哎呀"
 			},
 			{
-				"en": "What can we do?",
+				"en": "What can we do",
 				"cn": "我们怎么办？"
 			}
 		]

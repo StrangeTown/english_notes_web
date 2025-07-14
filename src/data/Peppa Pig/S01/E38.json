@@ -241,7 +241,7 @@
 	{ "en": "Daddy Pig: Uh, well...", "cn": "猪爸爸：呃，嗯……" },
 	{
 		"en": "Mummy Pig: The others in the castle were the small prince, Queen Mummy and King Daddy.",
-		"cn": "猪妈妈：还有小王子、王后妈妈和国王爸爸。",
+		"cn": "猪妈妈: 城堡里还有小王子、王后妈妈和国王爸爸。",
 		"points": [
 			{
 				"en": "The others in the castle were",
@@ -493,7 +493,7 @@
 		"points": [
 			{
 				"en": "carry you to bed",
-				"cn": "抱你去床上"
+				"cn": "把你抱去床上"
 			}
 		]
 	},
