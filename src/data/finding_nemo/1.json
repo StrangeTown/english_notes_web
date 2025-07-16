@@ -1,944 +1,1355 @@
 [
-	{ "en": "Scene 1: New Parents", "cn": "" },
-	{ "en": "[The scene opens up to a wide blue ocean.]", "cn": "" },
-	{ "en": "Marlin: Wow!", "cn": "" },
-	{ "en": "Coral: Mmm.", "cn": "" },
-	{ "en": "Marlin: Wow!", "cn": "" },
-	{ "en": "Coral: Mm-hmm.", "cn": "" },
-	{ "en": "Marlin: Wow!", "cn": "" },
-	{ "en": "Coral: Yes, Marlin. No, I see it. It’s beautiful!", "cn": "" },
+	{ "en": "Scene 1: New Parents", "cn": "第一幕：新父母" },
+	{
+		"en": "[The scene opens up to a wide blue ocean.]",
+		"cn": "[场景开始于广阔的蓝色海洋。]"
+	},
+	{ "en": "Marlin: Wow!", "cn": "马林：哇！" },
+	{ "en": "Coral: Mmm.", "cn": "珊瑚：嗯。" },
+	{ "en": "Marlin: Wow!", "cn": "马林：哇！" },
+	{ "en": "Coral: Mm-hmm.", "cn": "珊瑚：嗯哼。" },
+	{ "en": "Marlin: Wow!", "cn": "马林：哇！" },
+	{
+		"en": "Coral: Yes, Marlin. No, I see it. It’s beautiful!",
+		"cn": "珊瑚：是的，马林。不，我看到了。太美了！"
+	},
 	{
 		"en": "Marlin: So, Coral, when you said you wanted an ocean view, you didn’t think that we were gonna get the whole ocean, did you? Huh? [Sighs] Oh yeah. A fish can breath out here. Did your man deliver or did he deliver?",
-		"cn": ""
+		"cn": "马林：所以，珊瑚，当你说你想要海景时，你没想到我们会得到整个海洋，对吧？嗯？[叹气] 哦，是的。鱼可以在这里呼吸。你的男人有没有兑现承诺？"
 	},
-	{ "en": "Coral: My man delivered.", "cn": "" },
-	{ "en": "Marlin: And it wasn’t so easy.", "cn": "" },
+	{ "en": "Coral: My man delivered.", "cn": "珊瑚：我的男人兑现了承诺。" },
+	{ "en": "Marlin: And it wasn’t so easy.", "cn": "马林：而且这并不容易。" },
 	{
 		"en": "Coral: Because a lot of other clownfish had their eyes on this place.",
-		"cn": ""
+		"cn": "珊瑚：因为很多其他小丑鱼都盯上了这个地方。"
 	},
 	{
 		"en": "Marlin: You better believe they did-- every single one of them.",
-		"cn": ""
+		"cn": "马林：你最好相信他们确实如此——每一条鱼都是。"
 	},
 	{
 		"en": "Coral: Mm-hmm. You did good. And the neighborhood is awesome!",
-		"cn": ""
+		"cn": "珊瑚：嗯哼。你做得很好。这个社区太棒了！"
 	},
-	{ "en": "[Chattering and laughing] [Snipping]", "cn": "" },
-	{ "en": "Marlin: So, you do like it, don’t you?", "cn": "" },
+	{
+		"en": "[Chattering and laughing] [Snipping]",
+		"cn": "[喧闹和笑声] [剪切声]"
+	},
+	{
+		"en": "Marlin: So, you do like it, don’t you?",
+		"cn": "马林：所以，你确实喜欢它，对吧？"
+	},
 	{
 		"en": "Coral: No, no. I do, I do! I really do like it. But Marlin, I know that the drop off is desirable, with the great schools and the amazing view, and all that, but do we really need so much space?",
-		"cn": ""
+		"cn": "珊瑚：不，不。我喜欢，我喜欢！我真的很喜欢。但是马林，我知道断崖很受欢迎，有好学校和美丽的景色，但我们真的需要这么大的空间吗？"
 	},
 	{
 		"en": "Marlin: Coral, honey, these are our kids we’re talking about. They deserve the best. Look, look, look. They’ll wake up, poke their little heads out, and they see a whale! See, right by their bedroom window.",
-		"cn": ""
+		"cn": "马林：珊瑚，亲爱的，我们说的是我们的孩子。他们值得拥有最好的。看，看，看。他们醒来，探出小脑袋，就能看到一头鲸鱼！就在他们卧室窗外。"
 	},
-	{ "en": "Coral: Shh! You’re gonna wake the kids.", "cn": "" },
-	{ "en": "Marlin: Oh, right, right.", "cn": "" },
+	{
+		"en": "Coral: Shh! You’re gonna wake the kids.",
+		"cn": "珊瑚：嘘！你会吵醒孩子们的。"
+	},
+	{ "en": "Marlin: Oh, right, right.", "cn": "马林：哦，对，对。" },
 	{
 		"en": "Coral: Aw, look! They’re dreaming. We still have to name them.",
-		"cn": ""
+		"cn": "珊瑚：啊，看！他们在做梦。我们还得给他们起名字。"
 	},
 	{
 		"en": "Marlin: You wanna name all of them, right now? All right, we’ll name this half Marlin Jr. and then this half Coral Junior. OK, we’re done!",
-		"cn": ""
+		"cn": "马林：你想现在就给他们全部起名字吗？好吧，这一半叫小马林，这一半叫小珊瑚。好了，搞定！"
 	},
-	{ "en": "Coral: I like Nemo.", "cn": "" },
+	{ "en": "Coral: I like Nemo.", "cn": "珊瑚：我喜欢尼莫这个名字。" },
 	{
 		"en": "Marlin: Nemo? Well, we’ll name one Nemo, but I’d like most of them to be Marlin Jr.",
-		"cn": ""
+		"cn": "马林：尼莫？好吧，我们叫一个尼莫，但我希望大多数都叫小马林。"
 	},
 	{
 		"en": "Coral: Just think that in a couple of days, we’re going to be parents!",
-		"cn": ""
+		"cn": "珊瑚：想想看，再过几天我们就要当父母了！"
 	},
-	{ "en": "Marlin: Yeah. What if they don’t like me?", "cn": "" },
-	{ "en": "Coral: Marlin....", "cn": "" },
-	{ "en": "Marlin: No, really.", "cn": "" },
+	{
+		"en": "Marlin: Yeah. What if they don’t like me?",
+		"cn": "马林：是啊。如果他们不喜欢我怎么办？"
+	},
+	{ "en": "Coral: Marlin....", "cn": "珊瑚：马林……" },
+	{ "en": "Marlin: No, really.", "cn": "马林：不，真的。" },
 	{
 		"en": "Coral: There’s over 400 eggs. Odds are, one of them is bound to like you.",
-		"cn": ""
+		"cn": "珊瑚：有400多个鱼卵，总有一个会喜欢你的。"
 	},
-	{ "en": "Marlin: What?", "cn": "" },
-	{ "en": "Marlin: You remember how we met?", "cn": "" },
-	{ "en": "Coral: Well, I try not to.", "cn": "" },
+	{ "en": "Marlin: What?", "cn": "马林：什么？" },
+	{
+		"en": "Marlin: You remember how we met?",
+		"cn": "马林：你还记得我们是怎么认识的吗？"
+	},
+	{ "en": "Coral: Well, I try not to.", "cn": "珊瑚：嗯，我尽量不去想。" },
 	{
 		"en": "Marlin: Well, I remember. \"Excuse me, miss, can you check and see if there’s a hook in my lip?\"",
-		"cn": ""
+		"cn": "马林：我记得。‘小姐，你能帮我看看我的嘴唇上有没有钩子吗？’"
 	},
-	{ "en": "Coral: Marlin!", "cn": "" },
+	{ "en": "Coral: Marlin!", "cn": "珊瑚：马林！" },
 	{
 		"en": "Marlin: Well, you gotta look a little closer because it’s wiggling.",
-		"cn": ""
+		"cn": "马林：你得靠近点看，因为它在动。"
 	},
-	{ "en": "Coral: [squeals] Get away!", "cn": "" },
+	{ "en": "Coral: [squeals] Get away!", "cn": "珊瑚：[尖叫] 走开！" },
 	{
 		"en": "Marlin: Here he is! Cutie’s here! Where did everybody go? [gasps] Coral, get inside the house, Coral. No, Coral, don’t. They’ll be fine. Just get inside. You. Right now.",
-		"cn": ""
+		"cn": "马林：他来了！小可爱来了！大家都去哪了？[喘气] 珊瑚，快进屋，珊瑚。不，珊瑚，别这样。他们会没事的。快进去。你，现在就进去。"
 	},
 	{
 		"en": "[Too late, Coral get 400 eggs by swimming, a barracuda roars.]",
-		"cn": ""
+		"cn": "[太晚了，珊瑚游过去拿400个鱼卵，一条梭子鱼咆哮。]"
 	},
 	{
 		"en": "Marlin: No!! [He attacked the barracuda] Ow! [gasps and grunts]",
-		"cn": ""
+		"cn": "马林：不！！[他攻击了梭子鱼] 哎呀！[喘气和呻吟]"
 	},
 	{
 		"en": "[A barracuda hits Marlin, groaning. It cuts to black in the night time.]",
-		"cn": ""
+		"cn": "[一条梭子鱼撞到马林，马林呻吟。画面切到夜晚黑屏。]"
 	},
 	{
 		"en": "Marlin: Coral!!! Coral? Coral? [gasps] Coral? Coral? Coral?! No. [crying] There, there, there. It’s OK, Daddy’s here. Daddy’s got you. I promise, I will never let anything happen to you, Nemo.",
-		"cn": ""
+		"cn": "马林：珊瑚！！！珊瑚？珊瑚？[喘气] 珊瑚？珊瑚？珊瑚？！不。[哭泣] 没事，没事，没事。爸爸在这里。爸爸抱着你。我保证，尼莫，我永远不会让你出事。"
 	},
-	{ "en": "Scene 2: Main Titles", "cn": "" },
-	{ "en": "Walt Disney Pictures Presents", "cn": "" },
+	{ "en": "Scene 2: Main Titles", "cn": "第二幕：主标题" },
+	{ "en": "Walt Disney Pictures Presents", "cn": "华特迪士尼影片公司出品" },
 	{ "en": "", "cn": "" },
-	{ "en": "A Pixar Animation Studios Film", "cn": "" },
+	{ "en": "A Pixar Animation Studios Film", "cn": "皮克斯动画工作室出品" },
 	{ "en": "", "cn": "" },
-	{ "en": "FINDING NEMO", "cn": "" },
-	{ "en": "Scene 3: First Day of School", "cn": "" },
+	{ "en": "FINDING NEMO", "cn": "寻找尼莫" },
+	{ "en": "Scene 3: First Day of School", "cn": "第三幕：开学第一天" },
 	{
 		"en": "NEMO: First day of school! First day of school! Wake up, wake up! Come on, first day of school!",
-		"cn": ""
+		"cn": "尼莫：开学第一天！开学第一天！快点，快点！来吧，开学第一天！"
 	},
 	{
 		"en": "MARLIN: I don’t want to go to school. Five more minutes.",
-		"cn": ""
+		"cn": "马林：我不想上学。再睡五分钟。"
 	},
-	{ "en": "NEMO: Not you, dad. Me!", "cn": "" },
-	{ "en": "MARLIN: Okay...huh?", "cn": "" },
+	{ "en": "NEMO: Not you, dad. Me!", "cn": "尼莫：不是你，爸爸。是我！" },
+	{ "en": "MARLIN: Okay...huh?", "cn": "马林：好的……嗯？" },
 	{
 		"en": "NEMO: Get up, get up! It’s time for school! It’s time for school! It’s time for school! It’s time for school! Oh, boy! Oh, boy! Oh boy--whoa!",
-		"cn": ""
+		"cn": "尼莫：起床，起床！该上学了！该上学了！该上学了！该上学了！哦，天哪！哦，天哪！哦，天哪——哇！"
 	},
-	{ "en": "MARLIN: All right, I’m up. It's time for school. Nemo!", "cn": "" },
-	{ "en": "NEMO: First day of school!", "cn": "" },
+	{
+		"en": "MARLIN: All right, I’m up. It's time for school. Nemo!",
+		"cn": "马林：好吧，我起床了。该上学了。尼莫！"
+	},
+	{ "en": "NEMO: First day of school!", "cn": "尼莫：开学第一天！" },
 	{
 		"en": "MARLIN: [gasps] Nemo, don't move! Don't move! You'll never get out of there yourself. I'll do it. [grunts] All right, where's the break? You feel a break?",
-		"cn": ""
+		"cn": "马林：[喘气] 尼莫，别动！别动！你自己永远无法从那里出来。我来帮你。[ grunt ] 好吧，哪里断了？你感觉到断了吗？"
 	},
-	{ "en": "NEMO: No.", "cn": "" },
+	{ "en": "NEMO: No.", "cn": "尼莫：没有。" },
 	{
 		"en": "MARLIN: Sometimes you can’t tell ‘cause fluid is rushing to the area. Now, any rushing fluids?",
-		"cn": ""
+		"cn": "马林：有时候你无法判断，因为液体正在涌向那个地方。现在，有什么液体在涌动吗？"
 	},
-	{ "en": "NEMO: No.", "cn": "" },
-	{ "en": "MARLIN: Are you woozy? How many stripes do I have?", "cn": "" },
-	{ "en": "NEMO: I’m fine. Three.", "cn": "" },
+	{ "en": "NEMO: No.", "cn": "尼莫：没有。" },
+	{
+		"en": "MARLIN: Are you woozy? How many stripes do I have?",
+		"cn": "马林：你头晕吗？我有多少条纹？"
+	},
+	{ "en": "NEMO: I’m fine. Three.", "cn": "尼莫：我很好。三条。" },
 	{
 		"en": "MARLIN: Answer the stripe question! No! See, something’s wrong with you. I have one, two, three that’s all I have? You're OK. How’s the lucky fin?",
-		"cn": ""
+		"cn": "马林：回答条纹的问题！不！看， 你有问题。我有一、二、三，这就是我所有的？你没事。幸运的鳍怎么样？"
 	},
-	{ "en": "NEMO: Lucky.", "cn": "" },
-	{ "en": "MARLIN: Let’s see.", "cn": "" },
+	{ "en": "NEMO: Lucky.", "cn": "尼莫：幸运。" },
+	{ "en": "MARLIN: Let’s see.", "cn": "马林：让我们看看。" },
 	{
 		"en": "MARLIN: Are you sure you wanna go to school this year? 'Cause there's no problem if you don't. You can wait five or six years.",
-		"cn": ""
+		"cn": "马林：你确定你想今年上学吗？因为如果你不想的话，没问题。你可以等五六年。"
 	},
-	{ "en": "NEMO: Come on, Dad! It’s time for school.", "cn": "" },
-	{ "en": "MARLIN: Ah-ah-ah! Forgot to brush.", "cn": "" },
-	{ "en": "NEMO: [sighs]", "cn": "" },
-	{ "en": "MARLIN: Do you want this anemone to sting you?", "cn": "" },
-	{ "en": "NEMO Yes. [groans]", "cn": "" },
-	{ "en": "MARLIN: Brush.", "cn": "" },
-	{ "en": "NEMO: OK, I’m done!", "cn": "" },
-	{ "en": "MARLIN: You missed a spot.", "cn": "" },
-	{ "en": "NEMO: Where?", "cn": "" },
+	{
+		"en": "NEMO: Come on, Dad! It’s time for school.",
+		"cn": "尼莫：快点，爸爸！该上学了。"
+	},
+	{
+		"en": "MARLIN: Ah-ah-ah! Forgot to brush.",
+		"cn": "马林：啊啊啊！忘了刷牙。"
+	},
+	{ "en": "NEMO: [sighs]", "cn": "尼莫：[叹气]" },
+	{
+		"en": "MARLIN: Do you want this anemone to sting you?",
+		"cn": "马林：你想让这个海葵刺你吗？"
+	},
+	{ "en": "NEMO Yes. [groans]", "cn": "尼莫：是的。[呻吟]" },
+	{ "en": "MARLIN: Brush.", "cn": "马林：刷牙。" },
+	{ "en": "NEMO: OK, I’m done!", "cn": "尼莫：好的，我刷好了！" },
+	{ "en": "MARLIN: You missed a spot.", "cn": "马林：你漏刷了一块。" },
+	{ "en": "NEMO: Where?", "cn": "尼莫：哪里？" },
 	{
 		"en": "MARLIN: There! [laughing] Right there. And here and here and here!",
-		"cn": ""
+		"cn": "马林：那里！[笑] 就在那里。还有这里，这里和这里！"
 	},
 	{
 		"en": "MARLIN: All right, we’re excited. First day of school, here we go. We’re ready to learn to get some knowledge. Now, what’s the one thing we have to remember about the ocean?",
-		"cn": ""
+		"cn": "马林：好了，我们很兴奋。开学第一天，开始吧。我们准备好学习，获取知识。现在，我们必须记住关于海洋的一件事是什么？"
 	},
-	{ "en": "NEMO: It’s not safe.", "cn": "" },
+	{ "en": "NEMO: It’s not safe.", "cn": "尼莫：那里不安全。" },
 	{
 		"en": "MARLIN: That’s my boy. So, first we check to see that the coast is clear. We go out and back in. And then we go out, and back in. And then one more time. Out and back in. And sometimes, if you want a do it four times...",
-		"cn": ""
+		"cn": "马林：这才是我的好儿子。所以，首先我们要检查海岸是否安全。我们先出去再回来。然后我们再出去，再回来。再来一次。出去再回来。有时候，如果你想的话，可以做四次……"
 	},
-	{ "en": "NEMO: Dad....", "cn": "" },
-	{ "en": "MARLIN: All right. Come on, boy.", "cn": "" },
-	{ "en": "NEMO: Dad, maybe while I’m at school, I’ll see a shark!", "cn": "" },
-	{ "en": "MARLIN: I highly doubt that.", "cn": "" },
-	{ "en": "NEMO: Have you ever met a shark?", "cn": "" },
-	{ "en": "MARLIN: No, and I don’t plan to.", "cn": "" },
-	{ "en": "NEMO: How old are sea turtles?", "cn": "" },
-	{ "en": "MARLIN: Sea turtles? I don’t know.", "cn": "" },
+	{ "en": "NEMO: Dad....", "cn": "尼莫：爸爸……" },
+	{
+		"en": "MARLIN: All right. Come on, boy.",
+		"cn": "马林：好了。来吧，孩子。"
+	},
+	{
+		"en": "NEMO: Dad, maybe while I’m at school, I’ll see a shark!",
+		"cn": "尼莫：爸爸，也许我在学校的时候会看到鲨鱼！"
+	},
+	{ "en": "MARLIN: I highly doubt that.", "cn": "马林：我很怀疑。" },
+	{ "en": "NEMO: Have you ever met a shark?", "cn": "尼莫：你见过鲨鱼吗？" },
+	{
+		"en": "MARLIN: No, and I don’t plan to.",
+		"cn": "马林：没有，我不打算见。"
+	},
+	{ "en": "NEMO: How old are sea turtles?", "cn": "尼莫：海龟能活多久？" },
+	{
+		"en": "MARLIN: Sea turtles? I don’t know.",
+		"cn": "马林：海龟？我不知道。"
+	},
 	{
 		"en": "NEMO: Sandy Plankton from next door, he said that sea turtles, [stammers] said that they live to be about a 100 years old!",
-		"cn": ""
+		"cn": "尼莫：隔壁的沙丁鱼说，海龟……[结结巴巴] 说它们的寿命可以达到100年！"
 	},
 	{
 		"en": "MARLIN: Well, you know what, if I ever meet a sea turtle, I'll ask him. After I'm done talking to the shark, okay? Whoa, whoa, whoa! Hold on, hold on, wait to cross. [The traffic stopped] Hold my fin, hold my fin.",
-		"cn": ""
+		"cn": "马林：好吧，你知道吗，如果我有一天见到海龟，我会问他的。在我和鲨鱼说完话之后，好吗？哇，哇，哇！等等，等等，等着过马路。[交通停了下来] 抓住我的鳍，抓住我的鳍。"
 	},
 	{
 		"en": "NEMO: Dad, you’re not gonna freak out like you did at the petting zoo, are you?",
-		"cn": ""
+		"cn": "尼莫：爸爸，你不会像在动物园那样惊慌失措吧？"
 	},
 	{
 		"en": "MARLIN: Hey, that snail was about to charge. Hmm, I wonder where we're supposed to go.",
-		"cn": ""
+		"cn": "马林：嘿，那只蜗牛快要冲过来了。嗯，我想知道我们该去哪儿。"
 	},
-	{ "en": "FISH KIDS: Bye, Mom!", "cn": "" },
-	{ "en": "FISH MOM: I’ll pick you up after school.", "cn": "" },
-	{ "en": "CRAB KID: Come on, you guys. Stop it! Give it back!", "cn": "" },
-	{ "en": "MARLIN: Come on, we’ll try over there.", "cn": "" },
-	{ "en": "[all laughing]", "cn": "" },
-	{ "en": "Marlin: Excuse me, is this where we meet his teacher?", "cn": "" },
-	{ "en": "BOB: Well, look who’s out of the anemone.", "cn": "" },
-	{ "en": "MARLIN: Yes, shocking, I know.", "cn": "" },
-	{ "en": "BOB: Marty, right?", "cn": "" },
-	{ "en": "MARLIN: Marlin.", "cn": "" },
-	{ "en": "BOB: Bob.", "cn": "" },
-	{ "en": "TED: Ted.", "cn": "" },
+	{ "en": "FISH KIDS: Bye, Mom!", "cn": "鱼孩子们：再见，妈妈！" },
+	{
+		"en": "FISH MOM: I’ll pick you up after school.",
+		"cn": "鱼妈妈：放学后我来接你。"
+	},
+	{
+		"en": "CRAB KID: Come on, you guys. Stop it! Give it back!",
+		"cn": "螃蟹小孩：快点，你们。住手！把它还回来！"
+	},
+	{
+		"en": "MARLIN: Come on, we’ll try over there.",
+		"cn": "马林：来吧，我们去那边试试。"
+	},
+	{ "en": "[all laughing]", "cn": "[所有人都在笑]" },
+	{
+		"en": "Marlin: Excuse me, is this where we meet his teacher?",
+		"cn": "马林：打扰一下，请问这是我们见他老师的地方吗？"
+	},
+	{
+		"en": "BOB: Well, look who’s out of the anemone.",
+		"cn": "鲍勃：瞧瞧，谁从海葵里出来了。"
+	},
+	{
+		"en": "MARLIN: Yes, shocking, I know.",
+		"cn": "马林：是的，令人震惊，我知道。"
+	},
+	{ "en": "BOB: Marty, right?", "cn": "鲍勃：马丁，对吧？" },
+	{ "en": "MARLIN: Marlin.", "cn": "马林：马林。" },
+	{ "en": "BOB: Bob.", "cn": "鲍勃：鲍勃。" },
+	{ "en": "TED: Ted.", "cn": "泰德：泰德。" },
 	{
 		"en": "BILL: Bill. ...Hey, you’re a clownfish! You’re funny, right? Hey, tell us a joke!",
-		"cn": ""
+		"cn": "比尔：比尔。……嘿，你是一条小丑鱼！你很有趣，对吧？嘿，给我们讲个笑话！"
 	},
-	{ "en": "BOTH: Yeah. Good idea.", "cn": "" },
+	{ "en": "BOTH: Yeah. Good idea.", "cn": "大家：是的。好主意。" },
 	{
 		"en": "MARLIN: Well, actually, that’s a common misconception. Clownfish are no funnier than any other fish.",
-		"cn": ""
+		"cn": "马林：其实，这是一种常见的误解。小丑鱼并不比其他鱼更有趣。"
 	},
-	{ "en": "BILL: Come on, Clowny.", "cn": "" },
-	{ "en": "TED: Yeah, do something funny.", "cn": "" },
-	{ "en": "BOB: Yeah!", "cn": "" },
+	{ "en": "BILL: Come on, Clowny.", "cn": "比尔：来吧，小丑鱼。" },
+	{
+		"en": "TED: Yeah, do something funny.",
+		"cn": "泰德：是的，做点有趣的事。"
+	},
+	{ "en": "BOB: Yeah!", "cn": "鲍勃：是的！" },
 	{
 		"en": "MARLIN: All right, I know one joke. There’s a mollusk, see? And he walks up to a sea, well he doesn’t walk up, he swims up. Well, actually the mollusk isn’t moving. He’s in one place and then the sea cucumber, well they I mixed up. There was a mollusk and a sea cucumber. None of them were walking, so forget that I..",
-		"cn": ""
+		"cn": "马林：好吧，我知道一个笑话。有一个软体动物，明白了吗？它游到海里，嗯，它不是游上来，而是游上去。实际上，软体动物并没有移动。它在一个地方，然后海参，嗯，我搞混了。有一个软体动物和一个海参。它们都没有走路，所以忘了我说的……"
 	},
-	{ "en": "BOB: Sheldon! Get out of Mr. Johanson’s yard, now!!", "cn": "" },
-	{ "en": "MR. JOHANSON: All right, you kids! Where’d you go?", "cn": "" },
-	{ "en": "NEMO: Dad, can I go play too? Can I?", "cn": "" },
+	{
+		"en": "BOB: Sheldon! Get out of Mr. Johanson’s yard, now!!",
+		"cn": "鲍勃：谢尔顿！快从约翰逊先生的院子里出来！！"
+	},
+	{
+		"en": "MR. JOHANSON: All right, you kids! Where’d you go?",
+		"cn": "约翰逊先生：好了，你们这些孩子！你们去哪了？"
+	},
+	{
+		"en": "NEMO: Dad, can I go play too? Can I?",
+		"cn": "尼莫：爸爸，我可以去玩吗？可以吗？"
+	},
 	{
 		"en": "MARLIN: I would feel better if you go play over on the sponge beds.",
-		"cn": ""
+		"cn": "马林：如果你去海绵床上玩我会更放心。"
 	},
 	{
 		"en": "[The small fishes are bouncing on the sponge beds, then one of them hits the ground on accident, a mother fish gasps, a small fish starts crying.[mother gasps]",
-		"cn": ""
+		"cn": "[小鱼们在海绵床上弹跳，然后其中一条不小心撞到了地面，一条母鱼倒吸一口气，一条小鱼开始哭泣。[母亲倒吸气]"
 	},
-	{ "en": "- [baby cries]", "cn": "" },
-	{ "en": "MARLIN: That’s where I would play.", "cn": "" },
-	{ "en": "[kids laughing]", "cn": "" },
-	{ "en": "PEARL: What’s wrong with his fin?", "cn": "" },
-	{ "en": "TAD: He looks funny!", "cn": "" },
-	{ "en": "(Bob hits Sheldon with his tail)", "cn": "" },
-	{ "en": "SHELDON: Ow! Hey, what’d I do?", "cn": "" },
-	{ "en": "BOB: Be nice! It’s his first time at school!", "cn": "" },
+	{ "en": "- [baby cries]", "cn": "- [婴儿哭声]" },
+	{
+		"en": "MARLIN: That’s where I would play.",
+		"cn": "马林：我会在那儿玩的。"
+	},
+	{ "en": "[kids laughing]", "cn": "[孩子们在笑]" },
+	{ "en": "PEARL: What’s wrong with his fin?", "cn": "珍珠：他的鳍怎么了？" },
+	{ "en": "TAD: He looks funny!", "cn": "塔德：他看起来很有趣！" },
+	{ "en": "(Bob hits Sheldon with his tail)", "cn": "(鲍勃用尾巴撞了谢尔顿)" },
+	{
+		"en": "SHELDON: Ow! Hey, what’d I do?",
+		"cn": "谢尔顿：哎呀！嘿，我做了什么？"
+	},
+	{
+		"en": "BOB: Be nice! It’s his first time at school!",
+		"cn": "鲍勃：要友善！这是他第一次上学！"
+	},
 	{
 		"en": "MARLIN: He was born with it, kids. We call it his lucky fin.",
-		"cn": ""
+		"cn": "马林：孩子们，他是与生俱来的。我们称之为他的幸运鳍。"
 	},
-	{ "en": "NEMO: Dad....", "cn": "" },
+	{ "en": "NEMO: Dad....", "cn": "尼莫：爸爸……" },
 	{
 		"en": "PEARL: See this tentacle? It’s actually shorter than all my other tentacles but you can’t really tell.Especially when I twirl them like this.",
-		"cn": ""
+		"cn": "珍珠：看到这个触手了吗？其实它比我其他的触手都短，但你真的看不出来。尤其是当我像这样旋转它们时。"
 	},
-	{ "en": "SHELDON: I’m H2O-intolerant. [sneezes]", "cn": "" },
-	{ "en": "TAD: I’m obnoxious.", "cn": "" },
+	{
+		"en": "SHELDON: I’m H2O-intolerant. [sneezes]",
+		"cn": "谢尔顿：我对水不耐受。[打喷嚏]"
+	},
+	{ "en": "TAD: I’m obnoxious.", "cn": "塔德：我很讨厌。" },
 	{
 		"en": "MR. RAY: [singing] Oh... let’s name the zones, the zones, the zones. Let’s name the zones of the open sea.",
-		"cn": ""
+		"cn": "雷先生：[唱歌] 哦……让我们来命名这些区域，这些区域。这些开放海域的区域。"
 	},
-	{ "en": "CHILDREN: Mr. Ray!", "cn": "" },
-	{ "en": "SHELDON: Come on, Nemo!", "cn": "" },
-	{ "en": "MARLIN: You better stay with me.", "cn": "" },
+	{ "en": "CHILDREN: Mr. Ray!", "cn": "孩子们：雷先生！" },
+	{ "en": "SHELDON: Come on, Nemo!", "cn": "谢尔顿：快点，尼莫！" },
+	{ "en": "MARLIN: You better stay with me.", "cn": "马林：你最好跟着我。" },
 	{
 		"en": "MR. RAY: Mesopolagic, bathyal, abyssalpelagic. All the rest are too deep for you and me to see. Huh? I wonder where my class has gone.",
-		"cn": ""
+		"cn": "雷先生：中层海域，深海，深渊海域。其余的对你我来说都太深了。嗯？我想知道我的班级去哪儿了。"
 	},
-	{ "en": "KIDS: We’re under here!", "cn": "" },
+	{ "en": "KIDS: We’re under here!", "cn": "孩子们：我们在这里！" },
 	{
 		"en": "MR. RAY: There you are. Climb aboard, explorers! [singing] Knowledge exploring is oh so lyrical, when you think thoughts that are empirical.",
-		"cn": ""
+		"cn": "雷先生：你们在这里。爬上来，探索者们！[唱歌] 探索知识是如此富有诗意，当你思考那些经验性的想法时。"
 	},
-	{ "en": "NEMO: Dad, you can go now.", "cn": "" },
-	{ "en": "MR. RAY: Well, hello! Who is this?", "cn": "" },
-	{ "en": "NEMO: I’m Nemo.", "cn": "" },
+	{ "en": "NEMO: Dad, you can go now.", "cn": "尼莫：爸爸，你可以走了。" },
+	{
+		"en": "MR. RAY: Well, hello! Who is this?",
+		"cn": "雷先生：你好！这是谁？"
+	},
+	{ "en": "NEMO: I’m Nemo.", "cn": "尼莫：我是尼莫。" },
 	{
 		"en": "MR. RAY: Well, Nemo, all new explorers must answer a science question.",
-		"cn": ""
+		"cn": "雷先生：好吧，尼莫，所有新的探索者都必须回答一个科学问题。"
 	},
-	{ "en": "NEMO: OK.", "cn": "" },
-	{ "en": "MR. RAY: You live in what kind of home?", "cn": "" },
+	{ "en": "NEMO: OK.", "cn": "尼莫：好的。" },
+	{
+		"en": "MR. RAY: You live in what kind of home?",
+		"cn": "雷先生：你住在什么样的家里？"
+	},
 	{
 		"en": "NEMO: In an anemone-nie. A nemenem-menome-nememen-nenemone.",
-		"cn": ""
+		"cn": "尼莫：在海葵里。一个海葵。一个海葵。一个海葵。"
 	},
 	{
 		"en": "MR. RAY: OK, OK, don’t hurt yourself. Welcome aboard, explorers!",
-		"cn": ""
+		"cn": "雷先生：好的，好的，别伤着自己。欢迎上船，探索者们！"
 	},
 	{
 		"en": "MARLIN: Just so you know, he’s got a little fin. I find if he’s having trouble swimming, let him take a break, 10, 15 minutes.",
-		"cn": ""
+		"cn": "马林：告诉你们，他有一只小鳍。如果他游泳有困难，就让他休息一下，10到15分钟。"
 	},
-	{ "en": "NEMO: Dad, it’s time for you to go now.", "cn": "" },
+	{
+		"en": "NEMO: Dad, it’s time for you to go now.",
+		"cn": "尼莫：爸爸，您该走了。"
+	},
 	{
 		"en": "MR. RAY: Don’t worry. We’re gonna stay together as a group. OK, class, optical orbits up front! And remember, we keep our supraesophogeal ganglion to ourselves, that means you, Jimmy.",
-		"cn": ""
+		"cn": "雷先生：别担心。我们会作为一个整体呆在一起。好的，班级，光学轨道在前面！记住，我们要把我们的上食管神经节留给自己，这意味着你，吉米。"
 	},
-	{ "en": "JIMMY: Oh, man!", "cn": "" },
-	{ "en": "MARLIN: Bye, Nemo!", "cn": "" },
-	{ "en": "NEMO: Bye, Dad!", "cn": "" },
-	{ "en": "MARLIN: Bye, son! Be safe.", "cn": "" },
-	{ "en": "BOB: Hey, you’re doing pretty well for a first timer.", "cn": "" },
+	{ "en": "JIMMY: Oh, man!", "cn": "吉米：哦，天哪！" },
+	{ "en": "MARLIN: Bye, Nemo!", "cn": "马林：再见，尼莫！" },
+	{ "en": "NEMO: Bye, Dad!", "cn": "尼莫：再见，爸爸！" },
+	{ "en": "MARLIN: Bye, son! Be safe.", "cn": "马林：再见，儿子！保重。" },
+	{
+		"en": "BOB: Hey, you’re doing pretty well for a first timer.",
+		"cn": "鲍勃：嘿，作为第一次来这里的鱼，你表现得很好。"
+	},
 	{
 		"en": "MARLIN: Well, you can’t hold onto them forever, can you?",
-		"cn": ""
+		"cn": "马林：好吧，你不能永远抓着他们，对吧？"
 	},
 	{
 		"en": "BILL: I had a tough time when my oldest went out at the Drop Off.",
-		"cn": ""
+		"cn": "比尔：我大儿子第一次去悬崖边时，我也很难过。"
 	},
 	{
 		"en": "MARLIN: They just gotta grow up... The Drop Off?! They’re going to the Drop Off?! What are you, insane?! Why don’t we fry them up now and serve them with chips?!",
-		"cn": ""
+		"cn": "马林：他们只需要长大……悬崖边？！他们要去悬崖边？！你疯了吗？！我们干嘛不现在就把他们炸了，配上薯条？"
 	},
-	{ "en": "BOB: Hey, Marty. Calm down!", "cn": "" },
-	{ "en": "MARLIN: Don’t tell me to be calm, pony boy!", "cn": "" },
-	{ "en": "BOB: ‘Pony boy’?", "cn": "" },
+	{ "en": "BOB: Hey, Marty. Calm down!", "cn": "鲍勃：嘿，马丁。冷静点！" },
+	{
+		"en": "MARLIN: Don’t tell me to be calm, pony boy!",
+		"cn": "马林：别告诉我冷静，小马。"
+	},
+	{ "en": "BOB: ‘Pony boy’?", "cn": "鲍勃：‘小马’？" },
 	{
 		"en": "BILL: You know for a clownfish, he really isn't that funny.",
-		"cn": ""
+		"cn": "比尔：你知道吗，作为一条小丑鱼，他其实并不是那么有趣。"
 	},
-	{ "en": "TED: Pity...", "cn": "" },
-	{ "en": "Scene 4: Field Trip", "cn": "" },
+	{ "en": "TED: Pity...", "cn": "泰德：可惜……" },
+	{ "en": "Scene 4: Field Trip", "cn": "第四幕：实地考察" },
 	{
 		"en": "Mr. Ray: (Singing With Music) Oh, let’s name the species, the species, the species. Let’s name the species that live in the sea. There’s porifera, coelenterata, hydrozoa, scyphozoa, anthozoa, ctenophora, bryozoas, three! Gastropoda, arthropoda, echinoderma, and some fish like you and me. Come on, sing with me. Just the girls this time. Seaweed is cool. Seaweed is fun. It makes it’s food with the rays of the sun…",
-		"cn": ""
+		"cn": "雷先生：（伴着音乐唱）哦，让我们来命名这些物种，这些物种，这些生活在海里的物种。海绵动物，腔肠动物，水螅，海蜇，珊瑚虫，栉水母，苔藓动物，三叶虫，软体动物，节肢动物，棘皮动物，还有一些像你我一样的鱼。来吧，和我一起唱。这次只有女孩们。海藻很酷。海藻很有趣。它利用阳光的光线制造食物……"
 	},
 	{
 		"en": "Mr. Ray: OK, the drop off. All right, kids, feel free to explore but stay close. [gasps] Stromalitic cyanobacteria! Gather! An entire ecosystem contained in one infinitesimal speck. There are as many protein pairs contained in this…",
-		"cn": ""
+		"cn": "雷先生：好的，悬崖边。好了，孩子们，随便探索，但要保持靠近。[喘气] 层状蓝细菌！集合！一个完整的生态系统包含在一个微不足道的斑点中。这里面含有的蛋白质对有多少……"
 	},
-	{ "en": "Tad: Come on, let’s go.", "cn": "" },
+	{ "en": "Tad: Come on, let’s go.", "cn": "塔德：快点，我们走吧。" },
 	{
 		"en": "Mr. Ray: Come on, sing with me! [singing] There’s porifera, coelentera, hydrozoa, scyphozoa, anthozoa, ctenophora, bryozoas, three!",
-		"cn": ""
+		"cn": "雷先生：来吧，和我一起唱！[唱] 有海绵动物，腔肠动物，水螅，海蜇，珊瑚虫，栉水母，苔藓动物，三叶虫！"
 	},
-	{ "en": "Scene 5: The Drop Off and Fight", "cn": "" },
-	{ "en": "Nemo: Hey guys, wait up! Whoa!", "cn": "" },
-	{ "en": "Tad: Cool. Saved your life!", "cn": "" },
-	{ "en": "Pearl: [farts and inks] Aahh, you guys made me ink!", "cn": "" },
-	{ "en": "[both laughing]", "cn": "" },
-	{ "en": "Nemo: What’s that?", "cn": "" },
+	{ "en": "Scene 5: The Drop Off and Fight", "cn": "第五幕：悬崖边的争斗" },
+	{
+		"en": "Nemo: Hey guys, wait up! Whoa!",
+		"cn": "尼莫：嘿，伙计们，等等我！哇！"
+	},
+	{ "en": "Tad: Cool. Saved your life!", "cn": "塔德：酷。救了你一命！" },
+	{
+		"en": "Pearl: [farts and inks] Aahh, you guys made me ink!",
+		"cn": "珍珠：[放屁并喷墨] 啊，你们让我喷墨水了！"
+	},
+	{ "en": "[both laughing]", "cn": "[两人都在笑]" },
+	{ "en": "Nemo: What’s that?", "cn": "尼莫：那是什么？" },
 	{
 		"en": "Tad: I know what that is. Sandy Plankton saw one. He called, he said it was called a butt!",
-		"cn": ""
+		"cn": "塔德：我知道那是什么。桑迪·浮游生物见过一个。他说，那叫做屁股！"
 	},
-	{ "en": "Pearl: Wow! That’s a pretty big butt.", "cn": "" },
+	{
+		"en": "Pearl: Wow! That’s a pretty big butt.",
+		"cn": "珍珠：哇！那是个大屁股。"
+	},
 	{
 		"en": "Sheldon: Oh, look at me. I’m gonna go touch the butt! [sneezes] Whoa!! [laughter] Oh, yeah? Let’s see you get closer.",
-		"cn": ""
+		"cn": "谢尔顿：哦，看看我。我去碰那个屁股！[打喷嚏] 哇！！[笑] 哦，是吗？让我们看看你能不能更近一点。"
 	},
-	{ "en": "Pearl: OK. Beat that!", "cn": "" },
-	{ "en": "Tad: Come on, Nemo. How far can you go?", "cn": "" },
-	{ "en": "Nemo: Oh, um... my dad says it’s not safe.", "cn": "" },
-	{ "en": "Marlin: Nemo! No!!", "cn": "" },
-	{ "en": "Nemo: Dad?!", "cn": "" },
-	{ "en": "Marlin: You were about to swim into open water!", "cn": "" },
-	{ "en": "Nemo: No, I wasn’t go out! But dad...", "cn": "" },
+	{ "en": "Pearl: OK. Beat that!", "cn": "珍珠：好吧。比这更厉害的！" },
+	{
+		"en": "Tad: Come on, Nemo. How far can you go?",
+		"cn": "塔德：来吧，尼莫。你能游多远？"
+	},
+	{
+		"en": "Nemo: Oh, um... my dad says it’s not safe.",
+		"cn": "尼莫：哦，我爸爸说那里不安全。"
+	},
+	{ "en": "Marlin: Nemo! No!!", "cn": "马林：尼莫！不！！" },
+	{ "en": "Nemo: Dad?!", "cn": "尼莫：爸爸？!" },
+	{
+		"en": "Marlin: You were about to swim into open water!",
+		"cn": "马林：你差点就要游进开阔水域了！"
+	},
+	{
+		"en": "Nemo: No, I wasn’t go out! But dad...",
+		"cn": "尼莫：不，我不是要出去！但是爸爸……"
+	},
 	{
 		"en": "Marlin: It was a good thing I was here. If I hadn’t showed up, I don’t know...",
-		"cn": ""
+		"cn": "马林：我在这里真是太好了。如果我没来，我不知道……"
 	},
-	{ "en": "Pearl: Sir, he wasn’t gonna go!", "cn": "" },
-	{ "en": "Tad: Yeah, he was too afraid!", "cn": "" },
-	{ "en": "Nemo: No, I wasn’t!", "cn": "" },
+	{
+		"en": "Pearl: Sir, he wasn’t gonna go!",
+		"cn": "珍珠：先生，他是不会去的！"
+	},
+	{ "en": "Tad: Yeah, he was too afraid!", "cn": "塔德：是的，他太害怕了！" },
+	{ "en": "Nemo: No, I wasn’t!", "cn": "尼莫：不，我不是！" },
 	{
 		"en": "Marlin: This does not concern you, kids. And you’re lucky I don’t tell your parents you were out there. You know you can’t swim well!",
-		"cn": ""
+		"cn": "马林：这和你们无关，孩子们。你们真幸运，我不告诉你们的父母你们在外面。你们知道你们游得不好！"
 	},
-	{ "en": "Nemo: I can swim fine, dad, OK?", "cn": "" },
+	{
+		"en": "Nemo: I can swim fine, dad, OK?",
+		"cn": "尼莫：我游得很好，爸爸，行吗？"
+	},
 	{
 		"en": "Marlin: No, it’s not OK. You shouldn’t be anywhere near here! OK, I was right. You know what? You’ll start school in a year or two. [starts to take Nemo away]",
-		"cn": ""
+		"cn": "马林：不，这不行。你不应该在这里附近！好吧，我是对的。你知道吗？你要么在一年或两年后上学。[开始带走尼莫]"
 	},
 	{
 		"en": "Nemo: [jerks out of his grasp] No, Dad! Just because you’re scared of the ocean...",
-		"cn": ""
+		"cn": "尼莫：[挣脱开] 不，爸爸！仅仅因为你害怕大海……"
 	},
 	{
 		"en": "Marlin: Clearly, you’re not ready. And you’re not coming back until you are. You think you can do these things but you just can’t, Nemo!",
-		"cn": ""
+		"cn": "马林：很明显，你还没有准备好。你不回来就不行。你以为你能做到这些，但你就是不能，尼莫！"
 	},
-	{ "en": "Nemo: I hate you.", "cn": "" },
+	{ "en": "Nemo: I hate you.", "cn": "尼莫：我恨你。" },
 	{
 		"en": "(Marlin is shocked and visibly hurt at what his son just said)",
-		"cn": ""
+		"cn": "(马林对儿子刚才说的话感到震惊和明显的伤心)"
 	},
 	{
 		"en": "Mr. Ray: [singing] There’s. Nothing to see. Gather, over there. Excuse me, is there anything I can do? I am a scientist, sir. Is there any problem?",
-		"cn": ""
+		"cn": "雷先生：[唱] 没什么可看的。聚集在那边。打扰一下，有什么我可以帮忙的吗？我是一名科学家，先生。有什么问题吗？"
 	},
 	{
 		"en": "Marlin: I’m sorry. I didn’t mean to interrupt things. He isn’t a good swimmer. I just think it’s a little too soon for him to be out here unsupervised.",
-		"cn": ""
+		"cn": "马林：对不起。我不是故意打扰的。他游得不好。我只是觉得让他在这里单独待着还为时尚早。"
 	},
 	{
 		"en": "Mr. Ray: Well, I can assure you, he’s quite safe with me.",
-		"cn": ""
+		"cn": "雷先生：好吧，我可以向你保证，他和我在一起是非常安全的。"
 	},
 	{
 		"en": "Marlin: Look, I’m sure he is. But you have a large class and he can get lost from sight if you’re not looking. I’m not saying you’re not looking...",
-		"cn": ""
+		"cn": "马林：听着，我相信他是安全的。但是你们班级人数众多，如果你不注意，他可能会走失。我不是说你不注意……"
 	},
-	{ "en": "Kathy: Oh, my gosh! Nemo’s swimming out to sea!", "cn": "" },
+	{
+		"en": "Kathy: Oh, my gosh! Nemo’s swimming out to sea!",
+		"cn": "凯西：哦，我的天哪！尼莫正在向大海游去！"
+	},
 	{
 		"en": "(Nemo swims out to touch the \"butt.\" Marlin, Mr. Ray, Sheldon, Pearl and Tad notice this)",
-		"cn": ""
+		"cn": "(尼莫游出去碰那个“屁股”。马林，雷先生，谢尔顿，珍珠和塔德注意到了这一点)"
 	},
-	{ "en": "Scene 6: The Divers Take Nemo Who Lost", "cn": "" },
+	{
+		"en": "Scene 6: The Divers Take Nemo Who Lost",
+		"cn": "第六幕：潜水员带走失踪的尼莫"
+	},
 	{
 		"en": "Marlin: (gasps) Nemo!!! What do you think you’re doing?!",
-		"cn": ""
+		"cn": "马林：（喘气）尼莫！！！你觉得你在做什么？！"
 	},
-	{ "en": "(Nemo looks up at the \"butt\")", "cn": "" },
+	{ "en": "(Nemo looks up at the \"butt\")", "cn": "(尼莫抬头看着那个“屁股”)" },
 	{
 		"en": "Marlin: You’re gonna get stuck out there, and I’m gonna have to get you before another fish does! Get back here!",
-		"cn": ""
+		"cn": "马林：你会被卡在外面的，我得在其他鱼之前把你救回来！快回来！"
 	},
-	{ "en": "(Nemo swims up to the \"butt\")", "cn": "" },
-	{ "en": "Marlin: I said get back here, now!! Stop!", "cn": "" },
-	{ "en": "(Nemo stops and turns around to Marlin, upset)", "cn": "" },
-	{ "en": "Marlin: You take one more move, mister...!", "cn": "" },
-	{ "en": "(Nemo raises up his fin)", "cn": "" },
+	{ "en": "(Nemo swims up to the \"butt\")", "cn": "(尼莫游到那个“屁股”旁边)" },
+	{
+		"en": "Marlin: I said get back here, now!! Stop!",
+		"cn": "马林：我说过要你现在就回来！！停下！"
+	},
+	{
+		"en": "(Nemo stops and turns around to Marlin, upset)",
+		"cn": "(尼莫停下，转身面对马林，显得很不安)"
+	},
+	{
+		"en": "Marlin: You take one more move, mister...!",
+		"cn": "马林：你再动一下，先生……！"
+	},
+	{ "en": "(Nemo raises up his fin)", "cn": "(尼莫抬起鳍)" },
 	{
 		"en": "Marlin: D-Don’t you dare, if you put one fin on that boat! Are you listening to me?! Don’t touch the bo-!",
-		"cn": ""
+		"cn": "马林：你敢，如果你把一只鳍放在那艘船上！你在听我说话吗？！不要碰那艘船-！"
 	},
-	{ "en": "(Nemo touches the \"butt\")", "cn": "" },
-	{ "en": "Marlin: Nemo!!!", "cn": "" },
-	{ "en": "Tad: (whispers) He touched the butt!", "cn": "" },
+	{ "en": "(Nemo touches the \"butt\")", "cn": "(尼莫碰了碰那个“屁股”)" },
+	{ "en": "Marlin: Nemo!!!", "cn": "马林：尼莫！！！" },
+	{
+		"en": "Tad: (whispers) He touched the butt!",
+		"cn": "塔德：（低声）他碰到了屁股！"
+	},
 	{
 		"en": "Marlin: You just paddle your little tail right back here, Nemo! That’s right! You are in big trouble, young man! Do you hear me? Big...!",
-		"cn": ""
+		"cn": "马林：你这小家伙，快把尾巴划回来，尼莫！没错！你有大麻烦了，小子！你听见没有？大……！"
 	},
-	{ "en": "(a diver is green appears behind Nemo)", "cn": "" },
-	{ "en": "Marlin: Big...", "cn": "" },
-	{ "en": "Pearl: (Shrieks)", "cn": "" },
+	{
+		"en": "(a diver is green appears behind Nemo)",
+		"cn": "(一个绿色的潜水员出现在尼莫身后)"
+	},
+	{ "en": "Marlin: Big...", "cn": "马林：大……" },
+	{ "en": "Pearl: (Shrieks)", "cn": "珍珠：（尖叫）" },
 	{
 		"en": "Nemo: [seeing at the green diver] AAAAAHHHHH!!! Daddy, help me!!!",
-		"cn": ""
+		"cn": "尼莫：[看到绿色潜水员] 啊啊啊啊啊！！！爸爸，救命！！！"
 	},
 	{
 		"en": "Marlin: I’m coming, Nemo!! [gasps] (tries to save Nemo but another diver is blue appears)",
-		"cn": ""
+		"cn": "马林：我来了，尼莫！！[喘气] （试图救尼莫，但又一个蓝色潜水员出现）"
 	},
-	{ "en": "Kids: (Screamed in fear)", "cn": "" },
-	{ "en": "Mr. Ray: Get under me, kids!", "cn": "" },
-	{ "en": "[The diver kidnapped nemo by a bag.]", "cn": "" },
-	{ "en": "Nemo: Oh, no, no! Dad!! Daddy!!!", "cn": "" },
+	{ "en": "Kids: (Screamed in fear)", "cn": "孩子们：（惊恐地尖叫）" },
+	{
+		"en": "Mr. Ray: Get under me, kids!",
+		"cn": "雷先生：孩子们，快躲到我下面！"
+	},
+	{
+		"en": "[The diver kidnapped nemo by a bag.]",
+		"cn": "[潜水员用袋子绑架了尼莫。]"
+	},
+	{
+		"en": "Nemo: Oh, no, no! Dad!! Daddy!!!",
+		"cn": "尼莫：哦，不，不！爸爸！！爸爸！！！"
+	},
 	{
 		"en": "Marlin: No!!! (whimpering) NEMO!!! (swimming too fast) Nemo!!! (a diver flashes him.) No!!! Nemo!!! Nemo, Nemo! No! No!! AAGGHH!!! Nemo, Nemo!!",
-		"cn": ""
+		"cn": "马林：不！！！（呜咽）尼莫！！！（游得太快）尼莫！！！（潜水员闪过）不！！！尼莫！！！尼莫，尼莫！不！不！！啊啊啊！！！尼莫，尼莫！！"
 	},
-	{ "en": "Nemo: [whimpering]", "cn": "" },
-	{ "en": "DIVER #2: Whoa! Hold on!", "cn": "" },
-	{ "en": "[The diving mask drops into the sea.]", "cn": "" },
+	{ "en": "Nemo: [whimpering]", "cn": "尼莫：[呜咽]" },
+	{ "en": "DIVER #2: Whoa! Hold on!", "cn": "潜水员#2：哇！等一下！" },
+	{
+		"en": "[The diving mask drops into the sea.]",
+		"cn": "[潜水面具掉入海中。]"
+	},
 	{
 		"en": "Marlin: (panting) Oh, no! No, no! It’s gone, it’s gone! No, no, it can’t be gone! No, no!! Nemo!!! Nemo! Nemo! No! [gasps] Nemo! Nemo! No, please, no!!! No, no!!",
-		"cn": ""
+		"cn": "马林：（喘气）哦，不！不，不！没了，没了！不，不，不能没了！不，不！！尼莫！！！尼莫！尼莫！不！[喘气] 尼莫！尼莫！不，拜托，不！！！不，不！！"
 	},
-	{ "en": "Scene 7: Meeting Dory", "cn": "" },
+	{ "en": "Scene 7: Meeting Dory", "cn": "第七幕：遇见多莉" },
 	{
 		"en": "Marlin: Has anybody seen a boat?! Please!!! A white boat!!! They took my son!!! My son!!! Help me, please!!!",
-		"cn": ""
+		"cn": "马林：有人见过一艘船吗？！拜托！！！一艘白船！！！他们带走了我的儿子！！！我的儿子！！！救救我，拜托！！！"
 	},
-	{ "en": "Dory: Look out!!!", "cn": "" },
+	{ "en": "Dory: Look out!!!", "cn": "多莉：小心！！！" },
 	{
 		"en": "(Marlin and Dory bump into each other. Marlin gets hit right into a thing)",
-		"cn": ""
+		"cn": "(马林和多莉撞在了一起。马林被撞到了一个东西上)"
 	},
 	{
 		"en": "Dory: Sorry! I didn’t see you. Sir, are you OK? There, there. It’s all right.",
-		"cn": ""
+		"cn": "多莉：对不起！我没看到你。先生，你还好吗？没事，没事。没关系。"
 	},
-	{ "en": "Marlin: He’s gone!", "cn": "" },
-	{ "en": "Dory: It’ll be OK.", "cn": "" },
+	{ "en": "Marlin: He’s gone!", "cn": "马林：他走了！" },
+	{ "en": "Dory: It’ll be OK.", "cn": "多莉：没事的。" },
 	{
 		"en": "Marlin: No, no! They took him away! I have to find the boat!",
-		"cn": ""
+		"cn": "马林：不，不！他们把他带走了！我得去找那艘船！"
 	},
-	{ "en": "Dory: A boat? Hey, I’ve seen a boat!", "cn": "" },
-	{ "en": "Marlin: You have?", "cn": "" },
-	{ "en": "Dory: It passed by not too long ago.", "cn": "" },
-	{ "en": "Marlin: A white one?", "cn": "" },
-	{ "en": "Dory: Hi. I’m Dory.", "cn": "" },
-	{ "en": "Marlin: Where!? Which way!?", "cn": "" },
+	{
+		"en": "Dory: A boat? Hey, I’ve seen a boat!",
+		"cn": "多莉：船？嘿，我见过一艘船！"
+	},
+	{ "en": "Marlin: You have?", "cn": "马林：你见过？" },
+	{
+		"en": "Dory: It passed by not too long ago.",
+		"cn": "多莉：不久前经过这里。"
+	},
+	{ "en": "Marlin: A white one?", "cn": "马林：一艘白船？" },
+	{ "en": "Dory: Hi. I’m Dory.", "cn": "多莉：嗨。我是多莉。" },
+	{ "en": "Marlin: Where!? Which way!?", "cn": "马林：哪里！？哪个方向！" },
 	{
 		"en": "Dory: It went, this way! And it went this way! Follow me!",
-		"cn": ""
+		"cn": "多莉：它是往这边走的！然后又往这边走！跟我来！"
 	},
-	{ "en": "Marlin: Thank you! Thank you, so much!", "cn": "" },
-	{ "en": "Dory: No problem.", "cn": "" },
-	{ "en": "Marlin: Hey! Wait!", "cn": "" },
-	{ "en": "Dory: Will you quit it?!", "cn": "" },
-	{ "en": "Marlin: What?", "cn": "" },
+	{
+		"en": "Marlin: Thank you! Thank you, so much!",
+		"cn": "马林：谢谢你！非常感谢！"
+	},
+	{ "en": "Dory: No problem.", "cn": "多莉：没问题。" },
+	{ "en": "Marlin: Hey! Wait!", "cn": "马林：嘿！等等！" },
+	{ "en": "Dory: Will you quit it?!", "cn": "多莉：你能不能停下？！" },
+	{ "en": "Marlin: What?", "cn": "马林：什么？" },
 	{
 		"en": "Dory: I’m trying to swim here! What, ocean ain’t big enough for you or something like that? You got a problem, buddy? Huh? HUH? Do you? Do you? You want a piece of me? Yeah, I’m scared now. What!",
-		"cn": ""
+		"cn": "多莉：我在这里游泳呢！怎么了，海洋对你来说不够大还是怎么着？你有问题吗，伙计？嗯？你想要和我打架吗？是的，我现在很害怕。怎么了！"
 	},
-	{ "en": "Marlin: Wait a minute...", "cn": "" },
-	{ "en": "Dory: Stop following me, OK?!", "cn": "" },
+	{ "en": "Marlin: Wait a minute...", "cn": "马林：等一下……" },
+	{ "en": "Dory: Stop following me, OK?!", "cn": "多莉：别跟着我，知道吗？！" },
 	{
 		"en": "Marlin: What're you talking about? You’re showing me which way the boat went!",
-		"cn": ""
+		"cn": "马林：你在说什么？你是在告诉我船是往哪个方向去的！"
 	},
 	{
 		"en": "Dory: A boat? Hey, I’ve seen a boat. It passed by not too long ago. It went this way, it went this way. Follow me!",
-		"cn": ""
+		"cn": "多莉：船？嘿，我见过一艘船。它不久前经过。它是往这边走的，往这边走的。跟我来！"
 	},
 	{
 		"en": "Marlin: Wait a minute!! What is going on?! You already told me which way the boat was going!",
-		"cn": ""
+		"cn": "马林：等一下！！发生了什么事？！你已经告诉我船是往哪个方向走的了！"
 	},
-	{ "en": "Dory: I did? Oh, no.", "cn": "" },
+	{ "en": "Dory: I did? Oh, no.", "cn": "多莉：我说过吗？哦，不。" },
 	{
 		"en": "Marlin: If this is some kind of practical joke, it’s not funny! And I know funny... I’m a clownfish!",
-		"cn": ""
+		"cn": "马林：如果这是什么恶作剧，那可真不好笑！我知道什么是有趣……我是条小丑鱼！"
 	},
 	{
 		"en": "Dory: No, it’s not. I know it’s not. I’m so sorry. See, I suffer from short-term memory loss.",
-		"cn": ""
+		"cn": "多莉：不，这不是。我知道这不是。我很抱歉。你看，我有短期记忆丧失症。"
 	},
-	{ "en": "Marlin: Short-term memory loss. I don’t believe this!", "cn": "" },
+	{
+		"en": "Marlin: Short-term memory loss. I don’t believe this!",
+		"cn": "马林：短期记忆丧失。我不相信！"
+	},
 	{
 		"en": "Dory: No, it’s true. I forget things almost instantly. It runs in my family. Or at least I think it does. Where are they? Can I help you?",
-		"cn": ""
+		"cn": "多莉：不，这是真的。我几乎会立即忘记事情。这是我家族的遗传病。或者至少我想是这样。它们在哪里？我能帮你吗？"
 	},
-	{ "en": "Scene 8: Sharks", "cn": "" },
+	{ "en": "Scene 8: Sharks", "cn": "第八幕：鲨鱼" },
 	{
 		"en": "Marlin: Something’s wrong with you, really. You’re wasting my time. I have to find my son. [gasps]",
-		"cn": ""
+		"cn": "马林：你真的有问题。你在浪费我的时间。我得去找我的儿子。[喘气]"
 	},
-	{ "en": "[They see a big killer shark named Bruce.] ", "cn": "" },
-	{ "en": "Bruce: Hello.", "cn": "" },
-	{ "en": "Dory: Well, hi!", "cn": "" },
+	{
+		"en": "[They see a big killer shark named Bruce.] ",
+		"cn": "[他们看到了一条名叫布鲁斯的大白鲨。]"
+	},
+	{ "en": "Bruce: Hello.", "cn": "布鲁斯：你好。" },
+	{ "en": "Dory: Well, hi!", "cn": "多莉：你好啊！" },
 	{
 		"en": "Bruce: Name’s Bruce! It’s all right, I understand. Why trust a shark, right? [laughing] So, what’s a couple of bites like you doing out so late?",
-		"cn": ""
+		"cn": "布鲁斯：我叫布鲁斯！没关系，我理解。为什么要相信鲨鱼，对吧？[笑] 那么，像你们这样的小家伙晚上出来干什么？"
 	},
 	{
 		"en": "Marlin: Nothing. We’re not doing anything. We’re not even out.",
-		"cn": ""
+		"cn": "马林：没什么。我们没在做任何事。我们甚至都没出去。"
 	},
 	{
 		"en": "Bruce: Great! Then how’d you morsels like to come to a little get-together I’m having?",
-		"cn": ""
+		"cn": "布鲁斯：太好了！那么，你们这些小家伙想不想来参加我的小聚会？"
 	},
-	{ "en": "Dory: You mean like a party?", "cn": "" },
-	{ "en": "Bruce: Yeah, right a party! What do you say?", "cn": "" },
-	{ "en": "Dory: I love parties! That like sounds fun!", "cn": "" },
+	{ "en": "Dory: You mean like a party?", "cn": "多莉：你是说像派对一样吗？" },
+	{
+		"en": "Bruce: Yeah, right a party! What do you say?",
+		"cn": "布鲁斯：是的，派对！你们觉得怎么样？"
+	},
+	{
+		"en": "Dory: I love parties! That like sounds fun!",
+		"cn": "多莉：我喜欢派对！听起来很有趣！"
+	},
 	{
 		"en": "Marlin: Parties are fun, and it’s tempting but can't because...",
-		"cn": ""
+		"cn": "马林：派对很有趣，这很诱人，但不能因为……"
 	},
-	{ "en": "Bruce: Come on, I insist!", "cn": "" },
-	{ "en": "Marlin: OK, that’s all that matters.", "cn": "" },
-	{ "en": "Dory: Hey, look. Balloons! It is a party!", "cn": "" },
+	{ "en": "Bruce: Come on, I insist!", "cn": "布鲁斯：来吧，我坚持！" },
+	{
+		"en": "Marlin: OK, that’s all that matters.",
+		"cn": "马林：好的，这就是最重要的。"
+	},
+	{
+		"en": "Dory: Hey, look. Balloons! It is a party!",
+		"cn": "多莉：嘿，看看。气球！这就是派对！"
+	},
 	{
 		"en": "Bruce: [chuckling] Mind your distance, though. Those balloons can be a bit dodgy. You wouldn’t want one of them to pop.",
-		"cn": ""
+		"cn": "布鲁斯：[笑着] 注意你们的距离。那些气球可能有点危险。你可不想让其中一个爆炸。"
 	},
-	{ "en": "Bruce: Anchor! Chum!", "cn": "" },
-	{ "en": "Anchor: There you are, Bruce, finally!", "cn": "" },
-	{ "en": "Bruce: We got company.", "cn": "" },
-	{ "en": "Anchor: It’s about time, mate.", "cn": "" },
+	{ "en": "Bruce: Anchor! Chum!", "cn": "布鲁斯：安克！小鱼！" },
+	{
+		"en": "Anchor: There you are, Bruce, finally!",
+		"cn": "安克：布鲁斯，终于找到你了！"
+	},
+	{ "en": "Bruce: We got company.", "cn": "布鲁斯：我们有客人了。" },
+	{
+		"en": "Anchor: It’s about time, mate.",
+		"cn": "安克：差不多该到了，伙计。"
+	},
 	{
 		"en": "Chum: We’ve already gone through all the snacks and I’m still starving!",
-		"cn": ""
+		"cn": "小鱼：我们已经把所有的零食都吃光了，我还是饿！"
 	},
-	{ "en": "Anchor: We almost had a feeding frenzy.", "cn": "" },
-	{ "en": "Chum: Come on, let’s get this over with!", "cn": "" },
-	{ "en": "[bell dings]", "cn": "" },
+	{
+		"en": "Anchor: We almost had a feeding frenzy.",
+		"cn": "安克：我们差点就要进行一场疯狂的喂食了。"
+	},
+	{
+		"en": "Chum: Come on, let’s get this over with!",
+		"cn": "小鱼：快点，咱们把这事了结了！"
+	},
+	{ "en": "[bell dings]", "cn": "[铃声响起]" },
 	{
 		"en": "Bruce: Right, then. The meeting has officially come to order. Let us all say the pledge.",
-		"cn": ""
+		"cn": "布鲁斯：那么，会议正式开始。让我们一起宣誓。"
 	},
 	{
 		"en": "Bruce, Chum and Anchor: I am a nice shark, not a mindless eating machine. If I am to change this image, I must first change myself. Fish are friends, not food.",
-		"cn": ""
+		"cn": "布鲁斯、小鱼和安克：我是一条善良的鲨鱼，而不是一台无脑的吃东西的机器。如果我想改变这个形象，我必须先改变自己。鱼是朋友，而不是食物。"
 	},
-	{ "en": "Anchor: Except stinking dolphins.", "cn": "" },
+	{ "en": "Anchor: Except stinking dolphins.", "cn": "安克：除了讨厌的海豚。" },
 	{
 		"en": "Chum: Dolphins. Yeah! They think they’re so cute. \"Look at me. I’m a flipping little dolphin! Let me flip for you. Ain’t I something?\"",
-		"cn": ""
+		"cn": "小鱼：海豚。是啊！它们觉得自己太可爱了。“看看我。我是一只翻滚的小海豚！让我为你翻滚。难道我不是很特别吗？”"
 	},
 	{
 		"en": "Bruce: Right, then. Today’s meeting is step five. Bring a Fish Friend. Now, do you all have your friends?",
-		"cn": ""
+		"cn": "布鲁斯：那么，今天的会议是第五步。带来一个鱼朋友。现在，你们都有带朋友吗？"
 	},
-	{ "en": "Anchor: Got mine.", "cn": "" },
-	{ "en": "Dory: Hey there!", "cn": "" },
-	{ "en": "Bruce: How about you, Chum?", "cn": "" },
-	{ "en": "Chum: Well, I seem to have misplaced my umm, friend.", "cn": "" },
+	{ "en": "Anchor: Got mine.", "cn": "安克：我带了我的朋友。" },
+	{ "en": "Dory: Hey there!", "cn": "多莉：嘿，那里！" },
+	{ "en": "Bruce: How about you, Chum?", "cn": "布鲁斯：你呢，小鱼？" },
+	{
+		"en": "Chum: Well, I seem to have misplaced my umm, friend.",
+		"cn": "小鱼：嗯，我好像把我的朋友放错地方了。"
+	},
 	{
 		"en": "Bruce: That’s all right, Chum. I had a feeling this would be a difficult step, you can help yourself to one of my friends.",
-		"cn": ""
+		"cn": "布鲁斯：没关系，小鱼。我就知道这会是一个困难的步骤，你可以随便拿我一条朋友。"
 	},
-	{ "en": "Chum: Thanks, mate. A little chum for Chum, eh?", "cn": "" },
+	{
+		"en": "Chum: Thanks, mate. A little chum for Chum, eh?",
+		"cn": "小鱼：谢谢，伙计。给小鱼一点小鱼食，是吧？"
+	},
 	{
 		"en": "Bruce: I’ll start the testimonies. Hello, my name is Bruce.",
-		"cn": ""
+		"cn": "布鲁斯：我来开始自我介绍。你好，我叫布鲁斯。"
 	},
-	{ "en": "Both: Hello, Bruce.", "cn": "" },
+	{ "en": "Both: Hello, Bruce.", "cn": "大家：你好，布鲁斯。" },
 	{
 		"en": "Bruce: It has been three weeks since my last fish, on my honor, or may I be chopped up and made into soup.",
-		"cn": ""
+		"cn": "布鲁斯：自从我上次吃鱼已经过去三周了，我发誓，要不然我就被切成片做成汤。"
 	},
-	{ "en": "Chum: You’re an inspiration to all of us!", "cn": "" },
-	{ "en": "Anchor: Amen.", "cn": "" },
-	{ "en": "Marlin: [grunts]", "cn": "" },
-	{ "en": "Bruce: Right, then. Who’s next?", "cn": "" },
-	{ "en": "Dory: Pick me! Pick me!", "cn": "" },
-	{ "en": "Bruce: Yes, the little Sheila down the front!", "cn": "" },
-	{ "en": "Dory: Whoo!", "cn": "" },
-	{ "en": "Bruce: Come on up here.", "cn": "" },
-	{ "en": "Dory: Hi. I’m Dory.", "cn": "" },
-	{ "en": "Sharks: Hello, Dory.", "cn": "" },
+	{
+		"en": "Chum: You’re an inspiration to all of us!",
+		"cn": "小鱼：你是我们所有人的榜样！"
+	},
+	{ "en": "Anchor: Amen.", "cn": "安克：阿门。" },
+	{ "en": "Marlin: [grunts]", "cn": "马林：[ grunt ]" },
+	{
+		"en": "Bruce: Right, then. Who’s next?",
+		"cn": "布鲁斯：那么，谁是下一个？"
+	},
+	{ "en": "Dory: Pick me! Pick me!", "cn": "多莉：选我！选我！" },
+	{
+		"en": "Bruce: Yes, the little Sheila down the front!",
+		"cn": "布鲁斯：是的，前面的那个小女孩！"
+	},
+	{ "en": "Dory: Whoo!", "cn": "多莉：耶！" },
+	{ "en": "Bruce: Come on up here.", "cn": "布鲁斯：快上来。" },
+	{ "en": "Dory: Hi. I’m Dory.", "cn": "多莉：嗨。我是多莉。" },
+	{ "en": "Sharks: Hello, Dory.", "cn": "鲨鱼们：你好，多莉。" },
 	{
 		"en": "Dory: And... Well, I don’t think I’ve ever eaten a fish.",
-		"cn": ""
+		"cn": "多莉：而且……我想我从来没有吃过鱼。"
 	},
-	{ "en": "Chum: Hey, that’s incredible!", "cn": "" },
-	{ "en": "Bruce: Good on ‘ya, mate!", "cn": "" },
-	{ "en": "Dory: I’m glad I got that off my chest.", "cn": "" },
+	{ "en": "Chum: Hey, that’s incredible!", "cn": "小鱼：嘿，太不可思议了！" },
+	{ "en": "Bruce: Good on ‘ya, mate!", "cn": "布鲁斯：干得好，伙计！" },
+	{
+		"en": "Dory: I’m glad I got that off my chest.",
+		"cn": "多莉：我很高兴我说出来了。"
+	},
 	{
 		"en": "Bruce: All right, anyone else? Hello, how ‘bout you, mate? What’s your problem?",
-		"cn": ""
+		"cn": "布鲁斯：好吧，还有其他人吗？你好，你呢，伙计？你有什么问题？"
 	},
-	{ "en": "Marlin: Me? I don’t have a problem.", "cn": "" },
-	{ "en": "Bruce: OK!", "cn": "" },
-	{ "en": "Sharks: Denial!", "cn": "" },
-	{ "en": "Bruce: Just start with your name.", "cn": "" },
+	{
+		"en": "Marlin: Me? I don’t have a problem.",
+		"cn": "马林：我？我没有问题。"
+	},
+	{ "en": "Bruce: OK!", "cn": "布鲁斯：好的！" },
+	{ "en": "Sharks: Denial!", "cn": "鲨鱼们：否认！" },
+	{
+		"en": "Bruce: Just start with your name.",
+		"cn": "布鲁斯：先从你的名字开始。"
+	},
 	{
 		"en": "Marlin: OK. Uh, hello. My name is Marlin. I’m a clownfish.",
-		"cn": ""
+		"cn": "马林：好的。呃，您好。我叫马林。我是一条小丑鱼。"
 	},
-	{ "en": "Chum: A clownfish?! Really?!", "cn": "" },
-	{ "en": "Bruce: Go on! Tell us a joke!", "cn": "" },
-	{ "en": "Chum: I love jokes!", "cn": "" },
+	{ "en": "Chum: A clownfish?! Really?!", "cn": "小鱼：小丑鱼？！真的吗？" },
+	{
+		"en": "Bruce: Go on! Tell us a joke!",
+		"cn": "布鲁斯：继续！给我们讲个笑话！"
+	},
+	{ "en": "Chum: I love jokes!", "cn": "小鱼：我喜欢笑话！" },
 	{
 		"en": "Marlin: Well, I actually I do know one that’s pretty good. There was this mollusk and he walks up to a sea cucumber. Normally, they don’t talk, sea cucumbers, but in a joke, everyone talks. So the sea mollusk says to the cucumber...",
-		"cn": ""
+		"cn": "马林：其实，我确实知道一个不错的笑话。曾经有一个软体动物，它游到海参那里。通常情况下，它们是不会说话的，海参们，但在笑话里，每个人都会说话。于是海洋软体动物对海参说……"
 	},
-	{ "en": "Nemo: Daddy!!!", "cn": "" },
-	{ "en": "Marlin: Nemo!", "cn": "" },
-	{ "en": "Chum: Nemo! [laughs] I don’t get it.", "cn": "" },
-	{ "en": "Bruce: For a clownfish, he’s not that funny.", "cn": "" },
+	{ "en": "Nemo: Daddy!!!", "cn": "尼莫：爸爸！！！" },
+	{ "en": "Marlin: Nemo!", "cn": "马林：尼莫！" },
+	{
+		"en": "Chum: Nemo! [laughs] I don’t get it.",
+		"cn": "小鱼：尼莫！[笑] 我不明白。"
+	},
+	{
+		"en": "Bruce: For a clownfish, he’s not that funny.",
+		"cn": "布鲁斯：作为一条小丑鱼，他并不好笑。"
+	},
 	{
 		"en": "Marlin: No, no, no, no, he’s my son. He was taken by these divers.",
-		"cn": ""
+		"cn": "马林：不，不，不，不，他是我的儿子。他是被这些潜水员带走的。"
 	},
-	{ "en": "Dory: Oh, my. You poor fish.", "cn": "" },
-	{ "en": "Chum: Humans! Think they own everything!", "cn": "" },
-	{ "en": "Anchor: Probably American!", "cn": "" },
+	{
+		"en": "Dory: Oh, my. You poor fish.",
+		"cn": "多莉：哦，我的天哪。你可怜的鱼。"
+	},
+	{
+		"en": "Chum: Humans! Think they own everything!",
+		"cn": "小鱼：人类！他们觉得自己拥有一切！"
+	},
+	{ "en": "Anchor: Probably American!", "cn": "安克：可能是美国人！" },
 	{
 		"en": "Bruce: [tearfully] Now there is a father looking for his little boy!",
-		"cn": ""
+		"cn": "布鲁斯：[含泪] 现在有一位父亲在寻找他的小男孩！"
 	},
-	{ "en": "Marlin: Ugh! What do these markings mean?", "cn": "" },
-	{ "en": "Bruce: [crying] I never knew my father!", "cn": "" },
-	{ "en": "Chum: Come here.", "cn": "" },
-	{ "en": "Anchor: Group hug.", "cn": "" },
-	{ "en": "Chum: We’re all mates here, mate.", "cn": "" },
-	{ "en": "Marlin: I can’t read human!", "cn": "" },
+	{
+		"en": "Marlin: Ugh! What do these markings mean?",
+		"cn": "马林：呃！这些标记是什么意思？"
+	},
+	{
+		"en": "Bruce: [crying] I never knew my father!",
+		"cn": "布鲁斯：[哭泣] 我从来没有见过我的父亲！"
+	},
+	{ "en": "Chum: Come here.", "cn": "小鱼：过来。" },
+	{ "en": "Anchor: Group hug.", "cn": "安克：来个集体拥抱。" },
+	{
+		"en": "Chum: We’re all mates here, mate.",
+		"cn": "小鱼：我们在这里都是朋友，伙计。"
+	},
+	{ "en": "Marlin: I can’t read human!", "cn": "马林：我看不懂人类的文字！" },
 	{
 		"en": "Dory: Well then we gotta find a fish who can read this. Hey, look, sharks! Guys!",
-		"cn": ""
+		"cn": "多莉：那我们就得找一条会读这个的鱼。嘿，看看，鲨鱼！伙计们！"
 	},
-	{ "en": "Marlin: No, no, no, Dory! Cut it out!", "cn": "" },
-	{ "en": "Dory: That’s mine! Give it to me! Ow!!!", "cn": "" },
-	{ "en": "[He accidentally cuts Dory's nose.)", "cn": "" },
-	{ "en": "Marlin: I’m sorry. Are you OK? I'm so sorry.", "cn": "" },
+	{
+		"en": "Marlin: No, no, no, Dory! Cut it out!",
+		"cn": "马林：不，不，不，多莉！住手！"
+	},
+	{
+		"en": "Dory: That’s mine! Give it to me! Ow!!!",
+		"cn": "多莉：那是我的！给我！哎！！！"
+	},
+	{
+		"en": "[He accidentally cuts Dory's nose.)",
+		"cn": "[他不小心划伤了多莉的鼻子。]"
+	},
+	{
+		"en": "Marlin: I’m sorry. Are you OK? I'm so sorry.",
+		"cn": "马林：对不起。你还好吗？我很抱歉。"
+	},
 	{
 		"en": "Dory: You really clocked me there. Am I bleeding? Ow, ow, ow...",
-		"cn": ""
+		"cn": "多莉：你真的打到我了。我流血了吗？哎，哎，哎……"
 	},
 	{
 		"en": "Bruce: Dory, are you oka- [sniffs the blood] Oh! That’s good...",
-		"cn": ""
+		"cn": "布鲁斯：多莉，你还好吗——[闻到血腥味] 哦！真香……"
 	},
-	{ "en": "Anchor and Chum: INTERVENTION!", "cn": "" },
-	{ "en": "[The sharks hold their boss against the wall]", "cn": "" },
-	{ "en": "Bruce: Just a bite!", "cn": "" },
-	{ "en": "Anchor: You hold it together, mate!", "cn": "" },
-	{ "en": "Chum: Remember, Bruce, fish are friends, not food!", "cn": "" },
-	{ "en": "Bruce: FOOD!", "cn": "" },
-	{ "en": "Marlin: Dory, look out!", "cn": "" },
-	{ "en": "Bruce: I’m havin' fish tonight!", "cn": "" },
-	{ "en": "Chum: Remember the steps, mate!", "cn": "" },
-	{ "en": "Bruce: Just one bite! G’day!", "cn": "" },
+	{ "en": "Anchor and Chum: INTERVENTION!", "cn": "安克和小鱼：干预！" },
+	{
+		"en": "[The sharks hold their boss against the wall]",
+		"cn": "[鲨鱼们把他们的老板按在墙上]"
+	},
+	{ "en": "Bruce: Just a bite!", "cn": "布鲁斯：只是咬一口！" },
+	{ "en": "Anchor: You hold it together, mate!", "cn": "安克：伙计，冷静点！" },
+	{
+		"en": "Chum: Remember, Bruce, fish are friends, not food!",
+		"cn": "小鱼：记住，布鲁斯，鱼是朋友，不是食物！"
+	},
+	{ "en": "Bruce: FOOD!", "cn": "布鲁斯：食物！" },
+	{ "en": "Marlin: Dory, look out!", "cn": "马林：多莉，小心！" },
+	{ "en": "Bruce: I’m havin' fish tonight!", "cn": "布鲁斯：今晚我要吃鱼！" },
+	{ "en": "Chum: Remember the steps, mate!", "cn": "小鱼：记住步骤，伙计！" },
+	{ "en": "Bruce: Just one bite! G’day!", "cn": "布鲁斯：只要一口！再见！" },
 	{
 		"en": "Marlin: There’s no way out! There’s got to be a way to escape!",
-		"cn": ""
+		"cn": "马林：没有出路！一定有办法逃出去！"
 	},
-	{ "en": "Dory: Who is it?", "cn": "" },
-	{ "en": "Marlin: Dory, help me find a way out!", "cn": "" },
+	{ "en": "Dory: Who is it?", "cn": "多莉：是谁？" },
+	{
+		"en": "Marlin: Dory, help me find a way out!",
+		"cn": "马林：多莉，帮我找个出口！"
+	},
 	{
 		"en": "Dory: Sorry, you’ll have to come back later. We’re trying to escape.",
-		"cn": ""
+		"cn": "多莉：对不起，你得稍后再来。我们正在试图逃跑。"
 	},
-	{ "en": "Marlin: OK. There’s gotta be a way out!", "cn": "" },
+	{
+		"en": "Marlin: OK. There’s gotta be a way out!",
+		"cn": "马林：好的。一定有办法出去！"
+	},
 	{
 		"en": "Dory: Look, here’s something! \"Es-cap-e.\" I wonder what that means. It’s funny, it’s spelled just like the word \"escape.\"",
-		"cn": ""
+		"cn": "多莉：看，这里有东西！‘逃生’。我想知道这是什么意思。真有趣，它的拼写和‘逃生’这个词一模一样。"
 	},
-	{ "en": "Marlin: Let’s go!", "cn": "" },
-	{ "en": "Bruce: Here’s Brucey!!", "cn": "" },
-	{ "en": "Marlin: Wait a minute. You can read?", "cn": "" },
-	{ "en": "Dory: I can read? That’s right! I can read!", "cn": "" },
-	{ "en": "Marlin: Well, then here! Read this now!", "cn": "" },
+	{ "en": "Marlin: Let’s go!", "cn": "马林：走吧！" },
+	{ "en": "Bruce: Here’s Brucey!!", "cn": "布鲁斯：布鲁斯来了！！" },
+	{
+		"en": "Marlin: Wait a minute. You can read?",
+		"cn": "马林：等一下。你会读书？"
+	},
+	{
+		"en": "Dory: I can read? That’s right! I can read!",
+		"cn": "多莉：我会读书？没错！我会读书！"
+	},
+	{
+		"en": "Marlin: Well, then here! Read this now!",
+		"cn": "马林：那好吧！现在就读这个！"
+	},
 	{
 		"en": "Anchor: He really doesn’t mean it, you know! He never even knew his father!!",
-		"cn": ""
+		"cn": "安克：你知道的，他不是那个意思！他连他的父亲是谁都不知道！！"
 	},
-	{ "en": "Chum: Don’t fall off the wagon!", "cn": "" },
-	{ "en": "(Both Screaming)", "cn": "" },
-	{ "en": "Marlin: Oh, no! It’s blocked!", "cn": "" },
-	{ "en": "Anchor: No, Bruce! Focus!", "cn": "" },
-	{ "en": "Chum: Sorry about Bruce, mate!", "cn": "" },
-	{ "en": "Anchor: He’s really a nice guy!", "cn": "" },
-	{ "en": "Marlin: I need to get that mask!", "cn": "" },
-	{ "en": "Dory: You want that mask? OK.", "cn": "" },
+	{ "en": "Chum: Don’t fall off the wagon!", "cn": "小鱼：别掉队！" },
+	{ "en": "(Both Screaming)", "cn": "(两人尖叫)" },
+	{ "en": "Marlin: Oh, no! It’s blocked!", "cn": "马林：哦，不！被堵住了！" },
+	{ "en": "Anchor: No, Bruce! Focus!", "cn": "安克：不，布鲁斯！集中注意力！" },
+	{
+		"en": "Chum: Sorry about Bruce, mate!",
+		"cn": "小鱼：抱歉，布鲁斯，伙计！"
+	},
+	{ "en": "Anchor: He’s really a nice guy!", "cn": "安克：他真的是个好人！" },
+	{
+		"en": "Marlin: I need to get that mask!",
+		"cn": "马林：我需要拿到那个面具！"
+	},
+	{
+		"en": "Dory: You want that mask? OK.",
+		"cn": "多莉：你想要那个面具？好的。"
+	},
 	{
 		"en": "Marlin: No, no, no, no, no, no!!! Quick, grab the mask! Grab it!!",
-		"cn": ""
+		"cn": "马林：不，不，不，不，不，不！！！快，抓住面具！抓住它！！"
 	},
-	{ "en": "[snarling]", "cn": "" },
-	{ "en": "Anchor: Uh Oh!", "cn": "" },
-	{ "en": "Chum: Bruce?", "cn": "" },
-	{ "en": "Bruce: What? (gasps) Swim away!! Swim away!!", "cn": "" },
-	{ "en": "Dory: Guys, is the party over?", "cn": "" },
+	{ "en": "[snarling]", "cn": "[咆哮]" },
+	{ "en": "Anchor: Uh Oh!", "cn": "安克：哦哦！" },
+	{ "en": "Chum: Bruce?", "cn": "小鱼：布鲁斯？" },
+	{
+		"en": "Bruce: What? (gasps) Swim away!! Swim away!!",
+		"cn": "布鲁斯：什么？（喘气）快游开！！快游开！！"
+	},
+	{
+		"en": "Dory: Guys, is the party over?",
+		"cn": "多莉：伙计们，派对结束了吗？"
+	},
 	{
 		"en": "[The missile goes to hit underwater bomb dings, a big explosion, then Marlin and Dory to take cover, all the underwater bombs exploded, then two pelicans see a pop under the water.]",
-		"cn": ""
+		"cn": "[导弹击中水下炸弹，发出叮当声，随即发生巨大爆炸，马林和多莉迅速躲避，所有水下炸弹爆炸，随后两只鹈鹕看到水下冒出的气泡。]"
 	},
-	{ "en": "Pelican 2: Nice. [He flies off.]", "cn": "" },
-	{ "en": "Scene 9: The Tank Gang", "cn": "" },
-	{ "en": "Nemo: Dad?! Daddy?", "cn": "" },
+	{
+		"en": "Pelican 2: Nice. [He flies off.]",
+		"cn": "鹈鹕2：不错。[他飞走了。]"
+	},
+	{ "en": "Scene 9: The Tank Gang", "cn": "第九幕：水族箱帮派" },
+	{ "en": "Nemo: Dad?! Daddy?", "cn": "尼莫：爸爸？！爹地？" },
 	{
 		"en": "Dr. Phillip Sherman: Barbara? Prep for his anterior crown, would you, please? And I’m going to need a few cotton rolls.",
-		"cn": ""
+		"cn": "菲利普·谢尔曼医生：芭芭拉？请为他的前牙冠做准备好吗？我还需要一些棉花卷。"
 	},
-	{ "en": "BARBARA: OK.", "cn": "" },
-	{ "en": "Dr. Phillip Sherman: Hello, little fella.", "cn": "" },
-	{ "en": "(Nemo screams and hides in a barrel)", "cn": "" },
+	{ "en": "BARBARA: OK.", "cn": "芭芭拉：好的。" },
+	{
+		"en": "Dr. Phillip Sherman: Hello, little fella.",
+		"cn": "菲利普·谢尔曼医生：你好，小家伙。"
+	},
+	{
+		"en": "(Nemo screams and hides in a barrel)",
+		"cn": "(尼莫尖叫着躲进了一个桶里)"
+	},
 	{
 		"en": "Dr. Phillip Sherman: [chuckling] Beauty, isn’t he? I found that guy struggling for life out on the reef and I saved him. So, has that Novocaine kicked in yet?",
-		"cn": ""
+		"cn": "菲利普·谢尔曼医生：[笑着] 漂亮，不是吗？我在礁石上发现这个家伙时，他正在为生存而挣扎，我救了他。那么，麻醉药现在有效了吗？"
 	},
-	{ "en": "PATIENT: [gabbling]", "cn": "" },
-	{ "en": "BUBBLES: Bubbles!!! [muttering] My bubbles.", "cn": "" },
-	{ "en": "PEACH: He likes bubbles.", "cn": "" },
-	{ "en": "NEMO: No!!! [breathing heaily]", "cn": "" },
-	{ "en": "JACQUES: Bonjour.", "cn": "" },
-	{ "en": "NEMO: Aagghh!!!!", "cn": "" },
+	{ "en": "PATIENT: [gabbling]", "cn": "病人：[咕哝]" },
+	{
+		"en": "BUBBLES: Bubbles!!! [muttering] My bubbles.",
+		"cn": "泡泡：泡泡！！！[低声] 我的泡泡。"
+	},
+	{ "en": "PEACH: He likes bubbles.", "cn": "桃子：他喜欢泡泡。" },
+	{ "en": "NEMO: No!!! [breathing heaily]", "cn": "尼莫：不！！！[呼吸急促]" },
+	{ "en": "JACQUES: Bonjour.", "cn": "雅克：你好。" },
+	{ "en": "NEMO: Aagghh!!!!", "cn": "尼莫：啊啊啊！！！！" },
 	{
 		"en": "BLOAT: Slow down, little fella. There’s nothing to worry about.",
-		"cn": ""
+		"cn": "膨胀鱼：慢点，小家伙。没什么好担心的。"
 	},
-	{ "en": "DEB: He’s scared to death.", "cn": "" },
-	{ "en": "NEMO: I want to go home! Do you know where my dad is?", "cn": "" },
+	{ "en": "DEB: He’s scared to death.", "cn": "黛比：他吓死了。" },
+	{
+		"en": "NEMO: I want to go home! Do you know where my dad is?",
+		"cn": "尼莫：我想回家！你知道我爸爸在哪里吗？"
+	},
 	{
 		"en": "PEACH: Honey, your dad’s probably back at the pet store.",
-		"cn": ""
+		"cn": "桃子：亲爱的，你爸爸可能还在宠物店里。"
 	},
-	{ "en": "NEMO: Pet store?", "cn": "" },
-	{ "en": "BLOAT: Yeah. Like I’m from Bob’s Fish Mart.", "cn": "" },
-	{ "en": "GURGLE: Pet Palace.", "cn": "" },
-	{ "en": "BUBBLES: Fish-O-Rama.", "cn": "" },
-	{ "en": "DEB: Mail order.", "cn": "" },
-	{ "en": "PEACH: eBay.", "cn": "" },
-	{ "en": "GURGLE: So, which one is it?", "cn": "" },
-	{ "en": "NEMO: I’m from the ocean.", "cn": "" },
+	{ "en": "NEMO: Pet store?", "cn": "尼莫：宠物店？" },
+	{
+		"en": "BLOAT: Yeah. Like I’m from Bob’s Fish Mart.",
+		"cn": "膨胀鱼：是啊。就像我来自鲍勃的鱼市一样。"
+	},
+	{ "en": "GURGLE: Pet Palace.", "cn": "咕噜：宠物王国。" },
+	{ "en": "BUBBLES: Fish-O-Rama.", "cn": "泡泡：鱼乐园。" },
+	{ "en": "DEB: Mail order.", "cn": "黛比：邮购。" },
+	{ "en": "PEACH: eBay.", "cn": "桃子：eBay。" },
+	{ "en": "GURGLE: So, which one is it?", "cn": "咕噜：那么，究竟是哪一个？" },
+	{ "en": "NEMO: I’m from the ocean.", "cn": "尼莫：我来自海洋。" },
 	{
 		"en": "GURGLE: Ah, the ocean. THE ocean!!! Aagghh!!!! He hasn’t been decontaminated yet! Jacques! Clean him!",
-		"cn": ""
+		"cn": "咕噜：啊，海洋。真正的海洋！！！啊啊啊！！！！他还没有被消毒！雅克！给他清洗干净！"
 	},
-	{ "en": "JACQUES: Oui?", "cn": "" },
-	{ "en": "GURGLE: Ocean!!", "cn": "" },
+	{ "en": "JACQUES: Oui?", "cn": "雅克：是的？" },
+	{ "en": "GURGLE: Ocean!!", "cn": "咕噜：海洋！！" },
 	{
 		"en": "JACQUES: La mer. Bon. [starts spinning Nemo around] Voila. He is clean!",
-		"cn": ""
+		"cn": "雅克：大海。好。[开始转动尼莫] 看。他干净了！"
 	},
-	{ "en": "[He swims back to his helmet home.]", "cn": "" },
-	{ "en": "BUBBLES: Wow. The big blue. What’s it like?", "cn": "" },
-	{ "en": "NEMO: Big and blue?", "cn": "" },
-	{ "en": "BUBBLES: I knew it.", "cn": "" },
+	{
+		"en": "[He swims back to his helmet home.]",
+		"cn": "[他游回了他的头盔家。]"
+	},
+	{
+		"en": "BUBBLES: Wow. The big blue. What’s it like?",
+		"cn": "泡泡：哇。大蓝。是什么感觉？"
+	},
+	{ "en": "NEMO: Big and blue?", "cn": "尼莫：又大又蓝？" },
+	{ "en": "BUBBLES: I knew it.", "cn": "泡泡：我就知道。" },
 	{
 		"en": "DEB: Kid, if there’s anything you need, just ask your auntie Deb, that’s me! Or if I’m not around, you can always talk to my sister Flo. Hi, how are you? Don’t listen to anything my sister says, she’s nuts!",
-		"cn": ""
+		"cn": "黛比：孩子，如果你需要什么，尽管问你阿姨黛比，就是我！或者如果我不在，你也可以随时找我姐姐弗洛。嗨，你好吗？别听我姐姐说的任何话，她是个疯子！"
 	},
-	{ "en": "PEACH: [muffled] We got a live one!", "cn": "" },
-	{ "en": "BLOAT: Can’t hear you, Peach.", "cn": "" },
-	{ "en": "PEACH: I said we got a live one.", "cn": "" },
-	{ "en": "GURGLE: Yes!", "cn": "" },
-	{ "en": "BLOAT: Boy, oh, boy!", "cn": "" },
-	{ "en": "DEB: What do we got?", "cn": "" },
+	{
+		"en": "PEACH: [muffled] We got a live one!",
+		"cn": "桃子：[含糊不清] 我们抓到活的了！"
+	},
+	{
+		"en": "BLOAT: Can’t hear you, Peach.",
+		"cn": "膨胀鱼：听不见你说话，桃子。"
+	},
+	{
+		"en": "PEACH: I said we got a live one.",
+		"cn": "桃子：我说我们抓到活的了。"
+	},
+	{ "en": "GURGLE: Yes!", "cn": "咕噜：是的！" },
+	{ "en": "BLOAT: Boy, oh, boy!", "cn": "膨胀鱼：天哪，天哪！" },
+	{ "en": "DEB: What do we got?", "cn": "黛比：我们抓到了什么？" },
 	{
 		"en": "PEACH: Root canal. And by the looks of those X-rays, it's not gonna be pretty.",
-		"cn": ""
+		"cn": "桃子：根管治疗。从那些X光片来看，这可不好办。"
 	},
-	{ "en": "PATIENT: AAAAAHHHHH!!!!", "cn": "" },
-	{ "en": "BLOAT: Rubber dam and clamp installed?", "cn": "" },
-	{ "en": "PEACH: Yep.", "cn": "" },
-	{ "en": "GURGLE: What did he use to open?", "cn": "" },
+	{ "en": "PATIENT: AAAAAHHHHH!!!!", "cn": "病人：啊啊啊啊啊！！！！" },
+	{
+		"en": "BLOAT: Rubber dam and clamp installed?",
+		"cn": "膨胀鱼：安装了橡皮障和夹子吗？"
+	},
+	{ "en": "PEACH: Yep.", "cn": "桃子：是的。" },
+	{ "en": "GURGLE: What did he use to open?", "cn": "咕噜：他用什么打开的？" },
 	{
 		"en": "PEACH: Gator-Glidden drill. He seems to be favoring that one lately.",
-		"cn": ""
+		"cn": "桃子：短吻鳄-格林登钻头。他最近似乎更喜欢那个。"
 	},
-	{ "en": "DEB: I can’t see, Flo!", "cn": "" },
+	{ "en": "DEB: I can’t see, Flo!", "cn": "黛比：我看不见，弗洛！" },
 	{
 		"en": "PATIENT: [mumbling, then a picker over his teeth, screaming]",
-		"cn": ""
+		"cn": "病人：[嘟囔，然后用牙签挑牙，尖叫]"
 	},
-	{ "en": "PEACH: Now, he’s doing the Schilder technique.", "cn": "" },
-	{ "en": "BLOAT: He’s using a Hedstrom file.", "cn": "" },
-	{ "en": "GURGLE: That’s not a Hedstrom file. That’s a K-Flex.", "cn": "" },
+	{
+		"en": "PEACH: Now, he’s doing the Schilder technique.",
+		"cn": "桃子：现在，他正在做希尔德尔技术。"
+	},
+	{
+		"en": "BLOAT: He’s using a Hedstrom file.",
+		"cn": "膨胀鱼：他在用赫德斯特罗姆锉。"
+	},
+	{
+		"en": "GURGLE: That’s not a Hedstrom file. That’s a K-Flex.",
+		"cn": "咕噜：那不是赫德斯特罗姆锉。那是K-Flex。 "
+	},
 	{
 		"en": "BLOAT: It’s got a teardrop cross-section. Clearly a Hedstrom.",
-		"cn": ""
+		"cn": "膨胀鱼：它有一个泪滴形的横截面。显然是赫德斯特罗姆。"
 	},
-	{ "en": "GURGLE: No, K-Flex.", "cn": "" },
+	{ "en": "GURGLE: No, K-Flex.", "cn": "咕噜：不，是K-Flex。" },
 	{
 		"en": "BLOAT: HEDSTRO- [Bloat puffs] There I go! A little help over here?",
-		"cn": ""
+		"cn": "膨胀鱼：赫德斯特罗——[膨胀鱼鼓起] 我去啦！这边帮个忙？"
 	},
-	{ "en": "DEB: I’ll go deflate him.", "cn": "" },
-	{ "en": "BLOAT: [Bloat deflating]", "cn": "" },
-	{ "en": "SHEREMAN: All right, go ahead and rinse.", "cn": "" },
-	{ "en": "GURGLE: Ugh! The human mouth is a disgusting place.", "cn": "" },
+	{ "en": "DEB: I’ll go deflate him.", "cn": "黛比：我去给他放气。" },
+	{ "en": "BLOAT: [Bloat deflating]", "cn": "膨胀鱼：[膨胀鱼放气]" },
+	{
+		"en": "SHEREMAN: All right, go ahead and rinse.",
+		"cn": "谢尔曼：好了，去漱口吧。"
+	},
+	{
+		"en": "GURGLE: Ugh! The human mouth is a disgusting place.",
+		"cn": "咕噜：呃！人类的嘴巴真是个恶心的地方。"
+	},
 	{
 		"en": "(A pelican named Nigel, flying towards the outside window and bumps its, then the window is opened.)",
-		"cn": ""
+		"cn": "(一只名叫奈杰尔的鹈鹕，飞向外面的窗户并撞上，然后窗户被打开了。)"
 	},
-	{ "en": "PEACH: Hey, Nigel.", "cn": "" },
-	{ "en": "NIGEL: What did I miss? Am I late?", "cn": "" },
-	{ "en": "PEACH: Root canal, and it’s a doozy.", "cn": "" },
-	{ "en": "NIGEL: Root canal. What did he use to open?", "cn": "" },
-	{ "en": "PEACH: Gator-Glidden drill.", "cn": "" },
+	{ "en": "PEACH: Hey, Nigel.", "cn": "桃子：嘿，奈杰尔。" },
+	{
+		"en": "NIGEL: What did I miss? Am I late?",
+		"cn": "奈杰尔：我错过了什么？我迟到了吗？"
+	},
+	{
+		"en": "PEACH: Root canal, and it’s a doozy.",
+		"cn": "桃子：根管治疗，而且可不简单。"
+	},
+	{
+		"en": "NIGEL: Root canal. What did he use to open?",
+		"cn": "奈杰尔：根管治疗。他用什么打开的？"
+	},
+	{ "en": "PEACH: Gator-Glidden drill.", "cn": "桃子：短吻鳄-格林登钻头。" },
 	{
 		"en": "NIGEL: He seems to be favoring that one. Hope he doesn’t get surplus sealer at the portal terminus. Hello! Who’s this?",
-		"cn": ""
+		"cn": "奈杰尔：他似乎更喜欢那个。希望他在传送门末端不要多余的密封剂。你好！这是谁？"
 	},
-	{ "en": "DEB: New guy.", "cn": "" },
-	{ "en": "GURGLE: The dentist took him off the reef.", "cn": "" },
+	{ "en": "DEB: New guy.", "cn": "黛比：新来的家伙。" },
+	{
+		"en": "GURGLE: The dentist took him off the reef.",
+		"cn": "咕噜：牙医把他从珊瑚礁上带走了。"
+	},
 	{
 		"en": "NIGEL: An outie. From my neck of the woods? Sorry if I ever took a snap at you. Fish gotta swim, birds gotta eat.",
-		"cn": ""
+		"cn": "奈杰尔：一个外来的家伙。来自我这片水域？如果我之前对你咬过，抱歉。鱼要游，鸟要吃。"
 	},
 	{
 		"en": "SHERMAN: Hey! No, no, no, no! Those aren't your fish! They’re my fish! Come on! Go! Go on! Shoo! Shoo! [He swats Nigel to get out and break one of Sherman's pictures, then close the window] The picture broke. This here’s Darla. She’s my niece. She’s gonna be eight next week. Hey, little fella. Say hello to your new mummy. She’ll be here Friday to pick you up. You’re her present. Shh! It’s our little secret. Well, Mr. Tucker, while that sets up I’m going to see a man about a wallaby. I’ll be right back.",
-		"cn": ""
+		"cn": "谢尔曼：嘿！不，不，不，不！那些不是你的鱼！它们是我的鱼！来吧！走！快走！走开！走开！[他拍打奈杰尔让他出去，打破了谢尔曼的一张照片，然后关上窗户] 照片坏了。这是达拉。她是我的侄女。她下周要满八岁了。嘿，小家伙。向你的新妈妈问好。她星期五会来接你。你是她的礼物。嘘！这是我们的秘密。好吧，塔克先生，在那件事处理好之前，我要去找人谈谈袋鼠的事。我马上就回来。"
 	},
 	{
 		"en": "[As Sherman leaves to go to the bathroom, the fish look at the photo of Darla who has braces on Darla's mouth also Darla is holding a liquid bag that has a orange fish called Chuckles who is lying upside down while Chuckles has a eye open.]",
-		"cn": ""
+		"cn": "[谢尔曼离开去洗手间时，鱼们看着达拉的照片，达拉的嘴里带着牙套，达拉还拿着一个装有名叫查克尔斯的橙色鱼的液体袋，查克尔斯倒着躺着，眼睛睁着。]"
 	},
-	{ "en": "BLOAT: Uh-oh! Darla.", "cn": "" },
-	{ "en": "Nemo: [worried] What? What’s wrong with her?", "cn": "" },
-	{ "en": "GURGLE: She wouldn’t stop shaking the bag.", "cn": "" },
-	{ "en": "BUBBLES: Poor Chuckles.", "cn": "" },
-	{ "en": "DEB: He was her present last year.", "cn": "" },
-	{ "en": "BLOAT: Hitched a ride on the porcelain express.", "cn": "" },
-	{ "en": "PEACH: She's a fish killer!", "cn": "" },
+	{ "en": "BLOAT: Uh-oh! Darla.", "cn": "膨胀鱼：哦哦！达拉。" },
+	{
+		"en": "Nemo: [worried] What? What’s wrong with her?",
+		"cn": "尼莫：[担心] 什么？她怎么了？"
+	},
+	{
+		"en": "GURGLE: She wouldn’t stop shaking the bag.",
+		"cn": "咕噜：她不停地摇晃那个袋子。"
+	},
+	{ "en": "BUBBLES: Poor Chuckles.", "cn": "泡泡：可怜的查克尔斯。" },
+	{
+		"en": "DEB: He was her present last year.",
+		"cn": "黛比：他是她去年的礼物。"
+	},
+	{
+		"en": "BLOAT: Hitched a ride on the porcelain express.",
+		"cn": "膨胀鱼：搭上了瓷器快车。"
+	},
+	{ "en": "PEACH: She's a fish killer!", "cn": "桃子：她是个杀鱼的机器！" },
 	{
 		"en": "Nemo: [scared] I can’t go with that girl! I have to get back to my dad! [gets sucked into a tube] Aah!!! Daddy!!! Help me!!!",
-		"cn": ""
+		"cn": "尼莫：[害怕] 我不能和那个女孩一起走！我得回到我爸爸身边！[被吸入一个管子] 啊！！！爸爸！！！救命！！！"
 	},
-	{ "en": "GURGLE: He’s stuck!!", "cn": "" },
-	{ "en": "[The fish tried to to get him out.]", "cn": "" },
-	{ "en": "GILL: Nobody touch him!", "cn": "" },
+	{ "en": "GURGLE: He’s stuck!!", "cn": "咕噜：他卡住了！！" },
+	{
+		"en": "[The fish tried to to get him out.]",
+		"cn": "[鱼们试图把他拉出来。]"
+	},
+	{ "en": "GILL: Nobody touch him!", "cn": "吉尔：谁都不许碰他！" },
 	{
 		"en": "[They all stopped. swimming behind a skull was a fish with white and black stripes.]",
-		"cn": ""
+		"cn": "[他们都停下来了。游在骷髅后面的是一条有着黑白条纹的鱼。]"
 	},
-	{ "en": "GILL: Nobody touch him.", "cn": "" },
-	{ "en": "NEMO: [grunting] Can you help me?", "cn": "" },
+	{ "en": "GILL: Nobody touch him.", "cn": "吉尔：谁都不许碰他。" },
+	{
+		"en": "NEMO: [grunting] Can you help me?",
+		"cn": "尼莫：[咕哝] 你能帮我吗？"
+	},
 	{
 		"en": "GILL: No. You got yourself in there, you can get yourself out.",
-		"cn": ""
+		"cn": "吉尔：不。你自己进的这个地方，就得自己出来。"
 	},
-	{ "en": "PEACH: Gill...", "cn": "" },
+	{ "en": "PEACH: Gill...", "cn": "桃子：吉尔..." },
 	{
 		"en": "GILL: I just wanna see him do it, okay? Calm down. Alternate wiggling your fins and your tail.",
-		"cn": ""
+		"cn": "吉尔：我只是想看看他怎么做，行吗？冷静点。交替地扭动你的鳍和尾巴。"
 	},
-	{ "en": "Nemo: I can’t. I have a bad fin!", "cn": "" },
+	{
+		"en": "Nemo: I can’t. I have a bad fin!",
+		"cn": "尼莫：我做不到。我有一只鳍受伤了！"
+	},
 	{
 		"en": "GILL: Never stopped me. [Nemo looked and notice a scar on the side of Gill's body] Just think about what you need to do.",
-		"cn": ""
+		"cn": "吉尔：这从来没有阻止过我。[尼莫看到吉尔身体侧面的伤疤] 想想你需要怎么做。"
 	},
-	{ "en": "Nemo: [grunting and straining]", "cn": "" },
-	{ "en": "BLOAT: Come on.", "cn": "" },
-	{ "en": "GILL: Perfect.", "cn": "" },
-	{ "en": "GURGLE: You did it!", "cn": "" },
-	{ "en": "DEB: Good squirming!", "cn": "" },
-	{ "en": "PEACH: Wow. From the ocean. Just like you, Gill.", "cn": "" },
-	{ "en": "GILL: Yeah.", "cn": "" },
+	{ "en": "Nemo: [grunting and straining]", "cn": "尼莫：[咕哝和用力]" },
+	{ "en": "BLOAT: Come on.", "cn": "膨胀鱼：来吧。" },
+	{ "en": "GILL: Perfect.", "cn": "吉尔：完美。" },
+	{ "en": "GURGLE: You did it!", "cn": "咕噜：你成功了！" },
+	{ "en": "DEB: Good squirming!", "cn": "黛比：好样的，扭动得不错！" },
+	{
+		"en": "PEACH: Wow. From the ocean. Just like you, Gill.",
+		"cn": "桃子：哇。来自海洋。就像你一样，吉尔。"
+	},
+	{ "en": "GILL: Yeah.", "cn": "吉尔：是的。" },
 	{
 		"en": "PEACH: [chuckles] I’ve seen that look before. What are you thinking about?",
-		"cn": ""
+		"cn": "桃子：[笑] 我见过那种表情。你在想什么？"
 	},
 	{
 		"en": "GILL: I’m thinking, tonight, we give the kid a proper reception.",
-		"cn": ""
+		"cn": "吉尔：我在想，今晚我们给孩子一个正式的欢迎。"
 	},
-	{ "en": "BLOAT: OK, kid you got a name or what?", "cn": "" },
-	{ "en": "Nemo: Nemo. I’m Nemo.", "cn": "" },
-	{ "en": "Scene 10: The Abyss", "cn": "" },
-	{ "en": "Marlin: Nemo. Nemo.", "cn": "" },
+	{
+		"en": "BLOAT: OK, kid you got a name or what?",
+		"cn": "膨胀鱼：好的，孩子，你有名字了吗？"
+	},
+	{ "en": "Nemo: Nemo. I’m Nemo.", "cn": "尼莫：尼莫。我是尼莫。" },
+	{ "en": "Scene 10: The Abyss", "cn": "第十幕：深渊" },
+	{ "en": "Marlin: Nemo. Nemo.", "cn": "马林：尼莫。尼莫。" },
 	{
 		"en": "DORY: Are you gonna eat that? [snoring] ...Careful with that hammer.",
-		"cn": ""
+		"cn": "多莉：你要吃那个吗？[打鼾] …小心那把锤子。"
 	},
-	{ "en": "MARLIN: No, no! What does it say? Dory!", "cn": "" },
-	{ "en": "DORY: Sea monkey has my money…", "cn": "" },
-	{ "en": "MARLIN: WAKE UP!! GET UP! COME ON! COME ON!!", "cn": "" },
-	{ "en": "DORY: Yes, I’m a natural blue…", "cn": "" },
-	{ "en": "MARLIN: GET UP!!!", "cn": "" },
-	{ "en": "DORY: Look out! Sharks eat fish!!!", "cn": "" },
-	{ "en": "[Rumbling the old sinking ship]", "cn": "" },
-	{ "en": "BOTH: [both screaming]", "cn": "" },
-	{ "en": "DORY: [coughing] Wow! Dusty.", "cn": "" },
+	{
+		"en": "MARLIN: No, no! What does it say? Dory!",
+		"cn": "马林：不，不！上面写的是什么？多莉！"
+	},
+	{ "en": "DORY: Sea monkey has my money…", "cn": "多莉：海猴子拿着我的钱……" },
+	{
+		"en": "MARLIN: WAKE UP!! GET UP! COME ON! COME ON!!",
+		"cn": "马林：醒醒！！起床！快点！快点！！"
+	},
+	{
+		"en": "DORY: Yes, I’m a natural blue…",
+		"cn": "多莉：是的，我是天然蓝色的……"
+	},
+	{ "en": "MARLIN: GET UP!!!", "cn": "马林：起床！！！" },
+	{
+		"en": "DORY: Look out! Sharks eat fish!!!",
+		"cn": "多莉：小心！鲨鱼吃鱼！！！"
+	},
+	{ "en": "[Rumbling the old sinking ship]", "cn": "[轰隆隆的旧沉船声]" },
+	{ "en": "BOTH: [both screaming]", "cn": "两人：[同时尖叫]" },
+	{ "en": "DORY: [coughing] Wow! Dusty.", "cn": "多莉：[咳嗽] 哇！真脏。 " },
 	{
 		"en": "MARLIN: The mask! Where’s the mask?! No!!! Not the mask!! Get it! Get the mask! Get it!! [panting]",
-		"cn": ""
+		"cn": "马林：面具！面具在哪里？！不！！！不是面具！！拿到它！拿到面具！快！[喘气]"
 	},
 	{
 		"en": "DORY: [humming] Whoo-hoo! Just keeps going on, doesn’t it? Echo! Echo! What are you doing?",
-		"cn": ""
+		"cn": "多莉：[哼唱] 哇哦！这地方真是没完没了，难道不是吗？回声！回声！你在做什么？"
 	},
-	{ "en": "MARLIN: It’s gone! I’ve lost the mask.", "cn": "" },
-	{ "en": "DORY: What, did you drop it?", "cn": "" },
+	{
+		"en": "MARLIN: It’s gone! I’ve lost the mask.",
+		"cn": "马林：没了！我把面具弄丢了。"
+	},
+	{ "en": "DORY: What, did you drop it?", "cn": "多莉：什么，你把它掉了吗？" },
 	{
 		"en": "MARLIN: You dropped it!! That was my only chance of finding my son, now it’s gone!",
-		"cn": ""
+		"cn": "马林：是你掉的！！那是我找到我儿子的唯一机会，现在没了！"
 	},
 	{
 		"en": "DORY: Hey, Mr. Grumpy Gills. When life gets you down, you know what you gotta do?",
-		"cn": ""
+		"cn": "多莉：嘿，脾气暴躁的腮。生活让你失落时，你知道该怎么做吗？"
 	},
-	{ "en": "MARLIN: I don’t want to know what you gotta do.", "cn": "" },
+	{
+		"en": "MARLIN: I don’t want to know what you gotta do.",
+		"cn": "马林：我不想知道你要怎么做。"
+	},
 	{
 		"en": "DORY: [singing] Just keep swimming, just keep swimming, just keep swimming, swimming, swimming. What do we do? We swim swim.",
-		"cn": ""
+		"cn": "多莉：[唱] 就是游泳，继续游泳，游泳，游泳。我们该怎么做？我们游泳。"
 	},
-	{ "en": "MARLIN: Dory, no singing.", "cn": "" },
-	{ "en": "DORY: I love to swim! When you want to swim...", "cn": "" },
+	{ "en": "MARLIN: Dory, no singing.", "cn": "马林：多莉，别唱歌。" },
+	{
+		"en": "DORY: I love to swim! When you want to swim...",
+		"cn": "多莉：我喜欢游泳！当你想游泳时……"
+	},
 	{
 		"en": "MARLIN: See, I’m going to get stuck now with that song now it’s in my head!",
-		"cn": ""
+		"cn": "马林：看，我现在脑海中都是这首歌，我要被它困住了！"
 	},
-	{ "en": "DORY: Sorry.", "cn": "" }
+	{ "en": "DORY: Sorry.", "cn": "多莉：对不起。" }
 ]
