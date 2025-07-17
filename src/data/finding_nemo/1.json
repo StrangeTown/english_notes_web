@@ -1,10 +1,14 @@
 [
-	{ "en": "Scene 1: New Parents", "cn": "第一幕：新父母" },
 	{
-		"en": "[The scene opens up to a wide blue ocean.]",
-		"cn": "[场景开始于广阔的蓝色海洋。]"
+		"en": "Marlin: Wow!",
+		"cn": "马林：哇！",
+		"points": [
+			{
+				"en": "Wow!",
+				"cn": "哇！"
+			}
+		]
 	},
-	{ "en": "Marlin: Wow!", "cn": "马林：哇！" },
 	{ "en": "Coral: Mmm.", "cn": "珊瑚：嗯。" },
 	{ "en": "Marlin: Wow!", "cn": "马林：哇！" },
 	{ "en": "Coral: Mm-hmm.", "cn": "珊瑚：嗯哼。" },
@@ -15,135 +19,414 @@
 	},
 	{
 		"en": "Marlin: So, Coral, when you said you wanted an ocean view, you didn’t think that we were gonna get the whole ocean, did you? Huh? [Sighs] Oh yeah. A fish can breath out here. Did your man deliver or did he deliver?",
-		"cn": "马林：所以，珊瑚，当你说你想要海景时，你没想到我们会得到整个海洋，对吧？嗯？[叹气] 哦，是的。鱼可以在这里呼吸。你的男人有没有兑现承诺？"
+		"cn": "马林：所以，珊瑚，当你说你想要海景时，你没想到我们会得到整个海洋，对吧？嗯？[叹气] 哦，是的。鱼可以在这里呼吸。你的男人有没有兑现承诺？",
+		"points": [
+			{
+				"en": "ocean view",
+				"cn": "海景"
+			},
+			{
+				"en": "the whole ocean",
+				"cn": "整个海洋"
+			}
+		]
 	},
 	{ "en": "Coral: My man delivered.", "cn": "珊瑚：我的男人兑现了承诺。" },
-	{ "en": "Marlin: And it wasn’t so easy.", "cn": "马林：而且这并不容易。" },
+	{
+		"en": "Marlin: And it wasn’t so easy.",
+		"cn": "马林：而且这并不容易。",
+		"sentence": {
+			"en": "And it wasn’t so easy.",
+			"cn": "而且这并不容易。",
+			"examples": [
+				{
+					"en": "And it wasn’t so easy to find this place.",
+					"cn": "找到这个地方并不容易。"
+				},
+				{
+					"en": "And it wasn’t so easy to get here.",
+					"cn": "到这里并不容易。"
+				}
+			]
+		}
+	},
 	{
 		"en": "Coral: Because a lot of other clownfish had their eyes on this place.",
-		"cn": "珊瑚：因为很多其他小丑鱼都盯上了这个地方。"
+		"cn": "珊瑚：因为很多其他小丑鱼都盯上了这个地方。",
+		"points": [
+			{
+				"en": "had their eyes on this place",
+				"cn": "盯上了这个地方"
+			}
+		]
 	},
 	{
 		"en": "Marlin: You better believe they did-- every single one of them.",
-		"cn": "马林：你最好相信他们确实如此——每一条鱼都是。"
+		"cn": "马林：你最好相信他们确实如此——每一条鱼都是。",
+		"sentence": {
+			"en": "You better believe they did",
+			"cn": "你最好相信他们确实如此",
+			"examples": [
+				{
+					"en": "You better believe they did it.",
+					"cn": "你最好相信他们确实做了这件事。"
+				},
+				{
+					"en": "You better believe they will come.",
+					"cn": "你最好相信他们会来的。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Coral: Mm-hmm. You did good. And the neighborhood is awesome!",
-		"cn": "珊瑚：嗯哼。你做得很好。这个社区太棒了！"
-	},
-	{
-		"en": "[Chattering and laughing] [Snipping]",
-		"cn": "[喧闹和笑声] [剪切声]"
+		"cn": "珊瑚：嗯哼。你做得很好。这个社区太棒了！",
+		"points": [
+			{
+				"en": "You did good",
+				"cn": "你做得很好"
+			}
+		]
 	},
 	{
 		"en": "Marlin: So, you do like it, don’t you?",
-		"cn": "马林：所以，你确实喜欢它，对吧？"
+		"cn": "马林：所以，你确实喜欢它，对吧？",
+		"sentence": {
+			"en": "you do like it",
+			"cn": "你确实喜欢它",
+			"examples": [
+				{
+					"en": "You do like this movie.",
+					"cn": "你确实喜欢这部电影。"
+				},
+				{
+					"en": "You do like this place.",
+					"cn": "你确实喜欢这个地方。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Coral: No, no. I do, I do! I really do like it. But Marlin, I know that the drop off is desirable, with the great schools and the amazing view, and all that, but do we really need so much space?",
-		"cn": "珊瑚：不，不。我喜欢，我喜欢！我真的很喜欢。但是马林，我知道断崖很受欢迎，有好学校和美丽的景色，但我们真的需要这么大的空间吗？"
+		"cn": "珊瑚：不，不。我喜欢，我喜欢！我真的很喜欢。但是马林，我知道断崖很受欢迎，有好学校和美丽的景色，但我们真的需要这么大的空间吗？",
+		"sentence": {
+			"en": "do we really need so much space",
+			"cn": "我们真的需要这么大的空间吗",
+			"examples": [
+				{
+					"en": "Do we really need so much time?",
+					"cn": "我们真的需要这么多时间吗？"
+				},
+				{
+					"en": "Do we really need so many people?",
+					"cn": "我们真的需要这么多人吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Marlin: Coral, honey, these are our kids we’re talking about. They deserve the best. Look, look, look. They’ll wake up, poke their little heads out, and they see a whale! See, right by their bedroom window.",
-		"cn": "马林：珊瑚，亲爱的，我们说的是我们的孩子。他们值得拥有最好的。看，看，看。他们醒来，探出小脑袋，就能看到一头鲸鱼！就在他们卧室窗外。"
+		"cn": "马林：珊瑚，亲爱的，我们说的是我们的孩子。他们值得拥有最好的。看，看，看。他们醒来，探出小脑袋，就能看到一头鲸鱼！就在他们卧室窗外。",
+		"points": [
+			{
+				"en": "they deserve the best",
+				"cn": "他们值得拥有最好的"
+			},
+			{
+				"en": "right by their bedroom window",
+				"cn": "就在他们卧室窗外"
+			}
+		]
 	},
 	{
 		"en": "Coral: Shh! You’re gonna wake the kids.",
-		"cn": "珊瑚：嘘！你会吵醒孩子们的。"
+		"cn": "珊瑚：嘘！你会吵醒孩子们的。",
+		"points": [
+			{
+				"en": "You’re gonna wake the kids",
+				"cn": "你会吵醒孩子们的"
+			}
+		]
 	},
 	{ "en": "Marlin: Oh, right, right.", "cn": "马林：哦，对，对。" },
 	{
 		"en": "Coral: Aw, look! They’re dreaming. We still have to name them.",
-		"cn": "珊瑚：啊，看！他们在做梦。我们还得给他们起名字。"
+		"cn": "珊瑚：啊，看！他们在做梦。我们还得给他们起名字。",
+		"sentence": {
+			"en": "We still have to name them",
+			"cn": "我们还得给他们起名字",
+			"examples": [
+				{
+					"en": "We still have to finish this project.",
+					"cn": "我们还得完成这个项目。"
+				},
+				{
+					"en": "We still have to clean the house.",
+					"cn": "我们还得打扫房子。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Marlin: You wanna name all of them, right now? All right, we’ll name this half Marlin Jr. and then this half Coral Junior. OK, we’re done!",
-		"cn": "马林：你想现在就给他们全部起名字吗？好吧，这一半叫小马林，这一半叫小珊瑚。好了，搞定！"
+		"cn": "马林：你想现在就给他们全部起名字吗？好吧，这一半叫小马林，这一半叫小珊瑚。好了，搞定！",
+		"points": [
+			{
+				"en": "All right",
+				"cn": "好吧"
+			},
+			{
+				"en": "we’re done",
+				"cn": "搞定"
+			}
+		]
 	},
 	{ "en": "Coral: I like Nemo.", "cn": "珊瑚：我喜欢尼莫这个名字。" },
 	{
 		"en": "Marlin: Nemo? Well, we’ll name one Nemo, but I’d like most of them to be Marlin Jr.",
-		"cn": "马林：尼莫？好吧，我们叫一个尼莫，但我希望大多数都叫小马林。"
+		"cn": "马林：尼莫？好吧，我们叫一个尼莫，但我希望大多数都叫小马林。",
+		"sentence": {
+			"en": "I’d like most of them to be Marlin Jr.",
+			"cn": "我希望大多数都叫小马林。",
+			"examples": [
+				{
+					"en": "I’d like most of them to be happy.",
+					"cn": "我希望他们大多数都快乐。"
+				},
+				{
+					"en": "I’d like most of them to be successful.",
+					"cn": "我希望他们大多数都成功。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Coral: Just think that in a couple of days, we’re going to be parents!",
-		"cn": "珊瑚：想想看，再过几天我们就要当父母了！"
+		"cn": "珊瑚：想想看，再过几天我们就要当父母了！",
+		"sentence": {
+			"en": "Just think that in a couple of days, we’re going to be parents",
+			"cn": "想想看，再过几天我们就要当父母了",
+			"examples": [
+				{
+					"en": "Just think that in a couple of weeks, we’re going to move.",
+					"cn": "想想看，再过几周我们就要搬家了。"
+				},
+				{
+					"en": "Just think that in a couple of months, we’re going to travel.",
+					"cn": "想想看，再过几个月我们就要旅行了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Marlin: Yeah. What if they don’t like me?",
-		"cn": "马林：是啊。如果他们不喜欢我怎么办？"
+		"cn": "马林：是啊。如果他们不喜欢我怎么办？",
+		"sentence": {
+			"en": "What if they don’t like me",
+			"cn": "如果他们不喜欢我怎么办",
+			"examples": [
+				{
+					"en": "What if they don’t understand me?",
+					"cn": "如果他们不理解我怎么办？"
+				},
+				{
+					"en": "What if they don’t accept me?",
+					"cn": "如果他们不接受我怎么办？"
+				}
+			]
+		}
 	},
 	{ "en": "Coral: Marlin....", "cn": "珊瑚：马林……" },
 	{ "en": "Marlin: No, really.", "cn": "马林：不，真的。" },
 	{
 		"en": "Coral: There’s over 400 eggs. Odds are, one of them is bound to like you.",
-		"cn": "珊瑚：有400多个鱼卵，总有一个会喜欢你的。"
+		"cn": "珊瑚：有400多个鱼卵，总有一个会喜欢你的。",
+		"points": [
+			{
+				"en": "bound to like you",
+				"cn": "会喜欢你"
+			}
+		]
 	},
 	{ "en": "Marlin: What?", "cn": "马林：什么？" },
 	{
 		"en": "Marlin: You remember how we met?",
-		"cn": "马林：你还记得我们是怎么认识的吗？"
+		"cn": "马林：你还记得我们是怎么认识的吗？",
+		"sentence": {
+			"en": "You remember how we met",
+			"cn": "你还记得我们是怎么认识的吗",
+			"examples": [
+				{
+					"en": "You remember how we started this project?",
+					"cn": "你还记得我们是怎么开始这个项目的吗？"
+				},
+				{
+					"en": "You remember how we became friends?",
+					"cn": "你还记得我们是怎么成为朋友的吗？"
+				}
+			]
+		}
 	},
 	{ "en": "Coral: Well, I try not to.", "cn": "珊瑚：嗯，我尽量不去想。" },
 	{
 		"en": "Marlin: Well, I remember. \"Excuse me, miss, can you check and see if there’s a hook in my lip?\"",
-		"cn": "马林：我记得。‘小姐，你能帮我看看我的嘴唇上有没有钩子吗？’"
+		"cn": "马林：我记得。‘小姐，你能帮我看看我的嘴唇上有没有钩子吗？’",
+		"sentence": {
+			"en": "can you check and see if there’s a hook in my lip?",
+			"cn": "你能帮我看看我的嘴唇上有没有钩子吗？",
+			"examples": [
+				{
+					"en": "Can you check and see if there’s a problem?",
+					"cn": "你能帮我看看是否有问题吗？"
+				},
+				{
+					"en": "Can you check and see if there’s a mistake?",
+					"cn": "你能帮我看看是否有错误吗？"
+				}
+			]
+		}
 	},
 	{ "en": "Coral: Marlin!", "cn": "珊瑚：马林！" },
 	{
 		"en": "Marlin: Well, you gotta look a little closer because it’s wiggling.",
-		"cn": "马林：你得靠近点看，因为它在动。"
+		"cn": "马林：你得靠近点看，因为它在动。",
+		"points": [
+			{
+				"en": "look a little closer",
+				"cn": "靠近点看"
+			}
+		]
 	},
-	{ "en": "Coral: [squeals] Get away!", "cn": "珊瑚：[尖叫] 走开！" },
+	{
+		"en": "Coral: [squeals] Get away!",
+		"cn": "珊瑚：[尖叫] 走开！",
+		"points": [
+			{
+				"en": "Get away",
+				"cn": "走开"
+			}
+		]
+	},
 	{
 		"en": "Marlin: Here he is! Cutie’s here! Where did everybody go? [gasps] Coral, get inside the house, Coral. No, Coral, don’t. They’ll be fine. Just get inside. You. Right now.",
-		"cn": "马林：他来了！小可爱来了！大家都去哪了？[喘气] 珊瑚，快进屋，珊瑚。不，珊瑚，别这样。他们会没事的。快进去。你，现在就进去。"
-	},
-	{
-		"en": "[Too late, Coral get 400 eggs by swimming, a barracuda roars.]",
-		"cn": "[太晚了，珊瑚游过去拿400个鱼卵，一条梭子鱼咆哮。]"
+		"cn": "马林：他来了！小可爱来了！大家都去哪了？[喘气] 珊瑚，快进屋，珊瑚。不，珊瑚，别这样。他们会没事的。快进去。你，现在就进去。",
+		"points": [
+			{
+				"en": "Where did everybody go",
+				"cn": "大家都去哪了"
+			},
+			{
+				"en": "get inside the house",
+				"cn": "进屋"
+			},
+			{
+				"en": "Right now",
+				"cn": "现在就"
+			}
+		]
 	},
 	{
 		"en": "Marlin: No!! [He attacked the barracuda] Ow! [gasps and grunts]",
 		"cn": "马林：不！！[他攻击了梭子鱼] 哎呀！[喘气和呻吟]"
 	},
 	{
-		"en": "[A barracuda hits Marlin, groaning. It cuts to black in the night time.]",
-		"cn": "[一条梭子鱼撞到马林，马林呻吟。画面切到夜晚黑屏。]"
-	},
-	{
 		"en": "Marlin: Coral!!! Coral? Coral? [gasps] Coral? Coral? Coral?! No. [crying] There, there, there. It’s OK, Daddy’s here. Daddy’s got you. I promise, I will never let anything happen to you, Nemo.",
-		"cn": "马林：珊瑚！！！珊瑚？珊瑚？[喘气] 珊瑚？珊瑚？珊瑚？！不。[哭泣] 没事，没事，没事。爸爸在这里。爸爸抱着你。我保证，尼莫，我永远不会让你出事。"
+		"cn": "马林：珊瑚！！！珊瑚？珊瑚？[喘气] 珊瑚？珊瑚？珊瑚？！不。[哭泣] 没事，没事，没事。爸爸在这里。爸爸抱着你。我保证，尼莫，我永远不会让你出事。",
+		"points": [
+			{
+				"en": "It's OK, Daddy’s here",
+				"cn": "没事，爸爸在这里"
+			}
+		],
+		"sentence": {
+			"en": "I promise, I will never let anything happen to you",
+			"cn": "我保证，我永远不会让你出事",
+			"examples": [
+				{
+					"en": "I promise, I will never just leave you alone.",
+					"cn": "我保证，我永远不会让你一个人。"
+				},
+				{
+					"en": "I promise, I will never let my friends get hurt.",
+					"cn": "我保证，我永远不会让我的朋友受伤。"
+				}
+			]
+		}
 	},
-	{ "en": "Scene 2: Main Titles", "cn": "第二幕：主标题" },
-	{ "en": "Walt Disney Pictures Presents", "cn": "华特迪士尼影片公司出品" },
-	{ "en": "", "cn": "" },
-	{ "en": "A Pixar Animation Studios Film", "cn": "皮克斯动画工作室出品" },
-	{ "en": "", "cn": "" },
-	{ "en": "FINDING NEMO", "cn": "寻找尼莫" },
-	{ "en": "Scene 3: First Day of School", "cn": "第三幕：开学第一天" },
 	{
 		"en": "NEMO: First day of school! First day of school! Wake up, wake up! Come on, first day of school!",
-		"cn": "尼莫：开学第一天！开学第一天！快点，快点！来吧，开学第一天！"
+		"cn": "尼莫：开学第一天！开学第一天！快点，快点！来吧，开学第一天！",
+		"points": [
+			{
+				"en": "First day of school",
+				"cn": "开学第一天"
+			},
+			{
+				"en": "Wake up, wake up",
+				"cn": "快点，快点"
+			}
+		]
 	},
 	{
 		"en": "MARLIN: I don’t want to go to school. Five more minutes.",
-		"cn": "马林：我不想上学。再睡五分钟。"
+		"cn": "马林：我不想上学。再睡五分钟。",
+		"points": [
+			{
+				"en": "Five more minutes",
+				"cn": "再睡五分钟"
+			}
+		]
 	},
 	{ "en": "NEMO: Not you, dad. Me!", "cn": "尼莫：不是你，爸爸。是我！" },
 	{ "en": "MARLIN: Okay...huh?", "cn": "马林：好的……嗯？" },
 	{
 		"en": "NEMO: Get up, get up! It’s time for school! It’s time for school! It’s time for school! It’s time for school! Oh, boy! Oh, boy! Oh boy--whoa!",
-		"cn": "尼莫：起床，起床！该上学了！该上学了！该上学了！该上学了！哦，天哪！哦，天哪！哦，天哪——哇！"
+		"cn": "尼莫：起床，起床！该上学了！该上学了！该上学了！该上学了！哦，天哪！哦，天哪！哦，天哪——哇！",
+		"points": [
+			{
+				"en": "It’s time for school",
+				"cn": "该上学了"
+			}
+		]
 	},
 	{
 		"en": "MARLIN: All right, I’m up. It's time for school. Nemo!",
-		"cn": "马林：好吧，我起床了。该上学了。尼莫！"
+		"cn": "马林：好吧，我起床了。该上学了。尼莫！",
+		"points": [
+			{
+				"en": "I’m up",
+				"cn": "我起床了"
+			}
+		]
 	},
 	{ "en": "NEMO: First day of school!", "cn": "尼莫：开学第一天！" },
 	{
 		"en": "MARLIN: [gasps] Nemo, don't move! Don't move! You'll never get out of there yourself. I'll do it. [grunts] All right, where's the break? You feel a break?",
-		"cn": "马林：[喘气] 尼莫，别动！别动！你自己永远无法从那里出来。我来帮你。[ grunt ] 好吧，哪里断了？你感觉到断了吗？"
+		"cn": "马林：[喘气] 尼莫，别动！别动！你自己永远无法从那里出来。我来帮你。[ grunt ] 好吧，哪里断了？你感觉到断了吗？",
+		"points": [
+			{
+				"en": "Don't move",
+				"cn": "别动"
+			},
+			{
+				"en": "I'll do it",
+				"cn": "我来帮你"
+			}
+		],
+		"sentence": {
+			"en": "You’ll never get out of there yourself",
+			"cn": "你自己永远无法从那里出来",
+			"examples": [
+				{
+					"en": "You’ll never finish this project yourself.",
+					"cn": "你自己永远无法完成这个项目。"
+				},
+				{
+					"en": "You’ll never solve this problem yourself.",
+					"cn": "你自己永远无法解决这个问题。"
+				}
+			]
+		}
 	},
 	{ "en": "NEMO: No.", "cn": "尼莫：没有。" },
 	{
@@ -153,18 +436,52 @@
 	{ "en": "NEMO: No.", "cn": "尼莫：没有。" },
 	{
 		"en": "MARLIN: Are you woozy? How many stripes do I have?",
-		"cn": "马林：你头晕吗？我有多少条纹？"
+		"cn": "马林：你头晕吗？我有多少条纹？",
+		"points": [
+			{
+				"en": "Are you woozy",
+				"cn": "你头晕吗"
+			}
+		]
 	},
 	{ "en": "NEMO: I’m fine. Three.", "cn": "尼莫：我很好。三条。" },
 	{
 		"en": "MARLIN: Answer the stripe question! No! See, something’s wrong with you. I have one, two, three that’s all I have? You're OK. How’s the lucky fin?",
-		"cn": "马林：回答条纹的问题！不！看， 你有问题。我有一、二、三，这就是我所有的？你没事。幸运的鳍怎么样？"
+		"cn": "马林：回答条纹的问题！不！看， 你有问题。我有一、二、三，这就是我所有的？你没事。幸运的鳍怎么样？",
+		"points": [
+			{
+				"en": "See, something’s wrong with you",
+				"cn": "看， 你有问题"
+			},
+			{
+				"en": "that’s all I have",
+				"cn": "这就是我所有的"
+			},
+			{
+				"en": "How’s the lucky fin",
+				"cn": "幸运的鳍怎么样"
+			}
+		]
 	},
 	{ "en": "NEMO: Lucky.", "cn": "尼莫：幸运。" },
 	{ "en": "MARLIN: Let’s see.", "cn": "马林：让我们看看。" },
 	{
 		"en": "MARLIN: Are you sure you wanna go to school this year? 'Cause there's no problem if you don't. You can wait five or six years.",
-		"cn": "马林：你确定你想今年上学吗？因为如果你不想的话，没问题。你可以等五六年。"
+		"cn": "马林：你确定你想今年上学吗？因为如果你不想的话，没问题。你可以等五六年。",
+		"sentence": {
+			"en": "there's no problem if you don't",
+			"cn": "如果你不想的话，没问题",
+			"examples": [
+				{
+					"en": "There’s no problem if you don’t want to go.",
+					"cn": "如果你不想去的话，没问题。"
+				},
+				{
+					"en": "There’s no problem if you don’t like it.",
+					"cn": "如果你不喜欢的话，没问题。"
+				}
+			]
+		}
 	},
 	{
 		"en": "NEMO: Come on, Dad! It’s time for school.",
@@ -172,7 +489,13 @@
 	},
 	{
 		"en": "MARLIN: Ah-ah-ah! Forgot to brush.",
-		"cn": "马林：啊啊啊！忘了刷牙。"
+		"cn": "马林：啊啊啊！忘了刷牙。",
+		"points": [
+			{
+				"en": "Forgot to brush",
+				"cn": "忘了刷牙"
+			}
+		]
 	},
 	{ "en": "NEMO: [sighs]", "cn": "尼莫：[叹气]" },
 	{
@@ -181,21 +504,69 @@
 	},
 	{ "en": "NEMO Yes. [groans]", "cn": "尼莫：是的。[呻吟]" },
 	{ "en": "MARLIN: Brush.", "cn": "马林：刷牙。" },
-	{ "en": "NEMO: OK, I’m done!", "cn": "尼莫：好的，我刷好了！" },
-	{ "en": "MARLIN: You missed a spot.", "cn": "马林：你漏刷了一块。" },
+	{
+		"en": "NEMO: OK, I’m done!",
+		"cn": "尼莫：好的，我刷好了！",
+		"points": [
+			{
+				"en": "I’m done",
+				"cn": "我刷好了"
+			}
+		]
+	},
+	{
+		"en": "MARLIN: You missed a spot.",
+		"cn": "马林：你漏刷了一块。",
+		"points": [
+			{
+				"en": "You missed a spot",
+				"cn": "你漏刷了一块"
+			}
+		]
+	},
 	{ "en": "NEMO: Where?", "cn": "尼莫：哪里？" },
 	{
 		"en": "MARLIN: There! [laughing] Right there. And here and here and here!",
-		"cn": "马林：那里！[笑] 就在那里。还有这里，这里和这里！"
+		"cn": "马林：那里！[笑] 就在那里。还有这里，这里和这里！",
+		"points": [
+			{
+				"en": "Right there",
+				"cn": "就在那里"
+			}
+		]
 	},
 	{
 		"en": "MARLIN: All right, we’re excited. First day of school, here we go. We’re ready to learn to get some knowledge. Now, what’s the one thing we have to remember about the ocean?",
-		"cn": "马林：好了，我们很兴奋。开学第一天，开始吧。我们准备好学习，获取知识。现在，我们必须记住关于海洋的一件事是什么？"
+		"cn": "马林：好了，我们很兴奋。开学第一天，开始吧。我们准备好学习，获取知识。现在，我们必须记住关于海洋的一件事是什么？",
+		"sentence": {
+			"en": "What’s the one thing we have to remember about the ocean",
+			"cn": "我们必须记住关于海洋的一件事是什么",
+			"examples": [
+				{
+					"en": "What’s the one thing we have to remember about this place?",
+					"cn": "我们必须记住这个地方的一件事是什么？"
+				},
+				{
+					"en": "What’s the one thing we have to remember about this project?",
+					"cn": "我们必须记住这个项目的一件事是什么？"
+				}
+			]
+		}
 	},
 	{ "en": "NEMO: It’s not safe.", "cn": "尼莫：那里不安全。" },
 	{
 		"en": "MARLIN: That’s my boy. So, first we check to see that the coast is clear. We go out and back in. And then we go out, and back in. And then one more time. Out and back in. And sometimes, if you want a do it four times...",
-		"cn": "马林：这才是我的好儿子。所以，首先我们要检查海岸是否安全。我们先出去再回来。然后我们再出去，再回来。再来一次。出去再回来。有时候，如果你想的话，可以做四次……"
+		"cn": "马林：这才是我的好儿子。所以，首先我们要检查海岸是否安全。我们先出去再回来。然后我们再出去，再回来。再来一次。出去再回来。有时候，如果你想的话，可以做四次……",
+		"points": [
+			{
+				"en": "That's my boy",
+				"cn": "这才是我的好儿子"
+			},
+			{
+				"en": "we go out and back in",
+				"cn": "我们出去再回来"
+			}
+		]
 	},
 	{ "en": "NEMO: Dad....", "cn": "尼莫：爸爸……" },
 	{
@@ -204,13 +575,42 @@
 	},
 	{
 		"en": "NEMO: Dad, maybe while I’m at school, I’ll see a shark!",
-		"cn": "尼莫：爸爸，也许我在学校的时候会看到鲨鱼！"
+		"cn": "尼莫：爸爸，也许我在学校的时候会看到鲨鱼！",
+		"sentence": {
+			"en": "maybe while I’m at school, I’ll see a shark",
+			"cn": "也许我在学校的时候会看到鲨鱼",
+			"examples": [
+				{
+					"en": "Maybe while I’m at the store, I’ll see a friend.",
+					"cn": "也许我在商店的时候会看到朋友。"
+				},
+				{
+					"en": "Maybe while I’m at the park, I’ll see a dog.",
+					"cn": "也许我在公园的时候会看到狗。"
+				}
+			]
+		}
 	},
-	{ "en": "MARLIN: I highly doubt that.", "cn": "马林：我很怀疑。" },
+	{
+		"en": "MARLIN: I highly doubt that.",
+		"cn": "马林：我很怀疑。",
+		"points": [
+			{
+				"en": "I highly doubt that",
+				"cn": "我很怀疑"
+			}
+		]
+	},
 	{ "en": "NEMO: Have you ever met a shark?", "cn": "尼莫：你见过鲨鱼吗？" },
 	{
 		"en": "MARLIN: No, and I don’t plan to.",
-		"cn": "马林：没有，我不打算见。"
+		"cn": "马林：没有，我不打算见。",
+		"points": [
+			{
+				"en": "I don’t plan to",
+				"cn": "我不打算"
+			}
+		]
 	},
 	{ "en": "NEMO: How old are sea turtles?", "cn": "尼莫：海龟能活多久？" },
 	{
@@ -223,7 +623,21 @@
 	},
 	{
 		"en": "MARLIN: Well, you know what, if I ever meet a sea turtle, I'll ask him. After I'm done talking to the shark, okay? Whoa, whoa, whoa! Hold on, hold on, wait to cross. [The traffic stopped] Hold my fin, hold my fin.",
-		"cn": "马林：好吧，你知道吗，如果我有一天见到海龟，我会问他的。在我和鲨鱼说完话之后，好吗？哇，哇，哇！等等，等等，等着过马路。[交通停了下来] 抓住我的鳍，抓住我的鳍。"
+		"cn": "马林：好吧，你知道吗，如果我有一天见到海龟，我会问他的。在我和鲨鱼说完话之后，好吗？哇，哇，哇！等等，等等，等着过马路。[交通停了下来] 抓住我的鳍，抓住我的鳍。",
+		"points": [
+			{
+				"en": "Hold on, hold on",
+				"cn": "等等，等等"
+			},
+			{
+				"en": "wait to cross",
+				"cn": "等着过马路"
+			},
+			{
+				"en": "Hold my fin",
+				"cn": "抓住我的鳍"
+			}
+		]
 	},
 	{
 		"en": "NEMO: Dad, you’re not gonna freak out like you did at the petting zoo, are you?",
