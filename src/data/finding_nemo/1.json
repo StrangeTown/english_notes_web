@@ -641,33 +641,107 @@
 	},
 	{
 		"en": "NEMO: Dad, you’re not gonna freak out like you did at the petting zoo, are you?",
-		"cn": "尼莫：爸爸，你不会像在动物园那样惊慌失措吧？"
+		"cn": "尼莫：爸爸，你不会像在动物园那样惊慌失措吧？",
+		"sentence": {
+			"en": "you’re not gonna freak out like you did at the petting zoo",
+			"cn": "你不会像在动物园那样惊慌失措",
+			"examples": [
+				{
+					"en": "You’re not gonna run away like you did at the party.",
+					"cn": "你不会像在派对上那样逃跑。"
+				},
+				{
+					"en": "You’re not gonna freak out like you did at the concert.",
+					"cn": "你不会像在音乐会上那样惊慌失措。"
+				}
+			]
+		}
 	},
 	{
 		"en": "MARLIN: Hey, that snail was about to charge. Hmm, I wonder where we're supposed to go.",
-		"cn": "马林：嘿，那只蜗牛快要冲过来了。嗯，我想知道我们该去哪儿。"
+		"cn": "马林：嘿，那只蜗牛快要冲过来了。嗯，我想知道我们该去哪儿。",
+		"sentence": {
+			"en": "I wonder where we're supposed to go",
+			"cn": "我想知道我们该去哪儿",
+			"examples": [
+				{
+					"en": "I wonder where we’re supposed to meet.",
+					"cn": "我想知道我们该在哪里见面。"
+				},
+				{
+					"en": "I wonder where we’re supposed to sit.",
+					"cn": "我想知道我们该坐在哪里。"
+				}
+			]
+		}
 	},
 	{ "en": "FISH KIDS: Bye, Mom!", "cn": "鱼孩子们：再见，妈妈！" },
 	{
 		"en": "FISH MOM: I’ll pick you up after school.",
-		"cn": "鱼妈妈：放学后我来接你。"
+		"cn": "鱼妈妈：放学后我来接你们。",
+		"points": [
+			{
+				"en": "pick you up after school",
+				"cn": "放学后我来接你们"
+			}
+		]
 	},
 	{
 		"en": "CRAB KID: Come on, you guys. Stop it! Give it back!",
-		"cn": "螃蟹小孩：快点，你们。住手！把它还回来！"
+		"cn": "螃蟹小孩：快点，你们。住手！把它还回来！",
+		"points": [
+			{
+				"en": "Give it back",
+				"cn": "把它还回来"
+			}
+		]
 	},
 	{
 		"en": "MARLIN: Come on, we’ll try over there.",
-		"cn": "马林：来吧，我们去那边试试。"
+		"cn": "马林：来吧，我们去那边试试。",
+		"points": [
+			{
+				"en": "we’ll try over there",
+				"cn": "我们去那边试试"
+			}
+		]
 	},
 	{ "en": "[all laughing]", "cn": "[所有人都在笑]" },
 	{
 		"en": "Marlin: Excuse me, is this where we meet his teacher?",
-		"cn": "马林：打扰一下，请问这是我们见他老师的地方吗？"
+		"cn": "马林：打扰一下，请问这是我们见他老师的地方吗？",
+		"sentence": {
+			"en": "is this where we meet his teacher",
+			"cn": "这是我们见他老师的地方吗",
+			"examples": [
+				{
+					"en": "Is this where we meet the principal?",
+					"cn": "这是我们见校长的地方吗？"
+				},
+				{
+					"en": "Is this where we meet the coach?",
+					"cn": "这是我们见教练的地方吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "BOB: Well, look who’s out of the anemone.",
-		"cn": "鲍勃：瞧瞧，谁从海葵里出来了。"
+		"cn": "鲍勃：瞧瞧，谁从海葵里出来了。",
+		"sentence": {
+			"en": "look who’s out of the anemone",
+			"cn": "瞧瞧，谁从海葵里出来了",
+			"examples": [
+				{
+					"en": "Look who’s out of the water.",
+					"cn": "瞧瞧，谁从水里出来了。"
+				},
+				{
+					"en": "Look who’s out of the shell.",
+					"cn": "瞧瞧，谁从壳里出来了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "MARLIN: Yes, shocking, I know.",
