@@ -745,7 +745,13 @@
 	},
 	{
 		"en": "MARLIN: Yes, shocking, I know.",
-		"cn": "马林：是的，令人震惊，我知道。"
+		"cn": "马林：是的，令人震惊，我知道。",
+		"points": [
+			{
+				"en": "shocking, I know",
+				"cn": "令人震惊，我知道"
+			}
+		]
 	},
 	{ "en": "BOB: Marty, right?", "cn": "鲍勃：马丁，对吧？" },
 	{ "en": "MARLIN: Marlin.", "cn": "马林：马林。" },
@@ -753,17 +759,43 @@
 	{ "en": "TED: Ted.", "cn": "泰德：泰德。" },
 	{
 		"en": "BILL: Bill. ...Hey, you’re a clownfish! You’re funny, right? Hey, tell us a joke!",
-		"cn": "比尔：比尔。……嘿，你是一条小丑鱼！你很有趣，对吧？嘿，给我们讲个笑话！"
+		"cn": "比尔：比尔。……嘿，你是一条小丑鱼！你很有趣，对吧？嘿，给我们讲个笑话！",
+		"points": [
+			{
+				"en": "tell us a joke",
+				"cn": "给我们讲个笑话"
+			}
+		]
 	},
 	{ "en": "BOTH: Yeah. Good idea.", "cn": "大家：是的。好主意。" },
 	{
 		"en": "MARLIN: Well, actually, that’s a common misconception. Clownfish are no funnier than any other fish.",
-		"cn": "马林：其实，这是一种常见的误解。小丑鱼并不比其他鱼更有趣。"
+		"cn": "马林：其实，这是一种常见的误解。小丑鱼并不比其他鱼更有趣。",
+		"points": [
+			{
+				"en": "common misconception",
+				"cn": "常见的误解"
+			}
+		]
 	},
 	{ "en": "BILL: Come on, Clowny.", "cn": "比尔：来吧，小丑鱼。" },
 	{
 		"en": "TED: Yeah, do something funny.",
-		"cn": "泰德：是的，做点有趣的事。"
+		"cn": "泰德：是的，做点有趣的事。",
+		"sentence": {
+			"en": "do something funny",
+			"cn": "做点有趣的事",
+			"examples": [
+				{
+					"en": "Do something interesting.",
+					"cn": "做点有趣的事。"
+				},
+				{
+					"en": "Do something exciting.",
+					"cn": "做点刺激的事。"
+				}
+			]
+		}
 	},
 	{ "en": "BOB: Yeah!", "cn": "鲍勃：是的！" },
 	{
@@ -780,36 +812,86 @@
 	},
 	{
 		"en": "NEMO: Dad, can I go play too? Can I?",
-		"cn": "尼莫：爸爸，我可以去玩吗？可以吗？"
+		"cn": "尼莫：爸爸，我可以去玩吗？可以吗？",
+		"sentence": {
+			"en": "Can I go play too",
+			"cn": "我可以去玩吗",
+			"examples": [
+				{
+					"en": "Can I go to the party too?",
+					"cn": "我可以去派对吗？"
+				},
+				{
+					"en": "Can I join the game too?",
+					"cn": "我可以加入游戏吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "MARLIN: I would feel better if you go play over on the sponge beds.",
-		"cn": "马林：如果你去海绵床上玩我会更放心。"
+		"cn": "马林：如果你去海绵床上玩我会更放心。",
+		"sentence": {
+			"en": "I would feel better if you go play over on the sponge beds",
+			"cn": "如果你去海绵床上玩我会更放心",
+			"examples": [
+				{
+					"en": "I would feel better if you go to the park.",
+					"cn": "如果你去公园我会更放心。"
+				},
+				{
+					"en": "I would feel better if you eat at home.",
+					"cn": "如果你在家吃饭我会更放心。"
+				}
+			]
+		}
 	},
-	{
-		"en": "[The small fishes are bouncing on the sponge beds, then one of them hits the ground on accident, a mother fish gasps, a small fish starts crying.[mother gasps]",
-		"cn": "[小鱼们在海绵床上弹跳，然后其中一条不小心撞到了地面，一条母鱼倒吸一口气，一条小鱼开始哭泣。[母亲倒吸气]"
-	},
-	{ "en": "- [baby cries]", "cn": "- [婴儿哭声]" },
 	{
 		"en": "MARLIN: That’s where I would play.",
 		"cn": "马林：我会在那儿玩的。"
 	},
-	{ "en": "[kids laughing]", "cn": "[孩子们在笑]" },
-	{ "en": "PEARL: What’s wrong with his fin?", "cn": "珍珠：他的鳍怎么了？" },
+	{
+		"en": "PEARL: What’s wrong with his fin?",
+		"cn": "珍珠：他的鳍怎么了？",
+		"sentence": {
+			"en": "What’s wrong with his fin",
+			"cn": "他的鳍怎么了",
+			"examples": [
+				{
+					"en": "What’s wrong with his leg?",
+					"cn": "他的腿怎么了？"
+				},
+				{
+					"en": "What’s wrong with her voice?",
+					"cn": "她的声音怎么了？"
+				}
+			]
+		}
+	},
 	{ "en": "TAD: He looks funny!", "cn": "塔德：他看起来很有趣！" },
-	{ "en": "(Bob hits Sheldon with his tail)", "cn": "(鲍勃用尾巴撞了谢尔顿)" },
 	{
 		"en": "SHELDON: Ow! Hey, what’d I do?",
 		"cn": "谢尔顿：哎呀！嘿，我做了什么？"
 	},
 	{
 		"en": "BOB: Be nice! It’s his first time at school!",
-		"cn": "鲍勃：要友善！这是他第一次上学！"
+		"cn": "鲍勃：要友善！这是他第一次上学！",
+		"points": [
+			{
+				"en": "Be nice",
+				"cn": "要友善"
+			}
+		]
 	},
 	{
 		"en": "MARLIN: He was born with it, kids. We call it his lucky fin.",
-		"cn": "马林：孩子们，他是与生俱来的。我们称之为他的幸运鳍。"
+		"cn": "马林：孩子们，他是与生俱来的。我们称之为他的幸运鳍。",
+		"points": [
+			{
+				"en": "He was born with it",
+				"cn": "他是与生俱来的"
+			}
+		]
 	},
 	{ "en": "NEMO: Dad....", "cn": "尼莫：爸爸……" },
 	{
@@ -823,11 +905,26 @@
 	{ "en": "TAD: I’m obnoxious.", "cn": "塔德：我很讨厌。" },
 	{
 		"en": "MR. RAY: [singing] Oh... let’s name the zones, the zones, the zones. Let’s name the zones of the open sea.",
-		"cn": "雷先生：[唱歌] 哦……让我们来命名这些区域，这些区域。这些开放海域的区域。"
+		"cn": "雷先生：[唱歌] 哦……让我们来命名这些区域，这些区域。这些开放海域的区域。",
+		"points": [
+			{
+				"en": "Let’s name the zones",
+				"cn": "让我们来命名这些区域"
+			}
+		]
 	},
 	{ "en": "CHILDREN: Mr. Ray!", "cn": "孩子们：雷先生！" },
 	{ "en": "SHELDON: Come on, Nemo!", "cn": "谢尔顿：快点，尼莫！" },
-	{ "en": "MARLIN: You better stay with me.", "cn": "马林：你最好跟着我。" },
+	{
+		"en": "MARLIN: You better stay with me.",
+		"cn": "马林：你最好跟着我。",
+		"points": [
+			{
+				"en": "You better stay with me",
+				"cn": "你最好跟着我"
+			}
+		]
+	},
 	{
 		"en": "MR. RAY: Mesopolagic, bathyal, abyssalpelagic. All the rest are too deep for you and me to see. Huh? I wonder where my class has gone.",
 		"cn": "雷先生：中层海域，深海，深渊海域。其余的对你我来说都太深了。嗯？我想知道我的班级去哪儿了。"
@@ -835,12 +932,24 @@
 	{ "en": "KIDS: We’re under here!", "cn": "孩子们：我们在这里！" },
 	{
 		"en": "MR. RAY: There you are. Climb aboard, explorers! [singing] Knowledge exploring is oh so lyrical, when you think thoughts that are empirical.",
-		"cn": "雷先生：你们在这里。爬上来，探索者们！[唱歌] 探索知识是如此富有诗意，当你思考那些经验性的想法时。"
+		"cn": "雷先生：你们在这里。爬上来，探索者们！[唱歌] 探索知识是如此富有诗意，当你思考那些经验性的想法时。",
+		"points": [
+			{
+				"en": "Climb aboard, explorers",
+				"cn": "爬上来，探索者们"
+			}
+		]
 	},
 	{ "en": "NEMO: Dad, you can go now.", "cn": "尼莫：爸爸，你可以走了。" },
 	{
 		"en": "MR. RAY: Well, hello! Who is this?",
-		"cn": "雷先生：你好！这是谁？"
+		"cn": "雷先生：你好！这是谁？",
+		"points": [
+			{
+				"en": "Who is this",
+				"cn": "这是谁"
+			}
+		]
 	},
 	{ "en": "NEMO: I’m Nemo.", "cn": "尼莫：我是尼莫。" },
 	{
@@ -862,7 +971,17 @@
 	},
 	{
 		"en": "MARLIN: Just so you know, he’s got a little fin. I find if he’s having trouble swimming, let him take a break, 10, 15 minutes.",
-		"cn": "马林：告诉你们，他有一只小鳍。如果他游泳有困难，就让他休息一下，10到15分钟。"
+		"cn": "马林：告诉你们，他有一只小鳍。如果他游泳有困难，就让他休息一下，10到15分钟。",
+		"points": [
+			{
+				"en": "he’s got a little fin",
+				"cn": "他有一只小鳍"
+			},
+			{
+				"en": "let him take a break",
+				"cn": "让他休息一下"
+			}
+		]
 	},
 	{
 		"en": "NEMO: Dad, it’s time for you to go now.",
@@ -872,10 +991,28 @@
 		"en": "MR. RAY: Don’t worry. We’re gonna stay together as a group. OK, class, optical orbits up front! And remember, we keep our supraesophogeal ganglion to ourselves, that means you, Jimmy.",
 		"cn": "雷先生：别担心。我们会作为一个整体呆在一起。好的，班级，光学轨道在前面！记住，我们要把我们的上食管神经节留给自己，这意味着你，吉米。"
 	},
-	{ "en": "JIMMY: Oh, man!", "cn": "吉米：哦，天哪！" },
+	{
+		"en": "JIMMY: Oh, man!",
+		"cn": "吉米：哦，天哪！",
+		"points": [
+			{
+				"en": "Oh, man",
+				"cn": "哦，天哪"
+			}
+		]
+	},
 	{ "en": "MARLIN: Bye, Nemo!", "cn": "马林：再见，尼莫！" },
 	{ "en": "NEMO: Bye, Dad!", "cn": "尼莫：再见，爸爸！" },
-	{ "en": "MARLIN: Bye, son! Be safe.", "cn": "马林：再见，儿子！保重。" },
+	{ 
+		"en": "MARLIN: Bye, son! Be safe.", 
+		"cn": "马林：再见，儿子！保重。",
+		"points": [
+			{
+				"en": "Be safe",
+				"cn": "保重"
+			}
+		]
+	},
 	{
 		"en": "BOB: Hey, you’re doing pretty well for a first timer.",
 		"cn": "鲍勃：嘿，作为第一次来这里的鱼，你表现得很好。"
