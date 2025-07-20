@@ -2020,8 +2020,8 @@
 			]
 		}
 	},
-	{ 
-		"en": "Chum: Hey, that’s incredible!", 
+	{
+		"en": "Chum: Hey, that’s incredible!",
 		"cn": "小鱼：嘿，太不可思议了！",
 		"points": [
 			{
@@ -2093,7 +2093,13 @@
 	{ "en": "Marlin: Nemo!", "cn": "马林：尼莫！" },
 	{
 		"en": "Chum: Nemo! [laughs] I don’t get it.",
-		"cn": "小鱼：尼莫！[笑] 我不明白。"
+		"cn": "小鱼：尼莫！[笑] 我不明白。",
+		"points": [
+			{
+				"en": "I don’t get it",
+				"cn": "我不明白"
+			}
+		]
 	},
 	{
 		"en": "Bruce: For a clownfish, he’s not that funny.",
@@ -2105,7 +2111,13 @@
 	},
 	{
 		"en": "Dory: Oh, my. You poor fish.",
-		"cn": "多莉：哦，我的天哪。你可怜的鱼。"
+		"cn": "多莉：哦，我的天哪。你可怜的鱼。",
+		"points": [
+			{
+				"en": "You poor fish",
+				"cn": "你可怜的鱼"
+			}
+		]
 	},
 	{
 		"en": "Chum: Humans! Think they own everything!",
@@ -2114,11 +2126,31 @@
 	{ "en": "Anchor: Probably American!", "cn": "安克：可能是美国人！" },
 	{
 		"en": "Bruce: [tearfully] Now there is a father looking for his little boy!",
-		"cn": "布鲁斯：[含泪] 现在有一位父亲在寻找他的小男孩！"
+		"cn": "布鲁斯：[含泪] 现在有一位父亲在寻找他的小男孩！",
+		"points": [
+			{
+				"en": "looking for",
+				"cn": "寻找"
+			}
+		]
 	},
 	{
 		"en": "Marlin: Ugh! What do these markings mean?",
-		"cn": "马林：呃！这些标记是什么意思？"
+		"cn": "马林：呃！这些标记是什么意思？",
+		"sentence": {
+			"en": "What do these markings mean",
+			"cn": "这些标记是什么意思",
+			"examples": [
+				{
+					"en": "What do these symbols mean?",
+					"cn": "这些符号是什么意思？"
+				},
+				{
+					"en": "What do these numbers mean?",
+					"cn": "这些数字是什么意思？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Bruce: [crying] I never knew my father!",
@@ -2133,7 +2165,21 @@
 	{ "en": "Marlin: I can’t read human!", "cn": "马林：我看不懂人类的文字！" },
 	{
 		"en": "Dory: Well then we gotta find a fish who can read this. Hey, look, sharks! Guys!",
-		"cn": "多莉：那我们就得找一条会读这个的鱼。嘿，看看，鲨鱼！伙计们！"
+		"cn": "多莉：那我们就得找一条会读这个的鱼。嘿，看看，鲨鱼！伙计们！",
+		"sentence": {
+			"en": "we gotta find a fish who can read this",
+			"cn": "我们得找一条会读这个的鱼",
+			"examples": [
+				{
+					"en": "we gotta find a person who can help us",
+					"cn": "我们得找一个能帮我们的人"
+				},
+				{
+					"en": "we gotta find a place where we can rest",
+					"cn": "我们得找一个可以休息的地方"
+				}
+			]
+		}
 	},
 	{
 		"en": "Marlin: No, no, no, Dory! Cut it out!",
@@ -2141,11 +2187,13 @@
 	},
 	{
 		"en": "Dory: That’s mine! Give it to me! Ow!!!",
-		"cn": "多莉：那是我的！给我！哎！！！"
-	},
-	{
-		"en": "[He accidentally cuts Dory's nose.)",
-		"cn": "[他不小心划伤了多莉的鼻子。]"
+		"cn": "多莉：那是我的！给我！哎！！！",
+		"points": [
+			{
+				"en": "Give it to me",
+				"cn": "给我"
+			}
+		]
 	},
 	{
 		"en": "Marlin: I’m sorry. Are you OK? I'm so sorry.",
@@ -2160,10 +2208,6 @@
 		"cn": "布鲁斯：多莉，你还好吗——[闻到血腥味] 哦！真香……"
 	},
 	{ "en": "Anchor and Chum: INTERVENTION!", "cn": "安克和小鱼：干预！" },
-	{
-		"en": "[The sharks hold their boss against the wall]",
-		"cn": "[鲨鱼们把他们的老板按在墙上]"
-	},
 	{ "en": "Bruce: Just a bite!", "cn": "布鲁斯：只是咬一口！" },
 	{ "en": "Anchor: You hold it together, mate!", "cn": "安克：伙计，冷静点！" },
 	{
@@ -2171,22 +2215,65 @@
 		"cn": "小鱼：记住，布鲁斯，鱼是朋友，不是食物！"
 	},
 	{ "en": "Bruce: FOOD!", "cn": "布鲁斯：食物！" },
-	{ "en": "Marlin: Dory, look out!", "cn": "马林：多莉，小心！" },
+	{
+		"en": "Marlin: Dory, look out!",
+		"cn": "马林：多莉，小心！",
+		"points": [
+			{
+				"en": "look out",
+				"cn": "小心"
+			}
+		]
+	},
 	{ "en": "Bruce: I’m havin' fish tonight!", "cn": "布鲁斯：今晚我要吃鱼！" },
 	{ "en": "Chum: Remember the steps, mate!", "cn": "小鱼：记住步骤，伙计！" },
 	{ "en": "Bruce: Just one bite! G’day!", "cn": "布鲁斯：只要一口！再见！" },
 	{
 		"en": "Marlin: There’s no way out! There’s got to be a way to escape!",
-		"cn": "马林：没有出路！一定有办法逃出去！"
+		"cn": "马林：没有出路！一定有办法逃出去！",
+		"sentence": {
+			"en": "There’s got to be a way to escape",
+			"cn": "一定有办法逃出去",
+			"examples": [
+				{
+					"en": "There’s got to be a way to fix this",
+					"cn": "一定有办法解决这个问题"
+				},
+				{
+					"en": "There’s got to be a way to make it work",
+					"cn": "一定有办法让它工作"
+				}
+			]
+		}
 	},
 	{ "en": "Dory: Who is it?", "cn": "多莉：是谁？" },
 	{
 		"en": "Marlin: Dory, help me find a way out!",
-		"cn": "马林：多莉，帮我找个出口！"
+		"cn": "马林：多莉，帮我找个出口！",
+		"points": [
+			{
+				"en": "find a way out",
+				"cn": "找个出口"
+			}
+		]
 	},
 	{
 		"en": "Dory: Sorry, you’ll have to come back later. We’re trying to escape.",
-		"cn": "多莉：对不起，你得稍后再来。我们正在试图逃跑。"
+		"cn": "多莉：对不起，你得稍后再来。我们正在试图逃跑。",
+		"sentence": {
+			"en": "We’re trying to escape",
+			"cn": "我们正在试图逃跑",
+			"examples": [
+				{
+					"en": "We’re trying to leave.",
+					"cn": "我们正在试图离开。"
+				},
+				{
+					"en": "We’re trying to find a solution.",
+					"cn": "我们正在试图找到解决方案。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Marlin: OK. There’s gotta be a way out!",
@@ -2194,13 +2281,33 @@
 	},
 	{
 		"en": "Dory: Look, here’s something! \"Es-cap-e.\" I wonder what that means. It’s funny, it’s spelled just like the word \"escape.\"",
-		"cn": "多莉：看，这里有东西！‘逃生’。我想知道这是什么意思。真有趣，它的拼写和‘逃生’这个词一模一样。"
+		"cn": "多莉：看，这里有东西！‘逃生’。我想知道这是什么意思。真有趣，它的拼写和‘逃生’这个词一模一样。",
+		"sentence": {
+			"en": "I wonder what that means",
+			"cn": "我想知道这是什么意思",
+			"examples": [
+				{
+					"en": "I wonder what that word means.",
+					"cn": "我想知道那个词是什么意思。"
+				},
+				{
+					"en": "I wonder what that sign means.",
+					"cn": "我想知道那个标志是什么意思。"
+				}
+			]
+		}
 	},
 	{ "en": "Marlin: Let’s go!", "cn": "马林：走吧！" },
 	{ "en": "Bruce: Here’s Brucey!!", "cn": "布鲁斯：布鲁斯来了！！" },
 	{
 		"en": "Marlin: Wait a minute. You can read?",
-		"cn": "马林：等一下。你会读书？"
+		"cn": "马林：等一下。你会读书？",
+		"points": [
+			{
+				"en": "Wait a minute",
+				"cn": "等一下"
+			}
+		]
 	},
 	{
 		"en": "Dory: I can read? That’s right! I can read!",
@@ -2212,12 +2319,26 @@
 	},
 	{
 		"en": "Anchor: He really doesn’t mean it, you know! He never even knew his father!!",
-		"cn": "安克：你知道的，他不是那个意思！他连他的父亲是谁都不知道！！"
+		"cn": "安克：你知道的，他不是那个意思！他连他的父亲是谁都不知道！！",
+		"points": [
+			{
+				"en": "He really doesn’t mean it",
+				"cn": "他不是那个意思"
+			}
+		]
 	},
 	{ "en": "Chum: Don’t fall off the wagon!", "cn": "小鱼：别掉队！" },
-	{ "en": "(Both Screaming)", "cn": "(两人尖叫)" },
 	{ "en": "Marlin: Oh, no! It’s blocked!", "cn": "马林：哦，不！被堵住了！" },
-	{ "en": "Anchor: No, Bruce! Focus!", "cn": "安克：不，布鲁斯！集中注意力！" },
+	{
+		"en": "Anchor: No, Bruce! Focus!",
+		"cn": "安克：不，布鲁斯！集中注意力！",
+		"points": [
+			{
+				"en": "Focus",
+				"cn": "集中注意力"
+			}
+		]
+	},
 	{
 		"en": "Chum: Sorry about Bruce, mate!",
 		"cn": "小鱼：抱歉，布鲁斯，伙计！"
@@ -2225,7 +2346,21 @@
 	{ "en": "Anchor: He’s really a nice guy!", "cn": "安克：他真的是个好人！" },
 	{
 		"en": "Marlin: I need to get that mask!",
-		"cn": "马林：我需要拿到那个面具！"
+		"cn": "马林：我需要拿到那个面具！",
+		"sentence": {
+			"en": "I need to get that mask",
+			"cn": "我需要拿到那个面具",
+			"examples": [
+				{
+					"en": "I need to get that book.",
+					"cn": "我需要拿到那本书。"
+				},
+				{
+					"en": "I need to get that job.",
+					"cn": "我需要得到那份工作。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Dory: You want that mask? OK.",
@@ -2235,7 +2370,6 @@
 		"en": "Marlin: No, no, no, no, no, no!!! Quick, grab the mask! Grab it!!",
 		"cn": "马林：不，不，不，不，不，不！！！快，抓住面具！抓住它！！"
 	},
-	{ "en": "[snarling]", "cn": "[咆哮]" },
 	{ "en": "Anchor: Uh Oh!", "cn": "安克：哦哦！" },
 	{ "en": "Chum: Bruce?", "cn": "小鱼：布鲁斯？" },
 	{
@@ -2244,17 +2378,26 @@
 	},
 	{
 		"en": "Dory: Guys, is the party over?",
-		"cn": "多莉：伙计们，派对结束了吗？"
-	},
-	{
-		"en": "[The missile goes to hit underwater bomb dings, a big explosion, then Marlin and Dory to take cover, all the underwater bombs exploded, then two pelicans see a pop under the water.]",
-		"cn": "[导弹击中水下炸弹，发出叮当声，随即发生巨大爆炸，马林和多莉迅速躲避，所有水下炸弹爆炸，随后两只鹈鹕看到水下冒出的气泡。]"
+		"cn": "多莉：伙计们，派对结束了吗？",
+		"sentence": {
+			"en": "is the party over",
+			"cn": "派对结束了吗",
+			"examples": [
+				{
+					"en": "Is the meeting over?",
+					"cn": "会议结束了吗？"
+				},
+				{
+					"en": "Is the game over?",
+					"cn": "比赛结束了吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "Pelican 2: Nice. [He flies off.]",
 		"cn": "鹈鹕2：不错。[他飞走了。]"
 	},
-	{ "en": "Scene 9: The Tank Gang", "cn": "第九幕：水族箱帮派" },
 	{ "en": "Nemo: Dad?! Daddy?", "cn": "尼莫：爸爸？！爹地？" },
 	{
 		"en": "Dr. Phillip Sherman: Barbara? Prep for his anterior crown, would you, please? And I’m going to need a few cotton rolls.",
@@ -2263,11 +2406,13 @@
 	{ "en": "BARBARA: OK.", "cn": "芭芭拉：好的。" },
 	{
 		"en": "Dr. Phillip Sherman: Hello, little fella.",
-		"cn": "菲利普·谢尔曼医生：你好，小家伙。"
-	},
-	{
-		"en": "(Nemo screams and hides in a barrel)",
-		"cn": "(尼莫尖叫着躲进了一个桶里)"
+		"cn": "菲利普·谢尔曼医生：你好，小家伙。",
+		"points": [
+			{
+				"en": "little fella",
+				"cn": "小家伙"
+			}
+		]
 	},
 	{
 		"en": "Dr. Phillip Sherman: [chuckling] Beauty, isn’t he? I found that guy struggling for life out on the reef and I saved him. So, has that Novocaine kicked in yet?",
@@ -2284,16 +2429,42 @@
 	{ "en": "NEMO: Aagghh!!!!", "cn": "尼莫：啊啊啊！！！！" },
 	{
 		"en": "BLOAT: Slow down, little fella. There’s nothing to worry about.",
-		"cn": "膨胀鱼：慢点，小家伙。没什么好担心的。"
+		"cn": "膨胀鱼：慢点，小家伙。没什么好担心的。",
+		"points": [
+			{
+				"en": "There’s nothing to worry about",
+				"cn": "没什么好担心的"
+			}
+		]
 	},
 	{ "en": "DEB: He’s scared to death.", "cn": "黛比：他吓死了。" },
 	{
 		"en": "NEMO: I want to go home! Do you know where my dad is?",
-		"cn": "尼莫：我想回家！你知道我爸爸在哪里吗？"
+		"cn": "尼莫：我想回家！你知道我爸爸在哪里吗？",
+		"sentence": {
+			"en": "Do you know where my dad is",
+			"cn": "你知道我爸爸在哪里吗",
+			"examples": [
+				{
+					"en": "Do you know where my mom is?",
+					"cn": "你知道我妈妈在哪里吗？"
+				},
+				{
+					"en": "Do you know where the nearest hospital is?",
+					"cn": "你知道最近的医院在哪里吗？"
+				}
+			]
+		}
 	},
 	{
 		"en": "PEACH: Honey, your dad’s probably back at the pet store.",
-		"cn": "桃子：亲爱的，你爸爸可能还在宠物店里。"
+		"cn": "桃子：亲爱的，你爸爸可能还在宠物店里。",
+		"points": [
+			{
+				"en": "pet store",
+				"cn": "宠物店"
+			}
+		]
 	},
 	{ "en": "NEMO: Pet store?", "cn": "尼莫：宠物店？" },
 	{
@@ -2317,18 +2488,43 @@
 		"cn": "雅克：大海。好。[开始转动尼莫] 看。他干净了！"
 	},
 	{
-		"en": "[He swims back to his helmet home.]",
-		"cn": "[他游回了他的头盔家。]"
-	},
-	{
 		"en": "BUBBLES: Wow. The big blue. What’s it like?",
-		"cn": "泡泡：哇。大蓝。是什么感觉？"
+		"cn": "泡泡：哇。大蓝。是什么感觉？",
+		"points": [
+			{
+				"en": "What’s it like",
+				"cn": "是什么感觉"
+			}
+		]
 	},
 	{ "en": "NEMO: Big and blue?", "cn": "尼莫：又大又蓝？" },
-	{ "en": "BUBBLES: I knew it.", "cn": "泡泡：我就知道。" },
+	{
+		"en": "BUBBLES: I knew it.",
+		"cn": "泡泡：我就知道。",
+		"points": [
+			{
+				"en": "I knew it",
+				"cn": "我就知道"
+			}
+		]
+	},
 	{
 		"en": "DEB: Kid, if there’s anything you need, just ask your auntie Deb, that’s me! Or if I’m not around, you can always talk to my sister Flo. Hi, how are you? Don’t listen to anything my sister says, she’s nuts!",
-		"cn": "黛比：孩子，如果你需要什么，尽管问你阿姨黛比，就是我！或者如果我不在，你也可以随时找我姐姐弗洛。嗨，你好吗？别听我姐姐说的任何话，她是个疯子！"
+		"cn": "黛比：孩子，如果你需要什么，尽管问你阿姨黛比，就是我！或者如果我不在，你也可以随时找我姐姐弗洛。嗨，你好吗？别听我姐姐说的任何话，她是个疯子！",
+		"sentence": {
+			"en": "if there’s anything you need, just ask",
+			"cn": "如果你需要什么，尽管问",
+			"examples": [
+				{
+					"en": "If there’s anything you need, just let me know.",
+					"cn": "如果你需要什么，尽管告诉我。"
+				},
+				{
+					"en": "If there’s anything you want, just say it.",
+					"cn": "如果你想要什么，就说出来。"
+				}
+			]
+		}
 	},
 	{
 		"en": "PEACH: [muffled] We got a live one!",
@@ -2336,7 +2532,13 @@
 	},
 	{
 		"en": "BLOAT: Can’t hear you, Peach.",
-		"cn": "膨胀鱼：听不见你说话，桃子。"
+		"cn": "膨胀鱼：听不见你说话，桃子。",
+		"points": [
+			{
+				"en": "Can’t hear you",
+				"cn": "听不见你说话"
+			}
+		]
 	},
 	{
 		"en": "PEACH: I said we got a live one.",
@@ -2347,7 +2549,13 @@
 	{ "en": "DEB: What do we got?", "cn": "黛比：我们抓到了什么？" },
 	{
 		"en": "PEACH: Root canal. And by the looks of those X-rays, it's not gonna be pretty.",
-		"cn": "桃子：根管治疗。从那些X光片来看，这可不好办。"
+		"cn": "桃子：根管治疗。从那些X光片来看，这可不好办。",
+		"points": [
+			{
+				"en": "it’s not gonna be pretty",
+				"cn": "这可不好办"
+			}
+		]
 	},
 	{ "en": "PATIENT: AAAAAHHHHH!!!!", "cn": "病人：啊啊啊啊啊！！！！" },
 	{
@@ -2355,16 +2563,43 @@
 		"cn": "膨胀鱼：安装了橡皮障和夹子吗？"
 	},
 	{ "en": "PEACH: Yep.", "cn": "桃子：是的。" },
-	{ "en": "GURGLE: What did he use to open?", "cn": "咕噜：他用什么打开的？" },
+	{
+		"en": "GURGLE: What did he use to open?",
+		"cn": "咕噜：他用什么打开的？",
+		"sentence": {
+			"en": "What did he use to open",
+			"cn": "他用什么打开的",
+			"examples": [
+				{
+					"en": "What did he use to fix it?",
+					"cn": "他用什么修理它？"
+				},
+				{
+					"en": "What did she use to close it?",
+					"cn": "她用什么关闭它？"
+				}
+			]
+		}
+	},
 	{
 		"en": "PEACH: Gator-Glidden drill. He seems to be favoring that one lately.",
-		"cn": "桃子：短吻鳄-格林登钻头。他最近似乎更喜欢那个。"
+		"cn": "桃子：短吻鳄-格林登钻头。他最近似乎更喜欢那个。",
+		"sentence": {
+			"en": "He seems to be favoring that one lately.",
+			"cn": "他最近似乎更喜欢那个。",
+			"examples": [
+				{
+					"en": "He seems to be favoring the new model.",
+					"cn": "他最近似乎更喜欢新型号。"
+				},
+				{
+					"en": "She seems to be favoring the blue color.",
+					"cn": "她最近似乎更喜欢蓝色。"
+				}
+			]
+		}
 	},
 	{ "en": "DEB: I can’t see, Flo!", "cn": "黛比：我看不见，弗洛！" },
-	{
-		"en": "PATIENT: [mumbling, then a picker over his teeth, screaming]",
-		"cn": "病人：[嘟囔，然后用牙签挑牙，尖叫]"
-	},
 	{
 		"en": "PEACH: Now, he’s doing the Schilder technique.",
 		"cn": "桃子：现在，他正在做希尔德尔技术。"
@@ -2379,7 +2614,13 @@
 	},
 	{
 		"en": "BLOAT: It’s got a teardrop cross-section. Clearly a Hedstrom.",
-		"cn": "膨胀鱼：它有一个泪滴形的横截面。显然是赫德斯特罗姆。"
+		"cn": "膨胀鱼：它有一个泪滴形的横截面。显然是赫德斯特罗姆。",
+		"points": [
+			{
+				"en": "Clearly a Hedstrom",
+				"cn": "显然是赫德斯特罗姆"
+			}
+		]
 	},
 	{ "en": "GURGLE: No, K-Flex.", "cn": "咕噜：不，是K-Flex。" },
 	{
@@ -2396,14 +2637,16 @@
 		"en": "GURGLE: Ugh! The human mouth is a disgusting place.",
 		"cn": "咕噜：呃！人类的嘴巴真是个恶心的地方。"
 	},
-	{
-		"en": "(A pelican named Nigel, flying towards the outside window and bumps its, then the window is opened.)",
-		"cn": "(一只名叫奈杰尔的鹈鹕，飞向外面的窗户并撞上，然后窗户被打开了。)"
-	},
 	{ "en": "PEACH: Hey, Nigel.", "cn": "桃子：嘿，奈杰尔。" },
 	{
 		"en": "NIGEL: What did I miss? Am I late?",
-		"cn": "奈杰尔：我错过了什么？我迟到了吗？"
+		"cn": "奈杰尔：我错过了什么？我迟到了吗？",
+		"points": [
+			{
+				"en": "Am I late",
+				"cn": "我迟到了吗"
+			}
+		]
 	},
 	{
 		"en": "PEACH: Root canal, and it’s a doozy.",
@@ -2416,7 +2659,13 @@
 	{ "en": "PEACH: Gator-Glidden drill.", "cn": "桃子：短吻鳄-格林登钻头。" },
 	{
 		"en": "NIGEL: He seems to be favoring that one. Hope he doesn’t get surplus sealer at the portal terminus. Hello! Who’s this?",
-		"cn": "奈杰尔：他似乎更喜欢那个。希望他在传送门末端不要多余的密封剂。你好！这是谁？"
+		"cn": "奈杰尔：他似乎更喜欢那个。希望他在传送门末端不要多余的密封剂。你好！这是谁？",
+		"points": [
+			{
+				"en": "Who’s this",
+				"cn": "这是谁"
+			}
+		]
 	},
 	{ "en": "DEB: New guy.", "cn": "黛比：新来的家伙。" },
 	{
@@ -2425,24 +2674,62 @@
 	},
 	{
 		"en": "NIGEL: An outie. From my neck of the woods? Sorry if I ever took a snap at you. Fish gotta swim, birds gotta eat.",
-		"cn": "奈杰尔：一个外来的家伙。来自我这片水域？如果我之前对你咬过，抱歉。鱼要游，鸟要吃。"
+		"cn": "奈杰尔：一个外来的家伙。来自我这片水域？如果我之前对你咬过，抱歉。鱼要游，鸟要吃。",
+		"sentence": {
+			"en": "Sorry if I ever took a snap at you",
+			"cn": "如果我之前对你咬过，抱歉",
+			"examples": [
+				{
+					"en": "Sorry if I ever offended you.",
+					"cn": "如果我曾经冒犯过你，抱歉。"
+				},
+				{
+					"en": "Sorry if I ever misunderstood you.",
+					"cn": "如果我曾经误解过你，抱歉。"
+				}
+			]
+		}
 	},
 	{
 		"en": "SHERMAN: Hey! No, no, no, no! Those aren't your fish! They’re my fish! Come on! Go! Go on! Shoo! Shoo! [He swats Nigel to get out and break one of Sherman's pictures, then close the window] The picture broke. This here’s Darla. She’s my niece. She’s gonna be eight next week. Hey, little fella. Say hello to your new mummy. She’ll be here Friday to pick you up. You’re her present. Shh! It’s our little secret. Well, Mr. Tucker, while that sets up I’m going to see a man about a wallaby. I’ll be right back.",
 		"cn": "谢尔曼：嘿！不，不，不，不！那些不是你的鱼！它们是我的鱼！来吧！走！快走！走开！走开！[他拍打奈杰尔让他出去，打破了谢尔曼的一张照片，然后关上窗户] 照片坏了。这是达拉。她是我的侄女。她下周要满八岁了。嘿，小家伙。向你的新妈妈问好。她星期五会来接你。你是她的礼物。嘘！这是我们的秘密。好吧，塔克先生，在那件事处理好之前，我要去找人谈谈袋鼠的事。我马上就回来。"
 	},
-	{
-		"en": "[As Sherman leaves to go to the bathroom, the fish look at the photo of Darla who has braces on Darla's mouth also Darla is holding a liquid bag that has a orange fish called Chuckles who is lying upside down while Chuckles has a eye open.]",
-		"cn": "[谢尔曼离开去洗手间时，鱼们看着达拉的照片，达拉的嘴里带着牙套，达拉还拿着一个装有名叫查克尔斯的橙色鱼的液体袋，查克尔斯倒着躺着，眼睛睁着。]"
-	},
 	{ "en": "BLOAT: Uh-oh! Darla.", "cn": "膨胀鱼：哦哦！达拉。" },
 	{
 		"en": "Nemo: [worried] What? What’s wrong with her?",
-		"cn": "尼莫：[担心] 什么？她怎么了？"
+		"cn": "尼莫：[担心] 什么？她怎么了？",
+		"sentence": {
+			"en": "What’s wrong with her",
+			"cn": "她怎么了",
+			"examples": [
+				{
+					"en": "What’s wrong with him?",
+					"cn": "他怎么了？"
+				},
+				{
+					"en": "What’s wrong with this picture?",
+					"cn": "这张照片有什么问题？"
+				}
+			]
+		}
 	},
 	{
 		"en": "GURGLE: She wouldn’t stop shaking the bag.",
-		"cn": "咕噜：她不停地摇晃那个袋子。"
+		"cn": "咕噜：她不停地摇晃那个袋子。",
+		"sentence": {
+			"en": "She wouldn’t stop shaking the bag",
+			"cn": "她不停地摇晃那个袋子",
+			"examples": [
+				{
+					"en": "He wouldn’t stop crying.",
+					"cn": "他不停地哭。"
+				},
+				{
+					"en": "They wouldn’t stop laughing.",
+					"cn": "他们不停地笑。"
+				}
+			]
+		}
 	},
 	{ "en": "BUBBLES: Poor Chuckles.", "cn": "泡泡：可怜的查克尔斯。" },
 	{
@@ -2456,17 +2743,36 @@
 	{ "en": "PEACH: She's a fish killer!", "cn": "桃子：她是个杀鱼的机器！" },
 	{
 		"en": "Nemo: [scared] I can’t go with that girl! I have to get back to my dad! [gets sucked into a tube] Aah!!! Daddy!!! Help me!!!",
-		"cn": "尼莫：[害怕] 我不能和那个女孩一起走！我得回到我爸爸身边！[被吸入一个管子] 啊！！！爸爸！！！救命！！！"
+		"cn": "尼莫：[害怕] 我不能和那个女孩一起走！我得回到我爸爸身边！[被吸入一个管子] 啊！！！爸爸！！！救命！！！",
+		"points": [
+			{
+				"en": "get back to my dad",
+				"cn": "回到我爸爸身边"
+			}
+		]
 	},
 	{ "en": "GURGLE: He’s stuck!!", "cn": "咕噜：他卡住了！！" },
 	{
 		"en": "[The fish tried to to get him out.]",
 		"cn": "[鱼们试图把他拉出来。]"
 	},
-	{ "en": "GILL: Nobody touch him!", "cn": "吉尔：谁都不许碰他！" },
 	{
-		"en": "[They all stopped. swimming behind a skull was a fish with white and black stripes.]",
-		"cn": "[他们都停下来了。游在骷髅后面的是一条有着黑白条纹的鱼。]"
+		"en": "GILL: Nobody touch him!",
+		"cn": "吉尔：谁都不许碰他！",
+		"sentence": {
+			"en": "Nobody touch him",
+			"cn": "谁都不许碰他",
+			"examples": [
+				{
+					"en": "Nobody touch that!",
+					"cn": "谁都不许碰那个！"
+				},
+				{
+					"en": "Nobody touch my stuff!",
+					"cn": "谁都不许碰我的东西！"
+				}
+			]
+		}
 	},
 	{ "en": "GILL: Nobody touch him.", "cn": "吉尔：谁都不许碰他。" },
 	{
@@ -2480,7 +2786,13 @@
 	{ "en": "PEACH: Gill...", "cn": "桃子：吉尔..." },
 	{
 		"en": "GILL: I just wanna see him do it, okay? Calm down. Alternate wiggling your fins and your tail.",
-		"cn": "吉尔：我只是想看看他怎么做，行吗？冷静点。交替地扭动你的鳍和尾巴。"
+		"cn": "吉尔：我只是想看看他怎么做，行吗？冷静点。交替地扭动你的鳍和尾巴。",
+		"points": [
+			{
+				"en": "Calm down",
+				"cn": "冷静点"
+			}
+		]
 	},
 	{
 		"en": "Nemo: I can’t. I have a bad fin!",
@@ -2488,12 +2800,34 @@
 	},
 	{
 		"en": "GILL: Never stopped me. [Nemo looked and notice a scar on the side of Gill's body] Just think about what you need to do.",
-		"cn": "吉尔：这从来没有阻止过我。[尼莫看到吉尔身体侧面的伤疤] 想想你需要怎么做。"
+		"cn": "吉尔：这从来没有阻止过我。[尼莫看到吉尔身体侧面的伤疤] 想想你需要怎么做。",
+		"sentence": {
+			"en": "Just think about what you need to do",
+			"cn": "想想你需要怎么做",
+			"examples": [
+				{
+					"en": "Just think about what you want to achieve.",
+					"cn": "想想你想要实现什么。"
+				},
+				{
+					"en": "Just think about what you need to say.",
+					"cn": "想想你需要说什么。"
+				}
+			]
+		}
 	},
-	{ "en": "Nemo: [grunting and straining]", "cn": "尼莫：[咕哝和用力]" },
 	{ "en": "BLOAT: Come on.", "cn": "膨胀鱼：来吧。" },
 	{ "en": "GILL: Perfect.", "cn": "吉尔：完美。" },
-	{ "en": "GURGLE: You did it!", "cn": "咕噜：你成功了！" },
+	{
+		"en": "GURGLE: You did it!",
+		"cn": "咕噜：你成功了！",
+		"points": [
+			{
+				"en": "You did it",
+				"cn": "你成功了"
+			}
+		]
+	},
 	{ "en": "DEB: Good squirming!", "cn": "黛比：好样的，扭动得不错！" },
 	{
 		"en": "PEACH: Wow. From the ocean. Just like you, Gill.",
@@ -2502,7 +2836,21 @@
 	{ "en": "GILL: Yeah.", "cn": "吉尔：是的。" },
 	{
 		"en": "PEACH: [chuckles] I’ve seen that look before. What are you thinking about?",
-		"cn": "桃子：[笑] 我见过那种表情。你在想什么？"
+		"cn": "桃子：[笑] 我见过那种表情。你在想什么？",
+		"sentence": {
+			"en": "I’ve seen that look before.",
+			"cn": "我见过那种表情。",
+			"examples": [
+				{
+					"en": "I’ve seen that action before.",
+					"cn": "我见过那种动作。"
+				},
+				{
+					"en": "I’ve seen that reaction before.",
+					"cn": "我见过那种反应。"
+				}
+			]
+		}
 	},
 	{
 		"en": "GILL: I’m thinking, tonight, we give the kid a proper reception.",
@@ -2510,10 +2858,23 @@
 	},
 	{
 		"en": "BLOAT: OK, kid you got a name or what?",
-		"cn": "膨胀鱼：好的，孩子，你有名字了吗？"
+		"cn": "膨胀鱼：好的，孩子，你有名字了吗？",
+		"sentence": {
+			"en": "you got a name or what",
+			"cn": "你有名字了吗",
+			"examples": [
+				{
+					"en": "You got a plan or what?",
+					"cn": "你有计划了吗？"
+				},
+				{
+					"en": "You got a problem or what?",
+					"cn": "你有什么问题吗？"
+				}
+			]
+		}
 	},
 	{ "en": "Nemo: Nemo. I’m Nemo.", "cn": "尼莫：尼莫。我是尼莫。" },
-	{ "en": "Scene 10: The Abyss", "cn": "第十幕：深渊" },
 	{ "en": "Marlin: Nemo. Nemo.", "cn": "马林：尼莫。尼莫。" },
 	{
 		"en": "DORY: Are you gonna eat that? [snoring] ...Careful with that hammer.",
@@ -2521,7 +2882,13 @@
 	},
 	{
 		"en": "MARLIN: No, no! What does it say? Dory!",
-		"cn": "马林：不，不！上面写的是什么？多莉！"
+		"cn": "马林：不，不！上面写的是什么？多莉！",
+		"points": [
+			{
+				"en": "What does it say",
+				"cn": "上面写的是什么"
+			}
+		]
 	},
 	{ "en": "DORY: Sea monkey has my money…", "cn": "多莉：海猴子拿着我的钱……" },
 	{
@@ -2537,8 +2904,6 @@
 		"en": "DORY: Look out! Sharks eat fish!!!",
 		"cn": "多莉：小心！鲨鱼吃鱼！！！"
 	},
-	{ "en": "[Rumbling the old sinking ship]", "cn": "[轰隆隆的旧沉船声]" },
-	{ "en": "BOTH: [both screaming]", "cn": "两人：[同时尖叫]" },
 	{ "en": "DORY: [coughing] Wow! Dusty.", "cn": "多莉：[咳嗽] 哇！真脏。 " },
 	{
 		"en": "MARLIN: The mask! Where’s the mask?! No!!! Not the mask!! Get it! Get the mask! Get it!! [panting]",
@@ -2550,12 +2915,40 @@
 	},
 	{
 		"en": "MARLIN: It’s gone! I’ve lost the mask.",
-		"cn": "马林：没了！我把面具弄丢了。"
+		"cn": "马林：没了！我把面具弄丢了。",
+		"sentence": {
+			"en": "I’ve lost the mask",
+			"cn": "我把面具弄丢了",
+			"examples": [
+				{
+					"en": "I’ve lost my keys.",
+					"cn": "我把钥匙弄丢了。"
+				},
+				{
+					"en": "I’ve lost my wallet.",
+					"cn": "我把钱包弄丢了。"
+				}
+			]
+		}
 	},
 	{ "en": "DORY: What, did you drop it?", "cn": "多莉：什么，你把它掉了吗？" },
 	{
 		"en": "MARLIN: You dropped it!! That was my only chance of finding my son, now it’s gone!",
-		"cn": "马林：是你掉的！！那是我找到我儿子的唯一机会，现在没了！"
+		"cn": "马林：是你掉的！！那是我找到我儿子的唯一机会，现在没了！",
+		"sentence": {
+			"en": "That was my only chance of finding my son",
+			"cn": "那是我找到我儿子的唯一机会",
+			"examples": [
+				{
+					"en": "That was my only chance of winning the game.",
+					"cn": "那是我赢得比赛的唯一机会。"
+				},
+				{
+					"en": "That was my only chance of getting the job.",
+					"cn": "那是我得到工作的唯一机会。"
+				}
+			]
+		}
 	},
 	{
 		"en": "DORY: Hey, Mr. Grumpy Gills. When life gets you down, you know what you gotta do?",
@@ -2563,13 +2956,42 @@
 	},
 	{
 		"en": "MARLIN: I don’t want to know what you gotta do.",
-		"cn": "马林：我不想知道你要怎么做。"
+		"cn": "马林：我不想知道你要怎么做。",
+		"sentence": {
+			"en": "I don’t want to know what you gotta do",
+			"cn": "我不想知道你要怎么做",
+			"examples": [
+				{
+					"en": "I don’t want to know what you’re thinking.",
+					"cn": "我不想知道你在想什么。"
+				},
+				{
+					"en": "I don’t want to know what you did.",
+					"cn": "我不想知道你做了什么。"
+				}
+			]
+		}
 	},
 	{
 		"en": "DORY: [singing] Just keep swimming, just keep swimming, just keep swimming, swimming, swimming. What do we do? We swim swim.",
-		"cn": "多莉：[唱] 就是游泳，继续游泳，游泳，游泳。我们该怎么做？我们游泳。"
+		"cn": "多莉：[唱] 就是游泳，继续游泳，游泳，游泳。我们该怎么做？我们游泳。",
+		"points": [
+			{
+				"en": "just keep swimming",
+				"cn": "继续游泳"
+			}
+		]
 	},
-	{ "en": "MARLIN: Dory, no singing.", "cn": "马林：多莉，别唱歌。" },
+	{
+		"en": "MARLIN: Dory, no singing.",
+		"cn": "马林：多莉，别唱歌。",
+		"points": [
+			{
+				"en": "no singing",
+				"cn": "别唱歌"
+			}
+		]
+	},
 	{
 		"en": "DORY: I love to swim! When you want to swim...",
 		"cn": "多莉：我喜欢游泳！当你想游泳时……"
