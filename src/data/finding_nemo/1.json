@@ -1538,20 +1538,37 @@
 			]
 		}
 	},
-	{ "en": "Dory: Look out!!!", "cn": "多莉：小心！！！" },
-	{
-		"en": "(Marlin and Dory bump into each other. Marlin gets hit right into a thing)",
-		"cn": "(马林和多莉撞在了一起。马林被撞到了一个东西上)"
+	{ 
+		"en": "Dory: Look out!!!", 
+		"cn": "多莉：小心！！！",
+		"points": [
+			{
+				"en": "Look out",
+				"cn": "小心"
+			}
+		]
 	},
 	{
 		"en": "Dory: Sorry! I didn’t see you. Sir, are you OK? There, there. It’s all right.",
-		"cn": "多莉：对不起！我没看到你。先生，你还好吗？没事，没事。没关系。"
+		"cn": "多莉：对不起！我没看到你。先生，你还好吗？没事，没事。没关系。",
+		"points": [
+			{
+				"en": "I didn’t see you",
+				"cn": "我没看到你"
+			}
+		]
 	},
 	{ "en": "Marlin: He’s gone!", "cn": "马林：他走了！" },
 	{ "en": "Dory: It’ll be OK.", "cn": "多莉：没事的。" },
 	{
 		"en": "Marlin: No, no! They took him away! I have to find the boat!",
-		"cn": "马林：不，不！他们把他带走了！我得去找那艘船！"
+		"cn": "马林：不，不！他们把他带走了！我得去找那艘船！",
+		"points": [
+			{
+				"en": "They took him away",
+				"cn": "他们把他带走了"
+			}
+		]
 	},
 	{
 		"en": "Dory: A boat? Hey, I’ve seen a boat!",
@@ -1560,14 +1577,35 @@
 	{ "en": "Marlin: You have?", "cn": "马林：你见过？" },
 	{
 		"en": "Dory: It passed by not too long ago.",
-		"cn": "多莉：不久前经过这里。"
+		"cn": "多莉：不久前经过这里。",
+		"points": [
+			{
+				"en": "It passed by not too long ago",
+				"cn": "不久前经过这里"
+			}
+		]
 	},
 	{ "en": "Marlin: A white one?", "cn": "马林：一艘白船？" },
 	{ "en": "Dory: Hi. I’m Dory.", "cn": "多莉：嗨。我是多莉。" },
-	{ "en": "Marlin: Where!? Which way!?", "cn": "马林：哪里！？哪个方向！" },
+	{ 
+		"en": "Marlin: Where!? Which way!?", 
+		"cn": "马林：哪里！？哪个方向！",
+		"points": [
+			{
+				"en": "Which way",
+				"cn": "哪个方向"
+			}
+		]
+	},
 	{
 		"en": "Dory: It went, this way! And it went this way! Follow me!",
-		"cn": "多莉：它是往这边走的！然后又往这边走！跟我来！"
+		"cn": "多莉：它是往这边走的！然后又往这边走！跟我来！",
+		"points": [
+			{
+				"en": "It went this way",
+				"cn": "它是往这边走的"
+			}
+		]
 	},
 	{
 		"en": "Marlin: Thank you! Thank you, so much!",
@@ -1575,17 +1613,63 @@
 	},
 	{ "en": "Dory: No problem.", "cn": "多莉：没问题。" },
 	{ "en": "Marlin: Hey! Wait!", "cn": "马林：嘿！等等！" },
-	{ "en": "Dory: Will you quit it?!", "cn": "多莉：你能不能停下？！" },
+	{ 
+		"en": "Dory: Will you quit it?!", 
+		"cn": "多莉：你能不能停下？！",
+		"points": [
+			{
+				"en": "Will you quit it",
+				"cn": "你能不能停下"
+			}
+		]
+	},
 	{ "en": "Marlin: What?", "cn": "马林：什么？" },
 	{
 		"en": "Dory: I’m trying to swim here! What, ocean ain’t big enough for you or something like that? You got a problem, buddy? Huh? HUH? Do you? Do you? You want a piece of me? Yeah, I’m scared now. What!",
-		"cn": "多莉：我在这里游泳呢！怎么了，海洋对你来说不够大还是怎么着？你有问题吗，伙计？嗯？你想要和我打架吗？是的，我现在很害怕。怎么了！"
+		"cn": "多莉：我在这里游泳呢！怎么了，海洋对你来说不够大还是怎么着？你有问题吗，伙计？嗯？你想要和我打架吗？是的，我现在很害怕。怎么了！",
+		"sentence": {
+			"en": "What, ocean ain’t big enough for you or something like that?",
+			"cn": "怎么了，海洋对你来说不够大还是怎么着？",
+			"examples": [
+				{
+					"en": "What, the world ain’t big enough for you or something like that?",
+					"cn": "怎么了，世界对你来说不够大还是怎么着？"
+				},
+				{
+					"en": "What, the city ain’t big enough for you or something like that?",
+					"cn": "怎么了，这个城市对你来说不够大还是怎么着？"
+				}
+			]
+		}
 	},
-	{ "en": "Marlin: Wait a minute...", "cn": "马林：等一下……" },
+	{ 
+		"en": "Marlin: Wait a minute...", 
+		"cn": "马林：等一下……",
+		"points": [
+			{
+				"en": "Wait a minute",
+				"cn": "等一下"
+			}
+		]
+	},
 	{ "en": "Dory: Stop following me, OK?!", "cn": "多莉：别跟着我，知道吗？！" },
 	{
 		"en": "Marlin: What're you talking about? You’re showing me which way the boat went!",
-		"cn": "马林：你在说什么？你是在告诉我船是往哪个方向去的！"
+		"cn": "马林：你在说什么？你是在告诉我船是往哪个方向去的！",
+		"sentence": {
+			"en": "You’re showing me which way the boat went",
+			"cn": "你是在告诉我船是往哪个方向去的",
+			"examples": [
+				{
+					"en": "You’re showing me which way the wind is blowing.",
+					"cn": "你是在告诉我风是往哪个方向吹的。"
+				},
+				{
+					"en": "You’re showing me which way the current is flowing.",
+					"cn": "你是在告诉我水流是往哪个方向流动的。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Dory: A boat? Hey, I’ve seen a boat. It passed by not too long ago. It went this way, it went this way. Follow me!",
@@ -1593,16 +1677,34 @@
 	},
 	{
 		"en": "Marlin: Wait a minute!! What is going on?! You already told me which way the boat was going!",
-		"cn": "马林：等一下！！发生了什么事？！你已经告诉我船是往哪个方向走的了！"
+		"cn": "马林：等一下！！发生了什么事？！你已经告诉我船是往哪个方向走的了！",
+		"points": [
+			{
+				"en": "What is going on",
+				"cn": "发生了什么事"
+			}
+		]
 	},
 	{ "en": "Dory: I did? Oh, no.", "cn": "多莉：我说过吗？哦，不。" },
 	{
 		"en": "Marlin: If this is some kind of practical joke, it’s not funny! And I know funny... I’m a clownfish!",
-		"cn": "马林：如果这是什么恶作剧，那可真不好笑！我知道什么是有趣……我是条小丑鱼！"
+		"cn": "马林：如果这是什么恶作剧，那可真不好笑！我知道什么是有趣……我是条小丑鱼！",
+		"points": [
+			{
+				"en": "some kind of practical joke",
+				"cn": "什么恶作剧"
+			}
+		]
 	},
 	{
 		"en": "Dory: No, it’s not. I know it’s not. I’m so sorry. See, I suffer from short-term memory loss.",
-		"cn": "多莉：不，这不是。我知道这不是。我很抱歉。你看，我有短期记忆丧失症。"
+		"cn": "多莉：不，这不是。我知道这不是。我很抱歉。你看，我有短期记忆丧失症。",
+		"points": [
+			{
+				"en": "suffer from short-term memory loss",
+				"cn": "有短期记忆丧失症"
+			}
+		]
 	},
 	{
 		"en": "Marlin: Short-term memory loss. I don’t believe this!",
@@ -1610,16 +1712,31 @@
 	},
 	{
 		"en": "Dory: No, it’s true. I forget things almost instantly. It runs in my family. Or at least I think it does. Where are they? Can I help you?",
-		"cn": "多莉：不，这是真的。我几乎会立即忘记事情。这是我家族的遗传病。或者至少我想是这样。它们在哪里？我能帮你吗？"
+		"cn": "多莉：不，这是真的。我几乎会立即忘记事情。这是我家族的遗传病。或者至少我想是这样。它们在哪里？我能帮你吗？",
+		"points": [
+			{
+				"en": "forget things almost instantly",
+				"cn": "几乎会立即忘记事情"
+			},
+			{
+				"en": "It runs in my family",
+				"cn": "这是我家族的遗传病"
+			}
+		]
 	},
-	{ "en": "Scene 8: Sharks", "cn": "第八幕：鲨鱼" },
 	{
 		"en": "Marlin: Something’s wrong with you, really. You’re wasting my time. I have to find my son. [gasps]",
-		"cn": "马林：你真的有问题。你在浪费我的时间。我得去找我的儿子。[喘气]"
-	},
-	{
-		"en": "[They see a big killer shark named Bruce.] ",
-		"cn": "[他们看到了一条名叫布鲁斯的大白鲨。]"
+		"cn": "马林：你真的有问题。你在浪费我的时间。我得去找我的儿子。[喘气]",
+		"points": [
+			{
+				"en": "Something’s wrong with you",
+				"cn": "你真的有问题"
+			},
+			{
+				"en": "You’re wasting my time",
+				"cn": "你在浪费我的时间"
+			}
+		]
 	},
 	{ "en": "Bruce: Hello.", "cn": "布鲁斯：你好。" },
 	{ "en": "Dory: Well, hi!", "cn": "多莉：你好啊！" },
@@ -1629,26 +1746,70 @@
 	},
 	{
 		"en": "Marlin: Nothing. We’re not doing anything. We’re not even out.",
-		"cn": "马林：没什么。我们没在做任何事。我们甚至都没出去。"
+		"cn": "马林：没什么。我们没在做任何事。我们甚至都没出去。",
+		"points": [
+			{
+				"en": "We’re not doing anything",
+				"cn": "我们没在做任何事"
+			},
+		]
 	},
 	{
 		"en": "Bruce: Great! Then how’d you morsels like to come to a little get-together I’m having?",
 		"cn": "布鲁斯：太好了！那么，你们这些小家伙想不想来参加我的小聚会？"
 	},
-	{ "en": "Dory: You mean like a party?", "cn": "多莉：你是说像派对一样吗？" },
+	{ 
+		"en": "Dory: You mean like a party?", 
+		"cn": "多莉：你是说像派对一样吗？",
+		"sentence": {
+			"en": "You mean like a party",
+			"cn": "你是说像派对一样吗",
+			"examples": [
+				{
+					"en": "You mean like a celebration?",
+					"cn": "你是说像庆祝一样？"
+				},
+				{
+					"en": "You mean like a gathering?",
+					"cn": "你是说像聚会一样？"
+				}
+			]
+		}
+	},
 	{
 		"en": "Bruce: Yeah, right a party! What do you say?",
-		"cn": "布鲁斯：是的，派对！你们觉得怎么样？"
+		"cn": "布鲁斯：是的，派对！你们觉得怎么样？",
+		"points": [
+			{
+				"en": "What do you say",
+				"cn": "你们觉得怎么样"
+			}
+		]
 	},
 	{
 		"en": "Dory: I love parties! That like sounds fun!",
-		"cn": "多莉：我喜欢派对！听起来很有趣！"
+		"cn": "多莉：我喜欢派对！听起来很有趣！",
+		"points": [
+			{
+				"en": "That like sounds fun",
+				"cn": "听起来很有趣"
+			}
+		]
 	},
 	{
 		"en": "Marlin: Parties are fun, and it’s tempting but can't because...",
 		"cn": "马林：派对很有趣，这很诱人，但不能因为……"
 	},
-	{ "en": "Bruce: Come on, I insist!", "cn": "布鲁斯：来吧，我坚持！" },
+	{ 
+		"en": "Bruce: Come on, I insist!", 
+		"cn": "布鲁斯：来吧，我坚持！",
+		"points": [
+			{
+				"en": "I insist",
+				"cn": "我坚持"
+			}
+		]
+	},
 	{
 		"en": "Marlin: OK, that’s all that matters.",
 		"cn": "马林：好的，这就是最重要的。"
