@@ -1502,8 +1502,8 @@
 		"en": "Marlin: No!!! (whimpering) NEMO!!! (swimming too fast) Nemo!!! (a diver flashes him.) No!!! Nemo!!! Nemo, Nemo! No! No!! AAGGHH!!! Nemo, Nemo!!",
 		"cn": "马林：不！！！（呜咽）尼莫！！！（游得太快）尼莫！！！（潜水员拍照闪到他）不！！！尼莫！！！尼莫，尼莫！不！不！！啊啊啊！！！尼莫，尼莫！！"
 	},
-	{ 
-		"en": "DIVER #2: Whoa! Hold on!", 
+	{
+		"en": "DIVER #2: Whoa! Hold on!",
 		"cn": "潜水员#2：哇！等一下！",
 		"points": [
 			{
@@ -1538,8 +1538,8 @@
 			]
 		}
 	},
-	{ 
-		"en": "Dory: Look out!!!", 
+	{
+		"en": "Dory: Look out!!!",
 		"cn": "多莉：小心！！！",
 		"points": [
 			{
@@ -1587,8 +1587,8 @@
 	},
 	{ "en": "Marlin: A white one?", "cn": "马林：一艘白船？" },
 	{ "en": "Dory: Hi. I’m Dory.", "cn": "多莉：嗨。我是多莉。" },
-	{ 
-		"en": "Marlin: Where!? Which way!?", 
+	{
+		"en": "Marlin: Where!? Which way!?",
 		"cn": "马林：哪里！？哪个方向！",
 		"points": [
 			{
@@ -1613,8 +1613,8 @@
 	},
 	{ "en": "Dory: No problem.", "cn": "多莉：没问题。" },
 	{ "en": "Marlin: Hey! Wait!", "cn": "马林：嘿！等等！" },
-	{ 
-		"en": "Dory: Will you quit it?!", 
+	{
+		"en": "Dory: Will you quit it?!",
 		"cn": "多莉：你能不能停下？！",
 		"points": [
 			{
@@ -1642,8 +1642,8 @@
 			]
 		}
 	},
-	{ 
-		"en": "Marlin: Wait a minute...", 
+	{
+		"en": "Marlin: Wait a minute...",
 		"cn": "马林：等一下……",
 		"points": [
 			{
@@ -1751,15 +1751,15 @@
 			{
 				"en": "We’re not doing anything",
 				"cn": "我们没在做任何事"
-			},
+			}
 		]
 	},
 	{
 		"en": "Bruce: Great! Then how’d you morsels like to come to a little get-together I’m having?",
 		"cn": "布鲁斯：太好了！那么，你们这些小家伙想不想来参加我的小聚会？"
 	},
-	{ 
-		"en": "Dory: You mean like a party?", 
+	{
+		"en": "Dory: You mean like a party?",
 		"cn": "多莉：你是说像派对一样吗？",
 		"sentence": {
 			"en": "You mean like a party",
@@ -1800,8 +1800,8 @@
 		"en": "Marlin: Parties are fun, and it’s tempting but can't because...",
 		"cn": "马林：派对很有趣，这很诱人，但不能因为……"
 	},
-	{ 
-		"en": "Bruce: Come on, I insist!", 
+	{
+		"en": "Bruce: Come on, I insist!",
 		"cn": "布鲁斯：来吧，我坚持！",
 		"points": [
 			{
@@ -1812,7 +1812,13 @@
 	},
 	{
 		"en": "Marlin: OK, that’s all that matters.",
-		"cn": "马林：好的，这就是最重要的。"
+		"cn": "马林：好的，这就是最重要的。",
+		"points": [
+			{
+				"en": "that’s all that matters",
+				"cn": "这就是最重要的"
+			}
+		]
 	},
 	{
 		"en": "Dory: Hey, look. Balloons! It is a party!",
@@ -1820,21 +1826,56 @@
 	},
 	{
 		"en": "Bruce: [chuckling] Mind your distance, though. Those balloons can be a bit dodgy. You wouldn’t want one of them to pop.",
-		"cn": "布鲁斯：[笑着] 注意你们的距离。那些气球可能有点危险。你可不想让其中一个爆炸。"
+		"cn": "布鲁斯：[笑着] 注意你们的距离。那些气球可能有点危险。你可不想让其中一个爆炸。",
+		"points": [
+			{
+				"en": "Mind your distance",
+				"cn": "注意你们的距离"
+			}
+		]
 	},
 	{ "en": "Bruce: Anchor! Chum!", "cn": "布鲁斯：安克！小鱼！" },
 	{
 		"en": "Anchor: There you are, Bruce, finally!",
 		"cn": "安克：布鲁斯，终于找到你了！"
 	},
-	{ "en": "Bruce: We got company.", "cn": "布鲁斯：我们有客人了。" },
+	{
+		"en": "Bruce: We got company.",
+		"cn": "布鲁斯：我们有客人了。",
+		"points": [
+			{
+				"en": "We got company",
+				"cn": "我们有客人了"
+			}
+		]
+	},
 	{
 		"en": "Anchor: It’s about time, mate.",
-		"cn": "安克：差不多该到了，伙计。"
+		"cn": "安克：差不多该到了，伙计。",
+		"points": [
+			{
+				"en": "It’s about time",
+				"cn": "差不多该到了"
+			}
+		]
 	},
 	{
 		"en": "Chum: We’ve already gone through all the snacks and I’m still starving!",
-		"cn": "小鱼：我们已经把所有的零食都吃光了，我还是饿！"
+		"cn": "小鱼：我们已经把所有的零食都吃光了，我还是饿！",
+		"sentence": {
+			"en": "We've already gone through all the snacks",
+			"cn": "我们已经把所有的零食都吃光了",
+			"examples": [
+				{
+					"en": "We've already gone through all the drinks.",
+					"cn": "我们已经把所有的饮料都喝光了。"
+				},
+				{
+					"en": "We've already done all the exercises.",
+					"cn": "我们已经做完了所有的练习。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Anchor: We almost had a feeding frenzy.",
@@ -1844,10 +1885,15 @@
 		"en": "Chum: Come on, let’s get this over with!",
 		"cn": "小鱼：快点，咱们把这事了结了！"
 	},
-	{ "en": "[bell dings]", "cn": "[铃声响起]" },
 	{
 		"en": "Bruce: Right, then. The meeting has officially come to order. Let us all say the pledge.",
-		"cn": "布鲁斯：那么，会议正式开始。让我们一起宣誓。"
+		"cn": "布鲁斯：那么，会议正式开始。让我们一起宣誓。",
+		"points": [
+			{
+				"en": "come to order",
+				"cn": "开始"
+			}
+		]
 	},
 	{
 		"en": "Bruce, Chum and Anchor: I am a nice shark, not a mindless eating machine. If I am to change this image, I must first change myself. Fish are friends, not food.",
@@ -1860,7 +1906,13 @@
 	},
 	{
 		"en": "Bruce: Right, then. Today’s meeting is step five. Bring a Fish Friend. Now, do you all have your friends?",
-		"cn": "布鲁斯：那么，今天的会议是第五步。带来一个鱼朋友。现在，你们都有带朋友吗？"
+		"cn": "布鲁斯：那么，今天的会议是第五步。带来一个鱼朋友。现在，你们都有带朋友吗？",
+		"points": [
+			{
+				"en": "step five",
+				"cn": "第五步"
+			}
+		]
 	},
 	{ "en": "Anchor: Got mine.", "cn": "安克：我带了我的朋友。" },
 	{ "en": "Dory: Hey there!", "cn": "多莉：嘿，那里！" },
@@ -1871,7 +1923,21 @@
 	},
 	{
 		"en": "Bruce: That’s all right, Chum. I had a feeling this would be a difficult step, you can help yourself to one of my friends.",
-		"cn": "布鲁斯：没关系，小鱼。我就知道这会是一个困难的步骤，你可以随便拿我一条朋友。"
+		"cn": "布鲁斯：没关系，小鱼。我就知道这会是一个困难的步骤，你可以随便拿我一条朋友。",
+		"sentence": {
+			"en": "you can help yourself to one of my friends",
+			"cn": "你可以随便拿我一条朋友",
+			"examples": [
+				{
+					"en": "You can help yourself to some snacks.",
+					"cn": "你可以随便拿一些零食。"
+				},
+				{
+					"en": "You can help yourself to a drink.",
+					"cn": "你可以随便拿一杯饮料。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Chum: Thanks, mate. A little chum for Chum, eh?",
@@ -1884,22 +1950,53 @@
 	{ "en": "Both: Hello, Bruce.", "cn": "大家：你好，布鲁斯。" },
 	{
 		"en": "Bruce: It has been three weeks since my last fish, on my honor, or may I be chopped up and made into soup.",
-		"cn": "布鲁斯：自从我上次吃鱼已经过去三周了，我发誓，要不然我就被切成片做成汤。"
+		"cn": "布鲁斯：自从我上次吃鱼已经过去三周了，我发誓，要不然我就被切成片做成汤。",
+		"sentence": {
+			"en": "It has been three weeks since my last fish",
+			"cn": "自从我上次吃鱼已经过去三周了",
+			"examples": [
+				{
+					"en": "It has been three months since my last vacation.",
+					"cn": "自从我上次度假已经过去三个月了。"
+				},
+				{
+					"en": "It has been two years since my last promotion.",
+					"cn": "自从我上次升职已经过去两年了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Chum: You’re an inspiration to all of us!",
-		"cn": "小鱼：你是我们所有人的榜样！"
+		"cn": "小鱼：你是我们所有人的榜样！",
+		"points": [
+			{
+				"en": "an inspiration to all of us",
+				"cn": "我们所有人的榜样"
+			}
+		]
 	},
 	{ "en": "Anchor: Amen.", "cn": "安克：阿门。" },
-	{ "en": "Marlin: [grunts]", "cn": "马林：[ grunt ]" },
 	{
 		"en": "Bruce: Right, then. Who’s next?",
-		"cn": "布鲁斯：那么，谁是下一个？"
+		"cn": "布鲁斯：那么，谁是下一个？",
+		"points": [
+			{
+				"en": "Who’s next",
+				"cn": "谁是下一个"
+			}
+		]
 	},
 	{ "en": "Dory: Pick me! Pick me!", "cn": "多莉：选我！选我！" },
 	{
 		"en": "Bruce: Yes, the little Sheila down the front!",
-		"cn": "布鲁斯：是的，前面的那个小女孩！"
+		"cn": "布鲁斯：是的，前面的那个小女孩！",
+		"points": [
+			{
+				"en": "the little Sheila",
+				"cn": "小女孩"
+			}
+		]
 	},
 	{ "en": "Dory: Whoo!", "cn": "多莉：耶！" },
 	{ "en": "Bruce: Come on up here.", "cn": "布鲁斯：快上来。" },
@@ -1907,17 +2004,52 @@
 	{ "en": "Sharks: Hello, Dory.", "cn": "鲨鱼们：你好，多莉。" },
 	{
 		"en": "Dory: And... Well, I don’t think I’ve ever eaten a fish.",
-		"cn": "多莉：而且……我想我从来没有吃过鱼。"
+		"cn": "多莉：而且……我想我从来没有吃过鱼。",
+		"sentence": {
+			"en": "I don’t think I’ve ever eaten a fish",
+			"cn": "我想我从来没有吃过鱼",
+			"examples": [
+				{
+					"en": "I don’t think I’ve ever seen a whale.",
+					"cn": "我想我从来没有见过鲸鱼。"
+				},
+				{
+					"en": "I don’t think I’ve ever been to Paris.",
+					"cn": "我想我从来没有去过巴黎。"
+				}
+			]
+		}
 	},
-	{ "en": "Chum: Hey, that’s incredible!", "cn": "小鱼：嘿，太不可思议了！" },
+	{ 
+		"en": "Chum: Hey, that’s incredible!", 
+		"cn": "小鱼：嘿，太不可思议了！",
+		"points": [
+			{
+				"en": "that’s incredible",
+				"cn": "太不可思议了"
+			}
+		]
+	},
 	{ "en": "Bruce: Good on ‘ya, mate!", "cn": "布鲁斯：干得好，伙计！" },
 	{
 		"en": "Dory: I’m glad I got that off my chest.",
-		"cn": "多莉：我很高兴我说出来了。"
+		"cn": "多莉：我很高兴我说出来了。",
+		"points": [
+			{
+				"en": "got that off my chest",
+				"cn": "说出来了"
+			}
+		]
 	},
 	{
 		"en": "Bruce: All right, anyone else? Hello, how ‘bout you, mate? What’s your problem?",
-		"cn": "布鲁斯：好吧，还有其他人吗？你好，你呢，伙计？你有什么问题？"
+		"cn": "布鲁斯：好吧，还有其他人吗？你好，你呢，伙计？你有什么问题？",
+		"points": [
+			{
+				"en": "What’s your problem",
+				"cn": "你有什么问题"
+			}
+		]
 	},
 	{
 		"en": "Marlin: Me? I don’t have a problem.",
@@ -1927,7 +2059,21 @@
 	{ "en": "Sharks: Denial!", "cn": "鲨鱼们：否认！" },
 	{
 		"en": "Bruce: Just start with your name.",
-		"cn": "布鲁斯：先从你的名字开始。"
+		"cn": "布鲁斯：先从你的名字开始。",
+		"sentence": {
+			"en": "Just start with your name.",
+			"cn": "先从你的名字开始。",
+			"examples": [
+				{
+					"en": "Just start with your favorite color.",
+					"cn": "先从你最喜欢的颜色开始。"
+				},
+				{
+					"en": "Just start with your hometown.",
+					"cn": "先从你的家乡开始。"
+				}
+			]
+		}
 	},
 	{
 		"en": "Marlin: OK. Uh, hello. My name is Marlin. I’m a clownfish.",
