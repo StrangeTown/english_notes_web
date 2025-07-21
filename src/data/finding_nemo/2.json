@@ -1,14 +1,28 @@
 [
-	{ "en": "Scene 11: Anglerfish", "cn": "场景11：盲鳗" },
 	{
 		"en": "MARLIN: Dory, do you see anything?",
-		"cn": "马林：多莉，你看到什么了吗？"
+		"cn": "马林：多莉，你看到什么了吗？",
+		"points": [
+			{
+				"en": "Do you see anything",
+				"cn": "你看到什么了吗"
+			}
+		]
 	},
 	{
 		"en": "DORY: Aahh!!! Something’s got me!",
 		"cn": "多莉：啊！！！有什么东西抓住我了！"
 	},
-	{ "en": "MARLIN: That was me. I’m sorry.", "cn": "马林：是我，抱歉。" },
+	{
+		"en": "MARLIN: That was me. I’m sorry.",
+		"cn": "马林：是我，抱歉。",
+		"points": [
+			{
+				"en": "That was me",
+				"cn": "是我"
+			}
+		]
+	},
 	{ "en": "DORY: Who's that?", "cn": "多莉：那是谁？" },
 	{ "en": "MARLIN: Who could it be? It’s me!", "cn": "马林：会是谁呢？是我！" },
 	{
@@ -17,9 +31,32 @@
 	},
 	{
 		"en": "MARLIN: Yeah. I’m your conscience. We haven’t spoken for a while. How are you?",
-		"cn": "马林：是的。我是你的良心。我们有一段时间没说话了。你好吗？"
+		"cn": "马林：是的。我是你的良心。我们有一段时间没说话了。你好吗？",
+		"sentence": {
+			"en": "We haven’t spoken for a while",
+			"cn": "我们有一段时间没说话了",
+			"examples": [
+				{
+					"en": "We haven’t discussed this topic for a while.",
+					"cn": "我们有一段时间没讨论这个话题了。"
+				},
+				{
+					"en": "I haven’t seen you for a while.",
+					"cn": "我有一段时间没见到你了。"
+				}
+			]
+		}
 	},
-	{ "en": "DORY: Can’t complain.", "cn": "多莉：没什么好抱怨的。" },
+	{
+		"en": "DORY: Can’t complain.",
+		"cn": "多莉：没什么好抱怨的。",
+		"points": [
+			{
+				"en": "Can’t complain",
+				"cn": "没什么好抱怨的"
+			}
+		]
+	},
 	{
 		"en": "MARLIN: Good. Now, Dory. I want you to tell me..do you see anything?",
 		"cn": "马林：很好。现在，多莉。我想让你告诉我……你看到什么了吗？"
@@ -31,7 +68,17 @@
 	{ "en": "MARLIN: A light?", "cn": "马林：一束光？" },
 	{
 		"en": "DORY: Yeah. Over there. Hey, conscience. Am I dead?",
-		"cn": "多莉：是的。就在那边。嘿，良心。我死了吗？"
+		"cn": "多莉：是的。就在那边。嘿，良心。我死了吗？",
+		"points": [
+			{
+				"en": "Over there",
+				"cn": "就在那边"
+			},
+			{
+				"en": "Am I dead",
+				"cn": "我死了吗"
+			}
+		]
 	},
 	{
 		"en": "MARLIN: No, I see it too. What is it?",
@@ -40,12 +87,32 @@
 	{ "en": "DORY: It’s so pretty.", "cn": "多莉：太美了。" },
 	{
 		"en": "MARLIN: Hi, I’m feeling happy. Which is a big deal for me.",
-		"cn": "马林：嗨，我感到很快乐。这对我来说是件大事。"
+		"cn": "马林：嗨，我感到很快乐。这对我来说是件大事。",
+		"sentence": {
+			"en": "I’m feeling happy.",
+			"cn": "我感到很快乐。",
+			"examples": [
+				{
+					"en": "I’m feeling great today!",
+					"cn": "我今天感觉很好！"
+				},
+				{
+					"en": "I’m feeling a bit tired.",
+					"cn": "我有点累。"
+				}
+			]
+		}
 	},
 	{ "en": "DORY: I want to touch it. Oh!", "cn": "多莉：我想去碰它。哦！" },
 	{
 		"en": "MARLIN: Hey, come back. Come on back here!",
-		"cn": "马林：嘿，回来。快点回来！"
+		"cn": "马林：嘿，回来。快点回来！",
+		"points": [
+			{
+				"en": "Come on back here",
+				"cn": "快点回来"
+			}
+		]
 	},
 	{
 		"en": "DORY: [singing] I’m gonna get you. I’m gonna get you. I’m gonna swim with you.",
@@ -53,12 +120,13 @@
 	},
 	{
 		"en": "MARLIN: I’m gonna get you. I’m gonna be your best friend, good feeling’s gone.",
-		"cn": "马林：我会抓住你的。我会成为你最好的朋友，好的感觉没了。"
-	},
-	{ "en": "Anglerfish: [roars and growls]", "cn": "盲鳗：[咆哮和低吼]" },
-	{
-		"en": "(the light reveals that it's actually from an ravenous anglerfish. Marlin and Dory scream and swam away from it, the anglerfish is still chasing them)",
-		"cn": "（光线揭示出这实际上是来自一条贪婪的盲鳗。马林和多莉尖叫着游开，盲鳗仍在追赶他们）"
+		"cn": "马林：我会抓住你的。我会成为你最好的朋友，好的感觉没了。",
+		"points": [
+			{
+				"en": "I’m gonna get you",
+				"cn": "我会抓住你"
+			}
+		]
 	},
 	{
 		"en": "MARLIN: I can’t see!!! I don’t know where I’m going!!! The mask!!!",
@@ -66,15 +134,26 @@
 	},
 	{
 		"en": "DORY: What mask? OK, I can’t see a thing.",
-		"cn": "多莉：什么面具？好的，我什么也看不见。"
+		"cn": "多莉：什么面具？好的，我什么也看不见。",
+		"points": [
+			{
+				"en": "I can’t see a thing",
+				"cn": "我什么也看不见"
+			}
+		]
 	},
 	{ "en": "MARLIN: Oh, gee!!!", "cn": "马林：哦，天哪！！！" },
 	{ "en": "DORY: Hey, look! A mask!!", "cn": "多莉：嘿，看看！一个面具！！" },
 	{ "en": "MARLIN: Read it!!!", "cn": "马林：读它！！！" },
-	{ "en": "(the anglerfish chases Marlin)", "cn": "（盲鳗追赶马林）" },
 	{
 		"en": "DORY: I’m sorry, but if you could just bring it a little closer, I kind of need the light. That’s great, keep it right there.",
-		"cn": "多莉：对不起，但如果你能把它带得更近一点，我有点需要光。太好了，就保持在那里。"
+		"cn": "多莉：对不起，但如果你能把它带得更近一点，我有点需要光。太好了，就保持在那里。",
+		"points": [
+			{
+				"en": "I kind of need the light",
+				"cn": "我有点需要光"
+			}
+		]
 	},
 	{ "en": "MARLIN: Just read it!!!", "cn": "马林：快读它！！！" },
 	{
@@ -83,21 +162,37 @@
 	},
 	{
 		"en": "MARLIN: P. Sherman doesn’t make any sense!!!",
-		"cn": "马林：P. Sherman没有任何意义！！！"
+		"cn": "马林：P. Sherman没有任何意义！！！",
+		"sentence": {
+			"en": "P. Sherman doesn’t make any sense!!!",
+			"cn": "P. Sherman没有任何意义！！！",
+			"examples": [
+				{
+					"en": "This explanation doesn’t make any sense.",
+					"cn": "这个解释没有任何意义。"
+				},
+				{
+					"en": "His actions don’t make any sense.",
+					"cn": "他的行为没有任何意义。"
+				}
+			]
+		}
 	},
 	{ "en": "DORY: OK. Second line. ‘42’.", "cn": "多莉：好的。第二行。‘42’。" },
 	{ "en": "MARLIN: Don’t eat me!", "cn": "马林：不要吃我！" },
-	{
-		"en": "(the anglerfish struggles with Marlin, then accidentally eats him. The light goes out",
-		"cn": "（盲鳗与马林挣扎，然后不小心吃掉了他。灯光熄灭"
-	},
 	{
 		"en": "DORY: Light, please. The second line’s ‘42 Wallaby Way’!",
 		"cn": "多莉：请给我光。第二行是‘42 Wallaby Way’！"
 	},
 	{
 		"en": "MARLIN: That’s great! Speed read!!! Take a guess! No pressure!!!! No problem! There’s a lot of pressure! Pressure!!!! Take a guess now with pressure!!",
-		"cn": "马林：太好了！快速阅读！！！猜一猜！没有压力！！！！没问题！压力很大！压力！！！！现在带着压力猜一猜！！"
+		"cn": "马林：太好了！快速阅读！！！猜一猜！没有压力！！！！没问题！压力很大！压力！！！！现在带着压力猜一猜！！",
+		"points": [
+			{
+				"en": "Take a guess",
+				"cn": "猜一猜"
+			}
+		]
 	},
 	{
 		"en": "DORY: ‘Sydney’. It’s ‘Sydney’!!!",
@@ -124,27 +219,32 @@
 	{ "en": "MARLIN: Wait! Where is that?", "cn": "马林：等等！那在哪里？" },
 	{
 		"en": "DORY: I don’t know. But who cares? I remembered!",
-		"cn": "多莉：我不知道。但谁在乎呢？我记住了！"
+		"cn": "多莉：我不知道。但谁在乎呢？我记住了！",
+		"points": [
+			{
+				"en": "who cares",
+				"cn": "谁在乎"
+			}
+		]
 	},
-	{ "en": "(Both Screaming)", "cn": "(双双尖叫)" },
 	{
 		"en": "DORY: P. Sherman, 42 Wallaby Way, Sydney. I remembered it again!!",
 		"cn": "多莉：P. Sherman，42 Wallaby Way，Sydney。我又记起来了！！"
-	},
-	{ "en": "Scene 12: Nemo's Initiation", "cn": "场景12：尼莫的入会仪式" },
-	{
-		"en": "[Late at night, the dentist office is dark. Nemo is in the little house, sleeping.",
-		"cn": "[深夜，牙医办公室里很黑。尼莫在小房子里睡觉。"
 	},
 	{
 		"en": "JACQUES: Psst. [whispers] Nemo. Nemo...",
 		"cn": "雅克：嘘。[低声] 尼莫。尼莫..."
 	},
 	{ "en": "NEMO Huh?", "cn": "尼莫：嗯？" },
-	{ "en": "JACQUES: Suivez-moi. Follow me.", "cn": "雅克：跟我来。" },
-	{
-		"en": "[The clownfish started to follow Jacques to the volcano and to the top.",
-		"cn": "[小丑鱼开始跟随雅克斯前往火山和山顶。"
+	{ 
+		"en": "JACQUES: Suivez-moi. Follow me.", 
+		"cn": "雅克：跟我来。",
+		"points": [
+			{
+				"en": "Follow me",
+				"cn": "跟我来"
+			}
+		]
 	},
 	{
 		"en": "BLOAT/BUBBLES/GURGLE: [chanting] Hoo!",
@@ -162,28 +262,37 @@
 		"en": "PEACH: We want you in our club, kid.",
 		"cn": "桃子：我们想要你加入我们的俱乐部，孩子。"
 	},
-	{ "en": "NEMO: Really?", "cn": "尼莫：真的吗？" },
+	{ 
+		"en": "NEMO: Really?", 
+		"cn": "尼莫：真的吗？",
+		"points": [
+			{
+				"en": "Really?",
+				"cn": "真的吗？"
+			}
+		]
+	},
 	{
 		"en": "BLOAT: If you are able to swim through... The Ring of Fire! Turn on the Ring of Fire. The Ring of Fire, you said you could do it the Ring of Fire!",
-		"cn": "膨胀：如果你能游过……火环！打开火环。火环，你说你能做到火环！"
+		"cn": "膨胀：如果你能游过……火环！打开火环。火环，你说你能做到火环！",
 	},
 	{
 		"en": "BUBBLES: Bubbles! Bubbles! Let me...",
 		"cn": "气泡：气泡！气泡！让我..."
 	},
-	{ "en": "ALL: [chanting]", "cn": "所有人：[吟唱]" },
 	{
 		"en": "PEACH: Isn’t there another way?! He’s just a boy!!",
-		"cn": "桃子：难道没有其他办法吗？！他只是个男孩！！"
+		"cn": "桃子：难道没有其他办法吗？！他只是个男孩！！",
+		"points": [
+			{
+				"en": "Isn’t there another way",
+				"cn": "难道没有其他办法吗"
+			}
+		]
 	},
-	{ "en": "ALL: [speed up chanting]", "cn": "所有人：[加快吟唱]" },
 	{
 		"en": "[Nemo braced himself and swam right pass the bubbles.",
 		"cn": "[尼莫做好准备，直接游过气泡。"
-	},
-	{
-		"en": "GILL: From this moment on, you will now be known as Sharkbait.",
-		"cn": "吉尔：从这一刻起，你将被称为鲨鱼饵。"
 	},
 	{ "en": "ALL: Sharkbait! Ooh-ha-ha!", "cn": "所有人：鲨鱼饵！哦哈哈！" },
 	{
@@ -193,7 +302,21 @@
 	{ "en": "ALL: Sharkbait! Ooh-ha-ha!", "cn": "所有人：鲨鱼饵！哦哈哈！" },
 	{
 		"en": "GILL: Enough with the Sharkbait.",
-		"cn": "吉尔：够了，别再说鲨鱼饵了。"
+		"cn": "吉尔：够了，别再说鲨鱼饵了。",
+		"sentence": {
+			"en": "Enough with the Sharkbait.",
+			"cn": "够了，别再说鲨鱼饵了。",
+			"examples": [
+				{
+					"en": "Enough with the excuses.",
+					"cn": "够了，别再找借口了。"
+				},
+				{
+					"en": "Enough with the complaints.",
+					"cn": "够了，别再抱怨了。"
+				}
+			]
+		}
 	},
 	{
 		"en": "GURGLE: Sharkbait! Oohh, pah, pah, doo...",
@@ -203,10 +326,25 @@
 		"en": "GILL: OK, Sharkbait’s one of us now, agreed?",
 		"cn": "吉尔：好的，鲨鱼饵现在是我们的一员，大家同意吗？"
 	},
-	{ "en": "ALL: Agreed!", "cn": "所有人：同意！" },
+	{ 
+		"en": "ALL: Agreed!", 
+		"cn": "所有人：同意！",
+		"points": [
+			{
+				"en": "Agreed",
+				"cn": "同意"
+			}
+		]
+	},
 	{
 		"en": "GILL We can’t send him off to his death. Darla’s coming in five days, so what are we gonna do? I’ll tell you what we’re gonna do: we’re gonna get him outta here. We’re gonna help him escape,",
-		"cn": "吉尔：我们不能让他去送死。达拉五天后就要来了，我们该怎么办？我告诉你我们要做什么：我们要把他带出去。我们要帮助他逃跑，"
+		"cn": "吉尔：我们不能让他去送死。达拉五天后就要来了，我们该怎么办？我告诉你我们要做什么：我们要把他带出去。我们要帮助他逃跑，",
+		"points": [
+			{
+				"en": "what are we gonna do",
+				"cn": "我们该怎么办"
+			}
+		]
 	},
 	{ "en": "NEMO: Escape? Really?", "cn": "尼莫：逃跑？真的吗？" },
 	{ "en": "GILL: We’re all gonna escape!", "cn": "吉尔：我们都要逃跑！" },
@@ -220,14 +358,41 @@
 	},
 	{
 		"en": "BLOAT: Yeah. Why should this be any different?",
-		"cn": "膨胀：是啊。为什么这次会有什么不同呢？"
+		"cn": "膨胀：是啊。为什么这次会有什么不同呢？",
+		"sentence": {
+			"en": "Why should this be any different?",
+			"cn": "为什么这次会有什么不同呢？",
+			"examples": [
+				{
+					"en": "Why should I believe you?",
+					"cn": "我为什么要相信你？"
+				},
+				{
+					"en": "Why should we care?",
+					"cn": "我们为什么要在乎？"
+				}
+			]
+		}
 	},
-	{ "en": "GILL: ‘Cause we’ve got him.", "cn": "吉尔：因为我们有他。" },
+	{ 
+		"en": "GILL: ‘Cause we’ve got him.", 
+		"cn": "吉尔：因为我们有他。",
+		"sentence": {
+			"en": "‘Cause we’ve got him.",
+			"cn": "因为我们有他。",
+			"examples": [
+				{
+					"en": "‘Cause we’ve got a plan.",
+					"cn": "因为我们有一个计划。"
+				},
+				{
+					"en": "‘Cause we’ve got the resources.",
+					"cn": "因为我们有资源。"
+				}
+			]
+		}
+	},
 	{ "en": "NEMO: Me?", "cn": "尼莫：我？" },
-	{
-		"en": "[Gill shows Nemo the filter nearby.] ",
-		"cn": "[吉尔指给尼莫看附近的过滤器。] "
-	},
 	{ "en": "GILL: You see that filter?", "cn": "吉尔：你看到那个过滤器了吗？" },
 	{ "en": "NEMO: Yeah?", "cn": "尼莫：是的？" },
 	{
@@ -238,25 +403,44 @@
 	{ "en": "JACQUES I...", "cn": "雅克：我..." },
 	{ "en": "DEB: I...", "cn": "黛比：我..." },
 	{ "en": "BUBBLES: I...", "cn": "气泡：我..." },
-	{ "en": "GURGLE: I think your nuts!", "cn": "咕噜：我觉得你疯了！" },
-	{ "en": "GILL: [sighs]", "cn": "吉尔：[叹气]" },
+	{ 
+		"en": "GURGLE: I think your nuts!", 
+		"cn": "咕噜：我觉得你疯了！",
+		"points": [
+			{
+				"en": "I think you’re nuts",
+				"cn": "我觉得你疯了"
+			}
+		]
+	},
 	{
 		"en": "GURGLE: No offense kid, but, you’re not the best swimmer.",
-		"cn": "咕噜：没恶意，孩子，但你游泳不是最好。"
+		"cn": "咕噜：没恶意，孩子，但你游泳不是最好。",
+		"points": [
+			{
+				"en": "No offense kid",
+				"cn": "没恶意，孩子"
+			}
+		]
 	},
 	{
 		"en": "GILL: He’s fine, he can do this! So Sharkbait, what do you think?",
-		"cn": "吉尔：他没事，他能做到！那么，鲨鱼饵，你觉得怎么样？"
+		"cn": "吉尔：他没事，他能做到！那么，鲨鱼饵，你觉得怎么样？",
+		"points": [
+			{
+				"en": "What do you think",
+				"cn": "你觉得怎么样"
+			}
+		]
 	},
 	{ "en": "NEMO: Let’s do it!", "cn": "尼莫：我们来吧！" },
-	{ "en": "Scene 13: Fish Impressions", "cn": "场景13：鱼的印象" },
 	{
 		"en": "DORY I’m going to P. Sherman, 42 Wallaby Way, Sydney. Where are you going? I’m going to P. Sherman, 42 Wallaby Way, Sydney. If you’re asking where I’m going. I’ll tell you that’s where I’m going. It’s P. Sherman, 42 Wallaby Way, Sydney. Where? I’m sorry, I didn’t hear you. P. Sherman, 42 Wallaby Way…",
 		"cn": "多莉：我要去P. Sherman，42 Wallaby Way，悉尼。你要去哪里？我要去P. Sherman，42 Wallaby Way，悉尼。如果你问我去哪里。我会告诉你我就是要去那里。是P. Sherman，42 Wallaby Way，悉尼。哪里？对不起，我没听清。P. Sherman，42 Wallaby Way……"
 	},
 	{
 		"en": "MARLIN: Excuse me... Hi. Do you know how to get to hello? Wait! Can you tell me... Hey! Hold it! Wait a minute! I’m trying to talk to you! OK, fellas, come back here. Please, one quick question. I need to and they’re gone again. [sighing]",
-		"cn": "马林：打扰一下……嗨。你知道怎么去问候吗？等等！你能告诉我……嘿！等一下！等我一下！我在试着跟你说话！好吧，伙计们，回来。请，快速问一下。我需要去，他们又走了。[叹气]"
+		"cn": "马林：打扰一下……嗨。你知道怎么去……吗？等等！你能告诉我……嘿！等一下！等我一下！我在试着跟你说话！好吧，伙计们，回来。请，快速问一下。我需要去，他们又走了。[叹气]",
 	},
 	{
 		"en": "DORY: P. Sherman 42 Wallaby Way, Sydney. Why do I have to tell you over and over again? I’ll tell you again. I don’t get tired of it...",
@@ -264,7 +448,13 @@
 	},
 	{
 		"en": "MARLIN: OK, all right. Here’s the thing. You know, I just, think it’s best if I just, if I just, carry on from here by myself.",
-		"cn": "马林：好的，好的。事情是这样的。你知道，我只是，觉得最好还是，我自己从这里继续前进。"
+		"cn": "马林：好的，好的。事情是这样的。你知道，我只是，觉得最好还是，我自己从这里继续前进。",
+		"points": [
+			{
+				"en": "Here’s the thing",
+				"cn": "事情是这样的"
+			}
+		]
 	},
 	{ "en": "DORY: OK.", "cn": "多莉：好的。" },
 	{ "en": "MARLIN: You know, alone.", "cn": "马林：你知道，独自一人。" },
@@ -275,16 +465,61 @@
 	{ "en": "DORY: Huh?", "cn": "多莉：哈？" },
 	{
 		"en": "MARLIN: I don’t want a hurt your feelings..",
-		"cn": "马林：我不想伤害你的感情.."
+		"cn": "马林：我不想伤害你的感情..",
+		"sentence": {
+			"en": "I don’t want to hurt your feelings",
+			"cn": "我不想伤害你的感情",
+			"examples": [
+				{
+					"en": "I don’t want to hurt your feelings, but I think you should know the truth.",
+					"cn": "我不想伤害你的感情，但我认为你应该知道真相。"
+				},
+				{
+					"en": "I don’t want to hurt your feelings, so I’ll be honest with you.",
+					"cn": "我不想伤害你的感情，所以我会对你诚实。"
+				}
+			]
+		}
 	},
-	{ "en": "DORY: You want me to leave?", "cn": "多莉：你想让我离开？" },
+	{ 
+		"en": "DORY: You want me to leave?", 
+		"cn": "多莉：你想让我离开？",
+		"sentence": {
+			"en": "You want me to leave?",
+			"cn": "你想让我离开？",
+			"examples": [
+				{
+					"en": "You want me to leave? Fine, I’ll go.",
+					"cn": "你想让我离开？好吧，我走。"
+				},
+				{
+					"en": "You want me to leave? I didn’t know you felt that way.",
+					"cn": "你想让我离开？我不知道你有这样的感觉。"
+				}
+			]
+		}
+	},
 	{
 		"en": "MARLIN: Well, I mean not. Yes. Yeah. It’s just that you know I just can’t afford anymore delays and you’re one of those fish that cause delays. And sometimes it’s a good thing. There’s a whole group of fish. They’re delay fish.",
 		"cn": "马林：嗯，我是说不是。是的。就是你知道我实在是承受不起更多的耽搁，而你就是其中一种会造成耽搁的鱼。有时候这也是件好事。有整整一群鱼。它们是延迟鱼。"
 	},
 	{
 		"en": "DORY: You mean... [whimpers] You mean you don’t like me?",
-		"cn": "多莉：你是说…… [呜咽] 你是说你不喜欢我？"
+		"cn": "多莉：你是说…… [呜咽] 你是说你不喜欢我？",
+		"sentence": {
+			"en": "You mean you don’t like me?",
+			"cn": "你是说你不喜欢我？",
+			"examples": [
+				{
+					"en": "You mean you don’t like my cooking?",
+					"cn": "你是说你不喜欢我的烹饪？"
+				},
+				{
+					"en": "You mean you don’t like my jokes?",
+					"cn": "你是说你不喜欢我的笑话？"
+				}
+			]
+		}
 	},
 	{
 		"en": "MARLIN: No, of course I like you. It’s because I like you I don’t want a be with you. It’s a complicated emotion.",
