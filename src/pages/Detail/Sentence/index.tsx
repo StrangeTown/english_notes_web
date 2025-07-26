@@ -11,12 +11,14 @@ interface SentenceProps {
 		cn: string;
 		examples?: Example[];
 	};
+	isPlain?: boolean;
 }
 
-const Sentence: React.FC<SentenceProps> = ({ sentence }) => {
-	if (!sentence) {
-		return <div className="bg-gray-200 p-2 w-[240px] flex flex-col justify-center" />;
+const Sentence: React.FC<SentenceProps> = ({ sentence, isPlain }) => {
+	if (!sentence || isPlain) {
+		return <div className="bg-gray-200 p-2 w-[240px] flex flex-col justify-center flex-shrink-0 ml-4" />;
 	}
+
 	return (
 		<div className="bg-gray-200 p-2 w-[240px] flex flex-col justify-center flex-shrink-0 ml-4">
 			{sentence.examples && Array.isArray(sentence.examples) && (

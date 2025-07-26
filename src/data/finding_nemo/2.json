@@ -274,7 +274,7 @@
 	},
 	{
 		"en": "BLOAT: If you are able to swim through... The Ring of Fire! Turn on the Ring of Fire. The Ring of Fire, you said you could do it the Ring of Fire!",
-		"cn": "膨胀：如果你能游过……火环！打开火环。火环，你说你能做到火环！",
+		"cn": "膨胀：如果你能游过……火环！打开火环。火环，你说你能做到火环！"
 	},
 	{
 		"en": "BUBBLES: Bubbles! Bubbles! Let me...",
@@ -440,7 +440,7 @@
 	},
 	{
 		"en": "MARLIN: Excuse me... Hi. Do you know how to get to hello? Wait! Can you tell me... Hey! Hold it! Wait a minute! I’m trying to talk to you! OK, fellas, come back here. Please, one quick question. I need to and they’re gone again. [sighing]",
-		"cn": "马林：打扰一下……嗨。你知道怎么去……吗？等等！你能告诉我……嘿！等一下！等我一下！我在试着跟你说话！好吧，伙计们，回来。请，快速问一下。我需要去，他们又走了。[叹气]",
+		"cn": "马林：打扰一下……嗨。你知道怎么去……吗？等等！你能告诉我……嘿！等一下！等我一下！我在试着跟你说话！好吧，伙计们，回来。请，快速问一下。我需要去，他们又走了。[叹气]"
 	},
 	{
 		"en": "DORY: P. Sherman 42 Wallaby Way, Sydney. Why do I have to tell you over and over again? I’ll tell you again. I don’t get tired of it...",
@@ -707,7 +707,6 @@
 		"en": "MARLIN: It just swam over the trench! Come on, we’ll follow it.",
 		"cn": "马林：它刚游过沟壑！快点，我们跟着它。"
 	},
-	{ "en": "Scene 14: Jellyfish", "cn": "场景14：水母" },
 	{
 		"en": "DORY: OK. Boy, sure is clear up here.",
 		"cn": "多莉：好的。伙计，这里真清晰。"
@@ -844,7 +843,6 @@
 		"cn": "多莉：..42 Wallaby Way…悉尼。"
 	},
 	{ "en": "MARLIN: Awake…wake up…Nemo…", "cn": "马林：醒来……尼莫……" },
-	{ "en": "Scene 15: The Filter", "cn": "场景15：过滤器" },
 	{
 		"en": "Gill: You miss your Dad, don’t you, Sharkbait?",
 		"cn": "吉尔：你想念你爸爸，不是吗，鲨鱼饵？"
@@ -986,7 +984,6 @@
 	},
 	{ "en": "GILL: No. We’re done.", "cn": "吉尔：不。我们结束了。" },
 	{ "en": "NEMO: [whimpering]", "cn": "尼莫：[呜咽]" },
-	{ "en": "Scene 16: Sea Turtles", "cn": "场景16：海龟" },
 	{
 		"en": "CRUSH: Dude. Focus, dude. Dude. He lives! Hey, dude!",
 		"cn": "海龟：伙计。专注，伙计。伙计。他活着！嘿，伙计！"
@@ -1150,7 +1147,6 @@
 	},
 	{ "en": "KIDS: Come on! Please?", "cn": "孩子们：来吧！拜托？" },
 	{ "en": "SQUIRT: Please?", "cn": "小喷：拜托？" },
-	{ "en": "Scene 17: News Travels", "cn": "场景17：消息传播" },
 	{
 		"en": "MARLIN: Well, OK. I live on this reef, a long long way from here.",
 		"cn": "马林：好吧，我住在这个礁石上，离这里很远很远。"
@@ -1397,7 +1393,6 @@
 		"en": "GILL: All right, then. Let’s get to work.",
 		"cn": "吉尔：好吧。那就开始工作吧。"
 	},
-	{ "en": "Scene 18: Off Ramp", "cn": "场景18：出口" },
 	{
 		"en": "CRUSH: All right, we’re here, dudes! Get ready! Your exit’s coming up, man!!",
 		"cn": "海龟：好了，我们到了，伙计们！准备好！你们的出口快到了，伙计！！"
@@ -1561,7 +1556,6 @@
 		"cn": "多莉：那么，除非我们试一试并寄希望于最好的结果，否则我们怎么能做到呢？来吧，相信我。"
 	},
 	{ "en": "[sighs] All right.", "cn": "[叹气] 好吧。" },
-	{ "en": "Scene 19: Dory Speaks Whale", "cn": "场景19：多莉说鲸鱼语" },
 	{
 		"en": "DORY: Excuse me! Little fella? Hello. Don’t be rude, say ‘hi’.",
 		"cn": "多莉：打扰一下！小家伙？你好。不要无礼，打个招呼。"
@@ -1654,7 +1648,6 @@
 		"en": "(Marlin and Dory now get trapped inside the whale's mouth)",
 		"cn": "(马林和多莉现在被困在鲸鱼的嘴里)"
 	},
-	{ "en": "Scene 20: Algae", "cn": "场景20：海藻" },
 	{
 		"en": "Gill: Look at that. Would you look at that? Filthy! Absolutely filthy! And it’s all thanks to you, kid. You made it possible.",
 		"cn": "吉尔：看看那个。你瞧瞧那个？肮脏！绝对肮脏！这一切都要感谢你，孩子。是你让这一切成为可能的。"
